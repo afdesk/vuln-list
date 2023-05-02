@@ -9426,104 +9426,104 @@
       "Name": "toolbox-debugsource"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189003",
-      "Version": "636",
-      "Name": "rsyslog-doc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189004",
-      "Version": "636",
-      "Name": "rsyslog-pgsql"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189005",
-      "Version": "636",
-      "Name": "rsyslog-openssl"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189008",
-      "Version": "636",
-      "Name": "rsyslog-mmaudit"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189009",
-      "Version": "636",
-      "Name": "rsyslog-mmnormalize"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189011",
-      "Version": "636",
-      "Name": "rsyslog-mmjsonparse"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189012",
-      "Version": "636",
-      "Name": "rsyslog-gnutls"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189013",
-      "Version": "636",
-      "Name": "rsyslog-snmp"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189014",
-      "Version": "636",
-      "Name": "rsyslog-mmfields"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189018",
-      "Version": "636",
-      "Name": "rsyslog-kafka"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189019",
+      "ID": "oval:com.redhat.cve:obj:202232189001",
       "Version": "636",
       "Name": "rsyslog-omamqp1"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189023",
+      "ID": "oval:com.redhat.cve:obj:202232189004",
       "Version": "636",
-      "Name": "rsyslog-mmsnmptrapd"
+      "Name": "rsyslog-mmfields"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189024",
-      "Version": "636",
-      "Name": "rsyslog-gssapi"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189025",
-      "Version": "636",
-      "Name": "rsyslog"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189026",
-      "Version": "636",
-      "Name": "rsyslog-elasticsearch"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189028",
-      "Version": "636",
-      "Name": "rsyslog-crypto"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189031",
-      "Version": "636",
-      "Name": "rsyslog-mmkubernetes"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189033",
+      "ID": "oval:com.redhat.cve:obj:202232189005",
       "Version": "636",
       "Name": "rsyslog-relp"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189037",
+      "ID": "oval:com.redhat.cve:obj:202232189006",
+      "Version": "636",
+      "Name": "rsyslog-mmnormalize"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189007",
+      "Version": "636",
+      "Name": "rsyslog-pgsql"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189008",
+      "Version": "636",
+      "Name": "rsyslog-gssapi"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189009",
+      "Version": "636",
+      "Name": "rsyslog"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189012",
+      "Version": "636",
+      "Name": "rsyslog-crypto"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189014",
+      "Version": "636",
+      "Name": "rsyslog-mmkubernetes"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189015",
+      "Version": "636",
+      "Name": "rsyslog-gnutls"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189017",
+      "Version": "636",
+      "Name": "rsyslog-doc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189022",
+      "Version": "636",
+      "Name": "rsyslog-elasticsearch"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189027",
+      "Version": "636",
+      "Name": "rsyslog-mysql"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189028",
+      "Version": "636",
+      "Name": "rsyslog-mmsnmptrapd"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189031",
+      "Version": "636",
+      "Name": "rsyslog-mmaudit"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189032",
+      "Version": "636",
+      "Name": "rsyslog-openssl"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189033",
+      "Version": "636",
+      "Name": "rsyslog-kafka"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189034",
       "Version": "636",
       "Name": "rsyslog-udpspoof"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202232189036",
+      "Version": "636",
+      "Name": "rsyslog-mmjsonparse"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202232189038",
       "Version": "636",
-      "Name": "rsyslog-mysql"
+      "Name": "rsyslog-snmp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223219001",
@@ -10101,11 +10101,6 @@
       "Name": "oci-seccomp-bpf-hook"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241717036",
-      "Version": "636",
-      "Name": "conmon-debugsource"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202241859001",
       "Version": "636",
       "Name": "freeradius-devel"
@@ -10659,16 +10654,6 @@
       "ID": "oval:com.redhat.cve:obj:20231786001",
       "Version": "636",
       "Name": "cloud-init"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20231999001",
-      "Version": "636",
-      "Name": "libwebp"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20231999002",
-      "Version": "636",
-      "Name": "libwebp-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232004019",
@@ -16146,6 +16131,16 @@
       "Name": "polkit-libs"
     },
     {
+      "ID": "oval:com.redhat.rhsa:obj:20212354001",
+      "Version": "636",
+      "Name": "libwebp"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20212354002",
+      "Version": "636",
+      "Name": "libwebp-devel"
+    },
+    {
       "ID": "oval:com.redhat.rhsa:obj:20212563006",
       "Version": "635",
       "Name": "kpatch-patch-4_18_0-305_3_1"
@@ -20314,6 +20309,11 @@
       "ID": "oval:com.redhat.unaffected:obj:202143877014",
       "Version": "635",
       "Name": "dotnet6.0-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20221227010",
+      "Version": "635",
+      "Name": "conmon-debugsource"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20221348001",

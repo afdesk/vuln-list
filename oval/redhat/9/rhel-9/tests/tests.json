@@ -26914,20 +26914,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "go-toolset is earlier than 0:1.18.9-1.el9_1",
-      "ID": "oval:com.redhat.rhsa:tst:20230328001",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20225799008"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.rhsa:ste:20230328001"
-      }
-    },
-    {
-      "Check": "at least one",
       "Comment": "golang is earlier than 0:1.18.9-1.el9_1",
-      "ID": "oval:com.redhat.rhsa:tst:20230328003",
+      "ID": "oval:com.redhat.rhsa:tst:20230328001",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225799001"
@@ -26939,7 +26927,7 @@
     {
       "Check": "at least one",
       "Comment": "golang-bin is earlier than 0:1.18.9-1.el9_1",
-      "ID": "oval:com.redhat.rhsa:tst:20230328005",
+      "ID": "oval:com.redhat.rhsa:tst:20230328003",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225799002"
@@ -26951,7 +26939,7 @@
     {
       "Check": "at least one",
       "Comment": "golang-docs is earlier than 0:1.18.9-1.el9_1",
-      "ID": "oval:com.redhat.rhsa:tst:20230328007",
+      "ID": "oval:com.redhat.rhsa:tst:20230328005",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225799003"
@@ -26963,7 +26951,7 @@
     {
       "Check": "at least one",
       "Comment": "golang-misc is earlier than 0:1.18.9-1.el9_1",
-      "ID": "oval:com.redhat.rhsa:tst:20230328009",
+      "ID": "oval:com.redhat.rhsa:tst:20230328007",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225799004"
@@ -26975,7 +26963,7 @@
     {
       "Check": "at least one",
       "Comment": "golang-race is earlier than 0:1.18.9-1.el9_1",
-      "ID": "oval:com.redhat.rhsa:tst:20230328011",
+      "ID": "oval:com.redhat.rhsa:tst:20230328009",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225799005"
@@ -26987,7 +26975,7 @@
     {
       "Check": "at least one",
       "Comment": "golang-src is earlier than 0:1.18.9-1.el9_1",
-      "ID": "oval:com.redhat.rhsa:tst:20230328013",
+      "ID": "oval:com.redhat.rhsa:tst:20230328011",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225799006"
@@ -26999,7 +26987,7 @@
     {
       "Check": "at least one",
       "Comment": "golang-tests is earlier than 0:1.18.9-1.el9_1",
-      "ID": "oval:com.redhat.rhsa:tst:20230328015",
+      "ID": "oval:com.redhat.rhsa:tst:20230328013",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225799007"
