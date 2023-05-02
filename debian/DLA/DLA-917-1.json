@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[25 Apr 2017] DLA-917-1 rtmpdump - security update",
-    "Line": 7605,
+    "Line": 7612,
     "ID": "DLA-917-1",
     "Description": "rtmpdump - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-8270 CVE-2015-8271 CVE-2015-8272}",
-      "Line": 7606,
+      "Line": 7613,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-8270",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[wheezy] - rtmpdump 2.4+20111222.git4e06e21-1+deb7u1",
-      "Line": 7607,
+      "Line": 7614,
       "Type": "package",
       "Release": "wheezy",
       "Package": "rtmpdump",

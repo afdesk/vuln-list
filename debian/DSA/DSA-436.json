@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Feb 2004] DSA-436 mailman - several vulnerabilities",
-    "Line": 17253,
+    "Line": 17256,
     "ID": "DSA-436",
     "Description": "mailman - several vulnerabilities"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0991 CVE-2003-0965 CVE-2003-0038}",
-      "Line": 17254,
+      "Line": 17257,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0991",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[woody] - mailman 2.0.11-1woody7",
-      "Line": 17255,
+      "Line": 17258,
       "Type": "package",
       "Release": "woody",
       "Package": "mailman",

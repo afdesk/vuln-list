@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Apr 2004] DSA-485 ssmtp - format string",
-    "Line": 17073,
+    "Line": 17076,
     "ID": "DSA-485",
     "Description": "ssmtp - format string"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0156}",
-      "Line": 17074,
+      "Line": 17077,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0156"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - ssmtp 2.50.6.1",
-      "Line": 17075,
+      "Line": 17078,
       "Type": "package",
       "Release": "woody",
       "Package": "ssmtp",

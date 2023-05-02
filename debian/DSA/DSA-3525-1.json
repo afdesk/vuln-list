@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Mar 2016] DSA-3525-1 pixman - security update",
-    "Line": 6230,
+    "Line": 6233,
     "ID": "DSA-3525-1",
     "Description": "pixman - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-9766}",
-      "Line": 6231,
+      "Line": 6234,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-9766"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - pixman 0.26.0-4+deb7u2",
-      "Line": 6232,
+      "Line": 6235,
       "Type": "package",
       "Release": "wheezy",
       "Package": "pixman",

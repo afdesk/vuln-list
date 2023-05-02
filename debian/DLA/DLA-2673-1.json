@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Jun 2021] DLA-2673-1 firefox-esr - security update",
-    "Line": 2233,
+    "Line": 2240,
     "ID": "DLA-2673-1",
     "Description": "firefox-esr - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-29967}",
-      "Line": 2234,
+      "Line": 2241,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-29967"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - firefox-esr 78.11.0esr-1~deb9u1",
-      "Line": 2235,
+      "Line": 2242,
       "Type": "package",
       "Release": "stretch",
       "Package": "firefox-esr",

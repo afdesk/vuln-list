@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Aug 2022] DSA-5202-1 unzip - security update",
-    "Line": 582,
+    "Line": 585,
     "ID": "DSA-5202-1",
     "Description": "unzip - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-0529 CVE-2022-0530}",
-      "Line": 583,
+      "Line": 586,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-0529",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[bullseye] - unzip 6.0-26+deb11u1",
-      "Line": 584,
+      "Line": 587,
       "Type": "package",
       "Release": "bullseye",
       "Package": "unzip",

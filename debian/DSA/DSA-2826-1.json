@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Dec 2013] DSA-2826-1 denyhosts - Remote denial of ssh service",
-    "Line": 8636,
+    "Line": 8639,
     "ID": "DSA-2826-1",
     "Description": "denyhosts - Remote denial of ssh service"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-6890}",
-      "Line": 8637,
+      "Line": 8640,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-6890"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - denyhosts 2.6-7+deb6u2",
-      "Line": 8638,
+      "Line": 8641,
       "Type": "package",
       "Release": "squeeze",
       "Package": "denyhosts",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[wheezy] - denyhosts 2.6-10+deb7u2",
-      "Line": 8639,
+      "Line": 8642,
       "Type": "package",
       "Release": "wheezy",
       "Package": "denyhosts",

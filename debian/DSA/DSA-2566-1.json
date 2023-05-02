@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Oct 2012] DSA-2566-1 exim4 - heap overflow",
-    "Line": 9517,
+    "Line": 9520,
     "ID": "DSA-2566-1",
     "Description": "exim4 - heap overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-5671}",
-      "Line": 9518,
+      "Line": 9521,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-5671"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - exim4 4.72-6+squeeze3",
-      "Line": 9519,
+      "Line": 9522,
       "Type": "package",
       "Release": "squeeze",
       "Package": "exim4",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Nov 2017] DLA-1151-2 wordpress - regression update",
-    "Line": 6840,
+    "Line": 6847,
     "ID": "DLA-1151-2",
     "Description": "wordpress - regression update"
   },
   "Annotations": [
     {
       "Original": "[wheezy] - wordpress 3.6.1+dfsg-1~deb7u19",
-      "Line": 6841,
+      "Line": 6848,
       "Type": "package",
       "Release": "wheezy",
       "Package": "wordpress",

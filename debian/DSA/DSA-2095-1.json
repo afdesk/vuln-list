@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 Aug 2010] DSA-2095-1 lvm2 - denial of service",
-    "Line": 11107,
+    "Line": 11110,
     "ID": "DSA-2095-1",
     "Description": "lvm2 - denial of service"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-2526}",
-      "Line": 11108,
+      "Line": 11111,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-2526"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - lvm2 2.02.39-8",
-      "Line": 11109,
+      "Line": 11112,
       "Type": "package",
       "Release": "lenny",
       "Package": "lvm2",

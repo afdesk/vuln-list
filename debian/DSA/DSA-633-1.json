@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Jan 2005] DSA-633-1 bmv - insecure temporary file",
-    "Line": 16596,
+    "Line": 16599,
     "ID": "DSA-633-1",
     "Description": "bmv - insecure temporary file"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0014}",
-      "Line": 16597,
+      "Line": 16600,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0014"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - bmv 1.2-14.2",
-      "Line": 16598,
+      "Line": 16601,
       "Type": "package",
       "Release": "woody",
       "Package": "bmv",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA",
-      "Line": 16599,
+      "Line": 16602,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA"
     }

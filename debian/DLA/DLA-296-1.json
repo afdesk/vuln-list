@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Aug 2015] DLA-296-1 extplorer - security update",
-    "Line": 9495,
+    "Line": 9502,
     "ID": "DLA-296-1",
     "Description": "extplorer - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-0896}",
-      "Line": 9496,
+      "Line": 9503,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-0896"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - extplorer 2.1.0b6+dfsg.2-1+squeeze3",
-      "Line": 9497,
+      "Line": 9504,
       "Type": "package",
       "Release": "squeeze",
       "Package": "extplorer",

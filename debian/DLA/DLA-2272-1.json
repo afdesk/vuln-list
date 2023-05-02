@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Jul 2020] DLA-2272-1 jessie-lts - end-of-life",
-    "Line": 3457,
+    "Line": 3464,
     "ID": "DLA-2272-1",
     "Description": "jessie-lts - end-of-life"
   },
   "Annotations": [
     {
       "Original": "NOTE: end of security support for jessie-lts",
-      "Line": 3458,
+      "Line": 3465,
       "Type": "NOTE",
       "Description": "end of security support for jessie-lts"
     }

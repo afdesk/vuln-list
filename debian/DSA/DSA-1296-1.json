@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 May 2007] DSA-1296-1 php4",
-    "Line": 13968,
+    "Line": 13971,
     "ID": "DSA-1296-1",
     "Description": "php4"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-2509}",
-      "Line": 13969,
+      "Line": 13972,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-2509"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - php4 6:4.4.4-8+etch3",
-      "Line": 13970,
+      "Line": 13973,
       "Type": "package",
       "Release": "etch",
       "Package": "php4",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[sarge] - php4 4:4.3.10-21",
-      "Line": 13971,
+      "Line": 13974,
       "Type": "package",
       "Release": "sarge",
       "Package": "php4",

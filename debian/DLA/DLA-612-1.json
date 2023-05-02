@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Sep 2016] DLA-612-1 libtomcrypt - security update",
-    "Line": 8541,
+    "Line": 8548,
     "ID": "DLA-612-1",
     "Description": "libtomcrypt - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-6129}",
-      "Line": 8542,
+      "Line": 8549,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-6129"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - libtomcrypt 1.17-3.2+deb7u1",
-      "Line": 8543,
+      "Line": 8550,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libtomcrypt",

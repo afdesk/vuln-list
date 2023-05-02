@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Nov 2020] DLA-2444-1 tcpdump - security update",
-    "Line": 2933,
+    "Line": 2940,
     "ID": "DLA-2444-1",
     "Description": "tcpdump - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-8037}",
-      "Line": 2934,
+      "Line": 2941,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-8037"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - tcpdump 4.9.3-1~deb9u2",
-      "Line": 2935,
+      "Line": 2942,
       "Type": "package",
       "Release": "stretch",
       "Package": "tcpdump",

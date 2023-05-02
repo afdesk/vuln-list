@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Nov 2014] DSA-3083-1 mutt - security update",
-    "Line": 7794,
+    "Line": 7797,
     "ID": "DSA-3083-1",
     "Description": "mutt - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-9116}",
-      "Line": 7795,
+      "Line": 7798,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-9116"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - mutt 1.5.21-6.2+deb7u3",
-      "Line": 7796,
+      "Line": 7799,
       "Type": "package",
       "Release": "wheezy",
       "Package": "mutt",

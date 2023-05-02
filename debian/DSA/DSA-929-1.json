@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Jan 2006] DSA-929-1 petris - buffer overflow",
-    "Line": 15242,
+    "Line": 15245,
     "ID": "DSA-929-1",
     "Description": "petris - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-3540}",
-      "Line": 15243,
+      "Line": 15246,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-3540"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - petris 1.0.1-4sarge0",
-      "Line": 15244,
+      "Line": 15247,
       "Type": "package",
       "Release": "sarge",
       "Package": "petris",
