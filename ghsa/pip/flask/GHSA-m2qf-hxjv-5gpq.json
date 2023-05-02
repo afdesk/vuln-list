@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2023-05-01T19:22:46Z",
+  "UpdatedAt": "2023-05-02T16:38:03Z",
   "Package": {
     "Ecosystem": "PIP",
     "Name": "flask"
@@ -18,6 +18,9 @@
       },
       {
         "Url": "https://github.com/pallets/flask/releases/tag/2.3.2"
+      },
+      {
+        "Url": "https://github.com/pallets/flask/commit/afd63b16170b7c047f5758eb910c416511e9c965"
       },
       {
         "Url": "https://github.com/advisories/GHSA-m2qf-hxjv-5gpq"
@@ -38,7 +41,7 @@
     "PublishedAt": "2023-05-01T19:22:20Z",
     "Severity": "HIGH",
     "Summary": "Flask vulnerable to possible disclosure of permanent session cookie due to missing Vary: Cookie header",
-    "UpdatedAt": "2023-05-01T19:22:46Z",
+    "UpdatedAt": "2023-05-02T16:38:03Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
@@ -48,9 +51,15 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
+        "Identifier": "2.2.5"
+      },
+      "VulnerableVersionRange": "\u003c 2.2.5"
+    },
+    {
+      "FirstPatchedVersion": {
         "Identifier": "2.3.2"
       },
-      "VulnerableVersionRange": "\u003c 2.3.2"
+      "VulnerableVersionRange": "\u003e= 2.3.0, \u003c 2.3.2"
     }
   ]
 }
