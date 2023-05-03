@@ -2419,16 +2419,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20232022002",
       "Version": "635",
       "Name": "edk2-ovmf"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20232075001",
-      "Version": "637",
-      "Name": "libwebp"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20232075002",
-      "Version": "637",
-      "Name": "libwebp-devel"
     }
   ],
   "RpmverifyfileObjects": [

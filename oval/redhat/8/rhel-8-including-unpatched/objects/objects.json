@@ -8751,64 +8751,64 @@
       "Name": "java-1.8.0-ibm"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202221589001",
-      "Version": "636",
-      "Name": "mecab"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589002",
-      "Version": "636",
-      "Name": "mysql"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589003",
-      "Version": "636",
-      "Name": "mysql-debugsource"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589004",
-      "Version": "636",
-      "Name": "mysql-server"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589005",
-      "Version": "636",
-      "Name": "mysql-libs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589006",
-      "Version": "636",
-      "Name": "mysql-common"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589007",
+      "ID": "oval:com.redhat.cve:obj:202221594001",
       "Version": "636",
       "Name": "mecab-debugsource"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202221589008",
+      "ID": "oval:com.redhat.cve:obj:202221594002",
+      "Version": "636",
+      "Name": "mysql-common"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202221594003",
+      "Version": "636",
+      "Name": "mysql"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202221594004",
       "Version": "636",
       "Name": "mysql-test"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202221589009",
-      "Version": "636",
-      "Name": "mecab-ipadic-EUCJP"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589010",
-      "Version": "636",
-      "Name": "mysql-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589011",
+      "ID": "oval:com.redhat.cve:obj:202221594005",
       "Version": "636",
       "Name": "mecab-ipadic"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202221589012",
+      "ID": "oval:com.redhat.cve:obj:202221594006",
+      "Version": "636",
+      "Name": "mecab-ipadic-EUCJP"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202221594007",
+      "Version": "636",
+      "Name": "mysql-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202221594008",
+      "Version": "636",
+      "Name": "mysql-server"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202221594009",
       "Version": "636",
       "Name": "mysql-errmsg"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202221594010",
+      "Version": "636",
+      "Name": "mecab"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202221594011",
+      "Version": "636",
+      "Name": "mysql-libs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202221594012",
+      "Version": "636",
+      "Name": "mysql-debugsource"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202221658001",
@@ -10596,9 +10596,9 @@
       "Name": "haproxy"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20230464002",
+      "ID": "oval:com.redhat.cve:obj:20230464001",
       "Version": "636",
-      "Name": "openssl"
+      "Name": "openssl-perl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230464003",
@@ -10608,22 +10608,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:20230464005",
       "Version": "636",
+      "Name": "openssl"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20230464008",
+      "Version": "636",
+      "Name": "openssl-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20230464010",
+      "Version": "636",
       "Name": "openssl-static"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20230464007",
+      "ID": "oval:com.redhat.cve:obj:20230465009",
       "Version": "636",
       "Name": "openssl-debugsource"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20230464011",
-      "Version": "636",
-      "Name": "openssl-perl"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20230464013",
-      "Version": "636",
-      "Name": "openssl-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230664001",
@@ -21047,7 +21047,7 @@
       }
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202221589013",
+      "ID": "oval:com.redhat.cve:obj:202221594013",
       "Version": "636",
       "Filepath": {
         "Text": "/etc/dnf/modules.d/mysql.module",
