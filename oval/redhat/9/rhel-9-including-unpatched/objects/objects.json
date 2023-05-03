@@ -7253,17 +7253,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20224304001",
       "Version": "636",
-      "Name": "shim-aa64"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20224304003",
-      "Version": "636",
-      "Name": "shim-x64"
+      "Name": "shim"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20224304004",
       "Version": "636",
-      "Name": "shim"
+      "Name": "shim-aa64"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20224304005",
+      "Version": "636",
+      "Name": "shim-x64"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202244638001",

@@ -20858,6 +20858,54 @@
       "State": {
         "StateRef": "oval:com.redhat.rhba:ste:20225749002"
       }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libwebp is earlier than 0:1.2.0-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232075001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232075001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232075001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libwebp is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232075002",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232075001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libwebp-devel is earlier than 0:1.2.0-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232075003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232075002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232075001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libwebp-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232075004",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232075002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
     }
   ],
   "RpmverifyfileTests": [

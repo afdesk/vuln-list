@@ -10428,20 +10428,20 @@
     {
       "ID": "oval:com.redhat.cve:obj:20224304001",
       "Version": "636",
+      "Name": "shim"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20224304005",
+      "Version": "636",
       "Name": "shim-aa64"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20224304003",
+      "ID": "oval:com.redhat.cve:obj:20224304006",
       "Version": "636",
       "Name": "shim-x64"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20224304004",
-      "Version": "636",
-      "Name": "shim"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20224304006",
+      "ID": "oval:com.redhat.cve:obj:20224304008",
       "Version": "636",
       "Name": "shim-ia32"
     },
