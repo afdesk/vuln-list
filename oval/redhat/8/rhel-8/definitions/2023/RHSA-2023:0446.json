@@ -20,6 +20,11 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-27664",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-27664"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-2879",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-2879"
       },
@@ -30,8 +35,18 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-32189",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-32189"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-41715",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-41715"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-41717",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-41717"
       }
     ],
     "Description": "Go Toolset provides the Go programming language tools and libraries. Go is alternatively known as golang. \n\nSecurity Fix(es):\n\n* golang: archive/tar: unbounded memory consumption when reading headers (CVE-2022-2879)\n\n* golang: net/http/httputil: ReverseProxy should not forward unparseable query parameters (CVE-2022-2880)\n\n* golang: regexp/syntax: limit memory used by parsing regexps (CVE-2022-41715)\n\nFor more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.\n\nBug Fix(es):\n\n* Internal linking fails on ppc64le (BZ#2144545)\n\n* crypto testcases fail on golang on s390x [rhel-8] (BZ#2149313)",
@@ -46,6 +61,14 @@
         "Date": "2023-01-25"
       },
       "Cves": [
+        {
+          "CveID": "CVE-2022-27664",
+          "Cvss3": "6.5/CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-400",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-27664",
+          "Public": "20220906"
+        },
         {
           "CveID": "CVE-2022-2879",
           "Cvss3": "6.5/CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
@@ -62,14 +85,38 @@
           "Public": "20221004"
         },
         {
+          "CveID": "CVE-2022-32189",
+          "Cvss3": "6.5/CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-400",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-32189",
+          "Public": "20220801"
+        },
+        {
           "CveID": "CVE-2022-41715",
           "Cvss3": "7.5/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-41715",
           "Public": "20221004"
+        },
+        {
+          "CveID": "CVE-2022-41717",
+          "Cvss3": "5.3/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L",
+          "Cwe": "CWE-770",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-41717",
+          "Public": "20221130"
         }
       ],
       "Bugzilla": [
+        {
+          "Href": "https://bugzilla.redhat.com/2113814",
+          "ID": "2113814"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2124669",
+          "ID": "2124669"
+        },
         {
           "Href": "https://bugzilla.redhat.com/2132867",
           "ID": "2132867"
@@ -81,6 +128,10 @@
         {
           "Href": "https://bugzilla.redhat.com/2132872",
           "ID": "2132872"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2161274",
+          "ID": "2161274"
         }
       ],
       "AffectedCpeList": [

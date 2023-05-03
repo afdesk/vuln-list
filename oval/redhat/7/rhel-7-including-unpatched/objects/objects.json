@@ -14173,12 +14173,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202137533001",
       "Version": "636",
-      "Name": "apache-commons-net-javadoc"
+      "Name": "apache-commons-net"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137533002",
       "Version": "636",
-      "Name": "apache-commons-net"
+      "Name": "apache-commons-net-javadoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137714001",
@@ -14778,12 +14778,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202237865001",
       "Version": "636",
-      "Name": "apache-ivy-javadoc"
+      "Name": "apache-ivy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202237865002",
       "Version": "636",
-      "Name": "apache-ivy"
+      "Name": "apache-ivy-javadoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202239348001",
@@ -14828,12 +14828,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202240152001",
       "Version": "636",
-      "Name": "woodstox-core"
+      "Name": "woodstox-core-javadoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202240152002",
       "Version": "636",
-      "Name": "woodstox-core-javadoc"
+      "Name": "woodstox-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20224065001",
@@ -14883,12 +14883,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202241852001",
       "Version": "636",
-      "Name": "apache-commons-jxpath-javadoc"
+      "Name": "apache-commons-jxpath"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241852002",
       "Version": "636",
-      "Name": "apache-commons-jxpath"
+      "Name": "apache-commons-jxpath-javadoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202244617001",

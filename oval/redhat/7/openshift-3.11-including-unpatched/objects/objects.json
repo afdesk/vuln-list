@@ -548,12 +548,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202231163001",
       "Version": "636",
-      "Name": "rubygem-tzinfo-doc"
+      "Name": "rubygem-tzinfo"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202231163002",
       "Version": "636",
-      "Name": "rubygem-tzinfo"
+      "Name": "rubygem-tzinfo-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202240899001",

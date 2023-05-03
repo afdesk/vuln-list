@@ -5458,37 +5458,37 @@
     {
       "ID": "oval:com.redhat.cve:obj:202237865001",
       "Version": "636",
-      "Name": "rh-maven36-apache-ivy-javadoc"
+      "Name": "rh-maven36-apache-ivy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202237865002",
       "Version": "636",
-      "Name": "rh-maven36-apache-ivy"
+      "Name": "rh-maven36-apache-ivy-javadoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202238749001",
       "Version": "636",
-      "Name": "rh-maven36-byte-buddy"
+      "Name": "rh-maven36-byte-buddy-agent"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202238749002",
       "Version": "636",
-      "Name": "rh-maven36-byte-buddy-maven-plugin"
+      "Name": "rh-maven36-byte-buddy-javadoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202238749003",
       "Version": "636",
-      "Name": "rh-maven36-byte-buddy-agent"
+      "Name": "rh-maven36-byte-buddy-maven-plugin"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202238749004",
       "Version": "636",
-      "Name": "rh-maven36-byte-buddy-javadoc"
+      "Name": "rh-maven36-byte-buddy-parent"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202238749005",
       "Version": "636",
-      "Name": "rh-maven36-byte-buddy-parent"
+      "Name": "rh-maven36-byte-buddy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20224065001",
@@ -5653,12 +5653,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202248279001",
       "Version": "636",
-      "Name": "httpd24-mod_security"
+      "Name": "httpd24-mlogc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202248279002",
       "Version": "636",
-      "Name": "httpd24-mlogc"
+      "Name": "httpd24-mod_security"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230056001",

@@ -24004,7 +24004,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-maven36-apache-ivy-javadoc is installed",
+      "Comment": "rh-maven36-apache-ivy is installed",
       "ID": "oval:com.redhat.cve:tst:202237865001",
       "Version": "636",
       "Object": {
@@ -24014,7 +24014,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-maven36-apache-ivy-javadoc is signed with Red Hat redhatrelease2 key",
+      "Comment": "rh-maven36-apache-ivy is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202237865002",
       "Version": "636",
       "Object": {
@@ -24026,7 +24026,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-maven36-apache-ivy is installed",
+      "Comment": "rh-maven36-apache-ivy-javadoc is installed",
       "ID": "oval:com.redhat.cve:tst:202237865003",
       "Version": "636",
       "Object": {
@@ -24036,7 +24036,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-maven36-apache-ivy is signed with Red Hat redhatrelease2 key",
+      "Comment": "rh-maven36-apache-ivy-javadoc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202237865004",
       "Version": "636",
       "Object": {
@@ -24048,7 +24048,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-maven36-byte-buddy is installed",
+      "Comment": "rh-maven36-byte-buddy-agent is installed",
       "ID": "oval:com.redhat.cve:tst:202238749001",
       "Version": "636",
       "Object": {
@@ -24058,7 +24058,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-maven36-byte-buddy is signed with Red Hat redhatrelease2 key",
+      "Comment": "rh-maven36-byte-buddy-agent is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202238749002",
       "Version": "636",
       "Object": {
@@ -24070,7 +24070,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-maven36-byte-buddy-maven-plugin is installed",
+      "Comment": "rh-maven36-byte-buddy-javadoc is installed",
       "ID": "oval:com.redhat.cve:tst:202238749003",
       "Version": "636",
       "Object": {
@@ -24080,7 +24080,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-maven36-byte-buddy-maven-plugin is signed with Red Hat redhatrelease2 key",
+      "Comment": "rh-maven36-byte-buddy-javadoc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202238749004",
       "Version": "636",
       "Object": {
@@ -24092,7 +24092,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-maven36-byte-buddy-agent is installed",
+      "Comment": "rh-maven36-byte-buddy-maven-plugin is installed",
       "ID": "oval:com.redhat.cve:tst:202238749005",
       "Version": "636",
       "Object": {
@@ -24102,7 +24102,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-maven36-byte-buddy-agent is signed with Red Hat redhatrelease2 key",
+      "Comment": "rh-maven36-byte-buddy-maven-plugin is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202238749006",
       "Version": "636",
       "Object": {
@@ -24114,7 +24114,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-maven36-byte-buddy-javadoc is installed",
+      "Comment": "rh-maven36-byte-buddy-parent is installed",
       "ID": "oval:com.redhat.cve:tst:202238749007",
       "Version": "636",
       "Object": {
@@ -24124,7 +24124,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-maven36-byte-buddy-javadoc is signed with Red Hat redhatrelease2 key",
+      "Comment": "rh-maven36-byte-buddy-parent is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202238749008",
       "Version": "636",
       "Object": {
@@ -24136,7 +24136,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-maven36-byte-buddy-parent is installed",
+      "Comment": "rh-maven36-byte-buddy is installed",
       "ID": "oval:com.redhat.cve:tst:202238749009",
       "Version": "636",
       "Object": {
@@ -24146,7 +24146,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-maven36-byte-buddy-parent is signed with Red Hat redhatrelease2 key",
+      "Comment": "rh-maven36-byte-buddy is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202238749010",
       "Version": "636",
       "Object": {
@@ -24862,7 +24862,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "httpd24-mod_security is installed",
+      "Comment": "httpd24-mlogc is installed",
       "ID": "oval:com.redhat.cve:tst:202248279001",
       "Version": "636",
       "Object": {
@@ -24872,7 +24872,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "httpd24-mod_security is signed with Red Hat redhatrelease2 key",
+      "Comment": "httpd24-mlogc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202248279002",
       "Version": "636",
       "Object": {
@@ -24884,7 +24884,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "httpd24-mlogc is installed",
+      "Comment": "httpd24-mod_security is installed",
       "ID": "oval:com.redhat.cve:tst:202248279003",
       "Version": "636",
       "Object": {
@@ -24894,7 +24894,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "httpd24-mlogc is signed with Red Hat redhatrelease2 key",
+      "Comment": "httpd24-mod_security is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202248279004",
       "Version": "636",
       "Object": {
@@ -79356,7 +79356,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238749004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238749002"
       },
       "State": {}
     },
@@ -79367,7 +79367,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238749003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238749001"
       },
       "State": {}
     },
@@ -79378,7 +79378,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238749002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238749003"
       },
       "State": {}
     },
@@ -79389,7 +79389,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238749001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238749005"
       },
       "State": {}
     },
@@ -79400,7 +79400,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238749005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238749004"
       },
       "State": {}
     },

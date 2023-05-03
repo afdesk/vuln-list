@@ -2400,7 +2400,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rubygem-tzinfo-doc is installed",
+      "Comment": "rubygem-tzinfo is installed",
       "ID": "oval:com.redhat.cve:tst:202231163001",
       "Version": "636",
       "Object": {
@@ -2410,7 +2410,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rubygem-tzinfo-doc is signed with Red Hat redhatrelease2 key",
+      "Comment": "rubygem-tzinfo is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202231163002",
       "Version": "636",
       "Object": {
@@ -2422,7 +2422,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rubygem-tzinfo is installed",
+      "Comment": "rubygem-tzinfo-doc is installed",
       "ID": "oval:com.redhat.cve:tst:202231163003",
       "Version": "636",
       "Object": {
@@ -2432,7 +2432,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rubygem-tzinfo is signed with Red Hat redhatrelease2 key",
+      "Comment": "rubygem-tzinfo-doc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202231163004",
       "Version": "636",
       "Object": {
