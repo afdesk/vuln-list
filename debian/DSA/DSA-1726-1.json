@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[25 Feb 2009] DSA-1726-1 python-crypto - denial of service",
-    "Line": 12473,
+    "Line": 12479,
     "ID": "DSA-1726-1",
     "Description": "python-crypto - denial of service"
   },
   "Annotations": [
     {
       "Original": "{CVE-2009-0544}",
-      "Line": 12474,
+      "Line": 12480,
       "Type": "xref",
       "Bugs": [
         "CVE-2009-0544"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - python-crypto 2.0.1+dfsg1-2.3+lenny0",
-      "Line": 12475,
+      "Line": 12481,
       "Type": "package",
       "Release": "lenny",
       "Package": "python-crypto",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[etch] - python-crypto 2.0.1+dfsg1-1.2+etch0",
-      "Line": 12476,
+      "Line": 12482,
       "Type": "package",
       "Release": "etch",
       "Package": "python-crypto",

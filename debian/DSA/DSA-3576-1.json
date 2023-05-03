@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 May 2016] DSA-3576-1 icedove - security update",
-    "Line": 6059,
+    "Line": 6065,
     "ID": "DSA-3576-1",
     "Description": "icedove - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-1979 CVE-2016-2805 CVE-2016-2807}",
-      "Line": 6060,
+      "Line": 6066,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-1979",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[jessie] - icedove 38.8.0-1~deb8u1",
-      "Line": 6061,
+      "Line": 6067,
       "Type": "package",
       "Release": "jessie",
       "Package": "icedove",

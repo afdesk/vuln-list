@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Aug 2002] DSA-145 tinyproxy - doubly freed memory",
-    "Line": 18154,
+    "Line": 18160,
     "ID": "DSA-145",
     "Description": "tinyproxy - doubly freed memory"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-0847}",
-      "Line": 18155,
+      "Line": 18161,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-0847"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - tinyproxy 1.4.3-2woody2",
-      "Line": 18156,
+      "Line": 18162,
       "Type": "package",
       "Release": "woody",
       "Package": "tinyproxy",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[31 Jul 2015] DSA-3322-1 ruby-rack - security update",
-    "Line": 7003,
+    "Line": 7009,
     "ID": "DSA-3322-1",
     "Description": "ruby-rack - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-3225}",
-      "Line": 7004,
+      "Line": 7010,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-3225"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - ruby-rack 1.4.1-2.1+deb7u1",
-      "Line": 7005,
+      "Line": 7011,
       "Type": "package",
       "Release": "wheezy",
       "Package": "ruby-rack",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[jessie] - ruby-rack 1.5.2-3+deb8u1",
-      "Line": 7006,
+      "Line": 7012,
       "Type": "package",
       "Release": "jessie",
       "Package": "ruby-rack",

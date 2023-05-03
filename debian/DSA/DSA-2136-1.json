@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Dec 2010] DSA-2136-1 tor - potential code execution",
-    "Line": 10985,
+    "Line": 10991,
     "ID": "DSA-2136-1",
     "Description": "tor - potential code execution"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-1676}",
-      "Line": 10986,
+      "Line": 10992,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-1676"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - tor 0.2.1.26-1~lenny+4",
-      "Line": 10987,
+      "Line": 10993,
       "Type": "package",
       "Release": "lenny",
       "Package": "tor",

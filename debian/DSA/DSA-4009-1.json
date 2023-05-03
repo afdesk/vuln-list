@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Oct 2017] DSA-4009-1 shadowsocks-libev - security update",
-    "Line": 4638,
+    "Line": 4644,
     "ID": "DSA-4009-1",
     "Description": "shadowsocks-libev - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-15924}",
-      "Line": 4639,
+      "Line": 4645,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-15924"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - shadowsocks-libev 2.6.3+ds-3+deb9u1",
-      "Line": 4640,
+      "Line": 4646,
       "Type": "package",
       "Release": "stretch",
       "Package": "shadowsocks-libev",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Jul 2004] DSA-533 courier - cross-site scripting",
-    "Line": 16923,
+    "Line": 16929,
     "ID": "DSA-533",
     "Description": "courier - cross-site scripting"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0591}",
-      "Line": 16924,
+      "Line": 16930,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0591"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - courier 0.37.3-2.5",
-      "Line": 16925,
+      "Line": 16931,
       "Type": "package",
       "Release": "woody",
       "Package": "courier",

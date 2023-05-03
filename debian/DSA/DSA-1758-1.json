@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Mar 2009] DSA-1758-1 nss-ldapd - information disclosure",
-    "Line": 12346,
+    "Line": 12352,
     "ID": "DSA-1758-1",
     "Description": "nss-ldapd - information disclosure"
   },
   "Annotations": [
     {
       "Original": "{CVE-2009-1073}",
-      "Line": 12347,
+      "Line": 12353,
       "Type": "xref",
       "Bugs": [
         "CVE-2009-1073"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - nss-ldapd 0.6.7.1",
-      "Line": 12348,
+      "Line": 12354,
       "Type": "package",
       "Release": "lenny",
       "Package": "nss-ldapd",

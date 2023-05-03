@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Jan 2006] DSA-935-1 libapache2-mod-auth-pgsql - format string vulnerability",
-    "Line": 15217,
+    "Line": 15223,
     "ID": "DSA-935-1",
     "Description": "libapache2-mod-auth-pgsql - format string vulnerability"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-3656}",
-      "Line": 15218,
+      "Line": 15224,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-3656"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - libapache2-mod-auth-pgsql 2.0.2b1-5sarge0",
-      "Line": 15219,
+      "Line": 15225,
       "Type": "package",
       "Release": "sarge",
       "Package": "libapache2-mod-auth-pgsql",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: Not fixed in sid at the time of DSA",
-      "Line": 15220,
+      "Line": 15226,
       "Type": "NOTE",
       "Description": "Not fixed in sid at the time of DSA"
     }

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Mar 2009] DSA-1737-1 wesnoth - several vulnerabilities",
-    "Line": 12438,
+    "Line": 12444,
     "ID": "DSA-1737-1",
     "Description": "wesnoth - several vulnerabilities"
   },
   "Annotations": [
     {
       "Original": "{CVE-2009-0366 CVE-2009-0367 CVE-2009-0878}",
-      "Line": 12439,
+      "Line": 12445,
       "Type": "xref",
       "Bugs": [
         "CVE-2009-0366",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[etch] - wesnoth 1.2-5",
-      "Line": 12440,
+      "Line": 12446,
       "Type": "package",
       "Release": "etch",
       "Package": "wesnoth",
@@ -27,7 +27,7 @@
     },
     {
       "Original": "[lenny] - wesnoth 1:1.4.4-2+lenny1",
-      "Line": 12441,
+      "Line": 12447,
       "Type": "package",
       "Release": "lenny",
       "Package": "wesnoth",
