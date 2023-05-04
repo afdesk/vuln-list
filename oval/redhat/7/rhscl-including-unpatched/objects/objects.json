@@ -5176,61 +5176,6 @@
       "Name": "rh-maven36-jsoup-javadoc"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202221589001",
-      "Version": "636",
-      "Name": "rh-mysql80-mysql-syspaths"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589002",
-      "Version": "636",
-      "Name": "rh-mysql80-mysql-test"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589003",
-      "Version": "636",
-      "Name": "rh-mysql80-mysql-server"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589004",
-      "Version": "636",
-      "Name": "rh-mysql80-mysql-config-syspaths"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589005",
-      "Version": "636",
-      "Name": "rh-mysql80-mysql-icu-data-files"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589006",
-      "Version": "636",
-      "Name": "rh-mysql80-mysql"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589007",
-      "Version": "636",
-      "Name": "rh-mysql80-mysql-config"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589008",
-      "Version": "636",
-      "Name": "rh-mysql80-mysql-common"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589009",
-      "Version": "636",
-      "Name": "rh-mysql80-mysql-errmsg"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589010",
-      "Version": "636",
-      "Name": "rh-mysql80-mysql-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221589011",
-      "Version": "636",
-      "Name": "rh-mysql80-mysql-server-syspaths"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20222255001",
       "Version": "636",
       "Name": "rh-python38-python-mod_wsgi"
@@ -5669,6 +5614,61 @@
       "ID": "oval:com.redhat.cve:obj:20230056002",
       "Version": "636",
       "Name": "rh-haproxy18-haproxy"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202321911004",
+      "Version": "636",
+      "Name": "rh-mysql80-mysql-server-syspaths"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202321911005",
+      "Version": "636",
+      "Name": "rh-mysql80-mysql-icu-data-files"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202321911012",
+      "Version": "636",
+      "Name": "rh-mysql80-mysql-config-syspaths"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202321911018",
+      "Version": "636",
+      "Name": "rh-mysql80-mysql-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202321911024",
+      "Version": "636",
+      "Name": "rh-mysql80-mysql-errmsg"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202321911025",
+      "Version": "636",
+      "Name": "rh-mysql80-mysql-syspaths"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202321911030",
+      "Version": "636",
+      "Name": "rh-mysql80-mysql"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202321911031",
+      "Version": "636",
+      "Name": "rh-mysql80-mysql-test"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202321911040",
+      "Version": "636",
+      "Name": "rh-mysql80-mysql-server"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202321911047",
+      "Version": "636",
+      "Name": "rh-mysql80-mysql-common"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202321911051",
+      "Version": "636",
+      "Name": "rh-mysql80-mysql-config"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202323931001",

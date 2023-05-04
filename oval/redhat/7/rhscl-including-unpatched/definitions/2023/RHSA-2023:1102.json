@@ -669,7 +669,7 @@
                   },
                   {
                     "Comment": "rh-mysql80-mysql is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202221589012"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911060"
                   }
                 ]
               },
@@ -682,7 +682,7 @@
                   },
                   {
                     "Comment": "rh-mysql80-mysql-common is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202221589016"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911094"
                   }
                 ]
               },
@@ -695,7 +695,7 @@
                   },
                   {
                     "Comment": "rh-mysql80-mysql-config is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202221589014"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911102"
                   }
                 ]
               },
@@ -708,7 +708,7 @@
                   },
                   {
                     "Comment": "rh-mysql80-mysql-config-syspaths is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202221589008"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911024"
                   }
                 ]
               },
@@ -721,7 +721,7 @@
                   },
                   {
                     "Comment": "rh-mysql80-mysql-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202221589020"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911036"
                   }
                 ]
               },
@@ -734,7 +734,7 @@
                   },
                   {
                     "Comment": "rh-mysql80-mysql-errmsg is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202221589018"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911048"
                   }
                 ]
               },
@@ -747,7 +747,7 @@
                   },
                   {
                     "Comment": "rh-mysql80-mysql-icu-data-files is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202221589010"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911010"
                   }
                 ]
               },
@@ -760,7 +760,7 @@
                   },
                   {
                     "Comment": "rh-mysql80-mysql-server is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202221589006"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911080"
                   }
                 ]
               },
@@ -773,7 +773,7 @@
                   },
                   {
                     "Comment": "rh-mysql80-mysql-server-syspaths is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202221589022"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911008"
                   }
                 ]
               },
@@ -786,7 +786,7 @@
                   },
                   {
                     "Comment": "rh-mysql80-mysql-syspaths is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202221589002"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911050"
                   }
                 ]
               },
@@ -799,7 +799,7 @@
                   },
                   {
                     "Comment": "rh-mysql80-mysql-test is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202221589004"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911062"
                   }
                 ]
               }
