@@ -9053,7 +9053,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202225881001",
       "Version": "636",
-      "Name": "dotnet-targeting-pack-6.0"
+      "Name": "aspnetcore-runtime-6.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881002",
@@ -9063,17 +9063,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:202225881003",
       "Version": "636",
-      "Name": "dotnet-templates-6.0"
+      "Name": "dotnet-apphost-pack-6.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881005",
       "Version": "636",
-      "Name": "aspnetcore-runtime-6.0"
+      "Name": "dotnet-targeting-pack-6.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881006",
       "Version": "636",
-      "Name": "dotnet-apphost-pack-6.0"
+      "Name": "aspnetcore-targeting-pack-6.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202225881007",
+      "Version": "636",
+      "Name": "dotnet-sdk-6.0-source-built-artifacts"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881008",
@@ -9083,22 +9088,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:202225881009",
       "Version": "636",
+      "Name": "dotnet-templates-6.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202225881010",
+      "Version": "636",
       "Name": "dotnet-hostfxr-6.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881011",
       "Version": "636",
       "Name": "dotnet-runtime-6.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202225881012",
-      "Version": "636",
-      "Name": "dotnet-sdk-6.0-source-built-artifacts"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202225881013",
-      "Version": "636",
-      "Name": "aspnetcore-targeting-pack-6.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202226125001",
@@ -10428,22 +10428,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:20224304001",
       "Version": "636",
+      "Name": "shim-ia32"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20224304003",
+      "Version": "636",
       "Name": "shim"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20224304005",
-      "Version": "636",
-      "Name": "shim-aa64"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20224304006",
+      "ID": "oval:com.redhat.cve:obj:20224304004",
       "Version": "636",
       "Name": "shim-x64"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20224304008",
       "Version": "636",
-      "Name": "shim-ia32"
+      "Name": "shim-aa64"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202244638001",
