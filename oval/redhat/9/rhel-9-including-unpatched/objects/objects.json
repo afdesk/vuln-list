@@ -5591,7 +5591,7 @@
       "Name": "toolbox-tests"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202227664024",
+      "ID": "oval:com.redhat.cve:obj:202227664013",
       "Version": "636",
       "Name": "toolbox"
     },
@@ -7436,7 +7436,7 @@
       "Name": "tpm2-tss-devel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202323009001",
+      "ID": "oval:com.redhat.cve:obj:20232295001",
       "Version": "636",
       "Name": "libreswan"
     },
@@ -7543,57 +7543,57 @@
     {
       "ID": "oval:com.redhat.cve:obj:202327522001",
       "Version": "636",
-      "Name": "httpd-tools"
+      "Name": "httpd-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522002",
       "Version": "636",
-      "Name": "httpd-devel"
+      "Name": "mod_ldap"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522003",
       "Version": "636",
-      "Name": "mod_lua"
+      "Name": "httpd-filesystem"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522004",
       "Version": "636",
-      "Name": "httpd-core"
+      "Name": "httpd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522005",
       "Version": "636",
-      "Name": "mod_ldap"
+      "Name": "mod_session"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522006",
       "Version": "636",
-      "Name": "httpd-manual"
+      "Name": "httpd-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522007",
       "Version": "636",
-      "Name": "httpd-filesystem"
+      "Name": "httpd-manual"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522008",
       "Version": "636",
-      "Name": "mod_ssl"
+      "Name": "mod_proxy_html"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522009",
       "Version": "636",
-      "Name": "mod_proxy_html"
+      "Name": "mod_ssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522010",
       "Version": "636",
-      "Name": "mod_session"
+      "Name": "mod_lua"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522011",
       "Version": "636",
-      "Name": "httpd"
+      "Name": "httpd-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202328100001",
