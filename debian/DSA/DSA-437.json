@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Feb 2004] DSA-437 cgiemail - open mail relay",
-    "Line": 17262,
+    "Line": 17265,
     "ID": "DSA-437",
     "Description": "cgiemail - open mail relay"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-1575}",
-      "Line": 17263,
+      "Line": 17266,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-1575"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - cgiemail 1.6-14woody1",
-      "Line": 17264,
+      "Line": 17267,
       "Type": "package",
       "Release": "woody",
       "Package": "cgiemail",

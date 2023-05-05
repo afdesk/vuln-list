@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Jul 2005] DSA-739-1 trac - missing input sanitising",
-    "Line": 16151,
+    "Line": 16154,
     "ID": "DSA-739-1",
     "Description": "trac - missing input sanitising"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2147}",
-      "Line": 16152,
+      "Line": 16155,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2147"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - trac 0.8.1-3sarge2 (medium)",
-      "Line": 16153,
+      "Line": 16156,
       "Type": "package",
       "Release": "sarge",
       "Package": "trac",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA",
-      "Line": 16154,
+      "Line": 16157,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA"
     }

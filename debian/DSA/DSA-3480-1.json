@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Feb 2016] DSA-3480-1 eglibc - security update",
-    "Line": 6414,
+    "Line": 6417,
     "ID": "DSA-3480-1",
     "Description": "eglibc - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-8121 CVE-2015-1781 CVE-2015-7547 CVE-2015-8776 CVE-2015-8777 CVE-2015-8778 CVE-2015-8779}",
-      "Line": 6415,
+      "Line": 6418,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-8121",
@@ -22,7 +22,7 @@
     },
     {
       "Original": "[wheezy] - eglibc 2.13-38+deb7u10",
-      "Line": 6416,
+      "Line": 6419,
       "Type": "package",
       "Release": "wheezy",
       "Package": "eglibc",

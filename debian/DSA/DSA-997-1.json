@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Mar 2006] DSA-997-1 bomberclone - buffer overflows",
-    "Line": 14945,
+    "Line": 14948,
     "ID": "DSA-997-1",
     "Description": "bomberclone - buffer overflows"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-0460}",
-      "Line": 14946,
+      "Line": 14949,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-0460"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - bomberclone 0.11.5-1sarge1",
-      "Line": 14947,
+      "Line": 14950,
       "Type": "package",
       "Release": "sarge",
       "Package": "bomberclone",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at the time of DSA (missing builds)",
-      "Line": 14948,
+      "Line": 14951,
       "Type": "NOTE",
       "Description": "not fixed in testing at the time of DSA (missing builds)"
     }

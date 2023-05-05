@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[31 Oct 2006] DSA-1202-1 screen - programming error",
-    "Line": 14275,
+    "Line": 14278,
     "ID": "DSA-1202-1",
     "Description": "screen - programming error"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-4573}",
-      "Line": 14276,
+      "Line": 14279,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-4573"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - screen 4.0.2-4.1sarge1",
-      "Line": 14277,
+      "Line": 14280,
       "Type": "package",
       "Release": "sarge",
       "Package": "screen",
