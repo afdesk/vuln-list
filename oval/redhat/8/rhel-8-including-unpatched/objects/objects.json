@@ -10621,11 +10621,6 @@
       "Name": "openssl-static"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20230465009",
-      "Version": "636",
-      "Name": "openssl-debugsource"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20230664001",
       "Version": "636",
       "Name": "virtio-win"
@@ -17224,6 +17219,11 @@
       "ID": "oval:com.redhat.rhsa:obj:20231659007",
       "Version": "638",
       "Name": "kpatch-patch-4_18_0-425_13_1"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:19990428005",
+      "Version": "635",
+      "Name": "openssl-debugsource"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20020059003",

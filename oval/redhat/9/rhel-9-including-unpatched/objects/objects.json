@@ -7391,6 +7391,11 @@
       "Name": "c-ares"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20230430001",
+      "Version": "636",
+      "Name": "thunderbird-flatpak-container"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20230664001",
       "Version": "636",
       "Name": "virtio-win"

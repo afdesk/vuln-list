@@ -32518,6 +32518,28 @@
     },
     {
       "Check": "at least one",
+      "Comment": "thunderbird-flatpak-container is installed",
+      "ID": "oval:com.redhat.cve:tst:20230430001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20230430001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "thunderbird-flatpak-container is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20230430002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20230430001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "virtio-win is installed",
       "ID": "oval:com.redhat.cve:tst:20230664001",
       "Version": "636",

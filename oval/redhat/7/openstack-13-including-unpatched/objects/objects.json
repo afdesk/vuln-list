@@ -1146,6 +1146,11 @@
       "Name": "python-pecan"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202240664001",
+      "Version": "636",
+      "Name": "shiro-core"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202240899001",
       "Version": "636",
       "Name": "python2-futures"
