@@ -4544,6 +4544,11 @@
       "ID": "oval:com.redhat.rhsa:obj:20232078002",
       "Version": "638",
       "Name": "libwebp-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232120001",
+      "Version": "635",
+      "Name": "libreswan"
     }
   ],
   "RpmverifyfileObjects": [

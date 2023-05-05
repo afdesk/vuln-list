@@ -72890,6 +72890,18 @@
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232073001"
       }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libreswan is earlier than 0:3.29-7.el8_1.2",
+      "ID": "oval:com.redhat.rhsa:tst:20232126001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20193391001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232126001"
+      }
     }
   ],
   "RpmverifyfileTests": [

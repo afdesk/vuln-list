@@ -2434,6 +2434,126 @@
       "ID": "oval:com.redhat.rhsa:obj:20232121001",
       "Version": "635",
       "Name": "libreswan"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137001",
+      "Version": "636",
+      "Name": "ctdb"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137002",
+      "Version": "636",
+      "Name": "libsmbclient"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137003",
+      "Version": "636",
+      "Name": "libsmbclient-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137004",
+      "Version": "636",
+      "Name": "libwbclient"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137005",
+      "Version": "636",
+      "Name": "libwbclient-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137006",
+      "Version": "636",
+      "Name": "python3-samba"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137007",
+      "Version": "636",
+      "Name": "samba"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137008",
+      "Version": "636",
+      "Name": "samba-client"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137009",
+      "Version": "636",
+      "Name": "samba-client-libs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137010",
+      "Version": "636",
+      "Name": "samba-common"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137011",
+      "Version": "636",
+      "Name": "samba-common-libs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137012",
+      "Version": "636",
+      "Name": "samba-common-tools"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137013",
+      "Version": "636",
+      "Name": "samba-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137014",
+      "Version": "636",
+      "Name": "samba-krb5-printing"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137015",
+      "Version": "636",
+      "Name": "samba-libs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137016",
+      "Version": "636",
+      "Name": "samba-pidl"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137017",
+      "Version": "636",
+      "Name": "samba-test"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137018",
+      "Version": "636",
+      "Name": "samba-test-libs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137019",
+      "Version": "636",
+      "Name": "samba-vfs-iouring"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137020",
+      "Version": "636",
+      "Name": "samba-winbind"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137021",
+      "Version": "636",
+      "Name": "samba-winbind-clients"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137022",
+      "Version": "636",
+      "Name": "samba-winbind-krb5-locator"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137023",
+      "Version": "636",
+      "Name": "samba-winbind-modules"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232137024",
+      "Version": "636",
+      "Name": "samba-winexe"
     }
   ],
   "RpmverifyfileObjects": [

@@ -1,21 +1,37 @@
 {
-  "Class": "vulnerability",
-  "ID": "oval:com.redhat.cve:def:202330570",
-  "Version": "636",
+  "Class": "patch",
+  "ID": "oval:com.redhat.rhsa:def:20232120",
+  "Version": "635",
   "Metadata": {
-    "Title": "Malicious IKEv1 Aggressive Mode packets can crash libreswan (important)",
+    "Title": "RHSA-2023:2120: libreswan security update (Important)",
+    "AffectedList": [
+      {
+        "Family": "unix",
+        "Platforms": [
+          "Red Hat Enterprise Linux 9"
+        ]
+      }
+    ],
     "References": [
+      {
+        "Source": "RHSA",
+        "RefID": "RHSA-2023:2120",
+        "RefURL": "https://access.redhat.com/errata/RHSA-2023:2120"
+      },
       {
         "Source": "CVE",
         "RefID": "CVE-2023-30570",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2023-30570"
       }
     ],
-    "Description": "DOCUMENTATION: A vulnerability was found in the libreswan library. This security issue occurs when an IKEv1 Aggressive Mode packet is received with only unacceptable crypto algorithms, and the response packet is not sent with a zero responder SPI. When a subsequent packet is received where the sender reuses the libreswan responder SPI as its own initiator SPI, the pluto daemon state machine crashes. No remote code execution is possible.",
+    "Description": "Libreswan is an implementation of IPsec and IKE for Linux. IPsec is the Internet Protocol Security and uses strong cryptography to provide both authentication and encryption services. These services allow you to build secure tunnels through untrusted networks such as virtual private network (VPN).\n\nSecurity Fix(es):\n\n* libreswan: Malicious IKEv1 Aggressive Mode packets can crash libreswan (CVE-2023-30570)\n\nFor more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.",
     "Advisory": {
       "From": "secalert@redhat.com",
       "Severity": "Important",
-      "Issued": {},
+      "Rights": "Copyright 2023 Red Hat, Inc.",
+      "Issued": {
+        "Date": "2023-05-04"
+      },
       "Updated": {
         "Date": "2023-05-04"
       },
@@ -27,6 +43,12 @@
           "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2023-30570",
           "Public": "20230503"
+        }
+      ],
+      "Bugzilla": [
+        {
+          "Href": "https://bugzilla.redhat.com/2187165",
+          "ID": "2187165"
         }
       ],
       "AffectedCpeList": [
@@ -44,9 +66,7 @@
         "cpe:/o:redhat:enterprise_linux:9::baseos"
       ],
       "Affected": {
-        "Resolution": {
-          "State": "Affected"
-        }
+        "Resolution": {}
       }
     }
   },
@@ -67,8 +87,8 @@
             "TestRef": "oval:com.redhat.cve:tst:20052541003"
           },
           {
-            "Comment": "libreswan is installed",
-            "TestRef": "oval:com.redhat.cve:tst:202323009001"
+            "Comment": "libreswan is earlier than 0:4.6-3.el9_1.1",
+            "TestRef": "oval:com.redhat.rhsa:tst:20232120001"
           },
           {
             "Comment": "libreswan is signed with Red Hat redhatrelease2 key",

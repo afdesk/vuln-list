@@ -20930,6 +20930,582 @@
       "State": {
         "StateRef": "oval:com.redhat.rhba:ste:20225749002"
       }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ctdb is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ctdb is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libsmbclient is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libsmbclient is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libsmbclient-devel is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137005",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libsmbclient-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137006",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libwbclient is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137007",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libwbclient is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137008",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libwbclient-devel is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137009",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libwbclient-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137010",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-samba is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137011",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-samba is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137012",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137013",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137004"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137014",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-client is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137015",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137004"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-client is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137016",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-client-libs is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137017",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-client-libs is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137018",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-common is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137019",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137005"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-common is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137020",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-common-libs is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137021",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137004"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-common-libs is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137022",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-common-tools is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137023",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137012"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137004"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-common-tools is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137024",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137012"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-devel is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137025",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137013"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137026",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137013"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-krb5-printing is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137027",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137014"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137004"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-krb5-printing is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137028",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137014"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-libs is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137029",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137015"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-libs is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137030",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137015"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-pidl is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137031",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137016"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137005"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-pidl is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137032",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137016"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-test is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137033",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137017"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137004"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-test is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137034",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137017"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-test-libs is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137035",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137018"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137004"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-test-libs is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137036",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137018"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-vfs-iouring is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137037",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137019"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137004"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-vfs-iouring is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137038",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137019"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-winbind is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137039",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137020"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137004"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-winbind is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137040",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137020"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-winbind-clients is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137041",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137021"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137004"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-winbind-clients is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137042",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137021"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-winbind-krb5-locator is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137043",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137022"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137004"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-winbind-krb5-locator is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137044",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137022"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-winbind-modules is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137045",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137023"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-winbind-modules is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137046",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137023"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-winexe is earlier than 0:4.15.5-110.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20232137047",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137024"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232137006"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "samba-winexe is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20232137048",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232137024"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
     }
   ],
   "RpmverifyfileTests": [
