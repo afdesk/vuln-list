@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Mar 2012] DSA-2425-1 plib - buffer overflow",
-    "Line": 9973,
+    "Line": 9976,
     "ID": "DSA-2425-1",
     "Description": "plib - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2011-4620}",
-      "Line": 9974,
+      "Line": 9977,
       "Type": "xref",
       "Bugs": [
         "CVE-2011-4620"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - plib 1.8.5-5+squeeze1",
-      "Line": 9975,
+      "Line": 9978,
       "Type": "package",
       "Release": "squeeze",
       "Package": "plib",

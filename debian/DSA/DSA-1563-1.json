@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Apr 2008] DSA-1563-1 asterisk - denial of service",
-    "Line": 12980,
+    "Line": 12983,
     "ID": "DSA-1563-1",
     "Description": "asterisk - denial of service"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-1897}",
-      "Line": 12981,
+      "Line": 12984,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-1897"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - asterisk 1:1.2.13~dfsg-2etch4",
-      "Line": 12982,
+      "Line": 12985,
       "Type": "package",
       "Release": "etch",
       "Package": "asterisk",

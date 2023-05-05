@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Feb 2009] DSA-1718-1 boinc - validation bypass",
-    "Line": 12503,
+    "Line": 12506,
     "ID": "DSA-1718-1",
     "Description": "boinc - validation bypass"
   },
   "Annotations": [
     {
       "Original": "{CVE-2009-0126}",
-      "Line": 12504,
+      "Line": 12507,
       "Type": "xref",
       "Bugs": [
         "CVE-2009-0126"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - boinc 5.4.11-4+etch1",
-      "Line": 12505,
+      "Line": 12508,
       "Type": "package",
       "Release": "etch",
       "Package": "boinc",

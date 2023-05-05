@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 May 2009] DSA-1799-1 qemu - several vulnerabilities",
-    "Line": 12200,
+    "Line": 12203,
     "ID": "DSA-1799-1",
     "Description": "qemu - several vulnerabilities"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-0928 CVE-2008-1945 CVE-2008-4539}",
-      "Line": 12201,
+      "Line": 12204,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-0928",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[etch] - qemu 0.8.2-4etch3",
-      "Line": 12202,
+      "Line": 12205,
       "Type": "package",
       "Release": "etch",
       "Package": "qemu",
@@ -27,7 +27,7 @@
     },
     {
       "Original": "[lenny] - qemu 0.9.1-10lenny1",
-      "Line": 12203,
+      "Line": 12206,
       "Type": "package",
       "Release": "lenny",
       "Package": "qemu",

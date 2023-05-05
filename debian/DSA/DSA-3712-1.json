@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Nov 2016] DSA-3712-1 terminology - security update",
-    "Line": 5646,
+    "Line": 5649,
     "ID": "DSA-3712-1",
     "Description": "terminology - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-8971}",
-      "Line": 5647,
+      "Line": 5650,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-8971"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - terminology 0.7.0-1+deb8u1",
-      "Line": 5648,
+      "Line": 5651,
       "Type": "package",
       "Release": "jessie",
       "Package": "terminology",
