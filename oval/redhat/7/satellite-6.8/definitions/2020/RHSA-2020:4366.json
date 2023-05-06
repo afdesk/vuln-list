@@ -230,7 +230,7 @@
           "CveID": "CVE-2020-10968",
           "Cvss3": "8.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-502",
-          "Impact": "low",
+          "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2020-10968",
           "Public": "20200322"
         },
@@ -238,7 +238,7 @@
           "CveID": "CVE-2020-10969",
           "Cvss3": "8.1/CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-502",
-          "Impact": "low",
+          "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2020-10969",
           "Public": "20200303"
         },
@@ -246,7 +246,7 @@
           "CveID": "CVE-2020-11619",
           "Cvss3": "8.1/CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-502",
-          "Impact": "low",
+          "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2020-11619",
           "Public": "20200406"
         },
@@ -254,7 +254,7 @@
           "CveID": "CVE-2020-14061",
           "Cvss3": "8.1/CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-502",
-          "Impact": "low",
+          "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2020-14061",
           "Public": "20200519"
         },
@@ -262,7 +262,7 @@
           "CveID": "CVE-2020-14062",
           "Cvss3": "8.1/CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-502",
-          "Impact": "low",
+          "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2020-14062",
           "Public": "20200519"
         },
@@ -270,7 +270,7 @@
           "CveID": "CVE-2020-14195",
           "Cvss3": "8.1/CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-502",
-          "Impact": "low",
+          "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2020-14195",
           "Public": "20200614"
         },
@@ -366,7 +366,7 @@
           "CveID": "CVE-2020-8840",
           "Cvss3": "8.1/CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-502",
-          "Impact": "low",
+          "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2020-8840",
           "Public": "20200302"
         },
@@ -374,7 +374,7 @@
           "CveID": "CVE-2020-9546",
           "Cvss3": "8.1/CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-502",
-          "Impact": "low",
+          "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2020-9546",
           "Public": "20200302"
         },
@@ -382,7 +382,7 @@
           "CveID": "CVE-2020-9547",
           "Cvss3": "8.1/CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-502",
-          "Impact": "low",
+          "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2020-9547",
           "Public": "20200302"
         },
@@ -390,7 +390,7 @@
           "CveID": "CVE-2020-9548",
           "Cvss3": "8.1/CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-502",
-          "Impact": "low",
+          "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2020-9548",
           "Public": "20200302"
         }
