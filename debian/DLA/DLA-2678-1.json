@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Jun 2021] DLA-2678-1 ruby-nokogiri - security update",
-    "Line": 2226,
+    "Line": 2229,
     "ID": "DLA-2678-1",
     "Description": "ruby-nokogiri - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-26247}",
-      "Line": 2227,
+      "Line": 2230,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-26247"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - ruby-nokogiri 1.6.8.1-1+deb9u1",
-      "Line": 2228,
+      "Line": 2231,
       "Type": "package",
       "Release": "stretch",
       "Package": "ruby-nokogiri",

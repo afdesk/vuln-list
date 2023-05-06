@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Aug 2018] DLA-1462-1 wpa - security update",
-    "Line": 5963,
+    "Line": 5966,
     "ID": "DLA-1462-1",
     "Description": "wpa - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-14526}",
-      "Line": 5964,
+      "Line": 5967,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-14526"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - wpa 2.3-1+deb8u6",
-      "Line": 5965,
+      "Line": 5968,
       "Type": "package",
       "Release": "jessie",
       "Package": "wpa",
