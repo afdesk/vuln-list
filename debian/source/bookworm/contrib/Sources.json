@@ -8118,13 +8118,13 @@
       "debhelper-compat (= 13), autoconf, automake, bison, flex, texinfo, texlive-base, texlive-plain-generic, dos2unix, xa65, libreadline-dev, libjpeg-dev, libpng-dev, libgtk-3-dev, libasound2-dev [linux-any], libpulse-dev, libmp3lame-dev, libavformat-dev, libieee1284-3-dev [!hurd-i386], libglew-dev, libswscale-dev, xfonts-utils"
     ],
     "Checksums-Sha256": [
-      "ed2937c16f556db09d7333bb64fb08804a9d30a2ea8c1d8e4ffd0abcae339b59 2038 vice_3.7.1+dfsg-2.dsc acf9a595fabff87a066c77aa49cefb0c0187e8a896cb257962f576eeedbccb98 9182028 vice_3.7.1+dfsg.orig.tar.xz 376f237a5c68c18e6972b91b412eabc8cb45fc1cd9ef3e66d4ec5633b6343478 31388 vice_3.7.1+dfsg-2.debian.tar.xz"
+      "0d6c28ab0fca1b627e801c4657dc4217e975075afb6ed848525dce678a95729c 2045 vice_3.7.1+dfsg1-1.dsc e49646b02fdf83123e11aaea28f4ce118175d97fbe2f58225bcfa7f888dcc706 9181348 vice_3.7.1+dfsg1.orig.tar.xz 692f493893c7287a3b36599683a29487627260d98f09f3490b26f5de396a028c 31412 vice_3.7.1+dfsg1-1.debian.tar.xz"
     ],
     "Directory": [
       "pool/contrib/v/vice"
     ],
     "Files": [
-      "3b07d569f20f775020c3d426750533eb 2038 vice_3.7.1+dfsg-2.dsc e6c4ddb8f8b29d099f196c7877e0e1ee 9182028 vice_3.7.1+dfsg.orig.tar.xz bb00f5656da06ca1e288e5afefe8d04c 31388 vice_3.7.1+dfsg-2.debian.tar.xz"
+      "ae5faff1a826093cbbfe7c402bb81cd5 2045 vice_3.7.1+dfsg1-1.dsc b51e687a6799b14c678b8c578f5618e1 9181348 vice_3.7.1+dfsg1.orig.tar.xz 8c3fb9ead4751f94470caabb24cd4d59 31412 vice_3.7.1+dfsg1-1.debian.tar.xz"
     ],
     "Format": [
       "3.0 (quilt)"
@@ -8151,7 +8151,7 @@
       "4.6.1"
     ],
     "Version": [
-      "3.7.1+dfsg-2"
+      "3.7.1+dfsg1-1"
     ]
   },
   {
