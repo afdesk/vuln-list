@@ -4648,17 +4648,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138561001",
       "Version": "636",
-      "Name": "podman-plugins"
+      "Name": "podman-gvproxy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561002",
       "Version": "636",
-      "Name": "podman-debugsource"
+      "Name": "podman-remote"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561003",
       "Version": "636",
-      "Name": "osbuild-composer-debugsource"
+      "Name": "osbuild-composer-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561004",
@@ -4668,47 +4668,37 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138561005",
       "Version": "636",
-      "Name": "osbuild-composer-worker"
+      "Name": "podman-tests"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561006",
       "Version": "636",
-      "Name": "podman-gvproxy"
+      "Name": "podman-plugins"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561007",
       "Version": "636",
-      "Name": "podman-tests"
+      "Name": "osbuild-composer-worker"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561008",
       "Version": "636",
-      "Name": "osbuild-composer-dnf-json"
+      "Name": "podman-catatonit"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561009",
       "Version": "636",
-      "Name": "osbuild-composer-core"
+      "Name": "podman"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561010",
       "Version": "636",
-      "Name": "podman-remote"
+      "Name": "podman-docker"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561011",
       "Version": "636",
-      "Name": "podman"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202138561012",
-      "Version": "636",
-      "Name": "podman-catatonit"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202138561013",
-      "Version": "636",
-      "Name": "podman-docker"
+      "Name": "osbuild-composer-dnf-json"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138593001",
@@ -5458,47 +5448,47 @@
     {
       "ID": "oval:com.redhat.cve:obj:202225147001",
       "Version": "636",
-      "Name": "apr-util"
+      "Name": "apr-util-sqlite"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147002",
       "Version": "636",
-      "Name": "apr-util-odbc"
+      "Name": "apr-util-pgsql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147003",
       "Version": "636",
-      "Name": "apr-util-mysql"
+      "Name": "apr-util-odbc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147004",
       "Version": "636",
-      "Name": "apr-util-openssl"
+      "Name": "apr-util-ldap"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147005",
       "Version": "636",
-      "Name": "apr-util-bdb"
+      "Name": "apr-util-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147006",
       "Version": "636",
-      "Name": "apr-util-pgsql"
+      "Name": "apr-util-bdb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147007",
       "Version": "636",
-      "Name": "apr-util-sqlite"
+      "Name": "apr-util"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147008",
       "Version": "636",
-      "Name": "apr-util-ldap"
+      "Name": "apr-util-openssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147009",
       "Version": "636",
-      "Name": "apr-util-devel"
+      "Name": "apr-util-mysql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881001",
@@ -5784,6 +5774,16 @@
       "ID": "oval:com.redhat.cve:obj:20222879001",
       "Version": "636",
       "Name": "weldr-client-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20222879006",
+      "Version": "636",
+      "Name": "osbuild-composer-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20222879011",
+      "Version": "636",
+      "Name": "podman-debugsource"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20222880007",
@@ -7563,57 +7563,57 @@
     {
       "ID": "oval:com.redhat.cve:obj:202327522001",
       "Version": "636",
-      "Name": "httpd-devel"
+      "Name": "httpd-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522002",
       "Version": "636",
-      "Name": "mod_ldap"
+      "Name": "httpd-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522003",
       "Version": "636",
-      "Name": "httpd-filesystem"
+      "Name": "mod_lua"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522004",
       "Version": "636",
-      "Name": "httpd"
+      "Name": "httpd-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522005",
       "Version": "636",
-      "Name": "mod_session"
+      "Name": "mod_ldap"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522006",
       "Version": "636",
-      "Name": "httpd-core"
+      "Name": "httpd-manual"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522007",
       "Version": "636",
-      "Name": "httpd-manual"
+      "Name": "httpd-filesystem"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522008",
       "Version": "636",
-      "Name": "mod_proxy_html"
+      "Name": "mod_ssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522009",
       "Version": "636",
-      "Name": "mod_ssl"
+      "Name": "mod_proxy_html"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522010",
       "Version": "636",
-      "Name": "mod_lua"
+      "Name": "mod_session"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522011",
       "Version": "636",
-      "Name": "httpd-tools"
+      "Name": "httpd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202328100001",
@@ -7763,7 +7763,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202329552001",
       "Version": "636",
-      "Name": "openslp"
+      "Name": "openslp-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202329552002",
@@ -7773,7 +7773,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202329552003",
       "Version": "636",
-      "Name": "openslp-devel"
+      "Name": "openslp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202330630001",
