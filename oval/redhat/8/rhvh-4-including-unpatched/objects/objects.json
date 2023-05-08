@@ -484,6 +484,11 @@
       "ID": "oval:com.redhat.unaffected:obj:20213826005",
       "Version": "635",
       "Name": "libgcc"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20231667001",
+      "Version": "635",
+      "Name": "ansible-collection-ansible-netcommon"
     }
   ],
   "RpmverifyfileObjects": [

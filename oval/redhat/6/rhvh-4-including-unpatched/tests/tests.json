@@ -575,6 +575,27 @@
         "ObjectRef": "oval:com.redhat.cve:obj:20222078001"
       },
       "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ansible-collection-ansible-netcommon is installed",
+      "ID": "oval:com.redhat.unaffected:tst:20231667001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:20231667001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ansible-collection-ansible-netcommon is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20231667002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:20231667001"
+      },
+      "State": {}
     }
   ],
   "RpmverifyfileTests": [

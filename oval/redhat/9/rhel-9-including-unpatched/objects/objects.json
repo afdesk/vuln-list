@@ -7416,6 +7416,21 @@
       "Name": "libtpms"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20231667001",
+      "Version": "636",
+      "Name": "libssh-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20231667002",
+      "Version": "636",
+      "Name": "libssh"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20231667003",
+      "Version": "636",
+      "Name": "libssh-config"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20231786001",
       "Version": "636",
       "Name": "cloud-init"
@@ -12504,21 +12519,6 @@
       "ID": "oval:com.redhat.unaffected:obj:20213621040",
       "Version": "635",
       "Name": "libref_array-devel"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:20213634001",
-      "Version": "635",
-      "Name": "libssh-devel"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:20213634002",
-      "Version": "635",
-      "Name": "libssh"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:20213634003",
-      "Version": "635",
-      "Name": "libssh-config"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202136386001",

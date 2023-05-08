@@ -774,6 +774,11 @@
       "ID": "oval:com.redhat.unaffected:obj:20213826004",
       "Version": "635",
       "Name": "cpp"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20231667001",
+      "Version": "635",
+      "Name": "ansible-collection-ansible-netcommon"
     }
   ],
   "RpmverifyfileObjects": [
