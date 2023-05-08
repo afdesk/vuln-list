@@ -10711,12 +10711,12 @@
       "Name": "pkgconf-m4"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324539020",
+      "ID": "oval:com.redhat.cve:obj:202324539021",
       "Version": "636",
       "Name": "delve"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324539025",
+      "ID": "oval:com.redhat.cve:obj:202324539023",
       "Version": "636",
       "Name": "go-toolset"
     },
