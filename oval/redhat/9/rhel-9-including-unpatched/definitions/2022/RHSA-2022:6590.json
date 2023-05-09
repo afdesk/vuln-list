@@ -915,7 +915,7 @@
                   },
                   {
                     "Comment": "mysql is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202321911014"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911002"
                   }
                 ]
               },
@@ -928,7 +928,7 @@
                   },
                   {
                     "Comment": "mysql-common is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202321911004"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911008"
                   }
                 ]
               },
@@ -941,7 +941,7 @@
                   },
                   {
                     "Comment": "mysql-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202321911024"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911014"
                   }
                 ]
               },
@@ -954,7 +954,7 @@
                   },
                   {
                     "Comment": "mysql-errmsg is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202321911040"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911012"
                   }
                 ]
               },
@@ -967,7 +967,7 @@
                   },
                   {
                     "Comment": "mysql-libs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202321911018"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911006"
                   }
                 ]
               },
@@ -980,7 +980,7 @@
                   },
                   {
                     "Comment": "mysql-server is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202321911016"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911004"
                   }
                 ]
               },
@@ -993,7 +993,7 @@
                   },
                   {
                     "Comment": "mysql-test is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202321911038"
+                    "TestRef": "oval:com.redhat.cve:tst:202321911010"
                   }
                 ]
               }

@@ -40743,6 +40743,186 @@
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232652001"
       }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "webkit2gtk3 is earlier than 0:2.38.5-1.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20232653001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20226634001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232653001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "webkit2gtk3-devel is earlier than 0:2.38.5-1.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20232653003",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20226634002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232653001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "webkit2gtk3-jsc is earlier than 0:2.38.5-1.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20232653005",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20226634003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232653001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "webkit2gtk3-jsc-devel is earlier than 0:2.38.5-1.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20232653007",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20226634004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232653001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs is earlier than 1:18.14.2-2.module+el9.2.0.z+18497+a402347c",
+      "ID": "oval:com.redhat.rhsa:tst:20232654001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20226595001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232654001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs-devel is earlier than 1:18.14.2-2.module+el9.2.0.z+18497+a402347c",
+      "ID": "oval:com.redhat.rhsa:tst:20232654003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228832002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232654001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs-docs is earlier than 1:18.14.2-2.module+el9.2.0.z+18497+a402347c",
+      "ID": "oval:com.redhat.rhsa:tst:20232654005",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20226595002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232654003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs-full-i18n is earlier than 1:18.14.2-2.module+el9.2.0.z+18497+a402347c",
+      "ID": "oval:com.redhat.rhsa:tst:20232654007",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20226595003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232654001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs-nodemon is earlier than 0:2.0.20-2.module+el9.2.0.z+18497+a402347c",
+      "ID": "oval:com.redhat.rhsa:tst:20232654009",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20226595006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232654004"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "npm is earlier than 1:9.5.0-1.18.14.2.2.module+el9.2.0.z+18497+a402347c",
+      "ID": "oval:com.redhat.rhsa:tst:20232654015",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20226595005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232654006"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs is earlier than 1:16.19.1-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20232655001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20226595001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232655001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs-docs is earlier than 1:16.19.1-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20232655003",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20226595002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232655003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs-full-i18n is earlier than 1:16.19.1-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20232655005",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20226595003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232655001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs-libs is earlier than 1:16.19.1-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20232655007",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20226595004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232655004"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "npm is earlier than 1:8.19.3-1.16.19.1.1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20232655009",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20226595005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232655005"
+      }
     }
   ],
   "RpmverifyfileTests": [

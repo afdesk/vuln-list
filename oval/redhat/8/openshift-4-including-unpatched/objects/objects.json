@@ -196,14 +196,14 @@
       "Name": "python-sqlparse"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202330861001",
+      "Version": "636",
+      "Name": "python-flask"
+    },
+    {
       "ID": "oval:com.redhat.unaffected:obj:201820834001",
       "Version": "635",
       "Name": "kibana"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:20191010083001",
-      "Version": "635",
-      "Name": "python-flask"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:201911360001",

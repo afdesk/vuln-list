@@ -4501,6 +4501,116 @@
       "Name": "ant-apache-bsf"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20213714006",
+      "Version": "636",
+      "Name": "kernel-64k-modules"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714007",
+      "Version": "636",
+      "Name": "kernel-64k-debug-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714009",
+      "Version": "636",
+      "Name": "kernel-64k-debug-modules"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714010",
+      "Version": "636",
+      "Name": "kernel-rt-modules-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714017",
+      "Version": "636",
+      "Name": "kernel-debug-modules-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714020",
+      "Version": "636",
+      "Name": "kernel-64k-debug-modules-extra"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714022",
+      "Version": "636",
+      "Name": "rtla"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714024",
+      "Version": "636",
+      "Name": "kernel-64k-debug"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714027",
+      "Version": "636",
+      "Name": "kernel-64k-debug-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714028",
+      "Version": "636",
+      "Name": "kernel-debug-uki-virt"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714031",
+      "Version": "636",
+      "Name": "kernel-64k-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714032",
+      "Version": "636",
+      "Name": "kernel-modules-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714035",
+      "Version": "636",
+      "Name": "kernel-64k-devel-matched"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714036",
+      "Version": "636",
+      "Name": "kernel-64k-debug-modules-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714037",
+      "Version": "636",
+      "Name": "kernel-64k-modules-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714038",
+      "Version": "636",
+      "Name": "kernel-uki-virt"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714042",
+      "Version": "636",
+      "Name": "kernel-zfcpdump-modules-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714050",
+      "Version": "636",
+      "Name": "kernel-64k-modules-extra"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714055",
+      "Version": "636",
+      "Name": "kernel-64k"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714058",
+      "Version": "636",
+      "Name": "kernel-64k-debug-devel-matched"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714061",
+      "Version": "636",
+      "Name": "kernel-rt-debug-modules-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714062",
+      "Version": "636",
+      "Name": "kernel-64k-core"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202137519001",
       "Version": "636",
       "Name": "memcached-selinux"
@@ -5218,47 +5328,47 @@
     {
       "ID": "oval:com.redhat.cve:obj:202225147001",
       "Version": "636",
-      "Name": "apr-util"
+      "Name": "apr-util-odbc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147002",
       "Version": "636",
-      "Name": "apr-util-odbc"
+      "Name": "apr-util"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147003",
       "Version": "636",
-      "Name": "apr-util-mysql"
+      "Name": "apr-util-openssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147004",
       "Version": "636",
-      "Name": "apr-util-pgsql"
+      "Name": "apr-util-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147005",
       "Version": "636",
-      "Name": "apr-util-bdb"
+      "Name": "apr-util-sqlite"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147006",
       "Version": "636",
-      "Name": "apr-util-devel"
+      "Name": "apr-util-bdb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147007",
       "Version": "636",
-      "Name": "apr-util-sqlite"
+      "Name": "apr-util-ldap"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147008",
       "Version": "636",
-      "Name": "apr-util-ldap"
+      "Name": "apr-util-pgsql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147009",
       "Version": "636",
-      "Name": "apr-util-openssl"
+      "Name": "apr-util-mysql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881001",
@@ -6871,154 +6981,39 @@
       "Name": "freetype-devel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232156002",
-      "Version": "636",
-      "Name": "kernel-64k-modules-extra"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156004",
-      "Version": "636",
-      "Name": "kernel-64k-debug-modules-extra"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156005",
-      "Version": "636",
-      "Name": "kernel-64k-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156006",
-      "Version": "636",
-      "Name": "kernel-debug-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156007",
-      "Version": "636",
-      "Name": "kernel-64k-modules"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156009",
-      "Version": "636",
-      "Name": "kernel-64k-devel-matched"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156014",
-      "Version": "636",
-      "Name": "kernel-zfcpdump-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156016",
-      "Version": "636",
-      "Name": "kernel-64k-debug-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156020",
-      "Version": "636",
-      "Name": "rtla"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156022",
-      "Version": "636",
-      "Name": "kernel-rt-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156024",
-      "Version": "636",
-      "Name": "kernel-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156029",
-      "Version": "636",
-      "Name": "kernel-64k-debug-modules"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156031",
-      "Version": "636",
-      "Name": "kernel-64k-debug-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156034",
-      "Version": "636",
-      "Name": "kernel-rt-debug-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156038",
-      "Version": "636",
-      "Name": "kernel-64k-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156046",
-      "Version": "636",
-      "Name": "kernel-64k"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156047",
-      "Version": "636",
-      "Name": "kernel-64k-debug-devel-matched"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156049",
-      "Version": "636",
-      "Name": "kernel-uki-virt"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156052",
-      "Version": "636",
-      "Name": "kernel-64k-debug-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156054",
-      "Version": "636",
-      "Name": "kernel-debug-uki-virt"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156060",
-      "Version": "636",
-      "Name": "kernel-64k-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232156062",
-      "Version": "636",
-      "Name": "kernel-64k-debug"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202321911002",
-      "Version": "636",
-      "Name": "mysql-common"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202321911007",
+      "ID": "oval:com.redhat.cve:obj:202321911001",
       "Version": "636",
       "Name": "mysql"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202321911008",
+      "ID": "oval:com.redhat.cve:obj:202321911002",
       "Version": "636",
       "Name": "mysql-server"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202321911009",
+      "ID": "oval:com.redhat.cve:obj:202321911003",
       "Version": "636",
       "Name": "mysql-libs"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202321911012",
+      "ID": "oval:com.redhat.cve:obj:202321911004",
       "Version": "636",
-      "Name": "mysql-devel"
+      "Name": "mysql-common"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202321911015",
-      "Version": "636",
-      "Name": "mysql-debugsource"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202321911019",
+      "ID": "oval:com.redhat.cve:obj:202321911005",
       "Version": "636",
       "Name": "mysql-test"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202321911020",
+      "ID": "oval:com.redhat.cve:obj:202321911006",
       "Version": "636",
       "Name": "mysql-errmsg"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202321911007",
+      "Version": "636",
+      "Name": "mysql-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232203001",
@@ -7233,37 +7228,37 @@
     {
       "ID": "oval:com.redhat.cve:obj:202327522001",
       "Version": "636",
-      "Name": "httpd-tools"
+      "Name": "httpd-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522002",
       "Version": "636",
-      "Name": "httpd-devel"
+      "Name": "mod_lua"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522003",
       "Version": "636",
-      "Name": "mod_lua"
+      "Name": "mod_ldap"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522004",
       "Version": "636",
-      "Name": "httpd-core"
+      "Name": "httpd-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522005",
       "Version": "636",
-      "Name": "mod_ldap"
+      "Name": "httpd-filesystem"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522006",
       "Version": "636",
-      "Name": "httpd-manual"
+      "Name": "httpd-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522007",
       "Version": "636",
-      "Name": "httpd-filesystem"
+      "Name": "httpd-manual"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522008",
@@ -7273,17 +7268,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:202327522009",
       "Version": "636",
-      "Name": "mod_proxy_html"
+      "Name": "httpd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522010",
       "Version": "636",
-      "Name": "mod_session"
+      "Name": "mod_proxy_html"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522011",
       "Version": "636",
-      "Name": "httpd"
+      "Name": "mod_session"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327533003",
@@ -12236,6 +12231,11 @@
       "Name": "openssl-debugsource"
     },
     {
+      "ID": "oval:com.redhat.unaffected:obj:20212478001",
+      "Version": "635",
+      "Name": "mysql-debugsource"
+    },
+    {
       "ID": "oval:com.redhat.unaffected:obj:202126691001",
       "Version": "635",
       "Name": "httpd-debugsource"
@@ -13394,6 +13394,11 @@
       "ID": "oval:com.redhat.unaffected:obj:202231129009",
       "Version": "635",
       "Name": "subscription-manager-cockpit"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20223358002",
+      "Version": "635",
+      "Name": "edk2"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202234903001",

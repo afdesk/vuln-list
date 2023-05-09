@@ -421,6 +421,11 @@
       "Name": "python3-sqlparse"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202330861001",
+      "Version": "636",
+      "Name": "python3-flask"
+    },
+    {
       "ID": "oval:com.redhat.rhsa:obj:20220993001",
       "Version": "634",
       "Name": "python-oslo-utils-lang"
