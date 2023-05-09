@@ -117,7 +117,7 @@
                   },
                   {
                     "Comment": "git is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202224765008"
+                    "TestRef": "oval:com.redhat.cve:tst:202322490004"
                   }
                 ]
               },
@@ -130,7 +130,7 @@
                   },
                   {
                     "Comment": "git-all is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202224765026"
+                    "TestRef": "oval:com.redhat.cve:tst:202322490010"
                   }
                 ]
               },
@@ -143,7 +143,7 @@
                   },
                   {
                     "Comment": "git-core is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202224765012"
+                    "TestRef": "oval:com.redhat.cve:tst:202322490030"
                   }
                 ]
               },
@@ -156,7 +156,7 @@
                   },
                   {
                     "Comment": "git-core-doc is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202224765030"
+                    "TestRef": "oval:com.redhat.cve:tst:202322490028"
                   }
                 ]
               },
@@ -169,7 +169,7 @@
                   },
                   {
                     "Comment": "git-credential-libsecret is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202224765024"
+                    "TestRef": "oval:com.redhat.cve:tst:202322490024"
                   }
                 ]
               },
@@ -182,7 +182,7 @@
                   },
                   {
                     "Comment": "git-daemon is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202224765014"
+                    "TestRef": "oval:com.redhat.cve:tst:202322490020"
                   }
                 ]
               },
@@ -195,7 +195,7 @@
                   },
                   {
                     "Comment": "git-email is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202224765004"
+                    "TestRef": "oval:com.redhat.cve:tst:202322490002"
                   }
                 ]
               },
@@ -208,7 +208,7 @@
                   },
                   {
                     "Comment": "git-gui is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202224765006"
+                    "TestRef": "oval:com.redhat.cve:tst:202322490022"
                   }
                 ]
               },
@@ -221,7 +221,7 @@
                   },
                   {
                     "Comment": "git-instaweb is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202224765010"
+                    "TestRef": "oval:com.redhat.cve:tst:202322490012"
                   }
                 ]
               },
@@ -234,7 +234,7 @@
                   },
                   {
                     "Comment": "git-subtree is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202224765028"
+                    "TestRef": "oval:com.redhat.cve:tst:202322490006"
                   }
                 ]
               },
@@ -247,7 +247,7 @@
                   },
                   {
                     "Comment": "git-svn is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202224765022"
+                    "TestRef": "oval:com.redhat.cve:tst:202322490018"
                   }
                 ]
               },
@@ -260,7 +260,7 @@
                   },
                   {
                     "Comment": "gitk is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202224765002"
+                    "TestRef": "oval:com.redhat.cve:tst:202322490008"
                   }
                 ]
               },
@@ -273,7 +273,7 @@
                   },
                   {
                     "Comment": "gitweb is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202224765018"
+                    "TestRef": "oval:com.redhat.cve:tst:202322490016"
                   }
                 ]
               },
@@ -286,7 +286,7 @@
                   },
                   {
                     "Comment": "perl-Git is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202224765016"
+                    "TestRef": "oval:com.redhat.cve:tst:202322490026"
                   }
                 ]
               },
@@ -299,7 +299,7 @@
                   },
                   {
                     "Comment": "perl-Git-SVN is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202224765020"
+                    "TestRef": "oval:com.redhat.cve:tst:202322490014"
                   }
                 ]
               }

@@ -1686,7 +1686,7 @@
                 "Criterions": [
                   {
                     "Comment": "Module mysql:8.0 is enabled",
-                    "TestRef": "oval:com.redhat.cve:tst:202221594025"
+                    "TestRef": "oval:com.redhat.cve:tst:202221594021"
                   }
                 ],
                 "Criterias": [
@@ -1702,7 +1702,7 @@
                           },
                           {
                             "Comment": "mecab is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202221594020"
+                            "TestRef": "oval:com.redhat.cve:tst:202221594004"
                           }
                         ]
                       },
@@ -1715,7 +1715,7 @@
                           },
                           {
                             "Comment": "mecab-ipadic is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202221594010"
+                            "TestRef": "oval:com.redhat.cve:tst:202221594008"
                           }
                         ]
                       },
@@ -1728,7 +1728,7 @@
                           },
                           {
                             "Comment": "mecab-ipadic-EUCJP is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202221594012"
+                            "TestRef": "oval:com.redhat.cve:tst:202221594010"
                           }
                         ]
                       },
@@ -1754,7 +1754,7 @@
                           },
                           {
                             "Comment": "mysql-common is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202221594004"
+                            "TestRef": "oval:com.redhat.cve:tst:202221594018"
                           }
                         ]
                       },
@@ -1767,7 +1767,7 @@
                           },
                           {
                             "Comment": "mysql-devel is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202221594014"
+                            "TestRef": "oval:com.redhat.cve:tst:202221594012"
                           }
                         ]
                       },
@@ -1780,7 +1780,7 @@
                           },
                           {
                             "Comment": "mysql-errmsg is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202221594018"
+                            "TestRef": "oval:com.redhat.cve:tst:202221594002"
                           }
                         ]
                       },
@@ -1793,7 +1793,7 @@
                           },
                           {
                             "Comment": "mysql-libs is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202221594022"
+                            "TestRef": "oval:com.redhat.cve:tst:202221594014"
                           }
                         ]
                       },
@@ -1819,7 +1819,7 @@
                           },
                           {
                             "Comment": "mysql-test is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202221594008"
+                            "TestRef": "oval:com.redhat.cve:tst:202221594020"
                           }
                         ]
                       }
