@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Mar 2004] DSA-461 calife - buffer overflow",
-    "Line": 17171,
+    "Line": 17174,
     "ID": "DSA-461",
     "Description": "calife - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0188}",
-      "Line": 17172,
+      "Line": 17175,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0188"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - calife 2.8.4c-1woody1",
-      "Line": 17173,
+      "Line": 17176,
       "Type": "package",
       "Release": "woody",
       "Package": "calife",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Jun 2006] DSA-1085-1 lynx-cur - several vulnerabilities",
-    "Line": 14633,
+    "Line": 14636,
     "ID": "DSA-1085-1",
     "Description": "lynx-cur - several vulnerabilities"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-3120}",
-      "Line": 14634,
+      "Line": 14637,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-3120"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - lynx-cur 2.8.5-2.5woody1",
-      "Line": 14635,
+      "Line": 14638,
       "Type": "package",
       "Release": "woody",
       "Package": "lynx-cur",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[sarge] - lynx-cur 2.8.6-9sarge1",
-      "Line": 14636,
+      "Line": 14639,
       "Type": "package",
       "Release": "sarge",
       "Package": "lynx-cur",

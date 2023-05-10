@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Dec 2004] DSA-610-1 cscope - insecure temporary file",
-    "Line": 16691,
+    "Line": 16694,
     "ID": "DSA-610-1",
     "Description": "cscope - insecure temporary file"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0996}",
-      "Line": 16692,
+      "Line": 16695,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0996"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - cscope 15.3-1woody2",
-      "Line": 16693,
+      "Line": 16696,
       "Type": "package",
       "Release": "woody",
       "Package": "cscope",

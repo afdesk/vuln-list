@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Mar 2012] DSA-2427-1 imagemagick - several",
-    "Line": 9973,
+    "Line": 9976,
     "ID": "DSA-2427-1",
     "Description": "imagemagick - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-0247 CVE-2012-0248}",
-      "Line": 9974,
+      "Line": 9977,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-0247",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[squeeze] - imagemagick 8:6.6.0.4-3+squeeze1",
-      "Line": 9975,
+      "Line": 9978,
       "Type": "package",
       "Release": "squeeze",
       "Package": "imagemagick",

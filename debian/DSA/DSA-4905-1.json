@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Apr 2021] DSA-4905-1 shibboleth-sp - security update",
-    "Line": 1635,
+    "Line": 1638,
     "ID": "DSA-4905-1",
     "Description": "shibboleth-sp - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-31826}",
-      "Line": 1636,
+      "Line": 1639,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-31826"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - shibboleth-sp 3.0.4+dfsg1-1+deb10u2",
-      "Line": 1637,
+      "Line": 1640,
       "Type": "package",
       "Release": "buster",
       "Package": "shibboleth-sp",

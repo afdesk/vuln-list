@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Nov 2022] DSA-5287-1 heimdal - security update",
-    "Line": 339,
+    "Line": 342,
     "ID": "DSA-5287-1",
     "Description": "heimdal - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-3671 CVE-2021-44758 CVE-2022-3437 CVE-2022-41916 CVE-2022-42898 CVE-2022-44640}",
-      "Line": 340,
+      "Line": 343,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-3671",
@@ -21,7 +21,7 @@
     },
     {
       "Original": "[bullseye] - heimdal 7.7.0+dfsg-2+deb11u2",
-      "Line": 341,
+      "Line": 344,
       "Type": "package",
       "Release": "bullseye",
       "Package": "heimdal",

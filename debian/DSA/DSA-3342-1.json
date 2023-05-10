@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Aug 2015] DSA-3342-1 vlc - security update",
-    "Line": 6935,
+    "Line": 6938,
     "ID": "DSA-3342-1",
     "Description": "vlc - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-5949}",
-      "Line": 6936,
+      "Line": 6939,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-5949"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - vlc 2.2.0~rc2-2+deb8u1",
-      "Line": 6937,
+      "Line": 6940,
       "Type": "package",
       "Release": "jessie",
       "Package": "vlc",

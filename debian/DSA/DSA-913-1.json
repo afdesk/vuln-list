@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Dec 2005] DSA-913-1 gdk-pixbuf - several",
-    "Line": 15346,
+    "Line": 15349,
     "ID": "DSA-913-1",
     "Description": "gdk-pixbuf - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2975 CVE-2005-2976 CVE-2005-3186}",
-      "Line": 15347,
+      "Line": 15350,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2975",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[woody] - gdk-pixbuf 0.17.0-2woody3",
-      "Line": 15348,
+      "Line": 15351,
       "Type": "package",
       "Release": "woody",
       "Package": "gdk-pixbuf",
@@ -27,7 +27,7 @@
     },
     {
       "Original": "[sarge] - gdk-pixbuf 0.22.0-8.1",
-      "Line": 15349,
+      "Line": 15352,
       "Type": "package",
       "Release": "sarge",
       "Package": "gdk-pixbuf",
@@ -36,7 +36,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA",
-      "Line": 15350,
+      "Line": 15353,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA"
     }

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Jun 2012] DSA-2495-1 openconnect - buffer overflow",
-    "Line": 9752,
+    "Line": 9755,
     "ID": "DSA-2495-1",
     "Description": "openconnect - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-3291}",
-      "Line": 9753,
+      "Line": 9756,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-3291"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - openconnect 2.25-0.1+squeeze1",
-      "Line": 9754,
+      "Line": 9757,
       "Type": "package",
       "Release": "squeeze",
       "Package": "openconnect",

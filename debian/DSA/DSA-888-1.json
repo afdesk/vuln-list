@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Nov 2005] DSA-888-1 openssl - cryptographic weakness",
-    "Line": 15465,
+    "Line": 15468,
     "ID": "DSA-888-1",
     "Description": "openssl - cryptographic weakness"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2969}",
-      "Line": 15466,
+      "Line": 15469,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2969"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - openssl 0.9.6c-2.woody.8",
-      "Line": 15467,
+      "Line": 15470,
       "Type": "package",
       "Release": "woody",
       "Package": "openssl",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[sarge] - openssl 0.9.7e-3sarge1",
-      "Line": 15468,
+      "Line": 15471,
       "Type": "package",
       "Release": "sarge",
       "Package": "openssl",
@@ -34,7 +34,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA",
-      "Line": 15469,
+      "Line": 15472,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA"
     }

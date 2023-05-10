@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Jan 2008] DSA-1449-1 loop-aes-utils privilege escalation",
-    "Line": 13404,
+    "Line": 13407,
     "ID": "DSA-1449-1",
     "Description": "loop-aes-utils privilege escalation"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-5191}",
-      "Line": 13405,
+      "Line": 13408,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-5191"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - loop-aes-utils 2.12r-15+etch1",
-      "Line": 13406,
+      "Line": 13409,
       "Type": "package",
       "Release": "etch",
       "Package": "loop-aes-utils",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[sarge] - loop-aes-utils 2.12p-4sarge2",
-      "Line": 13407,
+      "Line": 13410,
       "Type": "package",
       "Release": "sarge",
       "Package": "loop-aes-utils",

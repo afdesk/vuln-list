@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Sep 2003] DSA-387 gopher - buffer overflows",
-    "Line": 17419,
+    "Line": 17422,
     "ID": "DSA-387",
     "Description": "gopher - buffer overflows"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0805}",
-      "Line": 17420,
+      "Line": 17423,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0805"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - gopher 3.0.3woody1",
-      "Line": 17421,
+      "Line": 17424,
       "Type": "package",
       "Release": "woody",
       "Package": "gopher",
