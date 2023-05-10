@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Sep 2020] DLA-2365-1 netty-3.9 - security update",
-    "Line": 3187,
+    "Line": 3190,
     "ID": "DLA-2365-1",
     "Description": "netty-3.9 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-16869 CVE-2019-20444 CVE-2019-20445}",
-      "Line": 3188,
+      "Line": 3191,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-16869",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[stretch] - netty-3.9 3.9.9.Final-1+deb9u1",
-      "Line": 3189,
+      "Line": 3192,
       "Type": "package",
       "Release": "stretch",
       "Package": "netty-3.9",

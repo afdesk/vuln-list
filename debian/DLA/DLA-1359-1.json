@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 Apr 2018] DLA-1359-1 ruby1.8 - security update",
-    "Line": 6280,
+    "Line": 6283,
     "ID": "DLA-1359-1",
     "Description": "ruby1.8 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-17742 CVE-2018-6914 CVE-2018-8777 CVE-2018-8778 CVE-2018-8779 CVE-2018-8780}",
-      "Line": 6281,
+      "Line": 6284,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-17742",
@@ -21,7 +21,7 @@
     },
     {
       "Original": "[wheezy] - ruby1.8 1.8.7.358-7.1+deb7u6",
-      "Line": 6282,
+      "Line": 6285,
       "Type": "package",
       "Release": "wheezy",
       "Package": "ruby1.8",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Jan 2021] DLA-2431-2 libonig - regression update",
-    "Line": 2660,
+    "Line": 2663,
     "ID": "DLA-2431-2",
     "Description": "libonig - regression update"
   },
   "Annotations": [
     {
       "Original": "[stretch] - libonig 6.1.3-2+deb9u2",
-      "Line": 2661,
+      "Line": 2664,
       "Type": "package",
       "Release": "stretch",
       "Package": "libonig",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Mar 2017] DLA-879-1 firebird2.5 - security update",
-    "Line": 7723,
+    "Line": 7726,
     "ID": "DLA-879-1",
     "Description": "firebird2.5 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-6369}",
-      "Line": 7724,
+      "Line": 7727,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-6369"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - firebird2.5 2.5.2.26540.ds4-1~deb7u3",
-      "Line": 7725,
+      "Line": 7728,
       "Type": "package",
       "Release": "wheezy",
       "Package": "firebird2.5",
