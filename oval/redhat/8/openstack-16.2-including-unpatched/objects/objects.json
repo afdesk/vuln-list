@@ -333,17 +333,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20231633001",
       "Version": "636",
-      "Name": "python3-barbican"
+      "Name": "openstack-barbican-worker"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231633002",
       "Version": "636",
-      "Name": "openstack-barbican-api"
+      "Name": "python3-barbican"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231633003",
       "Version": "636",
-      "Name": "openstack-barbican"
+      "Name": "openstack-barbican-api"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231633004",
@@ -353,12 +353,37 @@
     {
       "ID": "oval:com.redhat.cve:obj:20231633005",
       "Version": "636",
-      "Name": "openstack-barbican-keystone-listener"
+      "Name": "openstack-barbican"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231633006",
       "Version": "636",
-      "Name": "openstack-barbican-worker"
+      "Name": "openstack-barbican-keystone-listener"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232088005",
+      "Version": "636",
+      "Name": "tripleo-ansible"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232088006",
+      "Version": "636",
+      "Name": "openstack-cinder"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232088009",
+      "Version": "636",
+      "Name": "python3-glance-store"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232088012",
+      "Version": "636",
+      "Name": "python3-cinder"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232088013",
+      "Version": "636",
+      "Name": "python3-os-brick"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202323934001",
@@ -464,11 +489,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20225116001",
       "Version": "635",
       "Name": "puppet-firewall"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20226969001",
-      "Version": "634",
-      "Name": "tripleo-ansible"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20226969002",
@@ -619,16 +639,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20228857020",
       "Version": "636",
       "Name": "erlang-xmerl"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20231279001",
-      "Version": "636",
-      "Name": "openstack-cinder"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20231279002",
-      "Version": "636",
-      "Name": "python3-cinder"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:201814041001",
