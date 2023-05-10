@@ -9376,11 +9376,6 @@
       "Name": "rhc"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20223064003",
-      "Version": "636",
-      "Name": "toolbox-debugsource"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202232149001",
       "Version": "636",
       "Name": "osbuild-composer-debugsource"
@@ -20334,6 +20329,11 @@
       "ID": "oval:com.redhat.unaffected:obj:202230580003",
       "Version": "635",
       "Name": "weldr-client-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202230580067",
+      "Version": "635",
+      "Name": "toolbox-debugsource"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202230580070",

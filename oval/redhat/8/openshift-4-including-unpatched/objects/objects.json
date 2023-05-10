@@ -143,12 +143,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20223064002",
       "Version": "636",
-      "Name": "golang-github-prometheus-promu"
+      "Name": "butane"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20223064004",
+      "ID": "oval:com.redhat.cve:obj:20223064003",
       "Version": "636",
-      "Name": "butane"
+      "Name": "golang-github-prometheus-promu"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223294001",

@@ -5936,11 +5936,6 @@
       "Name": "pam_cifscreds"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20223064003",
-      "Version": "636",
-      "Name": "toolbox-debugsource"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202232081007",
       "Version": "636",
       "Name": "mariadb-debugsource"
@@ -13384,6 +13379,11 @@
       "ID": "oval:com.redhat.unaffected:obj:202230580031",
       "Version": "635",
       "Name": "rsyslog-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202230580041",
+      "Version": "635",
+      "Name": "toolbox-debugsource"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202231129008",
