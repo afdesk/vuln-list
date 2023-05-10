@@ -131,6 +131,11 @@
       "Name": "json-smart"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202321971001",
+      "Version": "636",
+      "Name": "mysql-connector-java"
+    },
+    {
       "ID": "oval:com.redhat.rhsa:obj:20200601002",
       "Version": "637",
       "Name": "rubygem-qpid_proton-doc"

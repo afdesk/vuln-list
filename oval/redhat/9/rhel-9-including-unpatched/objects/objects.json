@@ -4283,47 +4283,47 @@
     {
       "ID": "oval:com.redhat.cve:obj:202135937001",
       "Version": "636",
-      "Name": "rpm-build-libs"
+      "Name": "rpm-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202135937002",
       "Version": "636",
-      "Name": "rpm-plugin-fapolicyd"
+      "Name": "rpm-build"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202135937003",
       "Version": "636",
-      "Name": "rpm-sign-libs"
+      "Name": "rpm-build-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202135937004",
       "Version": "636",
-      "Name": "rpm-plugin-audit"
+      "Name": "rpm-plugin-selinux"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202135937005",
       "Version": "636",
-      "Name": "rpm-cron"
+      "Name": "rpm-sign"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202135937006",
       "Version": "636",
-      "Name": "rpm-plugin-ima"
+      "Name": "rpm-plugin-fapolicyd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202135937007",
       "Version": "636",
-      "Name": "rpm-devel"
+      "Name": "rpm-plugin-audit"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202135937008",
       "Version": "636",
-      "Name": "rpm-libs"
+      "Name": "rpm-sign-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202135937009",
       "Version": "636",
-      "Name": "rpm"
+      "Name": "python3-rpm"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202135937010",
@@ -4333,32 +4333,32 @@
     {
       "ID": "oval:com.redhat.cve:obj:202135937011",
       "Version": "636",
-      "Name": "rpm-plugin-selinux"
+      "Name": "rpm-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202135937012",
       "Version": "636",
-      "Name": "rpm-plugin-syslog"
+      "Name": "rpm-apidocs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202135937013",
       "Version": "636",
-      "Name": "rpm-apidocs"
+      "Name": "rpm-plugin-syslog"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202135937014",
       "Version": "636",
-      "Name": "python3-rpm"
+      "Name": "rpm"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202135937015",
       "Version": "636",
-      "Name": "rpm-build"
+      "Name": "rpm-plugin-ima"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202135937016",
       "Version": "636",
-      "Name": "rpm-sign"
+      "Name": "rpm-cron"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213595015",
@@ -4501,114 +4501,114 @@
       "Name": "ant-apache-bsf"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20213714006",
-      "Version": "636",
-      "Name": "kernel-64k-modules"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714007",
-      "Version": "636",
-      "Name": "kernel-64k-debug-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714009",
-      "Version": "636",
-      "Name": "kernel-64k-debug-modules"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714010",
-      "Version": "636",
-      "Name": "kernel-rt-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714017",
-      "Version": "636",
-      "Name": "kernel-debug-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714020",
-      "Version": "636",
-      "Name": "kernel-64k-debug-modules-extra"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714022",
-      "Version": "636",
-      "Name": "rtla"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714024",
-      "Version": "636",
-      "Name": "kernel-64k-debug"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714027",
-      "Version": "636",
-      "Name": "kernel-64k-debug-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714028",
-      "Version": "636",
-      "Name": "kernel-debug-uki-virt"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714031",
-      "Version": "636",
-      "Name": "kernel-64k-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714032",
+      "ID": "oval:com.redhat.cve:obj:20213714003",
       "Version": "636",
       "Name": "kernel-modules-core"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20213714035",
-      "Version": "636",
-      "Name": "kernel-64k-devel-matched"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714036",
-      "Version": "636",
-      "Name": "kernel-64k-debug-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714037",
-      "Version": "636",
-      "Name": "kernel-64k-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714038",
-      "Version": "636",
-      "Name": "kernel-uki-virt"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714042",
-      "Version": "636",
-      "Name": "kernel-zfcpdump-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714050",
-      "Version": "636",
-      "Name": "kernel-64k-modules-extra"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714055",
+      "ID": "oval:com.redhat.cve:obj:20213714004",
       "Version": "636",
       "Name": "kernel-64k"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20213714058",
+      "ID": "oval:com.redhat.cve:obj:20213714008",
       "Version": "636",
-      "Name": "kernel-64k-debug-devel-matched"
+      "Name": "kernel-rt-modules-core"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20213714061",
+      "ID": "oval:com.redhat.cve:obj:20213714009",
+      "Version": "636",
+      "Name": "kernel-64k-modules"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714013",
+      "Version": "636",
+      "Name": "kernel-64k-debug-modules"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714015",
+      "Version": "636",
+      "Name": "rtla"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714021",
+      "Version": "636",
+      "Name": "kernel-64k-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714022",
+      "Version": "636",
+      "Name": "kernel-debug-modules-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714023",
+      "Version": "636",
+      "Name": "kernel-uki-virt"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714029",
+      "Version": "636",
+      "Name": "kernel-64k-debug-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714030",
+      "Version": "636",
+      "Name": "kernel-64k-debug-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714031",
       "Version": "636",
       "Name": "kernel-rt-debug-modules-core"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20213714062",
+      "ID": "oval:com.redhat.cve:obj:20213714035",
       "Version": "636",
-      "Name": "kernel-64k-core"
+      "Name": "kernel-64k-debug-modules-extra"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714037",
+      "Version": "636",
+      "Name": "kernel-64k-debug-devel-matched"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714043",
+      "Version": "636",
+      "Name": "kernel-zfcpdump-modules-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714044",
+      "Version": "636",
+      "Name": "kernel-64k-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714048",
+      "Version": "636",
+      "Name": "kernel-debug-uki-virt"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714050",
+      "Version": "636",
+      "Name": "kernel-64k-debug-modules-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714057",
+      "Version": "636",
+      "Name": "kernel-64k-modules-extra"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714058",
+      "Version": "636",
+      "Name": "kernel-64k-debug"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714059",
+      "Version": "636",
+      "Name": "kernel-64k-modules-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714061",
+      "Version": "636",
+      "Name": "kernel-64k-devel-matched"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137519001",
@@ -5181,24 +5181,19 @@
       "Name": "compat-openssl11"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221705002",
-      "Version": "636",
-      "Name": "weldr-client"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20221705004",
+      "ID": "oval:com.redhat.cve:obj:20221705003",
       "Version": "636",
       "Name": "butane"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221705006",
-      "Version": "636",
-      "Name": "git-lfs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20221705007",
+      "ID": "oval:com.redhat.cve:obj:20221705005",
       "Version": "636",
       "Name": "ignition"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20221705016",
+      "Version": "636",
+      "Name": "weldr-client"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20221708001",
@@ -5259,6 +5254,11 @@
       "ID": "oval:com.redhat.cve:obj:202223527001",
       "Version": "636",
       "Name": "mod_auth_openidc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202223806001",
+      "Version": "636",
+      "Name": "git-lfs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20222476001",
@@ -5378,57 +5378,57 @@
     {
       "ID": "oval:com.redhat.cve:obj:202225881002",
       "Version": "636",
-      "Name": "aspnetcore-targeting-pack-6.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202225881004",
-      "Version": "636",
-      "Name": "dotnet-apphost-pack-6.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202225881005",
-      "Version": "636",
-      "Name": "dotnet-runtime-6.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202225881006",
-      "Version": "636",
-      "Name": "dotnet-sdk-6.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202225881008",
-      "Version": "636",
-      "Name": "dotnet-hostfxr-6.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202225881010",
-      "Version": "636",
-      "Name": "dotnet-host"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202225881011",
-      "Version": "636",
-      "Name": "dotnet-targeting-pack-6.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202225881012",
-      "Version": "636",
       "Name": "dotnet6.0"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202225881013",
-      "Version": "636",
-      "Name": "aspnetcore-runtime-6.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202225881014",
+      "ID": "oval:com.redhat.cve:obj:202225881003",
       "Version": "636",
       "Name": "netstandard-targeting-pack-2.1"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202225881017",
+      "ID": "oval:com.redhat.cve:obj:202225881004",
+      "Version": "636",
+      "Name": "aspnetcore-runtime-6.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202225881005",
+      "Version": "636",
+      "Name": "dotnet-sdk-6.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202225881006",
+      "Version": "636",
+      "Name": "dotnet-host"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202225881007",
+      "Version": "636",
+      "Name": "dotnet-apphost-pack-6.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202225881008",
+      "Version": "636",
+      "Name": "dotnet-runtime-6.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202225881009",
+      "Version": "636",
+      "Name": "aspnetcore-targeting-pack-6.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202225881010",
+      "Version": "636",
+      "Name": "dotnet-targeting-pack-6.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202225881011",
       "Version": "636",
       "Name": "dotnet-sdk-6.0-source-built-artifacts"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202225881012",
+      "Version": "636",
+      "Name": "dotnet-hostfxr-6.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202226126001",
@@ -6886,39 +6886,29 @@
       "Name": "php-bcmath"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20224904005",
-      "Version": "636",
-      "Name": "c-ares-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20224904007",
-      "Version": "636",
-      "Name": "c-ares"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20230430001",
       "Version": "636",
       "Name": "thunderbird-flatpak-container"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20230464001",
+      "ID": "oval:com.redhat.cve:obj:20230464002",
       "Version": "636",
-      "Name": "openssl-perl"
+      "Name": "openssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230464003",
       "Version": "636",
-      "Name": "openssl"
+      "Name": "openssl-libs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20230464005",
+      "Version": "636",
+      "Name": "openssl-perl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230464006",
       "Version": "636",
       "Name": "openssl-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20230464008",
-      "Version": "636",
-      "Name": "openssl-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230664001",
@@ -7014,26 +7004,6 @@
       "ID": "oval:com.redhat.cve:obj:202321911007",
       "Version": "636",
       "Name": "mysql-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232203001",
-      "Version": "636",
-      "Name": "webkit2gtk3"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232203002",
-      "Version": "636",
-      "Name": "webkit2gtk3-jsc-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232203003",
-      "Version": "636",
-      "Name": "webkit2gtk3-jsc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232203004",
-      "Version": "636",
-      "Name": "webkit2gtk3-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202322490001",
@@ -7779,6 +7749,26 @@
       "ID": "oval:com.redhat.rhsa:obj:20226608001",
       "Version": "636",
       "Name": "dbus-broker"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20226634001",
+      "Version": "636",
+      "Name": "webkit2gtk3"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20226634002",
+      "Version": "636",
+      "Name": "webkit2gtk3-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20226634003",
+      "Version": "636",
+      "Name": "webkit2gtk3-jsc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20226634004",
+      "Version": "636",
+      "Name": "webkit2gtk3-jsc-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20226763001",
@@ -12769,6 +12759,16 @@
       "ID": "oval:com.redhat.unaffected:obj:20213667018",
       "Version": "635",
       "Name": "libvirt-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20213672001",
+      "Version": "635",
+      "Name": "c-ares-devel"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20213672002",
+      "Version": "635",
+      "Name": "c-ares"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202136770001",

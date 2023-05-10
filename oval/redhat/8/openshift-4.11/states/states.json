@@ -64,7 +64,7 @@
         "Operation": "pattern match"
       },
       "Evr": {
-        "Text": "1:1.23.4-2.el8",
+        "Text": "0:4.11.0-202206222028.p0.g39cfc66.assembly.stream.el8",
         "Datatype": "evr_string",
         "Operation": "less than"
       },
@@ -79,7 +79,7 @@
         "Operation": "pattern match"
       },
       "Evr": {
-        "Text": "0:0.15.0-1.rhaos4.11.el8",
+        "Text": "1:1.23.4-2.el8",
         "Datatype": "evr_string",
         "Operation": "less than"
       },
@@ -88,7 +88,11 @@
     {
       "ID": "oval:com.redhat.rhsa:ste:20225068004",
       "Version": "642",
-      "Arch": {},
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
       "Evr": {
         "Text": "0:0.15.0-1.rhaos4.11.el8",
         "Datatype": "evr_string",
@@ -99,13 +103,9 @@
     {
       "ID": "oval:com.redhat.rhsa:ste:20225068005",
       "Version": "642",
-      "Arch": {
-        "Text": "aarch64|ppc64le|s390x|x86_64",
-        "Datatype": "string",
-        "Operation": "pattern match"
-      },
+      "Arch": {},
       "Evr": {
-        "Text": "0:1.0.1-5.rhaos4.11.el8",
+        "Text": "0:0.15.0-1.rhaos4.11.el8",
         "Datatype": "evr_string",
         "Operation": "less than"
       },
@@ -120,7 +120,7 @@
         "Operation": "pattern match"
       },
       "Evr": {
-        "Text": "2:4.0.2-6.rhaos4.11.el8",
+        "Text": "2:2.1.2-2.rhaos4.11.el8",
         "Datatype": "evr_string",
         "Operation": "less than"
       },
@@ -131,7 +131,7 @@
       "Version": "642",
       "Arch": {},
       "Evr": {
-        "Text": "2:4.0.2-6.rhaos4.11.el8",
+        "Text": "0:0.20.3-2.rhaos4.11.el8",
         "Datatype": "evr_string",
         "Operation": "less than"
       },
@@ -146,7 +146,7 @@
         "Operation": "pattern match"
       },
       "Evr": {
-        "Text": "3:1.1.2-1.rhaos4.11.el8",
+        "Text": "0:1.0.1-5.rhaos4.11.el8",
         "Datatype": "evr_string",
         "Operation": "less than"
       },
@@ -155,13 +155,9 @@
     {
       "ID": "oval:com.redhat.rhsa:ste:20225068009",
       "Version": "642",
-      "Arch": {
-        "Text": "aarch64|ppc64le|s390x|x86_64",
-        "Datatype": "string",
-        "Operation": "pattern match"
-      },
+      "Arch": {},
       "Evr": {
-        "Text": "2:1.5.2-3.rhaos4.11.el8",
+        "Text": "2:1-21.rhaos4.11.el8",
         "Datatype": "evr_string",
         "Operation": "less than"
       },
@@ -176,7 +172,7 @@
         "Operation": "pattern match"
       },
       "Evr": {
-        "Text": "0:4.11.0-202207082037.p0.g9546431.assembly.stream.el8",
+        "Text": "0:0.15.0-2.rhaos4.11.el8",
         "Datatype": "evr_string",
         "Operation": "less than"
       },
@@ -186,12 +182,12 @@
       "ID": "oval:com.redhat.rhsa:ste:20225068011",
       "Version": "642",
       "Arch": {
-        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Text": "ppc64le|s390x",
         "Datatype": "string",
         "Operation": "pattern match"
       },
       "Evr": {
-        "Text": "0:2.14.0-3.rhaos4.11.el8",
+        "Text": "0:0.15.0-2.rhaos4.11.el8",
         "Datatype": "evr_string",
         "Operation": "less than"
       },
@@ -206,7 +202,7 @@
         "Operation": "pattern match"
       },
       "Evr": {
-        "Text": "0:1.24.1-11.rhaos4.11.gitb0d2ef3.el8",
+        "Text": "0:3.15-4.rhaos4.11.el8",
         "Datatype": "evr_string",
         "Operation": "less than"
       },
@@ -221,7 +217,7 @@
         "Operation": "pattern match"
       },
       "Evr": {
-        "Text": "0:4.11.0-202207291716.p0.g7075089.assembly.stream.el8",
+        "Text": "0:1.4.2-1.rhaos4.11.el8",
         "Datatype": "evr_string",
         "Operation": "less than"
       },
@@ -229,6 +225,327 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:ste:20225068014",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:1.9-1.rhaos4.11.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068015",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:2.2.24-1.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068016",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|ppc64le|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:2.4.2-1.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068017",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:4.4.0-2.rhaos4.11.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068018",
+      "Version": "642",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:4.11.0-202206240216.p0.g9de1722.assembly.stream.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068019",
+      "Version": "642",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:4.11.0-202206232036.p0.g66c0cec.assembly.stream.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068020",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:2.17.0-22.el8fdp",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068021",
+      "Version": "642",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:2.17.0-22.el8fdp",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068022",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:22.03.0-37.el8fdp",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068023",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "2:4.0.2-6.rhaos4.11.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068024",
+      "Version": "642",
+      "Arch": {},
+      "Evr": {
+        "Text": "2:4.0.2-6.rhaos4.11.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068025",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "3:1.1.2-1.rhaos4.11.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068026",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:5.3.0-1.rhaos4.11.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068027",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:0.2.5-3.rhaos4.11.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068028",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "2:1.5.2-3.rhaos4.11.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068029",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:1.1.8-1.rhaos4.11.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068030",
+      "Version": "642",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:0.0.9-1.rhaos4.11.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068031",
+      "Version": "642",
+      "Arch": {},
+      "Evr": {
+        "Text": "2:2.188.0-1.rhaos4.11.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068032",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:4.11.0-202207082037.p0.g9546431.assembly.stream.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068033",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:2.14.0-3.rhaos4.11.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068034",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:1.24.2-4.1.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068035",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:1.24.1-11.rhaos4.11.gitb0d2ef3.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068036",
+      "Version": "642",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:4.11.0-202207291716.p0.g7075089.assembly.stream.el8",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20225068037",
       "Version": "642",
       "Arch": {
         "Text": "x86_64",
@@ -243,15 +560,15 @@
       "SignatureKeyID": {}
     },
     {
-      "ID": "oval:com.redhat.rhsa:ste:20226102001",
-      "Version": "636",
+      "ID": "oval:com.redhat.rhsa:ste:20225068038",
+      "Version": "642",
       "Arch": {
         "Text": "aarch64|ppc64le|s390x|x86_64",
         "Datatype": "string",
         "Operation": "pattern match"
       },
       "Evr": {
-        "Text": "0:0.15.0-2.rhaos4.11.el8",
+        "Text": "0:22.06.0-27.el8fdp",
         "Datatype": "evr_string",
         "Operation": "less than"
       },

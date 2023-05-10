@@ -97,7 +97,7 @@
                   },
                   {
                     "Comment": "butane is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20225068006"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20225068008"
                   }
                 ]
               },
@@ -110,7 +110,7 @@
                   },
                   {
                     "Comment": "butane-redistributable is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20225068008"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20225068010"
                   }
                 ]
               },
@@ -136,7 +136,7 @@
                   },
                   {
                     "Comment": "ignition is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20225068032"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20225068112"
                   }
                 ]
               },
@@ -149,7 +149,7 @@
                   },
                   {
                     "Comment": "ignition-validate is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20225068034"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20225068114"
                   }
                 ]
               }
