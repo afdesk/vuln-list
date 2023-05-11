@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Nov 2022] DLA-3178-1 ffmpeg - security update",
-    "Line": 722,
+    "Line": 725,
     "ID": "DLA-3178-1",
     "Description": "ffmpeg - security update"
   },
   "Annotations": [
     {
       "Original": "[buster] - ffmpeg 7:4.1.10-0+deb10u1",
-      "Line": 723,
+      "Line": 726,
       "Type": "package",
       "Release": "buster",
       "Package": "ffmpeg",

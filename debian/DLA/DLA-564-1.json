@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Jul 2016] DLA-564-1 tardiff - security update",
-    "Line": 8703,
+    "Line": 8706,
     "ID": "DLA-564-1",
     "Description": "tardiff - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-0857 CVE-2015-0858}",
-      "Line": 8704,
+      "Line": 8707,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-0857",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[wheezy] - tardiff 0.1-1+deb7u1",
-      "Line": 8705,
+      "Line": 8708,
       "Type": "package",
       "Release": "wheezy",
       "Package": "tardiff",
