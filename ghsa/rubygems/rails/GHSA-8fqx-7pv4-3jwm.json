@@ -45,6 +45,30 @@
       },
       {
         "Url": "https://www.vupen.com/english/advisories/2009/2544"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/actionpack/CVE-2008-7248.yml"
+      },
+      {
+        "Url": "http://groups.google.com/group/rubyonrails-security/browse_thread/thread/d741ee286e36e301?hl=en"
+      },
+      {
+        "Url": "http://lists.opensuse.org/opensuse-security-announce/2010-03/msg00004.html"
+      },
+      {
+        "Url": "http://pseudo-flaw.net/content/web-browsers/form-data-encoding-roundup/"
+      },
+      {
+        "Url": "http://weblog.rubyonrails.org/2008/11/18/potential-circumvention-of-csrf-protection-in-rails-2-1"
+      },
+      {
+        "Url": "http://www.openwall.com/lists/oss-security/2009/11/28/1"
+      },
+      {
+        "Url": "http://www.openwall.com/lists/oss-security/2009/12/02/2"
+      },
+      {
+        "Url": "http://www.rorsecurity.info/journal/2008/11/19/circumvent-rails-csrf-protection.html"
       }
     ],
     "Identifiers": [
@@ -62,7 +86,7 @@
     "PublishedAt": "2017-10-24T18:33:38Z",
     "Severity": "MODERATE",
     "Summary": "Improper Input Validation in rails",
-    "UpdatedAt": "2023-02-13T17:51:37Z",
+    "UpdatedAt": "2023-05-11T13:32:45Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
