@@ -166,7 +166,7 @@
       "Name": "future"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241722003",
+      "ID": "oval:com.redhat.cve:obj:202241722002",
       "Version": "636",
       "Name": "conmon-rs"
     },
