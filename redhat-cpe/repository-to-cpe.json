@@ -21571,21 +21571,24 @@
   ],
   "rhel-9-for-ppc64le-resilientstorage-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
-    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage"
+    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
+    "cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
   ],
   "rhel-9-for-ppc64le-resilientstorage-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage"
   ],
   "rhel-9-for-ppc64le-resilientstorage-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
-    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage"
+    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
+    "cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
   ],
   "rhel-9-for-ppc64le-resilientstorage-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage"
   ],
   "rhel-9-for-ppc64le-resilientstorage-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
-    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage"
+    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
+    "cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
   ],
   "rhel-9-for-ppc64le-resilientstorage-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage"
@@ -21985,21 +21988,24 @@
   ],
   "rhel-9-for-s390x-resilientstorage-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
-    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage"
+    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
+    "cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
   ],
   "rhel-9-for-s390x-resilientstorage-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage"
   ],
   "rhel-9-for-s390x-resilientstorage-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
-    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage"
+    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
+    "cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
   ],
   "rhel-9-for-s390x-resilientstorage-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage"
   ],
   "rhel-9-for-s390x-resilientstorage-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
-    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage"
+    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
+    "cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
   ],
   "rhel-9-for-s390x-resilientstorage-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage"
@@ -22220,6 +22226,9 @@
   "rhel-9-for-x86_64-baseos-aus-rpms": [
     "cpe:/o:redhat:rhel_eus:9.2::baseos"
   ],
+  "rhel-9-for-x86_64-baseos-aus-source-rpms": [
+    "cpe:/o:redhat:rhel_eus:9.2::baseos"
+  ],
   "rhel-9-for-x86_64-baseos-debug-rpms": [
     "cpe:/o:redhat:enterprise_linux:9::baseos"
   ],
@@ -22381,21 +22390,24 @@
   ],
   "rhel-9-for-x86_64-resilientstorage-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
-    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage"
+    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
+    "cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
   ],
   "rhel-9-for-x86_64-resilientstorage-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage"
   ],
   "rhel-9-for-x86_64-resilientstorage-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
-    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage"
+    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
+    "cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
   ],
   "rhel-9-for-x86_64-resilientstorage-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage"
   ],
   "rhel-9-for-x86_64-resilientstorage-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
-    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage"
+    "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
+    "cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
   ],
   "rhel-9-for-x86_64-resilientstorage-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage"
