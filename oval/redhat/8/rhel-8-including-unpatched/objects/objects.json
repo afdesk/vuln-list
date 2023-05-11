@@ -5116,6 +5116,11 @@
       "Name": "nss-softokn"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202012762001",
+      "Version": "636",
+      "Name": "libfastjson"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202012825001",
       "Version": "636",
       "Name": "inkscape-view"
@@ -8068,12 +8073,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138561003",
       "Version": "636",
-      "Name": "osbuild-composer-dnf-json"
+      "Name": "osbuild-composer-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561004",
       "Version": "636",
-      "Name": "osbuild-composer-core"
+      "Name": "osbuild-composer-dnf-json"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138593001",
@@ -9801,6 +9806,21 @@
       "Name": "libX11-devel"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202236944001",
+      "Version": "636",
+      "Name": "scala-swing"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202236944002",
+      "Version": "636",
+      "Name": "scala-apidoc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202236944003",
+      "Version": "636",
+      "Name": "scala"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202237290001",
       "Version": "636",
       "Name": "nautilus"
@@ -10043,12 +10063,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202241722068",
       "Version": "636",
-      "Name": "delve"
+      "Name": "go-toolset"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241722069",
       "Version": "636",
-      "Name": "go-toolset"
+      "Name": "delve"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241859001",

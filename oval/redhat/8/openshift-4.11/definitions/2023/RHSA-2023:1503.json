@@ -64,7 +64,7 @@
     "Criterions": [
       {
         "Comment": "Red Hat Enterprise Linux must be installed",
-        "TestRef": "oval:com.redhat.rhba:tst:20230564005"
+        "TestRef": "oval:com.redhat.rhba:tst:20227200005"
       }
     ],
     "Criterias": [
@@ -86,11 +86,11 @@
             "Criterions": [
               {
                 "Comment": "Red Hat Enterprise Linux 8 is installed",
-                "TestRef": "oval:com.redhat.rhba:tst:20230564003"
+                "TestRef": "oval:com.redhat.rhba:tst:20227200003"
               },
               {
                 "Comment": "Red Hat CoreOS 4 is installed",
-                "TestRef": "oval:com.redhat.rhba:tst:20230564004"
+                "TestRef": "oval:com.redhat.rhba:tst:20227200004"
               }
             ]
           }

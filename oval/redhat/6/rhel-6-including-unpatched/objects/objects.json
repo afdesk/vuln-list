@@ -933,67 +933,67 @@
     {
       "ID": "oval:com.redhat.cve:obj:20100424001",
       "Version": "636",
-      "Name": "cronie-noanacron"
+      "Name": "cronie-anacron"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20100424002",
       "Version": "636",
-      "Name": "cronie-anacron"
+      "Name": "cronie"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20100424003",
       "Version": "636",
-      "Name": "cronie"
+      "Name": "cronie-noanacron"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101119001",
       "Version": "636",
-      "Name": "qt-mysql"
+      "Name": "qt-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101119002",
       "Version": "636",
-      "Name": "qt"
+      "Name": "qt-demos"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101119003",
       "Version": "636",
-      "Name": "qt-devel"
+      "Name": "qt-odbc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101119004",
       "Version": "636",
-      "Name": "qt-demos"
+      "Name": "phonon-backend-gstreamer"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101119005",
       "Version": "636",
-      "Name": "qt-examples"
+      "Name": "qt-x11"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101119006",
       "Version": "636",
-      "Name": "qt-odbc"
+      "Name": "qt"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101119007",
       "Version": "636",
-      "Name": "qt-sqlite"
+      "Name": "qt-examples"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101119008",
       "Version": "636",
-      "Name": "qt-x11"
+      "Name": "qt-postgresql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101119009",
       "Version": "636",
-      "Name": "phonon-backend-gstreamer"
+      "Name": "qt-mysql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101119010",
       "Version": "636",
-      "Name": "qt-postgresql"
+      "Name": "qt-sqlite"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101119011",
@@ -1058,52 +1058,52 @@
     {
       "ID": "oval:com.redhat.cve:obj:20101169001",
       "Version": "636",
-      "Name": "postgresql-docs"
+      "Name": "postgresql-pltcl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101169002",
       "Version": "636",
-      "Name": "postgresql-libs"
+      "Name": "postgresql-plperl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101169003",
       "Version": "636",
-      "Name": "postgresql-test"
+      "Name": "postgresql-contrib"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101169004",
       "Version": "636",
-      "Name": "postgresql-plperl"
+      "Name": "postgresql-plpython"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101169005",
       "Version": "636",
-      "Name": "postgresql-pltcl"
+      "Name": "postgresql-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101169006",
       "Version": "636",
-      "Name": "postgresql-server"
+      "Name": "postgresql-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101169007",
       "Version": "636",
-      "Name": "postgresql-plpython"
+      "Name": "postgresql-server"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101169008",
       "Version": "636",
-      "Name": "postgresql-devel"
+      "Name": "postgresql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101169009",
       "Version": "636",
-      "Name": "postgresql-contrib"
+      "Name": "postgresql-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101169010",
       "Version": "636",
-      "Name": "postgresql"
+      "Name": "postgresql-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101192001",
@@ -1116,19 +1116,19 @@
       "Name": "libesmtp"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20101399006",
+      "ID": "oval:com.redhat.cve:obj:20101399003",
       "Version": "636",
-      "Name": "webkitgtk"
+      "Name": "webkitgtk-devel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20101399008",
+      "ID": "oval:com.redhat.cve:obj:20101399013",
       "Version": "636",
       "Name": "webkitgtk-doc"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20101399009",
+      "ID": "oval:com.redhat.cve:obj:20101399014",
       "Version": "636",
-      "Name": "webkitgtk-devel"
+      "Name": "webkitgtk"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101439001",
@@ -1158,12 +1158,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20101624001",
       "Version": "636",
-      "Name": "pidgin-devel"
+      "Name": "pidgin-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101624002",
       "Version": "636",
-      "Name": "libpurple-devel"
+      "Name": "finch-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101624003",
@@ -1173,12 +1173,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20101624004",
       "Version": "636",
-      "Name": "libpurple"
+      "Name": "libpurple-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101624005",
       "Version": "636",
-      "Name": "finch-devel"
+      "Name": "libpurple"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101624006",
@@ -1188,22 +1188,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:20101624007",
       "Version": "636",
-      "Name": "libpurple-perl"
+      "Name": "pidgin-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101624008",
       "Version": "636",
-      "Name": "pidgin-perl"
+      "Name": "libpurple-perl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101624009",
       "Version": "636",
-      "Name": "finch"
+      "Name": "pidgin-perl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101624010",
       "Version": "636",
-      "Name": "pidgin-docs"
+      "Name": "finch"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20101849001",
@@ -2871,24 +2871,24 @@
       "Name": "tftp"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20112485004",
-      "Version": "636",
-      "Name": "gtk2-immodules"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20112485008",
+      "ID": "oval:com.redhat.cve:obj:20112485002",
       "Version": "636",
       "Name": "gtk2-devel"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20112485008",
+      "Version": "636",
+      "Name": "gtk2-immodule-xim"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20112485009",
       "Version": "636",
-      "Name": "gtk2"
+      "Name": "gtk2-immodules"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20112485012",
       "Version": "636",
-      "Name": "gtk2-immodule-xim"
+      "Name": "gtk2"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20112485013",
@@ -9818,12 +9818,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202012762001",
       "Version": "636",
-      "Name": "json-c"
+      "Name": "json-c-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202012762002",
       "Version": "636",
-      "Name": "json-c-devel"
+      "Name": "json-c"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202012762003",

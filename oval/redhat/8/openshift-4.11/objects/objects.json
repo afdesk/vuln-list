@@ -1,6 +1,11 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.redhat.rhba:obj:20227200001",
+      "Version": "638",
+      "Name": "openshift-hyperkube"
+    },
+    {
       "ID": "oval:com.redhat.rhba:obj:20230564001",
       "Version": "635",
       "Name": "cri-o"
@@ -276,11 +281,6 @@
       "Name": "container-selinux"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20225068055",
-      "Version": "642",
-      "Name": "openshift-hyperkube"
-    },
-    {
       "ID": "oval:com.redhat.rhsa:obj:20225068056",
       "Version": "642",
       "Name": "ignition"
@@ -328,8 +328,8 @@
   ],
   "RpmverifyfileObjects": [
     {
-      "ID": "oval:com.redhat.rhba:obj:20230564002",
-      "AttrVersion": "635",
+      "ID": "oval:com.redhat.rhba:obj:20227200002",
+      "AttrVersion": "638",
       "Behaviors": {
         "Noconfigfiles": "true",
         "Noghostfiles": "true",

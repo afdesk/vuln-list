@@ -2456,6 +2456,11 @@
       "Name": "nss-util"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202012762001",
+      "Version": "636",
+      "Name": "libfastjson"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202014343001",
       "Version": "636",
       "Name": "python3-pyyaml"
@@ -4708,57 +4713,57 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138561001",
       "Version": "636",
-      "Name": "podman-gvproxy"
+      "Name": "osbuild-composer-worker"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561002",
       "Version": "636",
-      "Name": "podman-remote"
+      "Name": "osbuild-composer"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561003",
       "Version": "636",
-      "Name": "osbuild-composer-core"
+      "Name": "podman-gvproxy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561004",
       "Version": "636",
-      "Name": "osbuild-composer"
+      "Name": "podman-tests"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561005",
       "Version": "636",
-      "Name": "podman-tests"
+      "Name": "osbuild-composer-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561006",
       "Version": "636",
-      "Name": "podman-plugins"
+      "Name": "podman-docker"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561007",
       "Version": "636",
-      "Name": "osbuild-composer-worker"
+      "Name": "osbuild-composer-dnf-json"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561008",
       "Version": "636",
-      "Name": "podman-catatonit"
+      "Name": "podman-plugins"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561009",
       "Version": "636",
-      "Name": "podman"
+      "Name": "podman-remote"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561010",
       "Version": "636",
-      "Name": "podman-docker"
+      "Name": "podman-catatonit"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561011",
       "Version": "636",
-      "Name": "osbuild-composer-dnf-json"
+      "Name": "podman"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138593001",
