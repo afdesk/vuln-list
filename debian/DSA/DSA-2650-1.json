@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Mar 2013] DSA-2650-1 libvirt - files and device nodes ownership change to kvm group",
-    "Line": 9283,
+    "Line": 9286,
     "ID": "DSA-2650-1",
     "Description": "libvirt - files and device nodes ownership change to kvm group"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-1766}",
-      "Line": 9284,
+      "Line": 9287,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-1766"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - libvirt 0.8.3-5+squeeze4",
-      "Line": 9285,
+      "Line": 9288,
       "Type": "package",
       "Release": "squeeze",
       "Package": "libvirt",

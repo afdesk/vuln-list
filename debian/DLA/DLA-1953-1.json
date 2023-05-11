@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Oct 2019] DLA-1953-1 clamav - security update",
-    "Line": 4462,
+    "Line": 4465,
     "ID": "DLA-1953-1",
     "Description": "clamav - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-12625 CVE-2019-12900}",
-      "Line": 4463,
+      "Line": 4466,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-12625",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - clamav 0.101.4+dfsg-0+deb8u1",
-      "Line": 4464,
+      "Line": 4467,
       "Type": "package",
       "Release": "jessie",
       "Package": "clamav",

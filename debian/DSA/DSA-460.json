@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Mar 2004] DSA-460 sysstat - insecure temporary file",
-    "Line": 17177,
+    "Line": 17180,
     "ID": "DSA-460",
     "Description": "sysstat - insecure temporary file"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0108}",
-      "Line": 17178,
+      "Line": 17181,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0108"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - sysstat 5.0.1-1",
-      "Line": 17179,
+      "Line": 17182,
       "Type": "package",
       "Release": "woody",
       "Package": "sysstat",

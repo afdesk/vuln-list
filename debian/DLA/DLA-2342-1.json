@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Aug 2020] DLA-2342-1 libjackson-json-java - security update",
-    "Line": 3264,
+    "Line": 3267,
     "ID": "DLA-2342-1",
     "Description": "libjackson-json-java - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-7525 CVE-2017-15095 CVE-2019-10172}",
-      "Line": 3265,
+      "Line": 3268,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-7525",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[stretch] - libjackson-json-java 1.9.2-8+deb9u1",
-      "Line": 3266,
+      "Line": 3269,
       "Type": "package",
       "Release": "stretch",
       "Package": "libjackson-json-java",

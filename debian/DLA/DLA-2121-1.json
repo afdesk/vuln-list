@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Feb 2020] DLA-2121-1 libimobiledevice - security update",
-    "Line": 3942,
+    "Line": 3945,
     "ID": "DLA-2121-1",
     "Description": "libimobiledevice - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-5104}",
-      "Line": 3943,
+      "Line": 3946,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-5104"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - libimobiledevice 1.1.6+dfsg-3.1+deb8u1",
-      "Line": 3944,
+      "Line": 3947,
       "Type": "package",
       "Release": "jessie",
       "Package": "libimobiledevice",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Jan 2020] DLA-2058-1 nss - security update",
-    "Line": 4130,
+    "Line": 4133,
     "ID": "DLA-2058-1",
     "Description": "nss - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-17006}",
-      "Line": 4131,
+      "Line": 4134,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-17006"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - nss 2:3.26-1+debu8u10",
-      "Line": 4132,
+      "Line": 4135,
       "Type": "package",
       "Release": "jessie",
       "Package": "nss",

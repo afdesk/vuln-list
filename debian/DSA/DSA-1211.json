@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Nov 2006] DSA-1211 pdns",
-    "Line": 14254,
+    "Line": 14257,
     "ID": "DSA-1211",
     "Description": "pdns"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-4251}",
-      "Line": 14255,
+      "Line": 14258,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-4251"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - pdns 2.9.17-13sarge3",
-      "Line": 14256,
+      "Line": 14259,
       "Type": "package",
       "Release": "sarge",
       "Package": "pdns",

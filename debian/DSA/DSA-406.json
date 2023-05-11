@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Jan 2004] DSA-406 lftp - buffer overflow",
-    "Line": 17363,
+    "Line": 17366,
     "ID": "DSA-406",
     "Description": "lftp - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0963}",
-      "Line": 17364,
+      "Line": 17367,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0963"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - lftp 2.4.9-1woody2",
-      "Line": 17365,
+      "Line": 17368,
       "Type": "package",
       "Release": "woody",
       "Package": "lftp",

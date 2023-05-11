@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Feb 2005] DSA-682-1 awstats - missing input sanitising",
-    "Line": 16410,
+    "Line": 16413,
     "ID": "DSA-682-1",
     "Description": "awstats - missing input sanitising"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-0363}",
-      "Line": 16411,
+      "Line": 16414,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-0363"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - awstats 4.0-0.woody.2",
-      "Line": 16412,
+      "Line": 16415,
       "Type": "package",
       "Release": "woody",
       "Package": "awstats",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA",
-      "Line": 16413,
+      "Line": 16416,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA"
     }

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 Mar 2010] DSA-2022-1 mediawiki - several vulnerabilities",
-    "Line": 11347,
+    "Line": 11350,
     "ID": "DSA-2022-1",
     "Description": "mediawiki - several vulnerabilities"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-1189 CVE-2010-1190}",
-      "Line": 11348,
+      "Line": 11351,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-1189",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[lenny] - mediawiki 1:1.12.0-2lenny4",
-      "Line": 11349,
+      "Line": 11352,
       "Type": "package",
       "Release": "lenny",
       "Package": "mediawiki",

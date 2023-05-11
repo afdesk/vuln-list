@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[31 Jul 2003] DSA-357 wu-ftpd - remote root exploit",
-    "Line": 17518,
+    "Line": 17521,
     "ID": "DSA-357",
     "Description": "wu-ftpd - remote root exploit"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0466}",
-      "Line": 17519,
+      "Line": 17522,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0466"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - wu-ftpd 2.6.2-3woody1",
-      "Line": 17520,
+      "Line": 17523,
       "Type": "package",
       "Release": "woody",
       "Package": "wu-ftpd",
