@@ -2,7 +2,7 @@
   "module": "toolchain",
   "id": "GO-2022-0475",
   "published": "2022-07-28T17:24:30Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-05-11T15:31:00Z",
   "aliases": [
     "CVE-2020-28366"
   ],
@@ -24,7 +24,7 @@
               "fixed": "1.14.12"
             },
             {
-              "introduced": "1.15.0"
+              "introduced": "1.15.0-0"
             },
             {
               "fixed": "1.15.5"

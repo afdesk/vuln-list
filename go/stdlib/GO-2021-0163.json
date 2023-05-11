@@ -2,7 +2,7 @@
   "module": "stdlib",
   "id": "GO-2021-0163",
   "published": "2022-01-05T22:41:50Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-05-11T15:31:00Z",
   "aliases": [
     "CVE-2016-3958"
   ],
@@ -24,7 +24,7 @@
               "fixed": "1.5.4"
             },
             {
-              "introduced": "1.6.0"
+              "introduced": "1.6.0-0"
             },
             {
               "fixed": "1.6.1"

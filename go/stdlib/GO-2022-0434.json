@@ -2,7 +2,7 @@
   "module": "stdlib",
   "id": "GO-2022-0434",
   "published": "2022-05-23T21:59:00Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-05-11T15:31:00Z",
   "aliases": [
     "CVE-2022-27536"
   ],
@@ -18,7 +18,7 @@
           "type": "SEMVER",
           "events": [
             {
-              "introduced": "1.18.0"
+              "introduced": "1.18.0-0"
             },
             {
               "fixed": "1.18.1"

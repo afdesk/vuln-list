@@ -2,7 +2,7 @@
   "module": "toolchain",
   "id": "GO-2022-0203",
   "published": "2022-08-09T23:19:00Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-05-11T15:31:00Z",
   "aliases": [
     "CVE-2018-7187"
   ],
@@ -24,7 +24,7 @@
               "fixed": "1.9.5"
             },
             {
-              "introduced": "1.10.0"
+              "introduced": "1.10.0-0"
             },
             {
               "fixed": "1.10.1"

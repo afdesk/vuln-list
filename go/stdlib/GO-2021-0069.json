@@ -2,7 +2,7 @@
   "module": "stdlib",
   "id": "GO-2021-0069",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-05-11T15:31:00Z",
   "aliases": [
     "CVE-2020-28362"
   ],
@@ -18,13 +18,13 @@
           "type": "SEMVER",
           "events": [
             {
-              "introduced": "1.14.0"
+              "introduced": "1.14.0-0"
             },
             {
               "fixed": "1.14.12"
             },
             {
-              "introduced": "1.15.0"
+              "introduced": "1.15.0-0"
             },
             {
               "fixed": "1.15.5"

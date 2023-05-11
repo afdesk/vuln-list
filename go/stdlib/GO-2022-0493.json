@@ -2,7 +2,7 @@
   "module": "stdlib",
   "id": "GO-2022-0493",
   "published": "2022-07-15T23:30:12Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-05-11T15:31:00Z",
   "aliases": [
     "CVE-2022-29526",
     "GHSA-p782-xgp4-8hr8"
@@ -25,7 +25,7 @@
               "fixed": "1.17.10"
             },
             {
-              "introduced": "1.18.0"
+              "introduced": "1.18.0-0"
             },
             {
               "fixed": "1.18.2"

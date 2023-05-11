@@ -2,7 +2,7 @@
   "module": "golang.org/x/net",
   "id": "GO-2022-0236",
   "published": "2022-07-15T23:04:18Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-05-11T15:31:00Z",
   "aliases": [
     "CVE-2021-31525",
     "GHSA-h86h-8ppg-mxmh"
@@ -25,7 +25,7 @@
               "fixed": "1.15.12"
             },
             {
-              "introduced": "1.16.0"
+              "introduced": "1.16.0-0"
             },
             {
               "fixed": "1.16.4"

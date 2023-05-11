@@ -2,7 +2,7 @@
   "module": "golang.org/x/net",
   "id": "GO-2022-1144",
   "published": "2022-12-08T19:01:21Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-05-11T15:31:00Z",
   "aliases": [
     "CVE-2022-41717",
     "GHSA-xrjj-mj9h-534m"
@@ -25,7 +25,7 @@
               "fixed": "1.18.9"
             },
             {
-              "introduced": "1.19.0"
+              "introduced": "1.19.0-0"
             },
             {
               "fixed": "1.19.4"
