@@ -22,6 +22,6 @@
     "https://github.com/advisories/GHSA-xh3v-6f9j-wxw3"
   ],
   "CvssV2": "",
-  "CvssV3": "",
+  "CvssV3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
   "UUID": "cbf56a9c-78ec-40d7-a574-ae39e0dec055"
 }
