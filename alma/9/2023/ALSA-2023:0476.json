@@ -8,18 +8,18 @@
     "$date": 1674691200000
   },
   "pkglist": {
-    "name": "almalinux-9-for-s390x-appstream-rpms__9_1_default",
-    "shortname": "almalinux-9-for-s390x-appstream-rpms__9_1_default",
+    "name": "almalinux-9-for-aarch64-appstream-rpms__9_1_default",
+    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_1_default",
     "packages": [
       {
         "name": "thunderbird",
         "version": "102.7.1",
         "release": "1.el9_1.alma",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "thunderbird-102.7.1-1.el9_1.alma.src.rpm",
-        "filename": "thunderbird-102.7.1-1.el9_1.alma.s390x.rpm",
-        "sum": "9d0aa4b10532bf388300dd5518fb01b4d9003d9d5b48e97ce1449be4a29a5d83",
+        "filename": "thunderbird-102.7.1-1.el9_1.alma.aarch64.rpm",
+        "sum": "5ac497871a988d9c54fa1c99596335a4b785b40c488a116396cd964b92a6deed",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +52,10 @@
         "version": "102.7.1",
         "release": "1.el9_1.alma",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "s390x",
         "src": "thunderbird-102.7.1-1.el9_1.alma.src.rpm",
-        "filename": "thunderbird-102.7.1-1.el9_1.alma.aarch64.rpm",
-        "sum": "5ac497871a988d9c54fa1c99596335a4b785b40c488a116396cd964b92a6deed",
+        "filename": "thunderbird-102.7.1-1.el9_1.alma.s390x.rpm",
+        "sum": "9d0aa4b10532bf388300dd5518fb01b4d9003d9d5b48e97ce1449be4a29a5d83",
         "sum_type": 5,
         "reboot_suggested": 0
       }

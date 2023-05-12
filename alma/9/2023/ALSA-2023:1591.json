@@ -40,6 +40,30 @@
         "version": "0.11.3",
         "release": "4.el9_1.3",
         "epoch": "0",
+        "arch": "s390x",
+        "src": "pcs-0.11.3-4.el9_1.3.src.rpm",
+        "filename": "pcs-snmp-0.11.3-4.el9_1.3.s390x.rpm",
+        "sum": "7c3ab09cc99502b3a371ac648f670456215764fb0ca112aa147c90d9bb985ede",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "pcs",
+        "version": "0.11.3",
+        "release": "4.el9_1.3",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "pcs-0.11.3-4.el9_1.3.src.rpm",
+        "filename": "pcs-0.11.3-4.el9_1.3.s390x.rpm",
+        "sum": "a6b34c2e858cbb79b2b6bdc098047d7d489c8ded92245dce8f3bdefc4ba175c8",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "pcs-snmp",
+        "version": "0.11.3",
+        "release": "4.el9_1.3",
+        "epoch": "0",
         "arch": "ppc64le",
         "src": "pcs-0.11.3-4.el9_1.3.src.rpm",
         "filename": "pcs-snmp-0.11.3-4.el9_1.3.ppc64le.rpm",
@@ -80,30 +104,6 @@
         "src": "pcs-0.11.3-4.el9_1.3.src.rpm",
         "filename": "pcs-0.11.3-4.el9_1.3.aarch64.rpm",
         "sum": "99bb88bb138e6c7c1138d56071b72c86dfa77db2f747a28aa3c9ea50e9a1624a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "pcs-snmp",
-        "version": "0.11.3",
-        "release": "4.el9_1.3",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "pcs-0.11.3-4.el9_1.3.src.rpm",
-        "filename": "pcs-snmp-0.11.3-4.el9_1.3.s390x.rpm",
-        "sum": "7c3ab09cc99502b3a371ac648f670456215764fb0ca112aa147c90d9bb985ede",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "pcs",
-        "version": "0.11.3",
-        "release": "4.el9_1.3",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "pcs-0.11.3-4.el9_1.3.src.rpm",
-        "filename": "pcs-0.11.3-4.el9_1.3.s390x.rpm",
-        "sum": "a6b34c2e858cbb79b2b6bdc098047d7d489c8ded92245dce8f3bdefc4ba175c8",
         "sum_type": 5,
         "reboot_suggested": 0
       }
