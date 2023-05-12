@@ -5941,29 +5941,29 @@
       "Name": "haproxy"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20146272003",
+      "ID": "oval:com.redhat.cve:obj:20146272002",
       "Version": "636",
-      "Name": "libevent"
+      "Name": "libevent-headers"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20146272004",
+      "ID": "oval:com.redhat.cve:obj:20146272003",
       "Version": "636",
       "Name": "chromium-browser"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20146272004",
+      "Version": "636",
+      "Name": "libevent-devel"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20146272005",
       "Version": "636",
-      "Name": "libevent-headers"
+      "Name": "libevent"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20146272006",
       "Version": "636",
       "Name": "libevent-doc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20146272007",
-      "Version": "636",
-      "Name": "libevent-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20147204001",
@@ -6143,37 +6143,37 @@
     {
       "ID": "oval:com.redhat.cve:obj:20150247001",
       "Version": "636",
-      "Name": "libss-devel"
+      "Name": "libcom_err"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20150247002",
       "Version": "636",
-      "Name": "libcom_err"
+      "Name": "e2fsprogs-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20150247003",
       "Version": "636",
-      "Name": "e2fsprogs-libs"
+      "Name": "libss"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20150247004",
       "Version": "636",
-      "Name": "libcom_err-devel"
+      "Name": "e2fsprogs-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20150247005",
       "Version": "636",
-      "Name": "e2fsprogs"
+      "Name": "libss-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20150247006",
       "Version": "636",
-      "Name": "e2fsprogs-devel"
+      "Name": "e2fsprogs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20150247007",
       "Version": "636",
-      "Name": "libss"
+      "Name": "libcom_err-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20150250001",
@@ -6323,17 +6323,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20151783001",
       "Version": "636",
-      "Name": "lasso-python"
+      "Name": "lasso"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20151783002",
       "Version": "636",
-      "Name": "lasso"
+      "Name": "lasso-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20151783003",
       "Version": "636",
-      "Name": "lasso-devel"
+      "Name": "lasso-python"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20152059001",
@@ -6443,7 +6443,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20153228001",
       "Version": "636",
-      "Name": "ghostscript-gtk"
+      "Name": "ghostscript-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153228002",
@@ -6453,12 +6453,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20153228003",
       "Version": "636",
-      "Name": "ghostscript-devel"
+      "Name": "ghostscript"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153228004",
       "Version": "636",
-      "Name": "ghostscript"
+      "Name": "ghostscript-gtk"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153240001",
@@ -6628,12 +6628,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20155236001",
       "Version": "636",
-      "Name": "icedtea-web-javadoc"
+      "Name": "icedtea-web"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155236002",
       "Version": "636",
-      "Name": "icedtea-web"
+      "Name": "icedtea-web-javadoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155262001",
@@ -6758,22 +6758,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:20158605001",
       "Version": "636",
-      "Name": "dhclient"
+      "Name": "dhcp-common"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20158605002",
       "Version": "636",
-      "Name": "dhcp-common"
+      "Name": "dhclient"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20158605003",
       "Version": "636",
-      "Name": "dhcp"
+      "Name": "dhcp-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20158605004",
       "Version": "636",
-      "Name": "dhcp-devel"
+      "Name": "dhcp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20158865007",
@@ -12956,12 +12956,12 @@
       "Name": "gnuchess"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:20160773002",
+      "ID": "oval:com.redhat.unaffected:obj:20160773005",
       "Version": "635",
       "Name": "tcl-devel"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:20160773005",
+      "ID": "oval:com.redhat.unaffected:obj:20160773006",
       "Version": "635",
       "Name": "tcl"
     },

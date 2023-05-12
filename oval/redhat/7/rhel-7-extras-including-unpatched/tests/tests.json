@@ -3586,30 +3586,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "docker-v1.10-migrator is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20146408002",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20140047001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "container-selinux is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20146408004",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20140047002"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "docker-python is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20146408006",
+      "ID": "oval:com.redhat.unaffected:tst:20146408002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -3620,7 +3598,7 @@
     {
       "Check": "at least one",
       "Comment": "docker-rhel-push-plugin is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20146408008",
+      "ID": "oval:com.redhat.unaffected:tst:20146408004",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -3631,7 +3609,7 @@
     {
       "Check": "at least one",
       "Comment": "atomic is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20146408010",
+      "ID": "oval:com.redhat.unaffected:tst:20146408006",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -3641,52 +3619,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "docker-logrotate is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20146408012",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20140047006"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "docker-lvm-plugin is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20146408014",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20140047007"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python-websocket-client is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20146408016",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20140047008"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "docker is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20146408018",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20140047009"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "docker-novolume-plugin is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20146408020",
+      "ID": "oval:com.redhat.unaffected:tst:20146408008",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -3696,19 +3630,41 @@
     },
     {
       "Check": "at least one",
-      "Comment": "docker-selinux is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20146408022",
+      "Comment": "docker-forward-journald is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20146408010",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20140047011"
+        "ObjectRef": "oval:com.redhat.cve:obj:20140047014"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-websocket-client is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20146408012",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20140047008"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "docker-logrotate is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20146408014",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20140047006"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "docker-common is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20146408024",
+      "ID": "oval:com.redhat.unaffected:tst:20146408016",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -3718,8 +3674,19 @@
     },
     {
       "Check": "at least one",
+      "Comment": "docker-v1.10-migrator is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20146408018",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20140047001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "docker-client is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20146408026",
+      "ID": "oval:com.redhat.unaffected:tst:20146408020",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -3729,12 +3696,45 @@
     },
     {
       "Check": "at least one",
-      "Comment": "docker-forward-journald is not installed",
+      "Comment": "docker is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20146408022",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20140047009"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "container-selinux is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20146408024",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20140047002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "docker-lvm-plugin is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20146408026",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20140047007"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "docker-selinux is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20146408028",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20140047014"
+        "ObjectRef": "oval:com.redhat.cve:obj:20140047011"
       },
       "State": {}
     },

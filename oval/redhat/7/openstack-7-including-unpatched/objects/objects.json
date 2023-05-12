@@ -183,37 +183,37 @@
     {
       "ID": "oval:com.redhat.cve:obj:20155694002",
       "Version": "636",
-      "Name": "openstack-designate-sink"
+      "Name": "openstack-designate-mdns"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155694003",
       "Version": "636",
-      "Name": "openstack-designate-pool-manager"
+      "Name": "openstack-designate-central"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155694004",
       "Version": "636",
-      "Name": "openstack-designate-api"
+      "Name": "openstack-designate-pool-manager"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155694005",
       "Version": "636",
-      "Name": "python-designate"
+      "Name": "openstack-designate-api"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155694006",
       "Version": "636",
-      "Name": "openstack-designate-central"
+      "Name": "openstack-designate-common"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155694007",
       "Version": "636",
-      "Name": "openstack-designate-common"
+      "Name": "python-designate"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155694008",
       "Version": "636",
-      "Name": "openstack-designate-mdns"
+      "Name": "openstack-designate-sink"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155739001",
@@ -1093,22 +1093,22 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:20151852001",
       "Version": "635",
-      "Name": "python-keystoneclient"
+      "Name": "python-keystonemiddleware"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20151852002",
       "Version": "635",
-      "Name": "python-keystonemiddleware"
+      "Name": "python-keystoneclient-doc"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20151852003",
       "Version": "635",
-      "Name": "python-keystonemiddleware-doc"
+      "Name": "python-keystoneclient"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20151852004",
       "Version": "635",
-      "Name": "python-keystoneclient-doc"
+      "Name": "python-keystonemiddleware-doc"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20153239001",

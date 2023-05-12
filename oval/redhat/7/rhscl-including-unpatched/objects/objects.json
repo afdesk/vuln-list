@@ -1468,17 +1468,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20153225001",
       "Version": "636",
-      "Name": "rh-ror41-rubygem-rack"
+      "Name": "ruby193-rubygem-rack"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153225002",
       "Version": "636",
-      "Name": "ruby193-rubygem-rack"
+      "Name": "ror40-rubygem-rack"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153225003",
       "Version": "636",
-      "Name": "ror40-rubygem-rack"
+      "Name": "rh-ror41-rubygem-rack"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153226001",
@@ -1491,7 +1491,7 @@
       "Name": "ruby193-rubygem-activesupport"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20153227002",
+      "ID": "oval:com.redhat.cve:obj:20153227003",
       "Version": "636",
       "Name": "ror40-rubygem-activesupport"
     },

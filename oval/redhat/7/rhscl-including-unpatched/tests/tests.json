@@ -6448,7 +6448,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-ror41-rubygem-rack is installed",
+      "Comment": "ruby193-rubygem-rack is installed",
       "ID": "oval:com.redhat.cve:tst:20153225001",
       "Version": "636",
       "Object": {
@@ -6458,7 +6458,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-ror41-rubygem-rack is signed with Red Hat redhatrelease2 key",
+      "Comment": "ruby193-rubygem-rack is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20153225002",
       "Version": "636",
       "Object": {
@@ -6470,7 +6470,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ruby193-rubygem-rack is installed",
+      "Comment": "ror40-rubygem-rack is installed",
       "ID": "oval:com.redhat.cve:tst:20153225003",
       "Version": "636",
       "Object": {
@@ -6480,7 +6480,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ruby193-rubygem-rack is signed with Red Hat redhatrelease2 key",
+      "Comment": "ror40-rubygem-rack is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20153225004",
       "Version": "636",
       "Object": {
@@ -6492,7 +6492,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ror40-rubygem-rack is installed",
+      "Comment": "rh-ror41-rubygem-rack is installed",
       "ID": "oval:com.redhat.cve:tst:20153225005",
       "Version": "636",
       "Object": {
@@ -6502,7 +6502,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ror40-rubygem-rack is signed with Red Hat redhatrelease2 key",
+      "Comment": "rh-ror41-rubygem-rack is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20153225006",
       "Version": "636",
       "Object": {
@@ -6559,20 +6559,20 @@
     {
       "Check": "at least one",
       "Comment": "ror40-rubygem-activesupport is installed",
-      "ID": "oval:com.redhat.cve:tst:20153227003",
+      "ID": "oval:com.redhat.cve:tst:20153227005",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153227002"
+        "ObjectRef": "oval:com.redhat.cve:obj:20153227003"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "ror40-rubygem-activesupport is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20153227004",
+      "ID": "oval:com.redhat.cve:tst:20153227006",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153227002"
+        "ObjectRef": "oval:com.redhat.cve:obj:20153227003"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:200620001001"
@@ -31840,7 +31840,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20160454005",
       "Version": "638",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153227002"
+        "ObjectRef": "oval:com.redhat.cve:obj:20153227003"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20160454003"
@@ -77938,71 +77938,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-postgresql94-postgresql is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242001",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql94-postgresql is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242002",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql94-postgresql-plpython is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242003",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196007"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql94-postgresql-plpython is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242004",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196007"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql94-postgresql-server is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242005",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196009"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql94-postgresql-server is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242006",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196009"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "postgresql92-postgresql-devel is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242008",
+      "ID": "oval:com.redhat.unaffected:tst:20150242002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -78012,30 +77949,29 @@
     },
     {
       "Check": "at least one",
-      "Comment": "postgresql92-postgresql-plpython is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242010",
+      "Comment": "rh-postgresql94-postgresql is installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242003",
       "Version": "635",
-      "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20140060006"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196001"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "postgresql92-postgresql-test is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242012",
+      "Comment": "rh-postgresql94-postgresql is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242004",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20140060009"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196001"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "rh-postgresql94-postgresql-static is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242013",
+      "ID": "oval:com.redhat.unaffected:tst:20150242005",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20161781010"
@@ -78045,11 +77981,75 @@
     {
       "Check": "at least one",
       "Comment": "rh-postgresql94-postgresql-static is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242014",
+      "ID": "oval:com.redhat.unaffected:tst:20150242006",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20161781010"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql94-postgresql-plperl is installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242007",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196006"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql94-postgresql-plperl is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242008",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196006"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql92-postgresql-docs is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242010",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20140060010"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql94-postgresql-upgrade is installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242011",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196011"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql94-postgresql-upgrade is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242012",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196011"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql92-postgresql-plpython is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242014",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20140060006"
       },
       "State": {}
     },
@@ -78066,105 +78066,29 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-postgresql94-postgresql-docs is installed",
+      "Comment": "rh-postgresql94-postgresql-plpython is installed",
       "ID": "oval:com.redhat.unaffected:tst:20150242017",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196004"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196007"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "rh-postgresql94-postgresql-docs is not installed",
+      "Comment": "rh-postgresql94-postgresql-plpython is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20150242018",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196004"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql94-postgresql-devel is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242019",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql94-postgresql-devel is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242020",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql92-postgresql-plperl is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242022",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20140060005"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql92-postgresql is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242024",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20140060003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql92-postgresql-docs is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242026",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20140060010"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql92-postgresql-pltcl is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242028",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20140060004"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql92-postgresql-libs is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242030",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20140060008"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196007"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "postgresql92-postgresql-contrib is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242032",
+      "ID": "oval:com.redhat.unaffected:tst:20150242020",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -78174,29 +78098,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-postgresql94-postgresql-libs is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242033",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196005"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql94-postgresql-libs is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242034",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196005"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "rh-postgresql94-postgresql-test is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242035",
+      "ID": "oval:com.redhat.unaffected:tst:20150242021",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20151196010"
@@ -78206,7 +78109,7 @@
     {
       "Check": "at least one",
       "Comment": "rh-postgresql94-postgresql-test is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242036",
+      "ID": "oval:com.redhat.unaffected:tst:20150242022",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -78217,7 +78120,7 @@
     {
       "Check": "at least one",
       "Comment": "rh-postgresql94-postgresql-pltcl is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242037",
+      "ID": "oval:com.redhat.unaffected:tst:20150242023",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20151196008"
@@ -78227,7 +78130,7 @@
     {
       "Check": "at least one",
       "Comment": "rh-postgresql94-postgresql-pltcl is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242038",
+      "ID": "oval:com.redhat.unaffected:tst:20150242024",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -78237,8 +78140,83 @@
     },
     {
       "Check": "at least one",
+      "Comment": "postgresql92-postgresql-libs is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242026",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20140060008"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql94-postgresql-libs is installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242027",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196005"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql94-postgresql-libs is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242028",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196005"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql92-postgresql-plperl is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242030",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20140060005"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql94-postgresql-docs is installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242031",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql94-postgresql-docs is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242032",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql92-postgresql-pltcl is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242034",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20140060004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "postgresql92-postgresql-upgrade is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242040",
+      "ID": "oval:com.redhat.unaffected:tst:20150242036",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -78248,50 +78226,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-postgresql94-postgresql-plperl is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242041",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196006"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql94-postgresql-plperl is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242042",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196006"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql94-postgresql-upgrade is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242043",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196011"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql94-postgresql-upgrade is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242044",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196011"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "rh-postgresql94-postgresql-contrib is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242045",
+      "ID": "oval:com.redhat.unaffected:tst:20150242037",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20151196002"
@@ -78301,11 +78237,75 @@
     {
       "Check": "at least one",
       "Comment": "rh-postgresql94-postgresql-contrib is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20150242046",
+      "ID": "oval:com.redhat.unaffected:tst:20150242038",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20151196002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql94-postgresql-server is installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242039",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196009"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql94-postgresql-server is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242040",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196009"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql92-postgresql-test is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242042",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20140060009"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql92-postgresql is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242044",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20140060003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql94-postgresql-devel is installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242045",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql94-postgresql-devel is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20150242046",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20151196003"
       },
       "State": {}
     },
@@ -78316,7 +78316,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153227002"
+        "ObjectRef": "oval:com.redhat.cve:obj:20153227003"
       },
       "State": {}
     },
@@ -79133,8 +79133,19 @@
     },
     {
       "Check": "at least one",
-      "Comment": "httpd24-libcurl is not installed",
+      "Comment": "httpd24-libcurl-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20160755002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201816839003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "httpd24-libcurl is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20160755004",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -79145,22 +79156,11 @@
     {
       "Check": "at least one",
       "Comment": "httpd24-curl is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20160755004",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201816839001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "httpd24-libcurl-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20160755006",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201816839003"
+        "ObjectRef": "oval:com.redhat.cve:obj:201816839001"
       },
       "State": {}
     },

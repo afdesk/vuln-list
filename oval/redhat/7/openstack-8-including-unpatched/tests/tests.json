@@ -6106,22 +6106,22 @@
     },
     {
       "Check": "at least one",
-      "Comment": "openstack-ironic-api is installed",
+      "Comment": "openstack-ironic-common is installed",
       "ID": "oval:com.redhat.unaffected:tst:20157514001",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20161378001"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20161378002"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "openstack-ironic-api is not installed",
+      "Comment": "openstack-ironic-common is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20157514002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20161378001"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20161378002"
       },
       "State": {}
     },
@@ -6169,22 +6169,22 @@
     },
     {
       "Check": "at least one",
-      "Comment": "openstack-ironic-common is installed",
+      "Comment": "openstack-ironic-api is installed",
       "ID": "oval:com.redhat.unaffected:tst:20157514007",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20161378002"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20161378001"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "openstack-ironic-common is not installed",
+      "Comment": "openstack-ironic-api is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20157514008",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20161378002"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20161378001"
       },
       "State": {}
     },

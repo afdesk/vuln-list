@@ -2923,17 +2923,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20146272002",
       "Version": "636",
-      "Name": "libevent-doc"
+      "Name": "libevent-devel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20146272004",
+      "ID": "oval:com.redhat.cve:obj:20146272003",
       "Version": "636",
       "Name": "libevent"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20146272005",
+      "ID": "oval:com.redhat.cve:obj:20146272004",
       "Version": "636",
-      "Name": "libevent-devel"
+      "Name": "libevent-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20146474001",
@@ -3158,12 +3158,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20148145001",
       "Version": "636",
-      "Name": "sox"
+      "Name": "sox-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148145002",
       "Version": "636",
-      "Name": "sox-devel"
+      "Name": "sox"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148354001",
@@ -3223,42 +3223,42 @@
     {
       "ID": "oval:com.redhat.cve:obj:20148651001",
       "Version": "636",
-      "Name": "kcm_colors"
+      "Name": "kwin"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651002",
       "Version": "636",
-      "Name": "libkworkspace"
+      "Name": "kde-workspace-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651003",
       "Version": "636",
-      "Name": "kinfocenter"
+      "Name": "kwin-gles-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651004",
       "Version": "636",
-      "Name": "ksysguard-libs"
+      "Name": "kgreeter-plugins"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651005",
       "Version": "636",
-      "Name": "kgreeter-plugins"
+      "Name": "kdeclassic-cursor-theme"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651006",
       "Version": "636",
-      "Name": "kde-style-oxygen"
+      "Name": "kmenuedit"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651007",
       "Version": "636",
-      "Name": "kde-workspace-ksplash-themes"
+      "Name": "ksysguardd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651008",
       "Version": "636",
-      "Name": "oxygen-cursor-themes"
+      "Name": "kcm_colors"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651009",
@@ -3268,67 +3268,67 @@
     {
       "ID": "oval:com.redhat.cve:obj:20148651010",
       "Version": "636",
-      "Name": "kmenuedit"
+      "Name": "kde-workspace-ksplash-themes"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651011",
       "Version": "636",
-      "Name": "kwin-libs"
+      "Name": "libkworkspace"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651012",
       "Version": "636",
-      "Name": "kdeclassic-cursor-theme"
+      "Name": "plasma-scriptengine-ruby"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651013",
       "Version": "636",
-      "Name": "khotkeys-libs"
+      "Name": "oxygen-cursor-themes"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651014",
       "Version": "636",
-      "Name": "ksysguardd"
+      "Name": "kinfocenter"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651015",
       "Version": "636",
-      "Name": "kwin-gles"
+      "Name": "kde-workspace"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651016",
       "Version": "636",
-      "Name": "plasma-scriptengine-python"
+      "Name": "kde-style-oxygen"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651017",
       "Version": "636",
-      "Name": "khotkeys"
+      "Name": "ksysguard-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651018",
       "Version": "636",
-      "Name": "kde-workspace-devel"
+      "Name": "plasma-scriptengine-python"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651019",
       "Version": "636",
-      "Name": "plasma-scriptengine-ruby"
+      "Name": "kwin-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651020",
       "Version": "636",
-      "Name": "kwin"
+      "Name": "khotkeys"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651021",
       "Version": "636",
-      "Name": "kde-workspace"
+      "Name": "khotkeys-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651022",
       "Version": "636",
-      "Name": "kwin-gles-libs"
+      "Name": "kwin-gles"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20148651023",
@@ -4628,32 +4628,32 @@
     {
       "ID": "oval:com.redhat.cve:obj:20150247003",
       "Version": "636",
-      "Name": "libcom_err-devel"
+      "Name": "e2fsprogs-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20150247004",
       "Version": "636",
-      "Name": "e2fsprogs"
+      "Name": "libss"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20150247005",
       "Version": "636",
-      "Name": "libss"
+      "Name": "e2fsprogs-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20150247006",
       "Version": "636",
-      "Name": "e2fsprogs-libs"
+      "Name": "libss-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20150247007",
       "Version": "636",
-      "Name": "e2fsprogs-devel"
+      "Name": "e2fsprogs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20150247008",
       "Version": "636",
-      "Name": "libss-devel"
+      "Name": "libcom_err-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20150250001",
@@ -5183,12 +5183,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20153170001",
       "Version": "636",
-      "Name": "selinux-policy"
+      "Name": "selinux-policy-sandbox"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153170002",
       "Version": "636",
-      "Name": "selinux-policy-devel"
+      "Name": "selinux-policy-minimum"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153170003",
@@ -5198,22 +5198,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:20153170004",
       "Version": "636",
-      "Name": "selinux-policy-minimum"
+      "Name": "selinux-policy-mls"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153170005",
       "Version": "636",
-      "Name": "selinux-policy-doc"
+      "Name": "selinux-policy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153170006",
       "Version": "636",
-      "Name": "selinux-policy-mls"
+      "Name": "selinux-policy-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153170007",
       "Version": "636",
-      "Name": "selinux-policy-sandbox"
+      "Name": "selinux-policy-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153202001",
@@ -5263,37 +5263,37 @@
     {
       "ID": "oval:com.redhat.cve:obj:20153228001",
       "Version": "636",
-      "Name": "ghostscript-doc"
+      "Name": "libgs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153228002",
       "Version": "636",
-      "Name": "ghostscript"
+      "Name": "libgs-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153228003",
       "Version": "636",
-      "Name": "libgs-devel"
+      "Name": "ghostscript-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153228004",
       "Version": "636",
-      "Name": "libgs"
+      "Name": "ghostscript-cups"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153228005",
       "Version": "636",
-      "Name": "ghostscript-gtk"
+      "Name": "ghostscript-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153228006",
       "Version": "636",
-      "Name": "ghostscript-devel"
+      "Name": "ghostscript"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153228007",
       "Version": "636",
-      "Name": "ghostscript-cups"
+      "Name": "ghostscript-gtk"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153243001",
@@ -5388,12 +5388,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20153278001",
       "Version": "636",
-      "Name": "nss_compat_ossl"
+      "Name": "nss_compat_ossl-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153278002",
       "Version": "636",
-      "Name": "nss_compat_ossl-devel"
+      "Name": "nss_compat_ossl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20153294001",
@@ -5618,17 +5618,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20155198001",
       "Version": "636",
-      "Name": "libvdpau"
+      "Name": "libvdpau-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155198002",
       "Version": "636",
-      "Name": "libvdpau-docs"
+      "Name": "libvdpau-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155198003",
       "Version": "636",
-      "Name": "libvdpau-devel"
+      "Name": "libvdpau"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155215001",
@@ -5693,7 +5693,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20155228001",
       "Version": "636",
-      "Name": "crit"
+      "Name": "python-criu"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155228002",
@@ -5703,17 +5703,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20155228003",
       "Version": "636",
-      "Name": "python-criu"
+      "Name": "crit"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155232001",
       "Version": "636",
-      "Name": "opa-address-resolution"
+      "Name": "opa-fastfabric"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155232002",
       "Version": "636",
-      "Name": "opa-snapconfig"
+      "Name": "opa-fm"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155232003",
@@ -5723,77 +5723,77 @@
     {
       "ID": "oval:com.redhat.cve:obj:20155232004",
       "Version": "636",
-      "Name": "opa-fm"
+      "Name": "opa-basic-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155232005",
       "Version": "636",
-      "Name": "opa-fastfabric"
+      "Name": "opa-libopamgt-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155232006",
       "Version": "636",
-      "Name": "opa-libopamgt-devel"
+      "Name": "opa-address-resolution"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155232007",
       "Version": "636",
-      "Name": "opa-basic-tools"
+      "Name": "opa-snapconfig"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155236001",
       "Version": "636",
-      "Name": "icedtea-web-javadoc"
+      "Name": "icedtea-web"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155236002",
       "Version": "636",
-      "Name": "icedtea-web-devel"
+      "Name": "icedtea-web-javadoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155236003",
       "Version": "636",
-      "Name": "icedtea-web"
+      "Name": "icedtea-web-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155237001",
       "Version": "636",
-      "Name": "protobuf-lite"
+      "Name": "protobuf-emacs-el"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155237002",
       "Version": "636",
-      "Name": "protobuf"
+      "Name": "protobuf-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155237003",
       "Version": "636",
-      "Name": "protobuf-javadoc"
+      "Name": "protobuf-python"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155237004",
       "Version": "636",
-      "Name": "protobuf-devel"
+      "Name": "protobuf-lite"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155237005",
       "Version": "636",
-      "Name": "protobuf-emacs-el"
+      "Name": "protobuf-compiler"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155237006",
       "Version": "636",
-      "Name": "protobuf-vim"
+      "Name": "protobuf-lite-static"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155237007",
       "Version": "636",
-      "Name": "protobuf-java"
+      "Name": "protobuf-javadoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155237008",
       "Version": "636",
-      "Name": "protobuf-python"
+      "Name": "protobuf-lite-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155237009",
@@ -5803,22 +5803,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:20155237010",
       "Version": "636",
-      "Name": "protobuf-lite-devel"
+      "Name": "protobuf"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155237011",
       "Version": "636",
-      "Name": "protobuf-lite-static"
+      "Name": "protobuf-vim"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155237012",
       "Version": "636",
-      "Name": "protobuf-static"
+      "Name": "protobuf-java"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155237013",
       "Version": "636",
-      "Name": "protobuf-compiler"
+      "Name": "protobuf-static"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155262001",
@@ -5843,57 +5843,57 @@
     {
       "ID": "oval:com.redhat.cve:obj:20155343001",
       "Version": "636",
-      "Name": "subversion-javahl"
+      "Name": "subversion-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155343002",
       "Version": "636",
-      "Name": "subversion-devel"
+      "Name": "subversion"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155343003",
       "Version": "636",
-      "Name": "subversion"
+      "Name": "subversion-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155343004",
       "Version": "636",
-      "Name": "subversion-tools"
+      "Name": "subversion-kde"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155343005",
       "Version": "636",
-      "Name": "subversion-perl"
+      "Name": "mod_dav_svn"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155343006",
       "Version": "636",
-      "Name": "subversion-gnome"
+      "Name": "subversion-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155343007",
       "Version": "636",
-      "Name": "subversion-python"
+      "Name": "subversion-ruby"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155343008",
       "Version": "636",
-      "Name": "mod_dav_svn"
+      "Name": "subversion-python"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155343009",
       "Version": "636",
-      "Name": "subversion-ruby"
+      "Name": "subversion-javahl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155343010",
       "Version": "636",
-      "Name": "subversion-libs"
+      "Name": "subversion-gnome"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155343011",
       "Version": "636",
-      "Name": "subversion-kde"
+      "Name": "subversion-perl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155602001",
@@ -8848,22 +8848,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:20158605001",
       "Version": "636",
-      "Name": "dhcp-libs"
+      "Name": "dhcp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20158605002",
       "Version": "636",
-      "Name": "dhclient"
+      "Name": "dhcp-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20158605003",
       "Version": "636",
-      "Name": "dhcp-devel"
+      "Name": "dhclient"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20158605004",
       "Version": "636",
-      "Name": "dhcp"
+      "Name": "dhcp-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20158605005",
@@ -20243,32 +20243,32 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:20146272001",
       "Version": "635",
-      "Name": "compat-openmpi16-devel"
+      "Name": "openmpi3-devel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20146272002",
       "Version": "635",
-      "Name": "openmpi"
+      "Name": "openmpi-devel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20146272003",
       "Version": "635",
-      "Name": "openmpi3-devel"
+      "Name": "compat-openmpi16-devel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20146272004",
       "Version": "635",
-      "Name": "compat-openmpi16"
+      "Name": "openmpi"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20146272005",
       "Version": "635",
-      "Name": "openmpi3"
+      "Name": "compat-openmpi16"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20146272006",
       "Version": "635",
-      "Name": "openmpi-devel"
+      "Name": "openmpi3"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20146549002",
