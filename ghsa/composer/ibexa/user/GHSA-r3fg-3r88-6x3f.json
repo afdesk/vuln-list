@@ -27,10 +27,6 @@
       {
         "Type": "GHSA",
         "Value": "GHSA-r3fg-3r88-6x3f"
-      },
-      {
-        "Type": "CVE",
-        "Value": "CVE-2023-2616"
       }
     ],
     "Description": "### Impact\nThis security advisory is about the user settings, which include things like preferred time zone and number of items per page in item listings. These could be accessed by the anonymous user. This impacted only the anonymous users themselves, and had no impact on logged in users. As such the impact is limited, even if custom user settings have been added, but please consider if this matters for your site. The fix ensures that only logged in users can access their user settings.\n\n### References\nhttps://developers.ibexa.co/security-advisories/ibexa-sa-2023-002-user-settings-are-accessible-on-the-front-end-for-the-anonymous-user\n",
@@ -38,7 +34,7 @@
     "PublishedAt": "2023-05-10T21:25:28Z",
     "Severity": "MODERATE",
     "Summary": "Ibexa User Settings are accessible on the front-end for anonymous user",
-    "UpdatedAt": "2023-05-10T21:25:29Z",
+    "UpdatedAt": "2023-05-11T20:12:32Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.4,
