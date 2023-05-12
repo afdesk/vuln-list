@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Apr 2018] DLA-1365-1 drupal7 - security update",
-    "Line": 6272,
+    "Line": 6275,
     "ID": "DLA-1365-1",
     "Description": "drupal7 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-7602}",
-      "Line": 6273,
+      "Line": 6276,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-7602"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - drupal7 7.14-2+deb7u19",
-      "Line": 6274,
+      "Line": 6277,
       "Type": "package",
       "Release": "wheezy",
       "Package": "drupal7",

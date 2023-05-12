@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Jan 2016] DLA-380-1 libvncserver - security update",
-    "Line": 9262,
+    "Line": 9265,
     "ID": "DLA-380-1",
     "Description": "libvncserver - security update"
   },
   "Annotations": [
     {
       "Original": "[squeeze] - libvncserver 0.9.7-2+deb6u2",
-      "Line": 9263,
+      "Line": 9266,
       "Type": "package",
       "Release": "squeeze",
       "Package": "libvncserver",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Jun 2016] DLA-501-1 gdk-pixbuf - security update",
-    "Line": 8892,
+    "Line": 8895,
     "ID": "DLA-501-1",
     "Description": "gdk-pixbuf - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-7552}",
-      "Line": 8893,
+      "Line": 8896,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-7552"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - gdk-pixbuf 2.26.1-1+deb7u5",
-      "Line": 8894,
+      "Line": 8897,
       "Type": "package",
       "Release": "wheezy",
       "Package": "gdk-pixbuf",

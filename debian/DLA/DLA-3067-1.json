@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Jul 2022] DLA-3067-1 stretch-lts - end-of-life",
-    "Line": 1056,
+    "Line": 1059,
     "ID": "DLA-3067-1",
     "Description": "stretch-lts - end-of-life"
   },
   "Annotations": [
     {
       "Original": "NOTE: end of security support for stretch-lts",
-      "Line": 1057,
+      "Line": 1060,
       "Type": "NOTE",
       "Description": "end of security support for stretch-lts"
     }
