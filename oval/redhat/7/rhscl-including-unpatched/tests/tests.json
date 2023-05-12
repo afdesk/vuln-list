@@ -75088,30 +75088,19 @@
     },
     {
       "Check": "at least one",
-      "Comment": "maven30-jakarta-commons-httpclient-demo is not installed",
+      "Comment": "maven30-jakarta-commons-httpclient-javadoc is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20126153002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20143577004"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "thermostat1-httpcomponents-client-javadoc is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20126153004",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20143577008"
+        "ObjectRef": "oval:com.redhat.cve:obj:20143577001"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "thermostat1-httpcomponents-client is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20126153006",
+      "ID": "oval:com.redhat.unaffected:tst:20126153004",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -75121,30 +75110,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "maven30-httpcomponents-client is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20126153008",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20143577003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "maven30-jakarta-commons-httpclient-manual is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20126153010",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20143577006"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "maven30-jakarta-commons-httpclient is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20126153012",
+      "ID": "oval:com.redhat.unaffected:tst:20126153006",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -75154,8 +75121,19 @@
     },
     {
       "Check": "at least one",
+      "Comment": "maven30-jakarta-commons-httpclient-manual is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20126153008",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20143577006"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "maven30-httpcomponents-client-javadoc is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20126153014",
+      "ID": "oval:com.redhat.unaffected:tst:20126153010",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -75165,12 +75143,34 @@
     },
     {
       "Check": "at least one",
-      "Comment": "maven30-jakarta-commons-httpclient-javadoc is not installed",
+      "Comment": "maven30-jakarta-commons-httpclient-demo is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20126153012",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20143577004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "maven30-httpcomponents-client is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20126153014",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20143577003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "thermostat1-httpcomponents-client-javadoc is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20126153016",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20143577001"
+        "ObjectRef": "oval:com.redhat.cve:obj:20143577008"
       },
       "State": {}
     },

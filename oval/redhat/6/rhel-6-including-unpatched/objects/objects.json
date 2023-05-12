@@ -3488,102 +3488,102 @@
     {
       "ID": "oval:com.redhat.cve:obj:20122739001",
       "Version": "636",
-      "Name": "java-1.6.0-ibm-javacomm"
+      "Name": "java-1.6.0-sun-demo"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20122739002",
       "Version": "636",
-      "Name": "java-1.6.0-sun-src"
+      "Name": "java-1.6.0-sun-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20122739003",
       "Version": "636",
-      "Name": "java-1.5.0-ibm-javacomm"
+      "Name": "java-1.6.0-sun-src"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20122739004",
       "Version": "636",
-      "Name": "java-1.6.0-sun-jdbc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20122739005",
-      "Version": "636",
-      "Name": "java-1.5.0-ibm-plugin"
+      "Name": "java-1.6.0-ibm-javacomm"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20122739006",
       "Version": "636",
-      "Name": "java-1.6.0-ibm-jdbc"
+      "Name": "java-1.6.0-sun-jdbc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20122739007",
       "Version": "636",
-      "Name": "java-1.5.0-ibm-src"
+      "Name": "java-1.6.0-ibm-jdbc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20122739008",
+      "Version": "636",
+      "Name": "java-1.5.0-ibm-plugin"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20122739009",
       "Version": "636",
-      "Name": "java-1.6.0-ibm-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20122739011",
-      "Version": "636",
-      "Name": "java-1.6.0-sun"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20122739013",
-      "Version": "636",
-      "Name": "java-1.5.0-ibm-demo"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20122739014",
-      "Version": "636",
-      "Name": "java-1.6.0-ibm-plugin"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20122739015",
-      "Version": "636",
-      "Name": "java-1.5.0-ibm-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20122739016",
-      "Version": "636",
-      "Name": "java-1.6.0-ibm-src"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20122739017",
-      "Version": "636",
       "Name": "java-1.6.0-ibm-demo"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20122739018",
+      "ID": "oval:com.redhat.cve:obj:20122739010",
       "Version": "636",
-      "Name": "java-1.6.0-sun-demo"
+      "Name": "java-1.5.0-ibm-src"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20122739020",
+      "ID": "oval:com.redhat.cve:obj:20122739012",
       "Version": "636",
       "Name": "java-1.5.0-ibm-jdbc"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20122739022",
+      "ID": "oval:com.redhat.cve:obj:20122739013",
       "Version": "636",
-      "Name": "java-1.5.0-ibm"
+      "Name": "java-1.6.0-sun"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20122739023",
-      "Version": "636",
-      "Name": "java-1.6.0-sun-plugin"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20122739024",
+      "ID": "oval:com.redhat.cve:obj:20122739014",
       "Version": "636",
       "Name": "java-1.6.0-ibm"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20122739015",
+      "Version": "636",
+      "Name": "java-1.5.0-ibm"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20122739016",
+      "Version": "636",
+      "Name": "java-1.5.0-ibm-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20122739018",
+      "Version": "636",
+      "Name": "java-1.6.0-ibm-src"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20122739019",
+      "Version": "636",
+      "Name": "java-1.6.0-ibm-plugin"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20122739021",
+      "Version": "636",
+      "Name": "java-1.5.0-ibm-demo"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20122739022",
+      "Version": "636",
+      "Name": "java-1.6.0-sun-plugin"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20122739023",
+      "Version": "636",
+      "Name": "java-1.6.0-ibm-devel"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20122739025",
       "Version": "636",
-      "Name": "java-1.6.0-sun-devel"
+      "Name": "java-1.5.0-ibm-javacomm"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20123213001",
@@ -5023,12 +5023,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20131953001",
       "Version": "636",
-      "Name": "autotrace"
+      "Name": "autotrace-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20131953002",
       "Version": "636",
-      "Name": "autotrace-devel"
+      "Name": "autotrace"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20132074001",
@@ -6728,12 +6728,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20157557001",
       "Version": "636",
-      "Name": "librsvg2-devel"
+      "Name": "librsvg2"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20157557002",
       "Version": "636",
-      "Name": "librsvg2"
+      "Name": "librsvg2-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20158076001",

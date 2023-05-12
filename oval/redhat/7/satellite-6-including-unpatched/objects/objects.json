@@ -3,17 +3,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20134120001",
       "Version": "636",
-      "Name": "katello-common"
+      "Name": "foreman-proxy-content"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134120002",
       "Version": "636",
-      "Name": "foreman-proxy-content"
+      "Name": "katello"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134120003",
       "Version": "636",
-      "Name": "katello"
+      "Name": "katello-common"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134120004",

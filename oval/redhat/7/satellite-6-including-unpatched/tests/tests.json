@@ -2,7 +2,7 @@
   "RpminfoTests": [
     {
       "Check": "at least one",
-      "Comment": "katello-common is installed",
+      "Comment": "foreman-proxy-content is installed",
       "ID": "oval:com.redhat.cve:tst:20134120001",
       "Version": "636",
       "Object": {
@@ -12,7 +12,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "katello-common is signed with Red Hat redhatrelease2 key",
+      "Comment": "foreman-proxy-content is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20134120002",
       "Version": "636",
       "Object": {
@@ -24,7 +24,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "foreman-proxy-content is installed",
+      "Comment": "katello is installed",
       "ID": "oval:com.redhat.cve:tst:20134120003",
       "Version": "636",
       "Object": {
@@ -34,7 +34,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "foreman-proxy-content is signed with Red Hat redhatrelease2 key",
+      "Comment": "katello is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20134120004",
       "Version": "636",
       "Object": {
@@ -46,7 +46,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "katello is installed",
+      "Comment": "katello-common is installed",
       "ID": "oval:com.redhat.cve:tst:20134120005",
       "Version": "636",
       "Object": {
@@ -56,7 +56,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "katello is signed with Red Hat redhatrelease2 key",
+      "Comment": "katello-common is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20134120006",
       "Version": "636",
       "Object": {
@@ -3579,7 +3579,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "katello-common is not installed",
+      "Comment": "foreman-proxy-content is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20132143002",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -3590,19 +3590,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "foreman-proxy-content is not installed",
+      "Comment": "katello-common is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20132143004",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20134120002"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "katello is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20132143006",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -3613,7 +3602,7 @@
     {
       "Check": "at least one",
       "Comment": "katello-debug is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20132143008",
+      "ID": "oval:com.redhat.unaffected:tst:20132143006",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -3623,23 +3612,34 @@
     },
     {
       "Check": "at least one",
-      "Comment": "candlepin-selinux is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136439002",
+      "Comment": "katello is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20132143008",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201920444001"
+        "ObjectRef": "oval:com.redhat.cve:obj:20134120002"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "candlepin is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136439004",
+      "ID": "oval:com.redhat.unaffected:tst:20136439002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201920444002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "candlepin-selinux is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20136439004",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201920444001"
       },
       "State": {}
     },

@@ -13221,6 +13221,11 @@
       "Name": "lua-debugsource"
     },
     {
+      "ID": "oval:com.redhat.unaffected:obj:202146877002",
+      "Version": "635",
+      "Name": "jackson-databind"
+    },
+    {
       "ID": "oval:com.redhat.unaffected:obj:20220235012",
       "Version": "635",
       "Name": "rust-toolset"

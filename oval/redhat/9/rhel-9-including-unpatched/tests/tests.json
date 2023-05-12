@@ -93502,6 +93502,27 @@
     },
     {
       "Check": "at least one",
+      "Comment": "jackson-databind is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202146877003",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202146877002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jackson-databind is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202146877004",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202146877002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "rust-toolset is installed",
       "ID": "oval:com.redhat.unaffected:tst:20220235023",
       "Version": "635",

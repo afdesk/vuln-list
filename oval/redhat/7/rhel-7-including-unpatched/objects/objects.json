@@ -1218,12 +1218,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20134392001",
       "Version": "636",
-      "Name": "systemd-networkd"
+      "Name": "systemd-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134392002",
       "Version": "636",
-      "Name": "libgudev1-devel"
+      "Name": "systemd-resolved"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134392003",
@@ -1233,37 +1233,37 @@
     {
       "ID": "oval:com.redhat.cve:obj:20134392004",
       "Version": "636",
-      "Name": "systemd-devel"
+      "Name": "systemd-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134392005",
       "Version": "636",
-      "Name": "systemd-resolved"
+      "Name": "systemd-python"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134392006",
       "Version": "636",
-      "Name": "systemd"
+      "Name": "libgudev1-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134392007",
       "Version": "636",
-      "Name": "systemd-journal-gateway"
+      "Name": "systemd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134392008",
       "Version": "636",
-      "Name": "systemd-libs"
+      "Name": "libgudev1"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134392009",
       "Version": "636",
-      "Name": "systemd-python"
+      "Name": "systemd-networkd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134392010",
       "Version": "636",
-      "Name": "libgudev1"
+      "Name": "systemd-journal-gateway"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134420001",
