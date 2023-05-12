@@ -5370,7 +5370,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-cinder is installed",
+      "Comment": "openstack-cinder is installed",
       "ID": "oval:com.redhat.cve:tst:20232088003",
       "Version": "636",
       "Object": {
@@ -5380,7 +5380,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-cinder is signed with Red Hat redhatrelease2 key",
+      "Comment": "openstack-cinder is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20232088004",
       "Version": "636",
       "Object": {
@@ -5392,65 +5392,21 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-os-brick is installed",
-      "ID": "oval:com.redhat.cve:tst:20232088013",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088007"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python-os-brick is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20232088014",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088007"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20115034001"
-      }
-    },
-    {
-      "Check": "at least one",
       "Comment": "python2-glance-store is installed",
-      "ID": "oval:com.redhat.cve:tst:20232088017",
+      "ID": "oval:com.redhat.cve:tst:20232088005",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088009"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088003"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "python2-glance-store is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20232088018",
+      "ID": "oval:com.redhat.cve:tst:20232088006",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088009"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20115034001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "openstack-cinder is installed",
-      "ID": "oval:com.redhat.cve:tst:20232088023",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088012"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "openstack-cinder is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20232088024",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088012"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088003"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20115034001"
@@ -5459,20 +5415,64 @@
     {
       "Check": "at least one",
       "Comment": "python2-os-brick is installed",
-      "ID": "oval:com.redhat.cve:tst:20232088039",
+      "ID": "oval:com.redhat.cve:tst:20232088009",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088020"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088005"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "python2-os-brick is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20232088040",
+      "ID": "oval:com.redhat.cve:tst:20232088010",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088020"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20115034001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-cinder is installed",
+      "ID": "oval:com.redhat.cve:tst:20232088025",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088013"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-cinder is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232088026",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088013"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20115034001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-os-brick is installed",
+      "ID": "oval:com.redhat.cve:tst:20232088033",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088017"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-os-brick is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232088034",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088017"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20115034001"
@@ -5790,7 +5790,7 @@
       "ID": "oval:com.redhat.rhba:tst:20190448021",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088020"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088005"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhba:ste:20190448012"
@@ -7326,7 +7326,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20183601001",
       "Version": "637",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088012"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20183601001"
@@ -7338,7 +7338,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20183601003",
       "Version": "637",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088002"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088013"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20183601001"
@@ -9534,7 +9534,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20204391001",
       "Version": "637",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088012"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20204391001"
@@ -9546,7 +9546,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20204391003",
       "Version": "637",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088002"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088013"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20204391001"
@@ -10530,7 +10530,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231279001",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088012"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231279001"
@@ -10542,7 +10542,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231279003",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088002"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088013"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231279001"

@@ -1587,86 +1587,20 @@
     {
       "Check": "at least one",
       "Comment": "tripleo-ansible is installed",
-      "ID": "oval:com.redhat.cve:tst:20232088009",
+      "ID": "oval:com.redhat.cve:tst:20232088005",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088005"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088003"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "tripleo-ansible is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20232088010",
+      "ID": "oval:com.redhat.cve:tst:20232088006",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088005"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20178761001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "openstack-cinder is installed",
-      "ID": "oval:com.redhat.cve:tst:20232088011",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088006"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "openstack-cinder is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20232088012",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088006"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20178761001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3-glance-store is installed",
-      "ID": "oval:com.redhat.cve:tst:20232088017",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088009"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3-glance-store is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20232088018",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088009"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20178761001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3-cinder is installed",
-      "ID": "oval:com.redhat.cve:tst:20232088023",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088012"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3-cinder is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20232088024",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088012"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088003"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20178761001"
@@ -1675,20 +1609,86 @@
     {
       "Check": "at least one",
       "Comment": "python3-os-brick is installed",
-      "ID": "oval:com.redhat.cve:tst:20232088025",
+      "ID": "oval:com.redhat.cve:tst:20232088021",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088013"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088011"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "python3-os-brick is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20232088026",
+      "ID": "oval:com.redhat.cve:tst:20232088022",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088013"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20178761001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openstack-cinder is installed",
+      "ID": "oval:com.redhat.cve:tst:20232088027",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088014"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openstack-cinder is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232088028",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088014"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20178761001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-cinder is installed",
+      "ID": "oval:com.redhat.cve:tst:20232088029",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088015"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-cinder is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232088030",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088015"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20178761001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-glance-store is installed",
+      "ID": "oval:com.redhat.cve:tst:20232088033",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088017"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-glance-store is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232088034",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088017"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20178761001"
@@ -2778,7 +2778,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20226969001",
       "Version": "634",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088005"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088003"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20226969001"
@@ -3930,7 +3930,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231279001",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088006"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088014"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231279001"
@@ -3942,7 +3942,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231279003",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232088012"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232088015"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231279001"

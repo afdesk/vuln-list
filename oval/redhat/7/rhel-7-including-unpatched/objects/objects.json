@@ -453,82 +453,82 @@
     {
       "ID": "oval:com.redhat.cve:obj:20124542001",
       "Version": "636",
-      "Name": "kernel-kdump-devel"
+      "Name": "kernel-debug-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124542002",
       "Version": "636",
-      "Name": "kernel-bootwrapper"
+      "Name": "kernel-debug"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124542003",
       "Version": "636",
-      "Name": "kernel-devel"
+      "Name": "kernel-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124542004",
       "Version": "636",
-      "Name": "kernel-tools"
+      "Name": "kernel-kdump"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124542005",
       "Version": "636",
-      "Name": "kernel"
+      "Name": "bpftool"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124542006",
       "Version": "636",
-      "Name": "kernel-kdump"
+      "Name": "perf"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124542007",
       "Version": "636",
-      "Name": "python-perf"
+      "Name": "kernel-bootwrapper"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124542008",
       "Version": "636",
-      "Name": "perf"
+      "Name": "kernel-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124542009",
       "Version": "636",
-      "Name": "bpftool"
+      "Name": "kernel-tools-libs-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124542010",
       "Version": "636",
-      "Name": "kernel-headers"
+      "Name": "kernel-kdump-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124542011",
       "Version": "636",
-      "Name": "kernel-tools-libs"
+      "Name": "python-perf"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124542012",
       "Version": "636",
-      "Name": "kernel-doc"
+      "Name": "kernel-abi-whitelists"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124542013",
       "Version": "636",
-      "Name": "kernel-debug-devel"
+      "Name": "kernel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124542014",
       "Version": "636",
-      "Name": "kernel-abi-whitelists"
+      "Name": "kernel-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124542015",
       "Version": "636",
-      "Name": "kernel-debug"
+      "Name": "kernel-tools-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124542016",
       "Version": "636",
-      "Name": "kernel-tools-libs-devel"
+      "Name": "kernel-headers"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20125662001",

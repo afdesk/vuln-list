@@ -16,11 +16,6 @@
       "Name": "libthrift"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20210341001",
-      "Version": "636",
-      "Name": "okhttp"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202131684001",
       "Version": "636",
       "Name": "json-smart"
@@ -81,29 +76,14 @@
       "Name": "apache-ivy"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202238752001",
-      "Version": "636",
-      "Name": "snakeyaml"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20224039001",
       "Version": "636",
       "Name": "rhsso-container-image"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241854001",
-      "Version": "636",
-      "Name": "dev-java-snakeyaml"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202241862001",
       "Version": "636",
       "Name": "jdbc-postgresql"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241881001",
-      "Version": "636",
-      "Name": "codec-haproxy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20224244001",
@@ -114,16 +94,6 @@
       "ID": "oval:com.redhat.cve:obj:202242920001",
       "Version": "636",
       "Name": "apache-bcel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202245787001",
-      "Version": "636",
-      "Name": "apache-james-mime4j"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20230482001",
-      "Version": "636",
-      "Name": "RESTEasy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231436001",
@@ -209,6 +179,16 @@
       "ID": "oval:com.redhat.rhsa:obj:20170872015",
       "Version": "643",
       "Name": "rh-sso7-keycloak"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:201718640001",
+      "Version": "635",
+      "Name": "snakeyaml"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:201820200001",
+      "Version": "635",
+      "Name": "okhttp"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:201917632001",

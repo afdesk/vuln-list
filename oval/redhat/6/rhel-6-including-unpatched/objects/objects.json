@@ -4893,12 +4893,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20130199001",
       "Version": "636",
-      "Name": "ipa"
+      "Name": "ipa-server-selinux"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20130199002",
       "Version": "636",
-      "Name": "ipa-server-selinux"
+      "Name": "ipa-client"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20130199003",
@@ -4918,12 +4918,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20130199006",
       "Version": "636",
-      "Name": "ipa-server-trust-ad"
+      "Name": "ipa"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20130199007",
       "Version": "636",
-      "Name": "ipa-client"
+      "Name": "ipa-server-trust-ad"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20130338001",
@@ -5148,32 +5148,32 @@
     {
       "ID": "oval:com.redhat.cve:obj:20134277002",
       "Version": "636",
-      "Name": "subversion-javahl"
+      "Name": "subversion-gnome"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134277003",
       "Version": "636",
-      "Name": "subversion-svn2cl"
+      "Name": "subversion-ruby"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134277004",
       "Version": "636",
-      "Name": "subversion-perl"
+      "Name": "subversion-svn2cl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134277005",
       "Version": "636",
-      "Name": "subversion-kde"
+      "Name": "subversion-javahl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134277006",
       "Version": "636",
-      "Name": "subversion-gnome"
+      "Name": "subversion-kde"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134277007",
       "Version": "636",
-      "Name": "subversion-ruby"
+      "Name": "subversion-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134277008",
@@ -5183,7 +5183,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20134277009",
       "Version": "636",
-      "Name": "subversion-devel"
+      "Name": "subversion-perl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20134420001",

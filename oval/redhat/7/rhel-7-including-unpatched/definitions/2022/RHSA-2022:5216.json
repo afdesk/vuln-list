@@ -130,7 +130,7 @@
                       },
                       {
                         "Comment": "kernel is signed with Red Hat redhatrelease2 key",
-                        "TestRef": "oval:com.redhat.cve:tst:20124542010"
+                        "TestRef": "oval:com.redhat.cve:tst:20124542026"
                       }
                     ],
                     "Criterias": [
@@ -187,7 +187,7 @@
                       },
                       {
                         "Comment": "kernel is signed with Red Hat redhatrelease2 key",
-                        "TestRef": "oval:com.redhat.cve:tst:20124542010"
+                        "TestRef": "oval:com.redhat.cve:tst:20124542026"
                       }
                     ],
                     "Criterias": [
@@ -244,7 +244,7 @@
                       },
                       {
                         "Comment": "kernel is signed with Red Hat redhatrelease2 key",
-                        "TestRef": "oval:com.redhat.cve:tst:20124542010"
+                        "TestRef": "oval:com.redhat.cve:tst:20124542026"
                       }
                     ],
                     "Criterias": [
@@ -301,7 +301,7 @@
                       },
                       {
                         "Comment": "kernel is signed with Red Hat redhatrelease2 key",
-                        "TestRef": "oval:com.redhat.cve:tst:20124542010"
+                        "TestRef": "oval:com.redhat.cve:tst:20124542026"
                       }
                     ],
                     "Criterias": [
@@ -358,7 +358,7 @@
                       },
                       {
                         "Comment": "kernel is signed with Red Hat redhatrelease2 key",
-                        "TestRef": "oval:com.redhat.cve:tst:20124542010"
+                        "TestRef": "oval:com.redhat.cve:tst:20124542026"
                       }
                     ],
                     "Criterias": [
@@ -415,7 +415,7 @@
                       },
                       {
                         "Comment": "kernel is signed with Red Hat redhatrelease2 key",
-                        "TestRef": "oval:com.redhat.cve:tst:20124542010"
+                        "TestRef": "oval:com.redhat.cve:tst:20124542026"
                       }
                     ],
                     "Criterias": [
@@ -472,7 +472,7 @@
                       },
                       {
                         "Comment": "kernel is signed with Red Hat redhatrelease2 key",
-                        "TestRef": "oval:com.redhat.cve:tst:20124542010"
+                        "TestRef": "oval:com.redhat.cve:tst:20124542026"
                       }
                     ],
                     "Criterias": [
@@ -529,7 +529,7 @@
                       },
                       {
                         "Comment": "kernel is signed with Red Hat redhatrelease2 key",
-                        "TestRef": "oval:com.redhat.cve:tst:20124542010"
+                        "TestRef": "oval:com.redhat.cve:tst:20124542026"
                       }
                     ],
                     "Criterias": [
@@ -586,7 +586,7 @@
                       },
                       {
                         "Comment": "kernel is signed with Red Hat redhatrelease2 key",
-                        "TestRef": "oval:com.redhat.cve:tst:20124542010"
+                        "TestRef": "oval:com.redhat.cve:tst:20124542026"
                       }
                     ],
                     "Criterias": [

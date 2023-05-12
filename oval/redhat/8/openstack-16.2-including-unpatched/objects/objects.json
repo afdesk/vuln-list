@@ -361,29 +361,29 @@
       "Name": "openstack-barbican-keystone-listener"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232088005",
+      "ID": "oval:com.redhat.cve:obj:20232088003",
       "Version": "636",
       "Name": "tripleo-ansible"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232088006",
+      "ID": "oval:com.redhat.cve:obj:20232088011",
+      "Version": "636",
+      "Name": "python3-os-brick"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232088014",
       "Version": "636",
       "Name": "openstack-cinder"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232088009",
-      "Version": "636",
-      "Name": "python3-glance-store"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232088012",
+      "ID": "oval:com.redhat.cve:obj:20232088015",
       "Version": "636",
       "Name": "python3-cinder"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232088013",
+      "ID": "oval:com.redhat.cve:obj:20232088017",
       "Version": "636",
-      "Name": "python3-os-brick"
+      "Name": "python3-glance-store"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202323934001",
