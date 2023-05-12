@@ -528,7 +528,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20136393002",
       "Version": "636",
-      "Name": "ruby193-libyaml-devel"
+      "Name": "libyaml"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20136393003",
@@ -538,12 +538,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20136393004",
       "Version": "636",
-      "Name": "libyaml"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20136420001",
-      "Version": "636",
-      "Name": "php55-php-devel"
+      "Name": "ruby193-libyaml-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20136420002",
@@ -553,77 +548,87 @@
     {
       "ID": "oval:com.redhat.cve:obj:20136420003",
       "Version": "636",
-      "Name": "php55-php-opcache"
+      "Name": "php55-php-pgsql"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20136420007",
+      "ID": "oval:com.redhat.cve:obj:20136420004",
       "Version": "636",
-      "Name": "php55-php-ldap"
+      "Name": "php55-php-xml"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20136420008",
       "Version": "636",
-      "Name": "php55-php-imap"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20136420010",
-      "Version": "636",
-      "Name": "php55-php-mbstring"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20136420011",
-      "Version": "636",
-      "Name": "php55-php-common"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20136420012",
-      "Version": "636",
-      "Name": "php55-php-gmp"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20136420016",
-      "Version": "636",
-      "Name": "php55-php-pdo"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20136420018",
-      "Version": "636",
-      "Name": "php55-php-fpm"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20136420019",
-      "Version": "636",
-      "Name": "php55-php-enchant"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20136420020",
-      "Version": "636",
       "Name": "php55-php-pspell"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20136420022",
-      "Version": "636",
-      "Name": "php55-php-intl"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20136420026",
+      "ID": "oval:com.redhat.cve:obj:20136420009",
       "Version": "636",
       "Name": "php55-php-dba"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20136420029",
+      "ID": "oval:com.redhat.cve:obj:20136420012",
       "Version": "636",
       "Name": "php55-php-gd"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20136420016",
+      "Version": "636",
+      "Name": "php55-php-mbstring"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20136420019",
+      "Version": "636",
+      "Name": "php55-php-snmp"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20136420021",
+      "Version": "636",
+      "Name": "php55-php-bcmath"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20136420022",
+      "Version": "636",
+      "Name": "php55-php-tidy"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20136420025",
+      "Version": "636",
+      "Name": "php55-php-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20136420026",
+      "Version": "636",
+      "Name": "php55-php-gmp"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20136420027",
+      "Version": "636",
+      "Name": "php55-php"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20136420028",
+      "Version": "636",
+      "Name": "php55-php-enchant"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20136420029",
+      "Version": "636",
+      "Name": "php55-php-intl"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20136420030",
       "Version": "636",
-      "Name": "php55-php-cli"
+      "Name": "php55-php-ldap"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20136420031",
+      "Version": "636",
+      "Name": "php55-php-common"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20136420032",
       "Version": "636",
-      "Name": "php55-php-bcmath"
+      "Name": "php55-php-soap"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20136420033",
@@ -633,47 +638,42 @@
     {
       "ID": "oval:com.redhat.cve:obj:20136420034",
       "Version": "636",
-      "Name": "php55-php-process"
+      "Name": "php55-php-cli"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20136420036",
+      "ID": "oval:com.redhat.cve:obj:20136420039",
       "Version": "636",
       "Name": "php55-php-recode"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20136420038",
+      "ID": "oval:com.redhat.cve:obj:20136420040",
       "Version": "636",
       "Name": "php55-php-mysqlnd"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20136420040",
-      "Version": "636",
-      "Name": "php55-php-pgsql"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20136420041",
       "Version": "636",
-      "Name": "php55-php"
+      "Name": "php55-php-process"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20136420042",
       "Version": "636",
-      "Name": "php55-php-soap"
+      "Name": "php55-php-pdo"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20136420043",
+      "ID": "oval:com.redhat.cve:obj:20136420044",
       "Version": "636",
-      "Name": "php55-php-xml"
+      "Name": "php55-php-fpm"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20136420047",
+      "ID": "oval:com.redhat.cve:obj:20136420046",
       "Version": "636",
-      "Name": "php55-php-tidy"
+      "Name": "php55-php-imap"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20136420048",
+      "ID": "oval:com.redhat.cve:obj:20136420052",
       "Version": "636",
-      "Name": "php55-php-snmp"
+      "Name": "php55-php-opcache"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20137040001",
@@ -763,57 +763,57 @@
     {
       "ID": "oval:com.redhat.cve:obj:20140060001",
       "Version": "636",
-      "Name": "postgresql92-postgresql"
+      "Name": "postgresql92-postgresql-contrib"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20140060002",
       "Version": "636",
-      "Name": "postgresql92-postgresql-plperl"
+      "Name": "postgresql92-postgresql-upgrade"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20140060003",
       "Version": "636",
-      "Name": "postgresql92-postgresql-test"
+      "Name": "postgresql92-postgresql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20140060004",
       "Version": "636",
-      "Name": "postgresql92-postgresql-devel"
+      "Name": "postgresql92-postgresql-pltcl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20140060005",
       "Version": "636",
-      "Name": "postgresql92-postgresql-libs"
+      "Name": "postgresql92-postgresql-plperl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20140060006",
       "Version": "636",
-      "Name": "postgresql92-postgresql-pltcl"
+      "Name": "postgresql92-postgresql-plpython"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20140060007",
       "Version": "636",
-      "Name": "postgresql92-postgresql-upgrade"
+      "Name": "postgresql92-postgresql-server"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20140060008",
       "Version": "636",
-      "Name": "postgresql92-postgresql-contrib"
+      "Name": "postgresql92-postgresql-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20140060009",
       "Version": "636",
-      "Name": "postgresql92-postgresql-docs"
+      "Name": "postgresql92-postgresql-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20140060010",
       "Version": "636",
-      "Name": "postgresql92-postgresql-plpython"
+      "Name": "postgresql92-postgresql-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20140060011",
       "Version": "636",
-      "Name": "postgresql92-postgresql-server"
+      "Name": "postgresql92-postgresql-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20140081002",

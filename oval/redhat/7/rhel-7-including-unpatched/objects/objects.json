@@ -1538,17 +1538,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20136887001",
       "Version": "636",
-      "Name": "openjpeg"
+      "Name": "openjpeg-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20136887002",
       "Version": "636",
-      "Name": "openjpeg-libs"
+      "Name": "openjpeg"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20136887003",
       "Version": "636",
-      "Name": "openjpeg-devel"
+      "Name": "openjpeg-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20137284001",
@@ -2093,12 +2093,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20143477001",
       "Version": "636",
-      "Name": "dbus-tests"
+      "Name": "dbus-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20143477002",
       "Version": "636",
-      "Name": "dbus-libs"
+      "Name": "dbus-tests"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20143477003",
@@ -2108,17 +2108,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20143477004",
       "Version": "636",
-      "Name": "dbus-devel"
+      "Name": "dbus-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20143477005",
       "Version": "636",
-      "Name": "dbus"
+      "Name": "dbus-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20143477006",
       "Version": "636",
-      "Name": "dbus-doc"
+      "Name": "dbus"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20143554001",
@@ -20193,12 +20193,12 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:20140027001",
       "Version": "635",
-      "Name": "flite"
+      "Name": "flite-devel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20140027002",
       "Version": "635",
-      "Name": "flite-devel"
+      "Name": "flite"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20140107001",
