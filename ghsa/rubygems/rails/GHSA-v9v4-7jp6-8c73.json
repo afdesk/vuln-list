@@ -41,6 +41,9 @@
         "Url": "https://gist.github.com/NZKoz/b2ceb626fc2bcdfe497f"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/activesupport/CVE-2011-2197.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-v9v4-7jp6-8c73"
       }
     ],
@@ -59,7 +62,7 @@
     "PublishedAt": "2017-10-24T18:33:38Z",
     "Severity": "MODERATE",
     "Summary": "rails Cross-site Scripting vulnerability",
-    "UpdatedAt": "2023-04-20T21:47:19Z",
+    "UpdatedAt": "2023-05-12T17:24:09Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

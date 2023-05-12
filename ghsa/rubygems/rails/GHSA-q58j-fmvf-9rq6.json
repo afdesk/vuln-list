@@ -20,6 +20,9 @@
         "Url": "https://www.openwall.com/lists/oss-security/2011/04/06/13"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/actionpack/CVE-2011-1497.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-q58j-fmvf-9rq6"
       }
     ],
@@ -33,16 +36,16 @@
         "Value": "CVE-2011-1497"
       }
     ],
-    "Description": "A cross-site scripting vulnerability flaw was found in the auto_link function in Rails before version 3.0.6.",
+    "Description": "A cross-site scripting vulnerability flaw was found in the `auto_link` function in Rails before version 3.0.6.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2022-04-22T00:24:28Z",
     "Severity": "MODERATE",
-    "Summary": "Cross site scripting in rails \u003c 3.0.6",
-    "UpdatedAt": "2023-01-27T05:01:57Z",
+    "Summary": "Cross site scripting in rails",
+    "UpdatedAt": "2023-05-12T17:25:13Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 6.1,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [

@@ -41,11 +41,11 @@
     "PublishedAt": "2023-05-08T12:30:28Z",
     "Severity": "MODERATE",
     "Summary": "Apache Airflow vulnerable to stored Cross-site Scripting",
-    "UpdatedAt": "2023-05-08T20:25:07Z",
+    "UpdatedAt": "2023-05-12T15:24:34Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 5.4,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [

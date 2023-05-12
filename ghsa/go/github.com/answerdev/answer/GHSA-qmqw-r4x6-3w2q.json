@@ -1,5 +1,5 @@
 {
-  "Severity": "HIGH",
+  "Severity": "LOW",
   "UpdatedAt": "2023-05-11T20:36:13Z",
   "Package": {
     "Ecosystem": "GO",
@@ -36,13 +36,13 @@
     "Description": "A missing authorization in GitHub repository answerdev/answer prior to 1.0.9 can lead to a user rating their own answer as the best answer.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-09T06:30:25Z",
-    "Severity": "HIGH",
+    "Severity": "LOW",
     "Summary": "Answer Missing Authorization vulnerability",
-    "UpdatedAt": "2023-05-11T20:36:13Z",
+    "UpdatedAt": "2023-05-12T15:24:23Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 7.7,
-      "VectorString": "CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:C/C:N/I:H/A:N"
+      "Score": 3.5,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:N/I:L/A:N"
     }
   },
   "Versions": [
