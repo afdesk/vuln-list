@@ -8689,13 +8689,13 @@
       "abigail-tools (\u003e= 1.8), debhelper-compat (= 12), dh-python, dh-sequence-dkms, libaio-dev, libblkid-dev, libcurl4-openssl-dev, libelf-dev, libpam0g-dev, libssl-dev | libssl1.0-dev, libtool, libudev-dev, lsb-release, po-debconf, python3-all-dev, python3-cffi, python3-setuptools, python3-sphinx, uuid-dev, zlib1g-dev"
     ],
     "Checksums-Sha256": [
-      "e8e1eea2e226d9a3508839b525d8542efd8ce56d7bc95d9863a6502e7f6b906c 3164 zfs-linux_2.1.9-3.dsc 6b172cdf2eb54e17fcd68f900fab33c1430c5c59848fa46fab83614922fe50f6 35106538 zfs-linux_2.1.9.orig.tar.gz 8e412fbacd9d7b7839999fe91abb59bbc1356f32b6b9c2944d7e634b67dae458 115668 zfs-linux_2.1.9-3.debian.tar.xz"
+      "6411d6755d3fe60e7868df1239a9c23b5146e3ff7bd73f4fb5bf8b51b4611693 3213 zfs-linux_2.1.11-1.dsc a54fe4e854d0a207584f1799a80e165eae66bc30dc8e8c96a1f99ed9d4d8ceb2 35100716 zfs-linux_2.1.11.orig.tar.gz 52c795e05437b2acc36f123e0e926b1b5da397b3a535bc6c9e750fc45881a66e 110044 zfs-linux_2.1.11-1.debian.tar.xz"
     ],
     "Directory": [
       "pool/contrib/z/zfs-linux"
     ],
     "Files": [
-      "16c7fc068e5773f6e4a8249220e27baa 3164 zfs-linux_2.1.9-3.dsc d464a712eb43411f2360214badd3b35a 35106538 zfs-linux_2.1.9.orig.tar.gz d04418258063f823ffa88ff9ce826055 115668 zfs-linux_2.1.9-3.debian.tar.xz"
+      "d7678b76469fe52d941cd9a88d9b1ccc 3213 zfs-linux_2.1.11-1.dsc 2a7b9d2a487a02d373404c48719488ed 35100716 zfs-linux_2.1.11.orig.tar.gz 9a37fac33954ba453028e7e12dc8d6b1 110044 zfs-linux_2.1.11-1.debian.tar.xz"
     ],
     "Format": [
       "3.0 (quilt)"
@@ -8725,7 +8725,7 @@
       "autopkgtest, autopkgtest-pkg-dkms"
     ],
     "Testsuite-Triggers": [
-      "@builddeps@, fakeroot, linux-headers-686, linux-headers-amd64, linux-headers-arm64, linux-headers-armmp, linux-headers-powerpc64le, linux-headers-s390x"
+      "@builddeps@, fakeroot, linux-headers-686, linux-headers-amd64, linux-headers-arm64, linux-headers-armmp, linux-headers-powerpc64le, linux-headers-riscv64, linux-headers-rpi, linux-headers-s390x"
     ],
     "Uploaders": [
       "Aron Xu \u003caron@debian.org\u003e, Carlos Alberto Lopez Perez \u003cclopez@igalia.com\u003e, Mo Zhou \u003clumin@debian.org\u003e"
@@ -8737,7 +8737,7 @@
       "https://salsa.debian.org/zfsonlinux-team/zfs.git"
     ],
     "Version": [
-      "2.1.9-3"
+      "2.1.11-1"
     ]
   },
   {
