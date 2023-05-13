@@ -8,18 +8,18 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
     "packages": [
       {
         "name": "grafana-pcp",
         "version": "5.1.1",
         "release": "1.el9",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "s390x",
         "src": "grafana-pcp-5.1.1-1.el9.src.rpm",
-        "filename": "grafana-pcp-5.1.1-1.el9.aarch64.rpm",
-        "sum": "dc0dea1bc346c715db12ca4fe34f95258adda57cd57fac9a0c5fa0f003cf5636",
+        "filename": "grafana-pcp-5.1.1-1.el9.s390x.rpm",
+        "sum": "ff79cd2582d6f79be1916532fb57ef4b1a18f3f555cae0b692bd16cc7234d92a",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +52,10 @@
         "version": "5.1.1",
         "release": "1.el9",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "grafana-pcp-5.1.1-1.el9.src.rpm",
-        "filename": "grafana-pcp-5.1.1-1.el9.s390x.rpm",
-        "sum": "ff79cd2582d6f79be1916532fb57ef4b1a18f3f555cae0b692bd16cc7234d92a",
+        "filename": "grafana-pcp-5.1.1-1.el9.aarch64.rpm",
+        "sum": "dc0dea1bc346c715db12ca4fe34f95258adda57cd57fac9a0c5fa0f003cf5636",
         "sum_type": 5,
         "reboot_suggested": 0
       }

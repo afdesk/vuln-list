@@ -40,10 +40,10 @@
         "version": "2.0.2",
         "release": "4.el9",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "s390x",
         "src": "golang-github-cpuguy83-md2man-2.0.2-4.el9.src.rpm",
-        "filename": "golang-github-cpuguy83-md2man-2.0.2-4.el9.aarch64.rpm",
-        "sum": "521aa2918f29b6dafff48a407a0bf64abad13727640ab0709e2bcd7be061f612",
+        "filename": "golang-github-cpuguy83-md2man-2.0.2-4.el9.s390x.rpm",
+        "sum": "e3f8dd33b933a9c8c0d459cdeac265ddb0ccf275e95cf32feb64596d27b171af",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +52,10 @@
         "version": "2.0.2",
         "release": "4.el9",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "golang-github-cpuguy83-md2man-2.0.2-4.el9.src.rpm",
-        "filename": "golang-github-cpuguy83-md2man-2.0.2-4.el9.s390x.rpm",
-        "sum": "e3f8dd33b933a9c8c0d459cdeac265ddb0ccf275e95cf32feb64596d27b171af",
+        "filename": "golang-github-cpuguy83-md2man-2.0.2-4.el9.aarch64.rpm",
+        "sum": "521aa2918f29b6dafff48a407a0bf64abad13727640ab0709e2bcd7be061f612",
         "sum_type": 5,
         "reboot_suggested": 0
       }

@@ -28,10 +28,10 @@
         "version": "1.3.3",
         "release": "10.el9",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "s390x",
         "src": "flac-1.3.3-10.el9.src.rpm",
-        "filename": "flac-libs-1.3.3-10.el9.aarch64.rpm",
-        "sum": "f2af0411c70d5d6618f8abb3335be84f9e9d1789eac92803098853206d74e8f1",
+        "filename": "flac-libs-1.3.3-10.el9.s390x.rpm",
+        "sum": "3c2e26363b7c011c5594d3aa0e5e17daafa58fd2dee5f8141075024d42e3ac5c",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -64,10 +64,10 @@
         "version": "1.3.3",
         "release": "10.el9",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "flac-1.3.3-10.el9.src.rpm",
-        "filename": "flac-libs-1.3.3-10.el9.s390x.rpm",
-        "sum": "3c2e26363b7c011c5594d3aa0e5e17daafa58fd2dee5f8141075024d42e3ac5c",
+        "filename": "flac-libs-1.3.3-10.el9.aarch64.rpm",
+        "sum": "f2af0411c70d5d6618f8abb3335be84f9e9d1789eac92803098853206d74e8f1",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -132,30 +132,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "flac",
-        "version": "1.3.3",
-        "release": "10.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "flac-1.3.3-10.el9.src.rpm",
-        "filename": "flac-1.3.3-10.el9.aarch64.rpm",
-        "sum": "7418bcd64f5a8ef729d675378eadfc7c0fd2c4d9ba1ff4fa3893eb7f42b910ef",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "flac-devel",
-        "version": "1.3.3",
-        "release": "10.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "flac-1.3.3-10.el9.src.rpm",
-        "filename": "flac-devel-1.3.3-10.el9.aarch64.rpm",
-        "sum": "ded71c30e5edc5b09ddb28ff410c8db19faff7503d9239a59ef2d5ed3e9d6a14",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "flac-devel",
         "version": "1.3.3",
         "release": "10.el9",
@@ -176,6 +152,30 @@
         "src": "flac-1.3.3-10.el9.src.rpm",
         "filename": "flac-1.3.3-10.el9.s390x.rpm",
         "sum": "9310d160cd8561d36c052e030c3ab3e814d35702d19c16a6f316a12445bed569",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "flac",
+        "version": "1.3.3",
+        "release": "10.el9",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "flac-1.3.3-10.el9.src.rpm",
+        "filename": "flac-1.3.3-10.el9.aarch64.rpm",
+        "sum": "7418bcd64f5a8ef729d675378eadfc7c0fd2c4d9ba1ff4fa3893eb7f42b910ef",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "flac-devel",
+        "version": "1.3.3",
+        "release": "10.el9",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "flac-1.3.3-10.el9.src.rpm",
+        "filename": "flac-devel-1.3.3-10.el9.aarch64.rpm",
+        "sum": "ded71c30e5edc5b09ddb28ff410c8db19faff7503d9239a59ef2d5ed3e9d6a14",
         "sum_type": 5,
         "reboot_suggested": 0
       }

@@ -8,30 +8,18 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
     "packages": [
       {
-        "name": "mysql",
+        "name": "mysql-server",
         "version": "8.0.32",
         "release": "1.el9_2",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "s390x",
         "src": "mysql-8.0.32-1.el9_2.src.rpm",
-        "filename": "mysql-8.0.32-1.el9_2.aarch64.rpm",
-        "sum": "47cdd1796fabd29352f60f58340cb561df794e756e285f1907789d0049657ca5",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "mysql-common",
-        "version": "8.0.32",
-        "release": "1.el9_2",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "mysql-8.0.32-1.el9_2.src.rpm",
-        "filename": "mysql-common-8.0.32-1.el9_2.aarch64.rpm",
-        "sum": "654295fe109a9f2bb8e4cb3e43fcf71972b4c430138c46dadb930c5ea1ddaeed",
+        "filename": "mysql-server-8.0.32-1.el9_2.s390x.rpm",
+        "sum": "24e0ef7336867d9923f7652b61658991f7d52ec6ee8e54a82640136c25239db3",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -40,22 +28,34 @@
         "version": "8.0.32",
         "release": "1.el9_2",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "s390x",
         "src": "mysql-8.0.32-1.el9_2.src.rpm",
-        "filename": "mysql-errmsg-8.0.32-1.el9_2.aarch64.rpm",
-        "sum": "6cd5d7aaa294bb79085bc2b4dfddf85158b75ac178ca7f64069786c378cf3eab",
+        "filename": "mysql-errmsg-8.0.32-1.el9_2.s390x.rpm",
+        "sum": "56455736741baf7acec535b328a6a8ad6071217716a6888a367054766765d9ca",
         "sum_type": 5,
         "reboot_suggested": 0
       },
       {
-        "name": "mysql-server",
+        "name": "mysql",
         "version": "8.0.32",
         "release": "1.el9_2",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "s390x",
         "src": "mysql-8.0.32-1.el9_2.src.rpm",
-        "filename": "mysql-server-8.0.32-1.el9_2.aarch64.rpm",
-        "sum": "a8af67d26b488f82b861334ff8ced0fecaf28d04c24db480667018e9668ca925",
+        "filename": "mysql-8.0.32-1.el9_2.s390x.rpm",
+        "sum": "e970646980978d5d1fd7f5b3e965288477bfe4440400d38b84048c28e716eb6b",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "mysql-common",
+        "version": "8.0.32",
+        "release": "1.el9_2",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "mysql-8.0.32-1.el9_2.src.rpm",
+        "filename": "mysql-common-8.0.32-1.el9_2.s390x.rpm",
+        "sum": "f8ae9c156bd94b8853e91ab370cbf25503148afe3ce1bf749397956e7034fc52",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -156,38 +156,14 @@
         "reboot_suggested": 0
       },
       {
-        "name": "mysql-server",
-        "version": "8.0.32",
-        "release": "1.el9_2",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "mysql-8.0.32-1.el9_2.src.rpm",
-        "filename": "mysql-server-8.0.32-1.el9_2.s390x.rpm",
-        "sum": "24e0ef7336867d9923f7652b61658991f7d52ec6ee8e54a82640136c25239db3",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "mysql-errmsg",
-        "version": "8.0.32",
-        "release": "1.el9_2",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "mysql-8.0.32-1.el9_2.src.rpm",
-        "filename": "mysql-errmsg-8.0.32-1.el9_2.s390x.rpm",
-        "sum": "56455736741baf7acec535b328a6a8ad6071217716a6888a367054766765d9ca",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "mysql",
         "version": "8.0.32",
         "release": "1.el9_2",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "mysql-8.0.32-1.el9_2.src.rpm",
-        "filename": "mysql-8.0.32-1.el9_2.s390x.rpm",
-        "sum": "e970646980978d5d1fd7f5b3e965288477bfe4440400d38b84048c28e716eb6b",
+        "filename": "mysql-8.0.32-1.el9_2.aarch64.rpm",
+        "sum": "47cdd1796fabd29352f60f58340cb561df794e756e285f1907789d0049657ca5",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -196,10 +172,34 @@
         "version": "8.0.32",
         "release": "1.el9_2",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "mysql-8.0.32-1.el9_2.src.rpm",
-        "filename": "mysql-common-8.0.32-1.el9_2.s390x.rpm",
-        "sum": "f8ae9c156bd94b8853e91ab370cbf25503148afe3ce1bf749397956e7034fc52",
+        "filename": "mysql-common-8.0.32-1.el9_2.aarch64.rpm",
+        "sum": "654295fe109a9f2bb8e4cb3e43fcf71972b4c430138c46dadb930c5ea1ddaeed",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "mysql-errmsg",
+        "version": "8.0.32",
+        "release": "1.el9_2",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "mysql-8.0.32-1.el9_2.src.rpm",
+        "filename": "mysql-errmsg-8.0.32-1.el9_2.aarch64.rpm",
+        "sum": "6cd5d7aaa294bb79085bc2b4dfddf85158b75ac178ca7f64069786c378cf3eab",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "mysql-server",
+        "version": "8.0.32",
+        "release": "1.el9_2",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "mysql-8.0.32-1.el9_2.src.rpm",
+        "filename": "mysql-server-8.0.32-1.el9_2.aarch64.rpm",
+        "sum": "a8af67d26b488f82b861334ff8ced0fecaf28d04c24db480667018e9668ca925",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -280,42 +280,6 @@
         "version": "8.0.32",
         "release": "1.el9_2",
         "epoch": "0",
-        "arch": "aarch64",
-        "src": "mysql-8.0.32-1.el9_2.src.rpm",
-        "filename": "mysql-devel-8.0.32-1.el9_2.aarch64.rpm",
-        "sum": "425e7b5e2f1fac862f379a7b39422a8e6d9146e80719b3a698581b2e87550f2c",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "mysql-libs",
-        "version": "8.0.32",
-        "release": "1.el9_2",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "mysql-8.0.32-1.el9_2.src.rpm",
-        "filename": "mysql-libs-8.0.32-1.el9_2.aarch64.rpm",
-        "sum": "be1a689452d853e8ec3201eea74888fda6a14b5e6f8bcd46df96ca7c23444303",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "mysql-test",
-        "version": "8.0.32",
-        "release": "1.el9_2",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "mysql-8.0.32-1.el9_2.src.rpm",
-        "filename": "mysql-test-8.0.32-1.el9_2.aarch64.rpm",
-        "sum": "fc2d375076303ffbbd80717d06df14188a333ba2e029b689fc02615c563d6389",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "mysql-devel",
-        "version": "8.0.32",
-        "release": "1.el9_2",
-        "epoch": "0",
         "arch": "s390x",
         "src": "mysql-8.0.32-1.el9_2.src.rpm",
         "filename": "mysql-devel-8.0.32-1.el9_2.s390x.rpm",
@@ -344,6 +308,42 @@
         "src": "mysql-8.0.32-1.el9_2.src.rpm",
         "filename": "mysql-test-8.0.32-1.el9_2.s390x.rpm",
         "sum": "f5fdf2255c33263e4972957b0a036ec232c9a418cc28be5373781b5dd89cab4d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "mysql-devel",
+        "version": "8.0.32",
+        "release": "1.el9_2",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "mysql-8.0.32-1.el9_2.src.rpm",
+        "filename": "mysql-devel-8.0.32-1.el9_2.aarch64.rpm",
+        "sum": "425e7b5e2f1fac862f379a7b39422a8e6d9146e80719b3a698581b2e87550f2c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "mysql-libs",
+        "version": "8.0.32",
+        "release": "1.el9_2",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "mysql-8.0.32-1.el9_2.src.rpm",
+        "filename": "mysql-libs-8.0.32-1.el9_2.aarch64.rpm",
+        "sum": "be1a689452d853e8ec3201eea74888fda6a14b5e6f8bcd46df96ca7c23444303",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "mysql-test",
+        "version": "8.0.32",
+        "release": "1.el9_2",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "mysql-8.0.32-1.el9_2.src.rpm",
+        "filename": "mysql-test-8.0.32-1.el9_2.aarch64.rpm",
+        "sum": "fc2d375076303ffbbd80717d06df14188a333ba2e029b689fc02615c563d6389",
         "sum_type": 5,
         "reboot_suggested": 0
       }
@@ -818,7 +818,7 @@
   "title": "Important: mysql security update",
   "type": "security",
   "updated_date": {
-    "$date": 1683846887000
+    "$date": 1683846889000
   },
   "version": "1"
 }

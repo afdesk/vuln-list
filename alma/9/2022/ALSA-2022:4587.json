@@ -8,18 +8,30 @@
     "$date": 1652832000000
   },
   "pkglist": {
-    "name": "almalinux-9-for-x86_64-highavailability-rpms__9_default",
-    "shortname": "almalinux-9-for-x86_64-highavailability-rpms__9_default",
+    "name": "almalinux-9-for-ppc64le-highavailability-rpms__9_default",
+    "shortname": "almalinux-9-for-ppc64le-highavailability-rpms__9_default",
     "packages": [
       {
+        "name": "pcs",
+        "version": "0.11.1",
+        "release": "10.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "pcs-0.11.1-10.el9.src.rpm",
+        "filename": "pcs-0.11.1-10.el9.ppc64le.rpm",
+        "sum": "7eb26a83cc4cb82be9c22a087619f6af2e2f53e2b78077ff2ae010c768cac13b",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "pcs-snmp",
         "version": "0.11.1",
         "release": "10.el9",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "ppc64le",
         "src": "pcs-0.11.1-10.el9.src.rpm",
-        "filename": "pcs-snmp-0.11.1-10.el9.x86_64.rpm",
-        "sum": "02cb8c114267ccbbbd8f33e4dd66dd6b2949dcf0bcdf68e5272e52047c9bb82a",
+        "filename": "pcs-snmp-0.11.1-10.el9.ppc64le.rpm",
+        "sum": "879d067d4a01f4c7f59cc3054740294d2d24a9f7503619fbb1319fcf94c27efd",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -28,10 +40,10 @@
         "version": "0.11.1",
         "release": "10.el9_0.1",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "ppc64le",
         "src": "pcs-0.11.1-10.el9_0.1.src.rpm",
-        "filename": "pcs-snmp-0.11.1-10.el9_0.1.x86_64.rpm",
-        "sum": "19fef6aa0ce19f65c99ef9eaf6ab477a90276454d615847720082746eb52127a",
+        "filename": "pcs-snmp-0.11.1-10.el9_0.1.ppc64le.rpm",
+        "sum": "a49db492b7b677097d82b6f15079ac32225d014f120b927cf592413f2b2b9b5b",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -40,22 +52,10 @@
         "version": "0.11.1",
         "release": "10.el9_0.1",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "ppc64le",
         "src": "pcs-0.11.1-10.el9_0.1.src.rpm",
-        "filename": "pcs-0.11.1-10.el9_0.1.x86_64.rpm",
-        "sum": "3ead11c19c15e69b93b8eea103840b1b39166185d24cd34a25ab149cc7ef3c03",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "pcs",
-        "version": "0.11.1",
-        "release": "10.el9",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "pcs-0.11.1-10.el9.src.rpm",
-        "filename": "pcs-0.11.1-10.el9.x86_64.rpm",
-        "sum": "f252670062e70d5c419480e55029c69d67e95559f86843ad572fce650c6200e6",
+        "filename": "pcs-0.11.1-10.el9_0.1.ppc64le.rpm",
+        "sum": "aa401de66d196049aaf68a17e243cc68422fa4e4aa44331dadccdcae2ccd6dc6",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -108,26 +108,14 @@
         "reboot_suggested": 0
       },
       {
-        "name": "pcs",
-        "version": "0.11.1",
-        "release": "10.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "pcs-0.11.1-10.el9.src.rpm",
-        "filename": "pcs-0.11.1-10.el9.ppc64le.rpm",
-        "sum": "7eb26a83cc4cb82be9c22a087619f6af2e2f53e2b78077ff2ae010c768cac13b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "pcs-snmp",
         "version": "0.11.1",
         "release": "10.el9",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "x86_64",
         "src": "pcs-0.11.1-10.el9.src.rpm",
-        "filename": "pcs-snmp-0.11.1-10.el9.ppc64le.rpm",
-        "sum": "879d067d4a01f4c7f59cc3054740294d2d24a9f7503619fbb1319fcf94c27efd",
+        "filename": "pcs-snmp-0.11.1-10.el9.x86_64.rpm",
+        "sum": "02cb8c114267ccbbbd8f33e4dd66dd6b2949dcf0bcdf68e5272e52047c9bb82a",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -136,10 +124,10 @@
         "version": "0.11.1",
         "release": "10.el9_0.1",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "x86_64",
         "src": "pcs-0.11.1-10.el9_0.1.src.rpm",
-        "filename": "pcs-snmp-0.11.1-10.el9_0.1.ppc64le.rpm",
-        "sum": "a49db492b7b677097d82b6f15079ac32225d014f120b927cf592413f2b2b9b5b",
+        "filename": "pcs-snmp-0.11.1-10.el9_0.1.x86_64.rpm",
+        "sum": "19fef6aa0ce19f65c99ef9eaf6ab477a90276454d615847720082746eb52127a",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -148,10 +136,22 @@
         "version": "0.11.1",
         "release": "10.el9_0.1",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "x86_64",
         "src": "pcs-0.11.1-10.el9_0.1.src.rpm",
-        "filename": "pcs-0.11.1-10.el9_0.1.ppc64le.rpm",
-        "sum": "aa401de66d196049aaf68a17e243cc68422fa4e4aa44331dadccdcae2ccd6dc6",
+        "filename": "pcs-0.11.1-10.el9_0.1.x86_64.rpm",
+        "sum": "3ead11c19c15e69b93b8eea103840b1b39166185d24cd34a25ab149cc7ef3c03",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "pcs",
+        "version": "0.11.1",
+        "release": "10.el9",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "pcs-0.11.1-10.el9.src.rpm",
+        "filename": "pcs-0.11.1-10.el9.x86_64.rpm",
+        "sum": "f252670062e70d5c419480e55029c69d67e95559f86843ad572fce650c6200e6",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -238,11 +238,11 @@
   "severity": "Important",
   "solution": "For details on how to apply this update, which includes the changes described in this advisory, refer to:\n\nhttps://access.redhat.com/articles/11258",
   "status": "final",
-  "summary": "An update for pcs is now available for AlmaLinux 9.",
+  "summary": "An update for pcs-snmp is now available for AlmaLinux 9.",
   "title": "Important: pcs security update",
   "type": "security",
   "updated_date": {
-    "$date": 1656593465000
+    "$date": 1656593492000
   },
   "version": "1"
 }

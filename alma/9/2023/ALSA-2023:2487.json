@@ -8,21 +8,9 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-x86_64-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-x86_64-appstream-rpms__9_2_default",
     "packages": [
-      {
-        "name": "fwupd-plugin-flashrom",
-        "version": "1.8.10",
-        "release": "2.el9.alma",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "fwupd-1.8.10-2.el9.alma.src.rpm",
-        "filename": "fwupd-plugin-flashrom-1.8.10-2.el9.alma.aarch64.rpm",
-        "sum": "2f356b641699cc5cab6c759e2b8beb1c40f59d231c1e766d37fd57759264114d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "fwupd-plugin-flashrom",
         "version": "1.8.10",
@@ -60,14 +48,14 @@
         "reboot_suggested": 0
       },
       {
-        "name": "fwupd",
+        "name": "fwupd-plugin-flashrom",
         "version": "1.8.10",
         "release": "2.el9.alma",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "aarch64",
         "src": "fwupd-1.8.10-2.el9.alma.src.rpm",
-        "filename": "fwupd-1.8.10-2.el9.alma.ppc64le.rpm",
-        "sum": "07df4816fa6fee85f018f9d00a37623ee25352b5759170bc718e3e0190cba017",
+        "filename": "fwupd-plugin-flashrom-1.8.10-2.el9.alma.aarch64.rpm",
+        "sum": "2f356b641699cc5cab6c759e2b8beb1c40f59d231c1e766d37fd57759264114d",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -80,6 +68,18 @@
         "src": "fwupd-1.8.10-2.el9.alma.src.rpm",
         "filename": "fwupd-1.8.10-2.el9.alma.aarch64.rpm",
         "sum": "fab71a96e163b66b27ad298db75c973d0c811f887a6ae3695e3e1de490713f7c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "fwupd",
+        "version": "1.8.10",
+        "release": "2.el9.alma",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "fwupd-1.8.10-2.el9.alma.src.rpm",
+        "filename": "fwupd-1.8.10-2.el9.alma.ppc64le.rpm",
+        "sum": "07df4816fa6fee85f018f9d00a37623ee25352b5759170bc718e3e0190cba017",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -124,10 +124,10 @@
         "version": "1.8.10",
         "release": "2.el9.alma",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "s390x",
         "src": "fwupd-1.8.10-2.el9.alma.src.rpm",
-        "filename": "fwupd-devel-1.8.10-2.el9.alma.aarch64.rpm",
-        "sum": "02313cd6679ce7e0618f491980066da10d4c7197d853f926fe7a6c6cf91b3095",
+        "filename": "fwupd-devel-1.8.10-2.el9.alma.s390x.rpm",
+        "sum": "b0c4ccd3e245fd0347c471e5985f0dfef8dac01d96eb2dc7525d8c13973a6353",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -136,10 +136,10 @@
         "version": "1.8.10",
         "release": "2.el9.alma",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "fwupd-1.8.10-2.el9.alma.src.rpm",
-        "filename": "fwupd-devel-1.8.10-2.el9.alma.s390x.rpm",
-        "sum": "b0c4ccd3e245fd0347c471e5985f0dfef8dac01d96eb2dc7525d8c13973a6353",
+        "filename": "fwupd-devel-1.8.10-2.el9.alma.aarch64.rpm",
+        "sum": "02313cd6679ce7e0618f491980066da10d4c7197d853f926fe7a6c6cf91b3095",
         "sum_type": 5,
         "reboot_suggested": 0
       }

@@ -36,14 +36,26 @@
         "reboot_suggested": 0
       },
       {
+        "name": "freerdp",
+        "version": "2.4.1",
+        "release": "5.el9",
+        "epoch": "2",
+        "arch": "s390x",
+        "src": "freerdp-2.4.1-5.el9.src.rpm",
+        "filename": "freerdp-2.4.1-5.el9.s390x.rpm",
+        "sum": "0b657653005d2abedd2d9ec8a4d35824a72623c4d790deea7b5aa67f8ee89a2f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "libwinpr",
         "version": "2.4.1",
         "release": "5.el9",
         "epoch": "2",
-        "arch": "aarch64",
+        "arch": "s390x",
         "src": "freerdp-2.4.1-5.el9.src.rpm",
-        "filename": "libwinpr-2.4.1-5.el9.aarch64.rpm",
-        "sum": "1b0c2f964c8270e23706c8430dc34ca2314accd80a5aec22946d9c42735c15d4",
+        "filename": "libwinpr-2.4.1-5.el9.s390x.rpm",
+        "sum": "817dc21383f015ec08f461bf12785698f2cd48532282ddb9b3342929f786bf2d",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,22 +64,10 @@
         "version": "2.4.1",
         "release": "5.el9",
         "epoch": "2",
-        "arch": "aarch64",
+        "arch": "s390x",
         "src": "freerdp-2.4.1-5.el9.src.rpm",
-        "filename": "freerdp-libs-2.4.1-5.el9.aarch64.rpm",
-        "sum": "b81b55c1629a012c04c8f3244617f0c5a13fee6179c61b8fb30544b4e3f29184",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "freerdp",
-        "version": "2.4.1",
-        "release": "5.el9",
-        "epoch": "2",
-        "arch": "aarch64",
-        "src": "freerdp-2.4.1-5.el9.src.rpm",
-        "filename": "freerdp-2.4.1-5.el9.aarch64.rpm",
-        "sum": "d96061fcafaf0fff23c3dc6bd162d7ae674e546e82a99811f2479d88316c9213",
+        "filename": "freerdp-libs-2.4.1-5.el9.s390x.rpm",
+        "sum": "c8ce550f3b7fc5be65667123e727290e91f26d446b268113a0c6c7eb27a466cc",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -144,26 +144,14 @@
         "reboot_suggested": 0
       },
       {
-        "name": "freerdp",
-        "version": "2.4.1",
-        "release": "5.el9",
-        "epoch": "2",
-        "arch": "s390x",
-        "src": "freerdp-2.4.1-5.el9.src.rpm",
-        "filename": "freerdp-2.4.1-5.el9.s390x.rpm",
-        "sum": "0b657653005d2abedd2d9ec8a4d35824a72623c4d790deea7b5aa67f8ee89a2f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libwinpr",
         "version": "2.4.1",
         "release": "5.el9",
         "epoch": "2",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "freerdp-2.4.1-5.el9.src.rpm",
-        "filename": "libwinpr-2.4.1-5.el9.s390x.rpm",
-        "sum": "817dc21383f015ec08f461bf12785698f2cd48532282ddb9b3342929f786bf2d",
+        "filename": "libwinpr-2.4.1-5.el9.aarch64.rpm",
+        "sum": "1b0c2f964c8270e23706c8430dc34ca2314accd80a5aec22946d9c42735c15d4",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -172,10 +160,22 @@
         "version": "2.4.1",
         "release": "5.el9",
         "epoch": "2",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "freerdp-2.4.1-5.el9.src.rpm",
-        "filename": "freerdp-libs-2.4.1-5.el9.s390x.rpm",
-        "sum": "c8ce550f3b7fc5be65667123e727290e91f26d446b268113a0c6c7eb27a466cc",
+        "filename": "freerdp-libs-2.4.1-5.el9.aarch64.rpm",
+        "sum": "b81b55c1629a012c04c8f3244617f0c5a13fee6179c61b8fb30544b4e3f29184",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "freerdp",
+        "version": "2.4.1",
+        "release": "5.el9",
+        "epoch": "2",
+        "arch": "aarch64",
+        "src": "freerdp-2.4.1-5.el9.src.rpm",
+        "filename": "freerdp-2.4.1-5.el9.aarch64.rpm",
+        "sum": "d96061fcafaf0fff23c3dc6bd162d7ae674e546e82a99811f2479d88316c9213",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -252,30 +252,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "freerdp-devel",
-        "version": "2.4.1",
-        "release": "5.el9",
-        "epoch": "2",
-        "arch": "aarch64",
-        "src": "freerdp-2.4.1-5.el9.src.rpm",
-        "filename": "freerdp-devel-2.4.1-5.el9.aarch64.rpm",
-        "sum": "1c60d72fc592b911678a375de6b8e461548e11ca18903c5298b1c51b6e47432a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libwinpr-devel",
-        "version": "2.4.1",
-        "release": "5.el9",
-        "epoch": "2",
-        "arch": "aarch64",
-        "src": "freerdp-2.4.1-5.el9.src.rpm",
-        "filename": "libwinpr-devel-2.4.1-5.el9.aarch64.rpm",
-        "sum": "e847db36cf50f1ee79816f64caa4e6074311c6b6e02706c7678c65f5280f6570",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libwinpr-devel",
         "version": "2.4.1",
         "release": "5.el9",
@@ -296,6 +272,30 @@
         "src": "freerdp-2.4.1-5.el9.src.rpm",
         "filename": "freerdp-devel-2.4.1-5.el9.s390x.rpm",
         "sum": "b66b31233d8907e370a4c52f15d48eb8f9afff2b7ad1e47cba5a05b45d67a8bd",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "freerdp-devel",
+        "version": "2.4.1",
+        "release": "5.el9",
+        "epoch": "2",
+        "arch": "aarch64",
+        "src": "freerdp-2.4.1-5.el9.src.rpm",
+        "filename": "freerdp-devel-2.4.1-5.el9.aarch64.rpm",
+        "sum": "1c60d72fc592b911678a375de6b8e461548e11ca18903c5298b1c51b6e47432a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libwinpr-devel",
+        "version": "2.4.1",
+        "release": "5.el9",
+        "epoch": "2",
+        "arch": "aarch64",
+        "src": "freerdp-2.4.1-5.el9.src.rpm",
+        "filename": "libwinpr-devel-2.4.1-5.el9.aarch64.rpm",
+        "sum": "e847db36cf50f1ee79816f64caa4e6074311c6b6e02706c7678c65f5280f6570",
         "sum_type": 5,
         "reboot_suggested": 0
       }

@@ -8,18 +8,18 @@
     "$date": 1680566400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-x86_64-highavailability-rpms__9_1_default",
-    "shortname": "almalinux-9-for-x86_64-highavailability-rpms__9_1_default",
+    "name": "almalinux-9-for-ppc64le-highavailability-rpms__9_1_default",
+    "shortname": "almalinux-9-for-ppc64le-highavailability-rpms__9_1_default",
     "packages": [
       {
         "name": "pcs-snmp",
         "version": "0.11.3",
         "release": "4.el9_1.3",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "ppc64le",
         "src": "pcs-0.11.3-4.el9_1.3.src.rpm",
-        "filename": "pcs-snmp-0.11.3-4.el9_1.3.x86_64.rpm",
-        "sum": "61c1de78fb185db850a2b40db34ccbb98a8bae4dc3ed83415540f5b4ca586fd9",
+        "filename": "pcs-snmp-0.11.3-4.el9_1.3.ppc64le.rpm",
+        "sum": "27fa41fcde57d3938dde23069e0f8338ad68a66009671ac24614a03b238b277f",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -28,10 +28,10 @@
         "version": "0.11.3",
         "release": "4.el9_1.3",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "ppc64le",
         "src": "pcs-0.11.3-4.el9_1.3.src.rpm",
-        "filename": "pcs-0.11.3-4.el9_1.3.x86_64.rpm",
-        "sum": "eac2574db0524fd678e7e41ba581fd44236e72dbaece3af828b230be71a57bfd",
+        "filename": "pcs-0.11.3-4.el9_1.3.ppc64le.rpm",
+        "sum": "d39ad7d1dd2c2890bc8f40e0fc5fa75e4874fb19e9636ed1064ca58d9c141a06",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -64,10 +64,10 @@
         "version": "0.11.3",
         "release": "4.el9_1.3",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "x86_64",
         "src": "pcs-0.11.3-4.el9_1.3.src.rpm",
-        "filename": "pcs-snmp-0.11.3-4.el9_1.3.ppc64le.rpm",
-        "sum": "27fa41fcde57d3938dde23069e0f8338ad68a66009671ac24614a03b238b277f",
+        "filename": "pcs-snmp-0.11.3-4.el9_1.3.x86_64.rpm",
+        "sum": "61c1de78fb185db850a2b40db34ccbb98a8bae4dc3ed83415540f5b4ca586fd9",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -76,10 +76,10 @@
         "version": "0.11.3",
         "release": "4.el9_1.3",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "x86_64",
         "src": "pcs-0.11.3-4.el9_1.3.src.rpm",
-        "filename": "pcs-0.11.3-4.el9_1.3.ppc64le.rpm",
-        "sum": "d39ad7d1dd2c2890bc8f40e0fc5fa75e4874fb19e9636ed1064ca58d9c141a06",
+        "filename": "pcs-0.11.3-4.el9_1.3.x86_64.rpm",
+        "sum": "eac2574db0524fd678e7e41ba581fd44236e72dbaece3af828b230be71a57bfd",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -146,7 +146,7 @@
   "title": "Important: pcs security update",
   "type": "security",
   "updated_date": {
-    "$date": 1680695181000
+    "$date": 1680695180000
   },
   "version": "1"
 }

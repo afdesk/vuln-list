@@ -8,8 +8,8 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-i686-baseos-rpms__9_2_default",
-    "shortname": "almalinux-9-for-i686-baseos-rpms__9_2_default",
+    "name": "almalinux-9-for-x86_64-baseos-rpms__9_2_default",
+    "shortname": "almalinux-9-for-x86_64-baseos-rpms__9_2_default",
     "packages": [
       {
         "name": "dhcp-common",
@@ -60,42 +60,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "dhcp-client",
-        "version": "4.4.2",
-        "release": "18.b1.el9",
-        "epoch": "12",
-        "arch": "ppc64le",
-        "src": "dhcp-4.4.2-18.b1.el9.src.rpm",
-        "filename": "dhcp-client-4.4.2-18.b1.el9.ppc64le.rpm",
-        "sum": "7192fa16aa27721b0a570c272e74a0778475bb798c00f6c32086e74cee540d79",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dhcp-relay",
-        "version": "4.4.2",
-        "release": "18.b1.el9",
-        "epoch": "12",
-        "arch": "ppc64le",
-        "src": "dhcp-4.4.2-18.b1.el9.src.rpm",
-        "filename": "dhcp-relay-4.4.2-18.b1.el9.ppc64le.rpm",
-        "sum": "894c896a3d7cf4986af4236b4c137cafecafd406bcc158822f07a6ee98b162d8",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dhcp-server",
-        "version": "4.4.2",
-        "release": "18.b1.el9",
-        "epoch": "12",
-        "arch": "ppc64le",
-        "src": "dhcp-4.4.2-18.b1.el9.src.rpm",
-        "filename": "dhcp-server-4.4.2-18.b1.el9.ppc64le.rpm",
-        "sum": "a0c2c1a2b74010b189239ec2ca0fca1aa91a197ac279f3a98087d5255099cd6f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "dhcp-server",
         "version": "4.4.2",
         "release": "18.b1.el9",
@@ -128,6 +92,42 @@
         "src": "dhcp-4.4.2-18.b1.el9.src.rpm",
         "filename": "dhcp-client-4.4.2-18.b1.el9.aarch64.rpm",
         "sum": "d7e8ea2cfd6f823578a7fbf2ae95bd6ceb3cfd5b09d2155c25546455726cfd16",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dhcp-client",
+        "version": "4.4.2",
+        "release": "18.b1.el9",
+        "epoch": "12",
+        "arch": "ppc64le",
+        "src": "dhcp-4.4.2-18.b1.el9.src.rpm",
+        "filename": "dhcp-client-4.4.2-18.b1.el9.ppc64le.rpm",
+        "sum": "7192fa16aa27721b0a570c272e74a0778475bb798c00f6c32086e74cee540d79",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dhcp-relay",
+        "version": "4.4.2",
+        "release": "18.b1.el9",
+        "epoch": "12",
+        "arch": "ppc64le",
+        "src": "dhcp-4.4.2-18.b1.el9.src.rpm",
+        "filename": "dhcp-relay-4.4.2-18.b1.el9.ppc64le.rpm",
+        "sum": "894c896a3d7cf4986af4236b4c137cafecafd406bcc158822f07a6ee98b162d8",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dhcp-server",
+        "version": "4.4.2",
+        "release": "18.b1.el9",
+        "epoch": "12",
+        "arch": "ppc64le",
+        "src": "dhcp-4.4.2-18.b1.el9.src.rpm",
+        "filename": "dhcp-server-4.4.2-18.b1.el9.ppc64le.rpm",
+        "sum": "a0c2c1a2b74010b189239ec2ca0fca1aa91a197ac279f3a98087d5255099cd6f",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -218,7 +218,7 @@
   "title": "Moderate: dhcp security and enhancement update",
   "type": "security",
   "updated_date": {
-    "$date": 1683858699000
+    "$date": 1683858700000
   },
   "version": "1"
 }

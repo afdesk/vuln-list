@@ -8,18 +8,18 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
     "packages": [
       {
         "name": "git-lfs",
         "version": "3.2.0",
         "release": "1.el9",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "s390x",
         "src": "git-lfs-3.2.0-1.el9.src.rpm",
-        "filename": "git-lfs-3.2.0-1.el9.aarch64.rpm",
-        "sum": "ad6985fd22b3b920488b2142ef36f286be684d31cdc4f54f606b2bf4637a05ee",
+        "filename": "git-lfs-3.2.0-1.el9.s390x.rpm",
+        "sum": "ec6eb30dfbf59001df5542c184a72b2f474cc289cd3041e6e5f4df108ac01a35",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +52,10 @@
         "version": "3.2.0",
         "release": "1.el9",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "git-lfs-3.2.0-1.el9.src.rpm",
-        "filename": "git-lfs-3.2.0-1.el9.s390x.rpm",
-        "sum": "ec6eb30dfbf59001df5542c184a72b2f474cc289cd3041e6e5f4df108ac01a35",
+        "filename": "git-lfs-3.2.0-1.el9.aarch64.rpm",
+        "sum": "ad6985fd22b3b920488b2142ef36f286be684d31cdc4f54f606b2bf4637a05ee",
         "sum_type": 5,
         "reboot_suggested": 0
       }
@@ -206,7 +206,7 @@
   "title": "Moderate: git-lfs security and bug fix update",
   "type": "security",
   "updated_date": {
-    "$date": 1683871344000
+    "$date": 1683871345000
   },
   "version": "1"
 }

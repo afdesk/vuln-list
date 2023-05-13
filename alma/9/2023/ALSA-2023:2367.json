@@ -8,18 +8,18 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
     "packages": [
       {
         "name": "containernetworking-plugins",
         "version": "1.2.0",
         "release": "1.el9",
         "epoch": "1",
-        "arch": "aarch64",
+        "arch": "s390x",
         "src": "containernetworking-plugins-1.2.0-1.el9.src.rpm",
-        "filename": "containernetworking-plugins-1.2.0-1.el9.aarch64.rpm",
-        "sum": "6628d448ec4017a874cd125bf6bdede760c80e16affbbf18f8e00980ec60b574",
+        "filename": "containernetworking-plugins-1.2.0-1.el9.s390x.rpm",
+        "sum": "371920f2903d6d063d5a338ae7432138d375febf19e658210707d257225f4ea6",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +52,10 @@
         "version": "1.2.0",
         "release": "1.el9",
         "epoch": "1",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "containernetworking-plugins-1.2.0-1.el9.src.rpm",
-        "filename": "containernetworking-plugins-1.2.0-1.el9.s390x.rpm",
-        "sum": "371920f2903d6d063d5a338ae7432138d375febf19e658210707d257225f4ea6",
+        "filename": "containernetworking-plugins-1.2.0-1.el9.aarch64.rpm",
+        "sum": "6628d448ec4017a874cd125bf6bdede760c80e16affbbf18f8e00980ec60b574",
         "sum_type": 5,
         "reboot_suggested": 0
       }

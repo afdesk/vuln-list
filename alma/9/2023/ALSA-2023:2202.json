@@ -28,10 +28,10 @@
         "version": "8.3.1",
         "release": "5.el9",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "s390x",
         "src": "frr-8.3.1-5.el9.src.rpm",
-        "filename": "frr-8.3.1-5.el9.aarch64.rpm",
-        "sum": "edb0f06d9792c9520b241167c5e828588df849224fff0b9e4b1bbc32a50d673c",
+        "filename": "frr-8.3.1-5.el9.s390x.rpm",
+        "sum": "eadd4dcb234ea7d276c4c6a37417dcf2124be5ff07156d50fa9dff2cc5439e37",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -64,10 +64,10 @@
         "version": "8.3.1",
         "release": "5.el9",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "frr-8.3.1-5.el9.src.rpm",
-        "filename": "frr-8.3.1-5.el9.s390x.rpm",
-        "sum": "eadd4dcb234ea7d276c4c6a37417dcf2124be5ff07156d50fa9dff2cc5439e37",
+        "filename": "frr-8.3.1-5.el9.aarch64.rpm",
+        "sum": "edb0f06d9792c9520b241167c5e828588df849224fff0b9e4b1bbc32a50d673c",
         "sum_type": 5,
         "reboot_suggested": 0
       }

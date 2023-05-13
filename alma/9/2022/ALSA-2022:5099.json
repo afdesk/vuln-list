@@ -8,69 +8,9 @@
     "$date": 1655337600000
   },
   "pkglist": {
-    "name": "almalinux-9-for-i686-baseos-rpms__9_default",
-    "shortname": "almalinux-9-for-i686-baseos-rpms__9_default",
+    "name": "almalinux-9-for-x86_64-baseos-rpms__9_default",
+    "shortname": "almalinux-9-for-x86_64-baseos-rpms__9_default",
     "packages": [
-      {
-        "name": "grub2-efi-x64-modules",
-        "version": "2.06",
-        "release": "27.el9_0.7.alma",
-        "epoch": "1",
-        "arch": "noarch",
-        "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
-        "filename": "grub2-efi-x64-modules-2.06-27.el9_0.7.alma.noarch.rpm",
-        "sum": "7c1a39435cb145b6331f3d84a54a2b8bb29606f0240fcdd51c7ef7e400db63d5",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "grub2-efi-aa64-modules",
-        "version": "2.06",
-        "release": "27.el9_0.7.alma",
-        "epoch": "1",
-        "arch": "noarch",
-        "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
-        "filename": "grub2-efi-aa64-modules-2.06-27.el9_0.7.alma.noarch.rpm",
-        "sum": "8741776e12b0fd0ce6b1682017da1f8873880b51e05189756550de434d50a722",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "grub2-ppc64le-modules",
-        "version": "2.06",
-        "release": "27.el9_0.7.alma",
-        "epoch": "1",
-        "arch": "noarch",
-        "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
-        "filename": "grub2-ppc64le-modules-2.06-27.el9_0.7.alma.noarch.rpm",
-        "sum": "ac01bf19abdade8860177a8e290b70d806375c8a2d9ed3ff47b54d1256005f16",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "grub2-pc-modules",
-        "version": "2.06",
-        "release": "27.el9_0.7.alma",
-        "epoch": "1",
-        "arch": "noarch",
-        "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
-        "filename": "grub2-pc-modules-2.06-27.el9_0.7.alma.noarch.rpm",
-        "sum": "e2370f5a48d28813f385af92662f53c7c47d593d5c735809aaa6b7d8bc329c07",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "grub2-common",
-        "version": "2.06",
-        "release": "27.el9_0.7.alma",
-        "epoch": "1",
-        "arch": "noarch",
-        "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
-        "filename": "grub2-common-2.06-27.el9_0.7.alma.noarch.rpm",
-        "sum": "ec2931fabadf7f9962946fbe110f6ac90a76e684339698e6685369054ebb6cb7",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "shim-unsigned-x64",
         "version": "15.6",
@@ -144,6 +84,42 @@
         "reboot_suggested": 0
       },
       {
+        "name": "grub2-efi-x64-modules",
+        "version": "2.06",
+        "release": "27.el9_0.7.alma",
+        "epoch": "1",
+        "arch": "noarch",
+        "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
+        "filename": "grub2-efi-x64-modules-2.06-27.el9_0.7.alma.noarch.rpm",
+        "sum": "7c1a39435cb145b6331f3d84a54a2b8bb29606f0240fcdd51c7ef7e400db63d5",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "grub2-efi-aa64-modules",
+        "version": "2.06",
+        "release": "27.el9_0.7.alma",
+        "epoch": "1",
+        "arch": "noarch",
+        "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
+        "filename": "grub2-efi-aa64-modules-2.06-27.el9_0.7.alma.noarch.rpm",
+        "sum": "8741776e12b0fd0ce6b1682017da1f8873880b51e05189756550de434d50a722",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "grub2-ppc64le-modules",
+        "version": "2.06",
+        "release": "27.el9_0.7.alma",
+        "epoch": "1",
+        "arch": "noarch",
+        "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
+        "filename": "grub2-ppc64le-modules-2.06-27.el9_0.7.alma.noarch.rpm",
+        "sum": "ac01bf19abdade8860177a8e290b70d806375c8a2d9ed3ff47b54d1256005f16",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "grub2-tools-extra",
         "version": "2.06",
         "release": "27.el9_0.7.alma",
@@ -168,6 +144,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "grub2-pc-modules",
+        "version": "2.06",
+        "release": "27.el9_0.7.alma",
+        "epoch": "1",
+        "arch": "noarch",
+        "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
+        "filename": "grub2-pc-modules-2.06-27.el9_0.7.alma.noarch.rpm",
+        "sum": "e2370f5a48d28813f385af92662f53c7c47d593d5c735809aaa6b7d8bc329c07",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "shim-x64",
         "version": "15.6",
         "release": "1.el9.alma",
@@ -180,50 +168,14 @@
         "reboot_suggested": 0
       },
       {
-        "name": "grub2-tools-minimal",
+        "name": "grub2-common",
         "version": "2.06",
         "release": "27.el9_0.7.alma",
         "epoch": "1",
-        "arch": "ppc64le",
+        "arch": "noarch",
         "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
-        "filename": "grub2-tools-minimal-2.06-27.el9_0.7.alma.ppc64le.rpm",
-        "sum": "1821297d36711ad3d642b8b5d59b0217444ca947e3d4c9bfa1a79b40a4c49014",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "grub2-ppc64le",
-        "version": "2.06",
-        "release": "27.el9_0.7.alma",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
-        "filename": "grub2-ppc64le-2.06-27.el9_0.7.alma.ppc64le.rpm",
-        "sum": "1f82dfeb45eb35354dc4a2a3498769cd0d7f902a7c6543bac0785ec3f579c43e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "grub2-tools-extra",
-        "version": "2.06",
-        "release": "27.el9_0.7.alma",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
-        "filename": "grub2-tools-extra-2.06-27.el9_0.7.alma.ppc64le.rpm",
-        "sum": "9fc2f2542e96485dff906b00135854d7adc0d336be096c5ec5c1e0d5d9d8010b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "grub2-tools",
-        "version": "2.06",
-        "release": "27.el9_0.7.alma",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
-        "filename": "grub2-tools-2.06-27.el9_0.7.alma.ppc64le.rpm",
-        "sum": "f236b13ed64457125a96fac02b01904de487f6acf38ab7c5ce61c0b6e747d68b",
+        "filename": "grub2-common-2.06-27.el9_0.7.alma.noarch.rpm",
+        "sum": "ec2931fabadf7f9962946fbe110f6ac90a76e684339698e6685369054ebb6cb7",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -298,6 +250,54 @@
         "sum": "ae2eaa7b00d66640b0ba4463f813a7a914e9ad2af5d50d5655708721338eac23",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "grub2-tools-minimal",
+        "version": "2.06",
+        "release": "27.el9_0.7.alma",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
+        "filename": "grub2-tools-minimal-2.06-27.el9_0.7.alma.ppc64le.rpm",
+        "sum": "1821297d36711ad3d642b8b5d59b0217444ca947e3d4c9bfa1a79b40a4c49014",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "grub2-ppc64le",
+        "version": "2.06",
+        "release": "27.el9_0.7.alma",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
+        "filename": "grub2-ppc64le-2.06-27.el9_0.7.alma.ppc64le.rpm",
+        "sum": "1f82dfeb45eb35354dc4a2a3498769cd0d7f902a7c6543bac0785ec3f579c43e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "grub2-tools-extra",
+        "version": "2.06",
+        "release": "27.el9_0.7.alma",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
+        "filename": "grub2-tools-extra-2.06-27.el9_0.7.alma.ppc64le.rpm",
+        "sum": "9fc2f2542e96485dff906b00135854d7adc0d336be096c5ec5c1e0d5d9d8010b",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "grub2-tools",
+        "version": "2.06",
+        "release": "27.el9_0.7.alma",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "grub2-2.06-27.el9_0.7.alma.src.rpm",
+        "filename": "grub2-tools-2.06-27.el9_0.7.alma.ppc64le.rpm",
+        "sum": "f236b13ed64457125a96fac02b01904de487f6acf38ab7c5ce61c0b6e747d68b",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {}
@@ -308,55 +308,55 @@
       "href": "https://access.redhat.com/errata/RHSA-2022:5099",
       "type": "rhsa",
       "id": "RHSA-2022:5099",
-      "title": ""
+      "title": "RHSA-2022:5099"
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2021-3695",
       "type": "cve",
       "id": "CVE-2021-3695",
-      "title": ""
+      "title": "CVE-2021-3695"
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2021-3696",
       "type": "cve",
       "id": "CVE-2021-3696",
-      "title": ""
+      "title": "CVE-2021-3696"
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2021-3697",
       "type": "cve",
       "id": "CVE-2021-3697",
-      "title": ""
+      "title": "CVE-2021-3697"
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-28733",
       "type": "cve",
       "id": "CVE-2022-28733",
-      "title": ""
+      "title": "CVE-2022-28733"
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-28734",
       "type": "cve",
       "id": "CVE-2022-28734",
-      "title": ""
+      "title": "CVE-2022-28734"
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-28735",
       "type": "cve",
       "id": "CVE-2022-28735",
-      "title": ""
+      "title": "CVE-2022-28735"
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-28736",
       "type": "cve",
       "id": "CVE-2022-28736",
-      "title": ""
+      "title": "CVE-2022-28736"
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-28737",
       "type": "cve",
       "id": "CVE-2022-28737",
-      "title": ""
+      "title": "CVE-2022-28737"
     },
     {
       "href": "https://bugzilla.redhat.com/1991685",
@@ -422,7 +422,7 @@
   "title": "Important: grub2, mokutil, shim, and shim-unsigned-x64 security update",
   "type": "security",
   "updated_date": {
-    "$date": 1661279082000
+    "$date": 1661267814000
   },
   "version": "1"
 }
