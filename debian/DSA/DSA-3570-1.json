@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 May 2016] DSA-3570-1 mercurial - security update",
-    "Line": 6095,
+    "Line": 6098,
     "ID": "DSA-3570-1",
     "Description": "mercurial - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-3105}",
-      "Line": 6096,
+      "Line": 6099,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-3105"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - mercurial 3.1.2-2+deb8u3",
-      "Line": 6097,
+      "Line": 6100,
       "Type": "package",
       "Release": "jessie",
       "Package": "mercurial",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Jun 2004] DSA-516 postgresql - buffer overflow",
-    "Line": 16993,
+    "Line": 16996,
     "ID": "DSA-516",
     "Description": "postgresql - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0547}",
-      "Line": 16994,
+      "Line": 16997,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0547"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - postgresql 7.2.1-2woody5",
-      "Line": 16995,
+      "Line": 16998,
       "Type": "package",
       "Release": "woody",
       "Package": "postgresql",

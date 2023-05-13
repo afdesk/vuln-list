@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Dec 2017] DSA-4062-1 firefox-esr - security update",
-    "Line": 4464,
+    "Line": 4467,
     "ID": "DSA-4062-1",
     "Description": "firefox-esr - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-7843}",
-      "Line": 4465,
+      "Line": 4468,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-7843"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - firefox-esr 52.5.2esr-1~deb8u1",
-      "Line": 4466,
+      "Line": 4469,
       "Type": "package",
       "Release": "jessie",
       "Package": "firefox-esr",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[stretch] - firefox-esr 52.5.2esr-1~deb9u1",
-      "Line": 4467,
+      "Line": 4470,
       "Type": "package",
       "Release": "stretch",
       "Package": "firefox-esr",

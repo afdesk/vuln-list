@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Jan 2003] DSA-229 imp - SQL injection",
-    "Line": 17914,
+    "Line": 17917,
     "ID": "DSA-229",
     "Description": "imp - SQL injection"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0025}",
-      "Line": 17915,
+      "Line": 17918,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0025"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - imp 2.2.6-5.1",
-      "Line": 17916,
+      "Line": 17919,
       "Type": "package",
       "Release": "woody",
       "Package": "imp",

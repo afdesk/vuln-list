@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Jul 2020] DSA-4732-1 squid - security update",
-    "Line": 2170,
+    "Line": 2173,
     "ID": "DSA-4732-1",
     "Description": "squid - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-18860 CVE-2020-15049}",
-      "Line": 2171,
+      "Line": 2174,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-18860",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[buster] - squid 4.6-1+deb10u3",
-      "Line": 2172,
+      "Line": 2175,
       "Type": "package",
       "Release": "buster",
       "Package": "squid",

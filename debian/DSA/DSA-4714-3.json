@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Jul 2020] DSA-4714-3 chromium - regression update",
-    "Line": 2197,
+    "Line": 2200,
     "ID": "DSA-4714-3",
     "Description": "chromium - regression update"
   },
   "Annotations": [
     {
       "Original": "[buster] - chromium 83.0.4103.116-1~deb10u3",
-      "Line": 2198,
+      "Line": 2201,
       "Type": "package",
       "Release": "buster",
       "Package": "chromium",

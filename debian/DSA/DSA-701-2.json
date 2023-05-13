@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Apr 2005] DSA-701-2 samba - integer overflows",
-    "Line": 16286,
+    "Line": 16289,
     "ID": "DSA-701-2",
     "Description": "samba - integer overflows"
   },
   "Annotations": [
     {
       "Original": "NOTE: only a bug in the backported fix to stable, testing is ok",
-      "Line": 16287,
+      "Line": 16290,
       "Type": "NOTE",
       "Description": "only a bug in the backported fix to stable, testing is ok"
     }

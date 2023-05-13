@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Jul 2014] DSA-2973-1 vlc - security update",
-    "Line": 8150,
+    "Line": 8153,
     "ID": "DSA-2973-1",
     "Description": "vlc - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-1868 CVE-2013-1954 CVE-2013-4388}",
-      "Line": 8151,
+      "Line": 8154,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-1868",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[wheezy] - vlc 2.0.3-5+deb7u1",
-      "Line": 8152,
+      "Line": 8155,
       "Type": "package",
       "Release": "wheezy",
       "Package": "vlc",

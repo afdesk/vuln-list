@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Feb 2005] DSA-671-1 xemacs21 - format string",
-    "Line": 16459,
+    "Line": 16462,
     "ID": "DSA-671-1",
     "Description": "xemacs21 - format string"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-0100}",
-      "Line": 16460,
+      "Line": 16463,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-0100"
@@ -16,13 +16,13 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA",
-      "Line": 16461,
+      "Line": 16464,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA"
     },
     {
       "Original": "[woody] - xemacs21 21.4.6-8woody2",
-      "Line": 16462,
+      "Line": 16465,
       "Type": "package",
       "Release": "woody",
       "Package": "xemacs21",
