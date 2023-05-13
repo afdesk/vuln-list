@@ -198,7 +198,7 @@
                   },
                   {
                     "Comment": "bpftool is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089032"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089030"
                   }
                 ]
               },
@@ -211,7 +211,7 @@
                   },
                   {
                     "Comment": "kernel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089040"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089006"
                   }
                 ]
               },
@@ -224,7 +224,7 @@
                   },
                   {
                     "Comment": "kernel-abi-stablelists is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089046"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089092"
                   }
                 ]
               },
@@ -237,7 +237,7 @@
                   },
                   {
                     "Comment": "kernel-core is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089034"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089044"
                   }
                 ]
               },
@@ -250,7 +250,7 @@
                   },
                   {
                     "Comment": "kernel-cross-headers is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089002"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089008"
                   }
                 ]
               },
@@ -263,7 +263,7 @@
                   },
                   {
                     "Comment": "kernel-debug is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089026"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089058"
                   }
                 ]
               },
@@ -276,7 +276,7 @@
                   },
                   {
                     "Comment": "kernel-debug-core is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089038"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089070"
                   }
                 ]
               },
@@ -289,7 +289,7 @@
                   },
                   {
                     "Comment": "kernel-debug-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089008"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089028"
                   }
                 ]
               },
@@ -302,7 +302,7 @@
                   },
                   {
                     "Comment": "kernel-debug-devel-matched is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089012"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089086"
                   }
                 ]
               },
@@ -315,7 +315,7 @@
                   },
                   {
                     "Comment": "kernel-debug-modules is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089022"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089034"
                   }
                 ]
               },
@@ -328,7 +328,7 @@
                   },
                   {
                     "Comment": "kernel-debug-modules-extra is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089006"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089038"
                   }
                 ]
               },
@@ -341,7 +341,7 @@
                   },
                   {
                     "Comment": "kernel-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089052"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089084"
                   }
                 ]
               },
@@ -354,7 +354,7 @@
                   },
                   {
                     "Comment": "kernel-devel-matched is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089014"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089032"
                   }
                 ]
               },
@@ -367,7 +367,7 @@
                   },
                   {
                     "Comment": "kernel-doc is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089054"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089040"
                   }
                 ]
               },
@@ -380,7 +380,7 @@
                   },
                   {
                     "Comment": "kernel-modules is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089010"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089064"
                   }
                 ]
               },
@@ -393,7 +393,7 @@
                   },
                   {
                     "Comment": "kernel-modules-extra is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089050"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089072"
                   }
                 ]
               },
@@ -406,7 +406,7 @@
                   },
                   {
                     "Comment": "kernel-tools is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089048"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089076"
                   }
                 ]
               },
@@ -419,7 +419,7 @@
                   },
                   {
                     "Comment": "kernel-tools-libs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089004"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089054"
                   }
                 ]
               },
@@ -432,7 +432,7 @@
                   },
                   {
                     "Comment": "kernel-tools-libs-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089024"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089002"
                   }
                 ]
               },
@@ -445,7 +445,7 @@
                   },
                   {
                     "Comment": "kernel-zfcpdump is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089018"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089004"
                   }
                 ]
               },
@@ -458,7 +458,7 @@
                   },
                   {
                     "Comment": "kernel-zfcpdump-core is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089020"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089074"
                   }
                 ]
               },
@@ -471,7 +471,7 @@
                   },
                   {
                     "Comment": "kernel-zfcpdump-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089044"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089014"
                   }
                 ]
               },
@@ -484,7 +484,7 @@
                   },
                   {
                     "Comment": "kernel-zfcpdump-devel-matched is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089056"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089024"
                   }
                 ]
               },
@@ -497,7 +497,7 @@
                   },
                   {
                     "Comment": "kernel-zfcpdump-modules is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089036"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089052"
                   }
                 ]
               },
@@ -510,7 +510,7 @@
                   },
                   {
                     "Comment": "kernel-zfcpdump-modules-extra is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089030"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089080"
                   }
                 ]
               },
@@ -523,7 +523,7 @@
                   },
                   {
                     "Comment": "perf is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089016"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089046"
                   }
                 ]
               },
@@ -536,7 +536,7 @@
                   },
                   {
                     "Comment": "python3-perf is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201916089042"
+                    "TestRef": "oval:com.redhat.cve:tst:201916089012"
                   }
                 ]
               }

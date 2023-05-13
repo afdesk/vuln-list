@@ -6211,34 +6211,34 @@
     },
     {
       "Check": "at least one",
-      "Comment": "openstack-nova-novncproxy is not installed",
+      "Comment": "python-nova is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20157548002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201716239008"
+        "ObjectRef": "oval:com.redhat.cve:obj:201716239014"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "openstack-nova-network is not installed",
+      "Comment": "openstack-nova-console is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20157548004",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201716239013"
+        "ObjectRef": "oval:com.redhat.cve:obj:201716239009"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "openstack-nova-cells is not installed",
+      "Comment": "openstack-nova is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20157548006",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201716239002"
+        "ObjectRef": "oval:com.redhat.cve:obj:201716239010"
       },
       "State": {}
     },
@@ -6255,41 +6255,19 @@
     },
     {
       "Check": "at least one",
-      "Comment": "openstack-nova-api is not installed",
+      "Comment": "openstack-nova-spicehtml5proxy is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20157548010",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201716239001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "openstack-nova-console is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20157548012",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201716239009"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "openstack-nova-compute is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20157548014",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201716239007"
+        "ObjectRef": "oval:com.redhat.cve:obj:201716239004"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "openstack-nova-objectstore is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20157548016",
+      "ID": "oval:com.redhat.unaffected:tst:20157548012",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -6299,30 +6277,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "openstack-nova-serialproxy is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20157548018",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201716239015"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "openstack-nova-conductor is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20157548020",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201716239011"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "openstack-nova-cert is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20157548022",
+      "ID": "oval:com.redhat.unaffected:tst:20157548014",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -6332,30 +6288,30 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-nova is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20157548024",
+      "Comment": "openstack-nova-compute is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20157548016",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201716239014"
+        "ObjectRef": "oval:com.redhat.cve:obj:201716239007"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "openstack-nova is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20157548026",
+      "Comment": "openstack-nova-novncproxy is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20157548018",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201716239010"
+        "ObjectRef": "oval:com.redhat.cve:obj:201716239008"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "openstack-nova-common is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20157548028",
+      "ID": "oval:com.redhat.unaffected:tst:20157548020",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -6365,12 +6321,56 @@
     },
     {
       "Check": "at least one",
-      "Comment": "openstack-nova-spicehtml5proxy is not installed",
+      "Comment": "openstack-nova-cells is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20157548022",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201716239002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openstack-nova-conductor is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20157548024",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201716239011"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openstack-nova-api is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20157548026",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201716239001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openstack-nova-serialproxy is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20157548028",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201716239015"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openstack-nova-network is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20157548030",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201716239004"
+        "ObjectRef": "oval:com.redhat.cve:obj:201716239013"
       },
       "State": {}
     },

@@ -3362,30 +3362,19 @@
     },
     {
       "Check": "at least one",
-      "Comment": "foreman-openstack is not installed",
+      "Comment": "foreman-libvirt is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20132113002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20177505001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "foreman-cli is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20132113004",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20177505002"
+        "ObjectRef": "oval:com.redhat.cve:obj:20177505010"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "foreman-dynflow-sidekiq is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20132113006",
+      "ID": "oval:com.redhat.unaffected:tst:20132113004",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -3395,23 +3384,34 @@
     },
     {
       "Check": "at least one",
-      "Comment": "foreman-ovirt is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20132113008",
+      "Comment": "foreman-vmware is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20132113006",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20177505004"
+        "ObjectRef": "oval:com.redhat.cve:obj:20177505009"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "foreman-telemetry is not installed",
+      "Comment": "foreman-ec2 is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20132113008",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20177505011"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "foreman-gce is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20132113010",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20177505005"
+        "ObjectRef": "oval:com.redhat.cve:obj:20177505014"
       },
       "State": {}
     },
@@ -3428,74 +3428,41 @@
     },
     {
       "Check": "at least one",
-      "Comment": "foreman-postgresql is not installed",
+      "Comment": "foreman-ovirt is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20132113014",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20177505007"
+        "ObjectRef": "oval:com.redhat.cve:obj:20177505004"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "foreman-service is not installed",
+      "Comment": "foreman-openstack is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20132113016",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20177505008"
+        "ObjectRef": "oval:com.redhat.cve:obj:20177505001"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "foreman-vmware is not installed",
+      "Comment": "foreman-telemetry is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20132113018",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20177505009"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "foreman-libvirt is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20132113020",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20177505010"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "foreman-ec2 is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20132113022",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20177505011"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "foreman-journald is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20132113024",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20177505012"
+        "ObjectRef": "oval:com.redhat.cve:obj:20177505005"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "foreman is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20132113026",
+      "ID": "oval:com.redhat.unaffected:tst:20132113020",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -3505,12 +3472,45 @@
     },
     {
       "Check": "at least one",
-      "Comment": "foreman-gce is not installed",
+      "Comment": "foreman-journald is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20132113022",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20177505012"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "foreman-service is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20132113024",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20177505008"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "foreman-postgresql is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20132113026",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20177505007"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "foreman-cli is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20132113028",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20177505014"
+        "ObjectRef": "oval:com.redhat.cve:obj:20177505002"
       },
       "State": {}
     },

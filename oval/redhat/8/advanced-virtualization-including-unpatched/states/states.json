@@ -1,7 +1,7 @@
 {
   "RpminfoState": [
     {
-      "ID": "oval:com.redhat.cve:ste:201912067001",
+      "ID": "oval:com.redhat.cve:ste:201911135001",
       "Version": "636",
       "Arch": {},
       "Evr": {},
@@ -6035,7 +6035,7 @@
   ],
   "RpmverifyfileStates": [
     {
-      "ID": "oval:com.redhat.cve:ste:201912067002",
+      "ID": "oval:com.redhat.cve:ste:201911135002",
       "AttrVersion": "636",
       "Name": {
         "Text": "^redhat-release",
@@ -6047,7 +6047,7 @@
       }
     },
     {
-      "ID": "oval:com.redhat.cve:ste:201912067003",
+      "ID": "oval:com.redhat.cve:ste:201911135003",
       "AttrVersion": "636",
       "Name": {
         "Text": "^redhat-release",

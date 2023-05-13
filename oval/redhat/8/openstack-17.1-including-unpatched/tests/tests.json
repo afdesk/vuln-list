@@ -303,13 +303,13 @@
     {
       "Check": "at least one",
       "Comment": "Red Hat Enterprise Linux 9 is installed",
-      "ID": "oval:com.redhat.cve:tst:20124520003",
+      "ID": "oval:com.redhat.cve:tst:20123540003",
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20122094002"
       },
       "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20124520002"
+        "StateRef": "oval:com.redhat.cve:ste:20123540002"
       }
     }
   ]

@@ -867,7 +867,7 @@
                   },
                   {
                     "Comment": "kernel-rt-debug-modules-core is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20213714062"
+                    "TestRef": "oval:com.redhat.cve:tst:202133656026"
                   }
                 ]
               },
@@ -932,7 +932,7 @@
                   },
                   {
                     "Comment": "kernel-rt-modules-core is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20213714016"
+                    "TestRef": "oval:com.redhat.cve:tst:202133656030"
                   }
                 ]
               },

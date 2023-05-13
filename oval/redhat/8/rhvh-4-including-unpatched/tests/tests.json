@@ -200,7 +200,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-tools is installed",
+      "Comment": "kernel-debug-devel is installed",
       "ID": "oval:com.redhat.cve:tst:20222078001",
       "Version": "636",
       "Object": {
@@ -210,7 +210,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-tools is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-debug-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078002",
       "Version": "636",
       "Object": {
@@ -222,7 +222,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-modules-extra is installed",
+      "Comment": "bpftool is installed",
       "ID": "oval:com.redhat.cve:tst:20222078003",
       "Version": "636",
       "Object": {
@@ -232,7 +232,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-modules-extra is signed with Red Hat redhatrelease2 key",
+      "Comment": "bpftool is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078004",
       "Version": "636",
       "Object": {
@@ -244,7 +244,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "perf is installed",
+      "Comment": "kernel-modules-extra is installed",
       "ID": "oval:com.redhat.cve:tst:20222078005",
       "Version": "636",
       "Object": {
@@ -254,7 +254,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "perf is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-modules-extra is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078006",
       "Version": "636",
       "Object": {
@@ -266,7 +266,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-cross-headers is installed",
+      "Comment": "kernel-tools is installed",
       "ID": "oval:com.redhat.cve:tst:20222078007",
       "Version": "636",
       "Object": {
@@ -276,7 +276,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-cross-headers is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-tools is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078008",
       "Version": "636",
       "Object": {
@@ -288,7 +288,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-debug is installed",
+      "Comment": "kernel-modules is installed",
       "ID": "oval:com.redhat.cve:tst:20222078009",
       "Version": "636",
       "Object": {
@@ -298,7 +298,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-debug is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-modules is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078010",
       "Version": "636",
       "Object": {
@@ -310,7 +310,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-debug-devel is installed",
+      "Comment": "kernel-tools-libs is installed",
       "ID": "oval:com.redhat.cve:tst:20222078011",
       "Version": "636",
       "Object": {
@@ -320,7 +320,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-debug-devel is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-tools-libs is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078012",
       "Version": "636",
       "Object": {
@@ -332,7 +332,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-modules is installed",
+      "Comment": "kernel-zfcpdump-modules-extra is installed",
       "ID": "oval:com.redhat.cve:tst:20222078013",
       "Version": "636",
       "Object": {
@@ -342,7 +342,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-modules is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-zfcpdump-modules-extra is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078014",
       "Version": "636",
       "Object": {
@@ -354,7 +354,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-devel is installed",
+      "Comment": "kernel-headers is installed",
       "ID": "oval:com.redhat.cve:tst:20222078015",
       "Version": "636",
       "Object": {
@@ -364,7 +364,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-devel is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-headers is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078016",
       "Version": "636",
       "Object": {
@@ -376,7 +376,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-debug-core is installed",
+      "Comment": "kernel-debug is installed",
       "ID": "oval:com.redhat.cve:tst:20222078017",
       "Version": "636",
       "Object": {
@@ -386,7 +386,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-debug-core is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-debug is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078018",
       "Version": "636",
       "Object": {
@@ -398,7 +398,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-zfcpdump-core is installed",
+      "Comment": "kernel-doc is installed",
       "ID": "oval:com.redhat.cve:tst:20222078019",
       "Version": "636",
       "Object": {
@@ -408,7 +408,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-zfcpdump-core is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-doc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078020",
       "Version": "636",
       "Object": {
@@ -420,7 +420,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-tools-libs is installed",
+      "Comment": "kernel-zfcpdump-modules is installed",
       "ID": "oval:com.redhat.cve:tst:20222078021",
       "Version": "636",
       "Object": {
@@ -430,7 +430,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-tools-libs is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-zfcpdump-modules is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078022",
       "Version": "636",
       "Object": {
@@ -442,7 +442,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-debug-modules-extra is installed",
+      "Comment": "perf is installed",
       "ID": "oval:com.redhat.cve:tst:20222078023",
       "Version": "636",
       "Object": {
@@ -452,7 +452,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-debug-modules-extra is signed with Red Hat redhatrelease2 key",
+      "Comment": "perf is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078024",
       "Version": "636",
       "Object": {
@@ -486,7 +486,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-zfcpdump-devel is installed",
+      "Comment": "kernel-debug-core is installed",
       "ID": "oval:com.redhat.cve:tst:20222078027",
       "Version": "636",
       "Object": {
@@ -496,7 +496,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-zfcpdump-devel is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-debug-core is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078028",
       "Version": "636",
       "Object": {
@@ -508,7 +508,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-zfcpdump-modules is installed",
+      "Comment": "kernel-core is installed",
       "ID": "oval:com.redhat.cve:tst:20222078029",
       "Version": "636",
       "Object": {
@@ -518,7 +518,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-zfcpdump-modules is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-core is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078030",
       "Version": "636",
       "Object": {
@@ -530,7 +530,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-headers is installed",
+      "Comment": "python3-perf is installed",
       "ID": "oval:com.redhat.cve:tst:20222078031",
       "Version": "636",
       "Object": {
@@ -540,7 +540,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-headers is signed with Red Hat redhatrelease2 key",
+      "Comment": "python3-perf is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078032",
       "Version": "636",
       "Object": {
@@ -552,7 +552,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "bpftool is installed",
+      "Comment": "kernel-cross-headers is installed",
       "ID": "oval:com.redhat.cve:tst:20222078033",
       "Version": "636",
       "Object": {
@@ -562,7 +562,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "bpftool is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-cross-headers is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078034",
       "Version": "636",
       "Object": {
@@ -574,7 +574,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-zfcpdump is installed",
+      "Comment": "kernel-abi-whitelists is installed",
       "ID": "oval:com.redhat.cve:tst:20222078035",
       "Version": "636",
       "Object": {
@@ -584,7 +584,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-zfcpdump is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-abi-whitelists is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078036",
       "Version": "636",
       "Object": {
@@ -596,7 +596,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-perf is installed",
+      "Comment": "kernel-zfcpdump is installed",
       "ID": "oval:com.redhat.cve:tst:20222078037",
       "Version": "636",
       "Object": {
@@ -606,7 +606,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-perf is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-zfcpdump is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078038",
       "Version": "636",
       "Object": {
@@ -640,7 +640,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-debug-modules is installed",
+      "Comment": "kernel-debug-modules-extra is installed",
       "ID": "oval:com.redhat.cve:tst:20222078041",
       "Version": "636",
       "Object": {
@@ -650,7 +650,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-debug-modules is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-debug-modules-extra is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078042",
       "Version": "636",
       "Object": {
@@ -662,7 +662,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-core is installed",
+      "Comment": "kernel-zfcpdump-core is installed",
       "ID": "oval:com.redhat.cve:tst:20222078043",
       "Version": "636",
       "Object": {
@@ -672,7 +672,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-core is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-zfcpdump-core is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078044",
       "Version": "636",
       "Object": {
@@ -684,7 +684,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-doc is installed",
+      "Comment": "kernel-debug-modules is installed",
       "ID": "oval:com.redhat.cve:tst:20222078045",
       "Version": "636",
       "Object": {
@@ -694,7 +694,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-doc is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-debug-modules is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078046",
       "Version": "636",
       "Object": {
@@ -706,7 +706,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-zfcpdump-modules-extra is installed",
+      "Comment": "kernel-zfcpdump-devel is installed",
       "ID": "oval:com.redhat.cve:tst:20222078047",
       "Version": "636",
       "Object": {
@@ -716,7 +716,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-zfcpdump-modules-extra is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-zfcpdump-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078048",
       "Version": "636",
       "Object": {
@@ -728,7 +728,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-abi-whitelists is installed",
+      "Comment": "kernel-devel is installed",
       "ID": "oval:com.redhat.cve:tst:20222078049",
       "Version": "636",
       "Object": {
@@ -738,7 +738,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-abi-whitelists is signed with Red Hat redhatrelease2 key",
+      "Comment": "kernel-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20222078050",
       "Version": "636",
       "Object": {
@@ -2829,7 +2829,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078021"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078023"
       },
       "State": {}
     },
@@ -2840,7 +2840,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078012"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078021"
       },
       "State": {}
     },
@@ -2851,7 +2851,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078019"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078016"
       },
       "State": {}
     },
@@ -2862,7 +2862,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078010"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078022"
       },
       "State": {}
     },
@@ -2873,7 +2873,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078001"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078004"
       },
       "State": {}
     },
@@ -2884,7 +2884,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078002"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078003"
       },
       "State": {}
     },
@@ -2895,7 +2895,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078017"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078002"
       },
       "State": {}
     },
@@ -2906,7 +2906,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078006"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078001"
       },
       "State": {}
     },
@@ -2928,7 +2928,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078015"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078011"
       },
       "State": {}
     },
@@ -2939,7 +2939,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078024"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078007"
       },
       "State": {}
     },
@@ -2950,7 +2950,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078014"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078024"
       },
       "State": {}
     },
@@ -2961,7 +2961,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078023"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078010"
       },
       "State": {}
     },
@@ -2972,7 +2972,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078018"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078019"
       },
       "State": {}
     },
@@ -2983,7 +2983,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078016"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078008"
       },
       "State": {}
     },
@@ -2994,7 +2994,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078009"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078014"
       },
       "State": {}
     },
@@ -3005,7 +3005,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078003"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078012"
       },
       "State": {}
     },
@@ -3016,7 +3016,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078011"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078006"
       },
       "State": {}
     },
@@ -3027,7 +3027,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078022"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078015"
       },
       "State": {}
     },
@@ -3038,7 +3038,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078008"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078025"
       },
       "State": {}
     },
@@ -3049,7 +3049,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078005"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078009"
       },
       "State": {}
     },
@@ -3060,7 +3060,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078004"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078017"
       },
       "State": {}
     },
@@ -3071,7 +3071,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078025"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078018"
       },
       "State": {}
     },
@@ -3093,7 +3093,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20222078007"
+        "ObjectRef": "oval:com.redhat.cve:obj:20222078005"
       },
       "State": {}
     },

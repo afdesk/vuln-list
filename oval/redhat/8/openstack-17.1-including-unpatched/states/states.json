@@ -34,7 +34,7 @@
       "Version": {}
     },
     {
-      "ID": "oval:com.redhat.cve:ste:20124520002",
+      "ID": "oval:com.redhat.cve:ste:20123540002",
       "AttrVersion": "636",
       "Name": {
         "Text": "^redhat-release",

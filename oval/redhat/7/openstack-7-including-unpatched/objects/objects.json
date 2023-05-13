@@ -143,7 +143,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20155278001",
       "Version": "636",
-      "Name": "qemu-kvm-common-rhev"
+      "Name": "qemu-img-rhev"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155278002",
@@ -153,27 +153,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:20155278003",
       "Version": "636",
-      "Name": "libcacard-rhev"
+      "Name": "qemu-kvm-common-rhev"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155278004",
       "Version": "636",
-      "Name": "libcacard-tools-rhev"
+      "Name": "qemu-kvm-rhev"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155278005",
       "Version": "636",
-      "Name": "qemu-img-rhev"
+      "Name": "libcacard-devel-rhev"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155278006",
       "Version": "636",
-      "Name": "libcacard-devel-rhev"
+      "Name": "libcacard-rhev"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155278007",
       "Version": "636",
-      "Name": "qemu-kvm-rhev"
+      "Name": "libcacard-tools-rhev"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155694001",

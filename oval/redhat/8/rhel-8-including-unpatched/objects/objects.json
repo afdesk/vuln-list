@@ -3331,6 +3331,11 @@
       "Name": "edk2-aarch64"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:201911135001",
+      "Version": "636",
+      "Name": "microcode_ctl"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:201911460001",
       "Version": "636",
       "Name": "gnome-desktop3-devel"
@@ -6124,11 +6129,6 @@
       "ID": "oval:com.redhat.cve:obj:20209947006",
       "Version": "636",
       "Name": "webkit2gtk3-jsc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20210127001",
-      "Version": "636",
-      "Name": "microcode_ctl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202120251001",

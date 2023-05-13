@@ -2193,142 +2193,242 @@
     {
       "ID": "oval:com.redhat.cve:obj:201916089001",
       "Version": "636",
-      "Name": "kernel-cross-headers"
+      "Name": "kernel-tools-libs-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089002",
       "Version": "636",
-      "Name": "kernel-tools-libs"
+      "Name": "kernel-zfcpdump"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089003",
       "Version": "636",
-      "Name": "kernel-debug-modules-extra"
+      "Name": "kernel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089004",
       "Version": "636",
-      "Name": "kernel-debug-devel"
+      "Name": "kernel-cross-headers"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089005",
       "Version": "636",
-      "Name": "kernel-modules"
+      "Name": "kernel-64k-debug-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089006",
       "Version": "636",
-      "Name": "kernel-debug-devel-matched"
+      "Name": "python3-perf"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089007",
       "Version": "636",
-      "Name": "kernel-devel-matched"
+      "Name": "kernel-zfcpdump-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089008",
       "Version": "636",
-      "Name": "perf"
+      "Name": "kernel-64k-debug-modules"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089009",
       "Version": "636",
-      "Name": "kernel-zfcpdump"
+      "Name": "kernel-64k-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089010",
       "Version": "636",
-      "Name": "kernel-zfcpdump-core"
+      "Name": "kernel-zfcpdump-modules-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089011",
       "Version": "636",
-      "Name": "kernel-debug-modules"
+      "Name": "kernel-64k-debug-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089012",
       "Version": "636",
-      "Name": "kernel-tools-libs-devel"
+      "Name": "kernel-zfcpdump-devel-matched"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089013",
       "Version": "636",
-      "Name": "kernel-debug"
+      "Name": "rtla"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089014",
       "Version": "636",
-      "Name": "kernel-headers"
+      "Name": "kernel-debug-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089015",
       "Version": "636",
-      "Name": "kernel-zfcpdump-modules-extra"
+      "Name": "bpftool"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089016",
       "Version": "636",
-      "Name": "bpftool"
+      "Name": "kernel-devel-matched"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089017",
       "Version": "636",
-      "Name": "kernel-core"
+      "Name": "kernel-debug-modules"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089018",
       "Version": "636",
-      "Name": "kernel-zfcpdump-modules"
+      "Name": "kernel-64k-modules"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089019",
       "Version": "636",
-      "Name": "kernel-debug-core"
+      "Name": "kernel-debug-modules-extra"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089020",
       "Version": "636",
-      "Name": "kernel"
+      "Name": "kernel-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089021",
       "Version": "636",
-      "Name": "python3-perf"
+      "Name": "kernel-debug-uki-virt"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089022",
       "Version": "636",
-      "Name": "kernel-zfcpdump-devel"
+      "Name": "kernel-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089023",
       "Version": "636",
-      "Name": "kernel-abi-stablelists"
+      "Name": "perf"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089024",
       "Version": "636",
-      "Name": "kernel-tools"
+      "Name": "kernel-modules-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089025",
       "Version": "636",
-      "Name": "kernel-modules-extra"
+      "Name": "kernel-64k-debug"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089026",
       "Version": "636",
-      "Name": "kernel-devel"
+      "Name": "kernel-zfcpdump-modules"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089027",
       "Version": "636",
-      "Name": "kernel-doc"
+      "Name": "kernel-tools-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201916089028",
       "Version": "636",
-      "Name": "kernel-zfcpdump-devel-matched"
+      "Name": "kernel-64k-modules-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089029",
+      "Version": "636",
+      "Name": "kernel-debug"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089030",
+      "Version": "636",
+      "Name": "kernel-64k-debug-modules-extra"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089031",
+      "Version": "636",
+      "Name": "kernel-64k-debug-modules-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089032",
+      "Version": "636",
+      "Name": "kernel-modules"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089033",
+      "Version": "636",
+      "Name": "kernel-64k-devel-matched"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089034",
+      "Version": "636",
+      "Name": "kernel-64k-debug-devel-matched"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089035",
+      "Version": "636",
+      "Name": "kernel-debug-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089036",
+      "Version": "636",
+      "Name": "kernel-modules-extra"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089037",
+      "Version": "636",
+      "Name": "kernel-zfcpdump-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089038",
+      "Version": "636",
+      "Name": "kernel-tools"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089039",
+      "Version": "636",
+      "Name": "kernel-uki-virt"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089040",
+      "Version": "636",
+      "Name": "kernel-zfcpdump-modules-extra"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089041",
+      "Version": "636",
+      "Name": "kernel-64k-modules-extra"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089042",
+      "Version": "636",
+      "Name": "kernel-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089043",
+      "Version": "636",
+      "Name": "kernel-debug-devel-matched"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089044",
+      "Version": "636",
+      "Name": "kernel-debug-modules-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089045",
+      "Version": "636",
+      "Name": "kernel-headers"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089046",
+      "Version": "636",
+      "Name": "kernel-abi-stablelists"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089047",
+      "Version": "636",
+      "Name": "kernel-64k-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201916089048",
+      "Version": "636",
+      "Name": "kernel-64k"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201925059001",
@@ -2929,106 +3029,6 @@
       "ID": "oval:com.redhat.cve:obj:202120289003",
       "Version": "636",
       "Name": "pki-resteasy-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320002",
-      "Version": "636",
-      "Name": "kernel-64k-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320004",
-      "Version": "636",
-      "Name": "kernel-64k-modules-extra"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320006",
-      "Version": "636",
-      "Name": "kernel-64k-debug-devel-matched"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320007",
-      "Version": "636",
-      "Name": "kernel-64k"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320008",
-      "Version": "636",
-      "Name": "kernel-64k-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320010",
-      "Version": "636",
-      "Name": "kernel-64k-debug-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320015",
-      "Version": "636",
-      "Name": "kernel-64k-devel-matched"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320020",
-      "Version": "636",
-      "Name": "kernel-64k-debug-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320022",
-      "Version": "636",
-      "Name": "kernel-64k-debug-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320025",
-      "Version": "636",
-      "Name": "kernel-debug-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320026",
-      "Version": "636",
-      "Name": "kernel-debug-uki-virt"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320031",
-      "Version": "636",
-      "Name": "kernel-64k-debug-modules"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320035",
-      "Version": "636",
-      "Name": "kernel-64k-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320036",
-      "Version": "636",
-      "Name": "kernel-uki-virt"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320037",
-      "Version": "636",
-      "Name": "kernel-64k-modules"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320044",
-      "Version": "636",
-      "Name": "kernel-64k-debug-modules-extra"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320045",
-      "Version": "636",
-      "Name": "kernel-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320046",
-      "Version": "636",
-      "Name": "kernel-zfcpdump-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320047",
-      "Version": "636",
-      "Name": "kernel-64k-debug"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202120320048",
-      "Version": "636",
-      "Name": "rtla"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202122925001",
@@ -4336,6 +4336,16 @@
       "Name": "ruby"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202133656013",
+      "Version": "636",
+      "Name": "kernel-rt-debug-modules-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202133656015",
+      "Version": "636",
+      "Name": "kernel-rt-modules-core"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202134558001",
       "Version": "636",
       "Name": "skopeo"
@@ -4604,16 +4614,6 @@
       "ID": "oval:com.redhat.cve:obj:202136373020",
       "Version": "636",
       "Name": "ant-apache-bsf"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714008",
-      "Version": "636",
-      "Name": "kernel-rt-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213714031",
-      "Version": "636",
-      "Name": "kernel-rt-debug-modules-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137519001",

@@ -200,7 +200,7 @@
                   },
                   {
                     "Comment": "gnutls is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20150294004"
+                    "TestRef": "oval:com.redhat.cve:tst:20150294002"
                   }
                 ]
               },
@@ -213,7 +213,7 @@
                   },
                   {
                     "Comment": "gnutls-c++ is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20150294008"
+                    "TestRef": "oval:com.redhat.cve:tst:20150294006"
                   }
                 ]
               },
@@ -226,7 +226,7 @@
                   },
                   {
                     "Comment": "gnutls-dane is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20150294002"
+                    "TestRef": "oval:com.redhat.cve:tst:20150294008"
                   }
                 ]
               },
@@ -239,7 +239,7 @@
                   },
                   {
                     "Comment": "gnutls-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20150294006"
+                    "TestRef": "oval:com.redhat.cve:tst:20150294004"
                   }
                 ]
               },

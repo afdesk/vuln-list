@@ -93,22 +93,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:20222078001",
       "Version": "636",
-      "Name": "python-perf"
+      "Name": "kernel-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20222078002",
       "Version": "636",
-      "Name": "kernel-devel"
+      "Name": "perf"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20222078003",
       "Version": "636",
-      "Name": "kernel-headers"
+      "Name": "python-perf"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20222078004",
       "Version": "636",
-      "Name": "perf"
+      "Name": "kernel-headers"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20222211001",
