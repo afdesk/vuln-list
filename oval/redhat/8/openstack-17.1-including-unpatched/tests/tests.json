@@ -255,7 +255,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-keystoneclient is installed",
+      "Comment": "python3-keystoneclient is installed",
       "ID": "oval:com.redhat.unaffected:tst:20132166001",
       "Version": "635",
       "Object": {
@@ -265,7 +265,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-keystoneclient is not installed",
+      "Comment": "python3-keystoneclient is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20132166002",
       "Version": "635",
       "CheckExistence": "none_exist",

@@ -4208,57 +4208,57 @@
     {
       "ID": "oval:com.redhat.cve:obj:20124446001",
       "Version": "636",
-      "Name": "qpid-cpp-server-xml"
+      "Name": "qpid-cpp-client"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124446002",
       "Version": "636",
-      "Name": "qpid-cpp-client"
+      "Name": "qpid-cpp-client-rdma"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124446003",
       "Version": "636",
-      "Name": "qpid-cpp-client-devel"
+      "Name": "qpid-cpp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124446004",
       "Version": "636",
-      "Name": "qpid-cpp-server"
+      "Name": "qpid-cpp-client-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124446005",
       "Version": "636",
-      "Name": "qpid-cpp-server-store"
+      "Name": "qpid-cpp-server-xml"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124446006",
       "Version": "636",
-      "Name": "qpid-cpp-client-devel-docs"
+      "Name": "qpid-cpp-server-store"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124446007",
       "Version": "636",
-      "Name": "qpid-cpp-server-cluster"
+      "Name": "qpid-cpp-client-ssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124446008",
       "Version": "636",
-      "Name": "qpid-cpp-server-rdma"
+      "Name": "qpid-cpp-client-devel-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124446009",
       "Version": "636",
-      "Name": "qpid-cpp-client-ssl"
+      "Name": "qpid-cpp-server"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124446010",
       "Version": "636",
-      "Name": "qpid-cpp-client-rdma"
+      "Name": "qpid-cpp-server-cluster"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124446011",
       "Version": "636",
-      "Name": "qpid-cpp-server-devel"
+      "Name": "qpid-cpp-server-rdma"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124446012",
@@ -4268,7 +4268,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20124446013",
       "Version": "636",
-      "Name": "qpid-cpp"
+      "Name": "qpid-cpp-server-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20124454001",
@@ -5578,17 +5578,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20143215002",
       "Version": "636",
-      "Name": "policycoreutils-sandbox"
+      "Name": "libcap-ng"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20143215003",
       "Version": "636",
-      "Name": "selinux-policy-minimum"
+      "Name": "policycoreutils-sandbox"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20143215004",
       "Version": "636",
-      "Name": "libcap-ng"
+      "Name": "selinux-policy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20143215005",
@@ -5598,27 +5598,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:20143215006",
       "Version": "636",
-      "Name": "libcap-ng-python"
+      "Name": "libcap-ng-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20143215007",
       "Version": "636",
-      "Name": "libcap-ng-devel"
+      "Name": "selinux-policy-minimum"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20143215008",
       "Version": "636",
-      "Name": "policycoreutils-newrole"
+      "Name": "selinux-policy-targeted"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20143215009",
       "Version": "636",
-      "Name": "selinux-policy-targeted"
+      "Name": "libcap-ng-python"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20143215010",
       "Version": "636",
-      "Name": "selinux-policy"
+      "Name": "selinux-policy-mls"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20143215011",
@@ -5633,7 +5633,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20143215013",
       "Version": "636",
-      "Name": "selinux-policy-mls"
+      "Name": "policycoreutils-newrole"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20143215014",
@@ -5908,27 +5908,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:20144607001",
       "Version": "636",
-      "Name": "kdenetwork-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20144607002",
-      "Version": "636",
-      "Name": "dump"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20144607005",
-      "Version": "636",
       "Name": "kdenetwork-libs"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20144607006",
+      "ID": "oval:com.redhat.cve:obj:20144607004",
       "Version": "636",
       "Name": "rmt"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20144607007",
+      "ID": "oval:com.redhat.cve:obj:20144607005",
       "Version": "636",
       "Name": "kdenetwork"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20144607006",
+      "Version": "636",
+      "Name": "kdenetwork-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20144607007",
+      "Version": "636",
+      "Name": "dump"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144616001",

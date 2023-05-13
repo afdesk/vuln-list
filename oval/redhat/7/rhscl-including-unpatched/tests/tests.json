@@ -75822,67 +75822,78 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-php56-php-embedded is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501002",
+      "Comment": "rh-php56-php-ldap is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20136501004",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211069"
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211017"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "rh-php56-php-snmp is not installed",
+      "Comment": "rh-php56-php-recode is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20136501006",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211062"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-php56-php-intl is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501012",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211067"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-php56-php-odbc is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501014",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211006"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-php56-php-gd is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501016",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211036"
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211077"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "rh-php56-php-bcmath is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501018",
+      "ID": "oval:com.redhat.unaffected:tst:20136501010",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20153211070"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-php56-php-pdo is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20136501016",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211073"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-php56-php-xmlrpc is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20136501020",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211007"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-php56-php-imap is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20136501026",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-php56-php-pspell is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20136501028",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211047"
       },
       "State": {}
     },
@@ -75899,41 +75910,41 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-php56-php-enchant is not installed",
+      "Comment": "rh-php56-php-intl is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20136501032",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211072"
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211067"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "rh-php56-php-devel is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501040",
+      "Comment": "rh-php56-php-snmp is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20136501034",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211041"
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211062"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "rh-php56-php-dba is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501042",
+      "Comment": "rh-php56-php-gd is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20136501036",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211054"
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211036"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "rh-php56-php-mysqlnd is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501046",
+      "ID": "oval:com.redhat.unaffected:tst:20136501040",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -75943,45 +75954,34 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-php56-php-mbstring is not installed",
+      "Comment": "rh-php56-php-enchant is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20136501044",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211072"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-php56-php-process is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20136501048",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211015"
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211061"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "rh-php56-php-opcache is not installed",
+      "Comment": "rh-php56-php-embedded is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20136501050",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211025"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-php56-php-tidy is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501052",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211045"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-php56-php-dbg is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501056",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211056"
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211069"
       },
       "State": {}
     },
@@ -75998,19 +75998,19 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-php56-php-pspell is not installed",
+      "Comment": "rh-php56-php-dbg is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20136501062",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211047"
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211056"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "rh-php56-php-gmp is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501064",
+      "ID": "oval:com.redhat.unaffected:tst:20136501068",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -76021,7 +76021,7 @@
     {
       "Check": "at least one",
       "Comment": "rh-php56-php-common is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501066",
+      "ID": "oval:com.redhat.unaffected:tst:20136501072",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -76031,52 +76031,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-php56-php-recode is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501070",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211077"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-php56-php-cli is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501074",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211063"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-php56-php-pdo is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501076",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211073"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-php56-php-soap is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501078",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211008"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "rh-php56-php-xml is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501082",
+      "ID": "oval:com.redhat.unaffected:tst:20136501076",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -76086,56 +76042,100 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-php56-php-ldap is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501084",
+      "Comment": "rh-php56-php-odbc is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20136501080",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211017"
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211006"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "rh-php56-php-xmlrpc is not installed",
+      "Comment": "rh-php56-php-soap is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20136501086",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211007"
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211008"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "rh-php56-php-imap is not installed",
+      "Comment": "rh-php56-php-tidy is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20136501088",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211002"
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211045"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "rh-php56-php-process is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501096",
+      "Comment": "rh-php56-php-dba is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20136501090",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20153211061"
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211054"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "rh-php56-php-pgsql is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20136501106",
+      "ID": "oval:com.redhat.unaffected:tst:20136501092",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20153211032"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-php56-php-cli is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20136501104",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211063"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-php56-php-opcache is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20136501106",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211025"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-php56-php-devel is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20136501108",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211041"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-php56-php-mbstring is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20136501110",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20153211015"
       },
       "State": {}
     },

@@ -58,7 +58,7 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:20132166001",
       "Version": "635",
-      "Name": "python-keystoneclient"
+      "Name": "python3-keystoneclient"
     }
   ],
   "RpmverifyfileObjects": [

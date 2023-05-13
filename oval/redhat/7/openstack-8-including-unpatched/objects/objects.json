@@ -53,17 +53,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20155295001",
       "Version": "636",
-      "Name": "openstack-heat-common"
+      "Name": "openstack-heat-api-cfn"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155295002",
       "Version": "636",
-      "Name": "openstack-heat-api-cfn"
+      "Name": "openstack-heat-api-cloudwatch"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155295003",
       "Version": "636",
-      "Name": "openstack-heat-api"
+      "Name": "openstack-heat-engine"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155295004",
@@ -73,12 +73,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20155295005",
       "Version": "636",
-      "Name": "openstack-heat-engine"
+      "Name": "openstack-heat-api"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155295006",
       "Version": "636",
-      "Name": "openstack-heat-api-cloudwatch"
+      "Name": "openstack-heat-common"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20155739001",

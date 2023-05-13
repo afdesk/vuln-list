@@ -2433,192 +2433,192 @@
     {
       "ID": "oval:com.redhat.cve:obj:20144607001",
       "Version": "636",
-      "Name": "kdenetwork-krdc"
+      "Name": "grub2-ppc64le-modules"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607002",
       "Version": "636",
-      "Name": "rmt"
+      "Name": "grub2-efi-x64"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607003",
       "Version": "636",
-      "Name": "kdenetwork-kopete-libs"
+      "Name": "kdenetwork-kopete"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607004",
       "Version": "636",
-      "Name": "grub2-efi-ia32"
+      "Name": "dump"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607005",
       "Version": "636",
-      "Name": "kdenetwork-kopete-devel"
+      "Name": "grub2-ppc64"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607006",
       "Version": "636",
-      "Name": "grub2-efi-aa64-modules"
+      "Name": "kdenetwork-krfb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607007",
       "Version": "636",
-      "Name": "grub2"
+      "Name": "grub2-common"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607008",
       "Version": "636",
-      "Name": "kdenetwork-kget"
+      "Name": "grub2-ppc64le"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607009",
       "Version": "636",
-      "Name": "grub2-efi"
+      "Name": "grub2"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607010",
       "Version": "636",
-      "Name": "grub2-ppc64-modules"
+      "Name": "kdenetwork-kopete-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607011",
       "Version": "636",
-      "Name": "grub2-efi-x64"
+      "Name": "grub2-efi-x64-cdboot"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607012",
       "Version": "636",
-      "Name": "grub2-efi-modules"
+      "Name": "grub2-efi-ia32-cdboot"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607013",
       "Version": "636",
-      "Name": "grub2-ppc64le-modules"
+      "Name": "kdenetwork-krdc-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607014",
       "Version": "636",
-      "Name": "kdenetwork-krfb"
+      "Name": "grub2-efi-ia32"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607015",
       "Version": "636",
-      "Name": "grub2-tools-extra"
+      "Name": "grub2-efi"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607016",
       "Version": "636",
-      "Name": "kdenetwork-krfb-libs"
+      "Name": "kdenetwork-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607017",
       "Version": "636",
-      "Name": "kdenetwork-kdnssd"
+      "Name": "grub2-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607018",
       "Version": "636",
-      "Name": "kdenetwork-kopete"
+      "Name": "grub2-tools-minimal"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607019",
       "Version": "636",
-      "Name": "kdenetwork-fileshare-samba"
+      "Name": "grub2-pc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607020",
       "Version": "636",
-      "Name": "kdenetwork-krdc-libs"
+      "Name": "grub2-efi-ia32-modules"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607021",
       "Version": "636",
-      "Name": "grub2-common"
+      "Name": "kdenetwork-common"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607022",
       "Version": "636",
-      "Name": "grub2-efi-x64-modules"
+      "Name": "kdenetwork-krdc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607023",
       "Version": "636",
-      "Name": "grub2-ppc64le"
+      "Name": "kdenetwork-kget-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607024",
       "Version": "636",
-      "Name": "grub2-efi-ia32-modules"
+      "Name": "grub2-efi-x64-modules"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607025",
       "Version": "636",
-      "Name": "kdenetwork-devel"
+      "Name": "grub2-tools-extra"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607026",
       "Version": "636",
-      "Name": "grub2-pc-modules"
+      "Name": "grub2-ppc64-modules"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607027",
       "Version": "636",
-      "Name": "kdenetwork-common"
+      "Name": "grub2-efi-modules"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607028",
       "Version": "636",
-      "Name": "grub2-pc"
+      "Name": "kdenetwork-krfb-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607029",
       "Version": "636",
-      "Name": "kdenetwork-kget-libs"
+      "Name": "grub2-ppc-modules"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607030",
       "Version": "636",
-      "Name": "grub2-efi-ia32-cdboot"
+      "Name": "kdenetwork-kget"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607031",
       "Version": "636",
-      "Name": "kdenetwork"
+      "Name": "kdenetwork-krdc-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607032",
       "Version": "636",
-      "Name": "kdenetwork-krdc-devel"
+      "Name": "kdenetwork-kopete-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607033",
       "Version": "636",
-      "Name": "dump"
+      "Name": "grub2-efi-aa64-modules"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607034",
       "Version": "636",
-      "Name": "grub2-tools-minimal"
+      "Name": "kdenetwork"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607035",
       "Version": "636",
-      "Name": "grub2-ppc64"
+      "Name": "grub2-pc-modules"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607036",
       "Version": "636",
-      "Name": "grub2-tools"
+      "Name": "kdenetwork-kdnssd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607037",
       "Version": "636",
-      "Name": "grub2-ppc-modules"
+      "Name": "kdenetwork-fileshare-samba"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20144607038",
       "Version": "636",
-      "Name": "grub2-efi-x64-cdboot"
+      "Name": "rmt"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20145044001",
@@ -8698,17 +8698,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20157673001",
       "Version": "636",
-      "Name": "gdk-pixbuf2"
+      "Name": "gdk-pixbuf2-tests"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20157673002",
       "Version": "636",
-      "Name": "gdk-pixbuf2-tests"
+      "Name": "gdk-pixbuf2-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20157673003",
       "Version": "636",
-      "Name": "gdk-pixbuf2-devel"
+      "Name": "gdk-pixbuf2"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20157700001",
