@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 Oct 2016] DLA-671-1 libxvmc - security update",
-    "Line": 8385,
+    "Line": 8388,
     "ID": "DLA-671-1",
     "Description": "libxvmc - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-7953}",
-      "Line": 8386,
+      "Line": 8389,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-7953"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - libxvmc 2:1.0.7-1+deb7u3",
-      "Line": 8387,
+      "Line": 8390,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libxvmc",

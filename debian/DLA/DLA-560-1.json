@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Jul 2016] DLA-560-1 cacti - security update",
-    "Line": 8724,
+    "Line": 8727,
     "ID": "DLA-560-1",
     "Description": "cacti - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-2313 CVE-2016-3172 CVE-2016-3659}",
-      "Line": 8725,
+      "Line": 8728,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-2313",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[wheezy] - cacti 0.8.8a+dfsg-5+deb7u9",
-      "Line": 8726,
+      "Line": 8729,
       "Type": "package",
       "Release": "wheezy",
       "Package": "cacti",

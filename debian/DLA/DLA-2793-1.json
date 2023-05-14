@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Oct 2021] DLA-2793-1 mosquitto - security update",
-    "Line": 1886,
+    "Line": 1889,
     "ID": "DLA-2793-1",
     "Description": "mosquitto - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-7655}",
-      "Line": 1887,
+      "Line": 1890,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-7655"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - mosquitto 1.4.10-3+deb9u5",
-      "Line": 1888,
+      "Line": 1891,
       "Type": "package",
       "Release": "stretch",
       "Package": "mosquitto",

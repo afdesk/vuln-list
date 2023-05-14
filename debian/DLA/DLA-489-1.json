@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[25 May 2016] DLA-489-1 ruby-mail - security update",
-    "Line": 8932,
+    "Line": 8935,
     "ID": "DLA-489-1",
     "Description": "ruby-mail - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-9097}",
-      "Line": 8933,
+      "Line": 8936,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-9097"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - ruby-mail 2.4.4-2+deb7u1",
-      "Line": 8934,
+      "Line": 8937,
       "Type": "package",
       "Release": "wheezy",
       "Package": "ruby-mail",

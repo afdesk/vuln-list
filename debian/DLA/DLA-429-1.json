@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Feb 2016] DLA-429-1 pixman - security update",
-    "Line": 9113,
+    "Line": 9116,
     "ID": "DLA-429-1",
     "Description": "pixman - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-9766}",
-      "Line": 9114,
+      "Line": 9117,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-9766"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - pixman 0.16.4-1+deb6u2",
-      "Line": 9115,
+      "Line": 9118,
       "Type": "package",
       "Release": "squeeze",
       "Package": "pixman",

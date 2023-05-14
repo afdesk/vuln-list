@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Oct 2017] DLA-1145-1 zoneminder - security update",
-    "Line": 6936,
+    "Line": 6939,
     "ID": "DLA-1145-1",
     "Description": "zoneminder - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-5595}",
-      "Line": 6937,
+      "Line": 6940,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-5595"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - zoneminder 1.25.0-4+deb7u2",
-      "Line": 6938,
+      "Line": 6941,
       "Type": "package",
       "Release": "wheezy",
       "Package": "zoneminder",
