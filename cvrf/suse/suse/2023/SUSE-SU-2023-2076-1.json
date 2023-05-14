@@ -31,7 +31,7 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "Container ses/7.1/ceph/haproxy:latest-2023-2076,Container ses/7.1/ceph/prometheus-alertmanager:latest-2023-2076,Container ses/7.1/ceph/prometheus-node-exporter:latest-2023-2076,Container ses/7.1/ceph/prometheus-server:latest-2023-2076,Container ses/7.1/ceph/prometheus-snmp_notifier:latest-2023-2076,Container ses/7.1/cephcsi/cephcsi:latest-2023-2076,Container ses/7.1/cephcsi/csi-node-driver-registrar:v2.5.1-2023-2076,Container ses/7.1/cephcsi/csi-provisioner:v3.2.1-2023-2076,Container ses/7.1/cephcsi/csi-resizer:v1.5.0-2023-2076,Container ses/7.1/rook/ceph:latest-2023-2076,Container suse/sle-micro-rancher/5.2:latest-2023-2076,Container suse/sle-micro/5.1/toolbox:latest-2023-2076,Container suse/sle-micro/5.2/toolbox:latest-2023-2076,Container suse/sle15:15.2-2023-2076,Container suse/sle15:15.3-2023-2076,Image SLES15-SP3-Micro-5-1-BYOS-Azure-2023-2076,Image SLES15-SP3-Micro-5-1-BYOS-GCE-2023-2076,Image SLES15-SP3-Micro-5-2-BYOS-Azure-2023-2076,Image SLES15-SP3-Micro-5-2-BYOS-GCE-2023-2076,SUSE-2023-2076,SUSE-SLE-Product-RT-15-SP3-2023-2076,SUSE-SUSE-MicroOS-5.1-2023-2076,SUSE-SUSE-MicroOS-5.2-2023-2076,openSUSE-SLE-15.4-2023-2076",
+      "Text": "Container ses/7.1/ceph/haproxy:latest-2023-2076,Container ses/7.1/ceph/prometheus-alertmanager:latest-2023-2076,Container ses/7.1/ceph/prometheus-node-exporter:latest-2023-2076,Container ses/7.1/ceph/prometheus-server:latest-2023-2076,Container ses/7.1/ceph/prometheus-snmp_notifier:latest-2023-2076,Container ses/7.1/cephcsi/cephcsi:latest-2023-2076,Container ses/7.1/cephcsi/csi-node-driver-registrar:v2.5.1-2023-2076,Container ses/7.1/cephcsi/csi-provisioner:v3.2.1-2023-2076,Container ses/7.1/cephcsi/csi-resizer:v1.5.0-2023-2076,Container ses/7.1/rook/ceph:latest-2023-2076,Container suse/sle-micro-rancher/5.2:latest-2023-2076,Container suse/sle-micro/5.1/toolbox:latest-2023-2076,Container suse/sle-micro/5.2/toolbox:latest-2023-2076,Container suse/sle15:15.2-2023-2076,Container suse/sle15:15.3-2023-2076,Image SLES15-SP3-Micro-5-1-BYOS-Azure-2023-2076,Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM-2023-2076,Image SLES15-SP3-Micro-5-1-BYOS-GCE-2023-2076,Image SLES15-SP3-Micro-5-2-BYOS-Azure-2023-2076,Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM-2023-2076,Image SLES15-SP3-Micro-5-2-BYOS-GCE-2023-2076,SUSE-2023-2076,SUSE-SLE-Product-RT-15-SP3-2023-2076,SUSE-SUSE-MicroOS-5.1-2023-2076,SUSE-SUSE-MicroOS-5.2-2023-2076,openSUSE-SLE-15.4-2023-2076",
       "Title": "Patchnames",
       "Type": "Details"
     }
@@ -200,6 +200,31 @@
       },
       {
         "ProductReference": "glib2-tools-2.62.6-150200.3.15.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libgio-2_0-0-2.62.6-150200.3.15.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libglib-2_0-0-2.62.6-150200.3.15.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libgmodule-2_0-0-2.62.6-150200.3.15.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libgobject-2_0-0-2.62.6-150200.3.15.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glib2-tools-2.62.6-150200.3.15.1",
         "RelatesToProductReference": "Image SLES15-SP3-Micro-5-1-BYOS-GCE",
         "RelationType": "Default Component Of"
       },
@@ -246,6 +271,31 @@
       {
         "ProductReference": "libgobject-2_0-0-2.62.6-150200.3.15.1",
         "RelatesToProductReference": "Image SLES15-SP3-Micro-5-2-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glib2-tools-2.62.6-150200.3.15.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libgio-2_0-0-2.62.6-150200.3.15.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libglib-2_0-0-2.62.6-150200.3.15.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libgmodule-2_0-0-2.62.6-150200.3.15.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libgobject-2_0-0-2.62.6-150200.3.15.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM",
         "RelationType": "Default Component Of"
       },
       {
@@ -490,6 +540,11 @@
             "Image SLES15-SP3-Micro-5-1-BYOS-Azure:libglib-2_0-0-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-1-BYOS-Azure:libgmodule-2_0-0-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-1-BYOS-Azure:libgobject-2_0-0-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM:glib2-tools-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM:libgio-2_0-0-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM:libglib-2_0-0-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM:libgmodule-2_0-0-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM:libgobject-2_0-0-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-1-BYOS-GCE:glib2-tools-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-1-BYOS-GCE:libgio-2_0-0-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-1-BYOS-GCE:libglib-2_0-0-2.62.6-150200.3.15.1",
@@ -500,6 +555,11 @@
             "Image SLES15-SP3-Micro-5-2-BYOS-Azure:libglib-2_0-0-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-2-BYOS-Azure:libgmodule-2_0-0-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-2-BYOS-Azure:libgobject-2_0-0-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM:glib2-tools-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM:libgio-2_0-0-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM:libglib-2_0-0-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM:libgmodule-2_0-0-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM:libgobject-2_0-0-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-2-BYOS-GCE:glib2-tools-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-2-BYOS-GCE:libgio-2_0-0-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-2-BYOS-GCE:libglib-2_0-0-2.62.6-150200.3.15.1",
@@ -590,6 +650,11 @@
             "Image SLES15-SP3-Micro-5-1-BYOS-Azure:libglib-2_0-0-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-1-BYOS-Azure:libgmodule-2_0-0-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-1-BYOS-Azure:libgobject-2_0-0-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM:glib2-tools-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM:libgio-2_0-0-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM:libglib-2_0-0-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM:libgmodule-2_0-0-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM:libgobject-2_0-0-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-1-BYOS-GCE:glib2-tools-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-1-BYOS-GCE:libgio-2_0-0-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-1-BYOS-GCE:libglib-2_0-0-2.62.6-150200.3.15.1",
@@ -600,6 +665,11 @@
             "Image SLES15-SP3-Micro-5-2-BYOS-Azure:libglib-2_0-0-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-2-BYOS-Azure:libgmodule-2_0-0-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-2-BYOS-Azure:libgobject-2_0-0-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM:glib2-tools-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM:libgio-2_0-0-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM:libglib-2_0-0-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM:libgmodule-2_0-0-2.62.6-150200.3.15.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM:libgobject-2_0-0-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-2-BYOS-GCE:glib2-tools-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-2-BYOS-GCE:libgio-2_0-0-2.62.6-150200.3.15.1",
             "Image SLES15-SP3-Micro-5-2-BYOS-GCE:libglib-2_0-0-2.62.6-150200.3.15.1",

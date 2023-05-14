@@ -31,7 +31,7 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "Image SLES15-SP4-SAP-2023-1860,Image SLES15-SP4-SAP-BYOS-2023-1860,Image SLES15-SP4-SAP-BYOS-Azure-2023-1860,Image SLES15-SP4-SAP-BYOS-EC2-2023-1860,Image SLES15-SP4-SAP-EC2-2023-1860,Image SLES15-SP4-SAPCAL-2023-1860,Image SLES15-SP4-SAPCAL-EC2-2023-1860,SUSE-2023-1860,SUSE-SLE-Micro-5.3-2023-1860,SUSE-SLE-Micro-5.4-2023-1860,SUSE-SLE-Module-Basesystem-15-SP4-2023-1860,openSUSE-Leap-Micro-5.3-2023-1860,openSUSE-SLE-15.4-2023-1860",
+      "Text": "Image SLES15-SP4-SAP-2023-1860,Image SLES15-SP4-SAP-BYOS-2023-1860,Image SLES15-SP4-SAP-BYOS-Azure-2023-1860,Image SLES15-SP4-SAP-BYOS-EC2-2023-1860,Image SLES15-SP4-SAP-EC2-2023-1860,Image SLES15-SP4-SAP-Hardened-2023-1860,Image SLES15-SP4-SAP-Hardened-EC2-2023-1860,Image SLES15-SP4-SAPCAL-2023-1860,Image SLES15-SP4-SAPCAL-EC2-2023-1860,SUSE-2023-1860,SUSE-SLE-Micro-5.3-2023-1860,SUSE-SLE-Micro-5.4-2023-1860,SUSE-SLE-Module-Basesystem-15-SP4-2023-1860,openSUSE-Leap-Micro-5.3-2023-1860,openSUSE-SLE-15.4-2023-1860",
       "Title": "Patchnames",
       "Type": "Details"
     }
@@ -71,6 +71,16 @@
       {
         "ProductReference": "libwayland-server0-1.19.0-150400.3.3.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAP-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwayland-server0-1.19.0-150400.3.3.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwayland-server0-1.19.0-150400.3.3.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-EC2",
         "RelationType": "Default Component Of"
       },
       {
@@ -291,6 +301,8 @@
             "Image SLES15-SP4-SAP-BYOS:libwayland-server0-1.19.0-150400.3.3.1",
             "Image SLES15-SP4-SAP-EC2:libwayland-client0-1.19.0-150400.3.3.1",
             "Image SLES15-SP4-SAP-EC2:libwayland-server0-1.19.0-150400.3.3.1",
+            "Image SLES15-SP4-SAP-Hardened-EC2:libwayland-server0-1.19.0-150400.3.3.1",
+            "Image SLES15-SP4-SAP-Hardened:libwayland-server0-1.19.0-150400.3.3.1",
             "Image SLES15-SP4-SAP:libwayland-client0-1.19.0-150400.3.3.1",
             "Image SLES15-SP4-SAP:libwayland-server0-1.19.0-150400.3.3.1",
             "Image SLES15-SP4-SAPCAL-EC2:libwayland-client0-1.19.0-150400.3.3.1",

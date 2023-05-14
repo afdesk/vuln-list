@@ -31,7 +31,7 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "Image SLES15-SP3-Micro-5-1-BYOS-Azure-2023-1827,Image SLES15-SP3-Micro-5-1-BYOS-GCE-2023-1827,Image SLES15-SP3-Micro-5-2-BYOS-Azure-2023-1827,Image SLES15-SP3-Micro-5-2-BYOS-GCE-2023-1827,Image SLES15-SP4-2023-1827,Image SLES15-SP4-Azure-Basic-2023-1827,Image SLES15-SP4-Azure-Standard-2023-1827,Image SLES15-SP4-BYOS-2023-1827,Image SLES15-SP4-BYOS-Azure-2023-1827,Image SLES15-SP4-BYOS-EC2-2023-1827,Image SLES15-SP4-EC2-2023-1827,Image SLES15-SP4-EC2-ECS-HVM-2023-1827,Image SLES15-SP4-HPC-2023-1827,Image SLES15-SP4-HPC-Azure-2023-1827,Image SLES15-SP4-HPC-BYOS-2023-1827,Image SLES15-SP4-HPC-BYOS-Azure-2023-1827,Image SLES15-SP4-HPC-BYOS-EC2-2023-1827,Image SLES15-SP4-HPC-BYOS-GCE-2023-1827,Image SLES15-SP4-HPC-EC2-2023-1827,Image SLES15-SP4-HPC-GCE-2023-1827,Image SLES15-SP4-Hardened-BYOS-2023-1827,Image SLES15-SP4-Hardened-BYOS-Azure-2023-1827,Image SLES15-SP4-Hardened-BYOS-EC2-2023-1827,Image SLES15-SP4-Hardened-BYOS-GCE-2023-1827,Image SLES15-SP4-Micro-5-3-BYOS-2023-1827,Image SLES15-SP4-Micro-5-3-BYOS-Azure-2023-1827,Image SLES15-SP4-Micro-5-3-BYOS-EC2-2023-1827,Image SLES15-SP4-Micro-5-3-BYOS-GCE-2023-1827,Image SLES15-SP4-Micro-5-4-2023-1827,Image SLES15-SP4-Micro-5-4-Azure-2023-1827,Image SLES15-SP4-Micro-5-4-BYOS-2023-1827,Image SLES15-SP4-Micro-5-4-BYOS-Azure-2023-1827,Image SLES15-SP4-Micro-5-4-BYOS-EC2-2023-1827,Image SLES15-SP4-Micro-5-4-BYOS-GCE-2023-1827,Image SLES15-SP4-Micro-5-4-EC2-2023-1827,Image SLES15-SP4-Micro-5-4-GCE-2023-1827,Image SLES15-SP4-SAP-2023-1827,Image SLES15-SP4-SAP-BYOS-2023-1827,Image SLES15-SP4-SAP-BYOS-Azure-2023-1827,Image SLES15-SP4-SAP-BYOS-EC2-2023-1827,Image SLES15-SP4-SAP-EC2-2023-1827,Image SLES15-SP4-SAPCAL-2023-1827,Image SLES15-SP4-SAPCAL-EC2-2023-1827,SUSE-2023-1827,SUSE-SLE-Micro-5.3-2023-1827,SUSE-SLE-Micro-5.4-2023-1827,SUSE-SLE-Module-Containers-15-SP4-2023-1827,SUSE-SUSE-MicroOS-5.1-2023-1827,SUSE-SUSE-MicroOS-5.2-2023-1827,openSUSE-Leap-Micro-5.3-2023-1827,openSUSE-SLE-15.4-2023-1827",
+      "Text": "Image SLES15-SP3-Micro-5-1-BYOS-Azure-2023-1827,Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM-2023-1827,Image SLES15-SP3-Micro-5-1-BYOS-GCE-2023-1827,Image SLES15-SP3-Micro-5-2-BYOS-Azure-2023-1827,Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM-2023-1827,Image SLES15-SP3-Micro-5-2-BYOS-GCE-2023-1827,Image SLES15-SP4-2023-1827,Image SLES15-SP4-Azure-Basic-2023-1827,Image SLES15-SP4-Azure-Standard-2023-1827,Image SLES15-SP4-BYOS-2023-1827,Image SLES15-SP4-BYOS-Azure-2023-1827,Image SLES15-SP4-BYOS-EC2-2023-1827,Image SLES15-SP4-CHOST-BYOS-2023-1827,Image SLES15-SP4-CHOST-BYOS-Aliyun-2023-1827,Image SLES15-SP4-CHOST-BYOS-Azure-2023-1827,Image SLES15-SP4-CHOST-BYOS-EC2-2023-1827,Image SLES15-SP4-CHOST-BYOS-GCE-2023-1827,Image SLES15-SP4-CHOST-BYOS-SAP-CCloud-2023-1827,Image SLES15-SP4-EC2-2023-1827,Image SLES15-SP4-EC2-ECS-HVM-2023-1827,Image SLES15-SP4-HPC-2023-1827,Image SLES15-SP4-HPC-Azure-2023-1827,Image SLES15-SP4-HPC-BYOS-2023-1827,Image SLES15-SP4-HPC-BYOS-Azure-2023-1827,Image SLES15-SP4-HPC-BYOS-EC2-2023-1827,Image SLES15-SP4-HPC-BYOS-GCE-2023-1827,Image SLES15-SP4-HPC-EC2-2023-1827,Image SLES15-SP4-HPC-GCE-2023-1827,Image SLES15-SP4-Hardened-BYOS-2023-1827,Image SLES15-SP4-Hardened-BYOS-Azure-2023-1827,Image SLES15-SP4-Hardened-BYOS-EC2-2023-1827,Image SLES15-SP4-Hardened-BYOS-GCE-2023-1827,Image SLES15-SP4-Micro-5-3-BYOS-2023-1827,Image SLES15-SP4-Micro-5-3-BYOS-Azure-2023-1827,Image SLES15-SP4-Micro-5-3-BYOS-EC2-2023-1827,Image SLES15-SP4-Micro-5-3-BYOS-GCE-2023-1827,Image SLES15-SP4-Micro-5-4-2023-1827,Image SLES15-SP4-Micro-5-4-Azure-2023-1827,Image SLES15-SP4-Micro-5-4-BYOS-2023-1827,Image SLES15-SP4-Micro-5-4-BYOS-Azure-2023-1827,Image SLES15-SP4-Micro-5-4-BYOS-EC2-2023-1827,Image SLES15-SP4-Micro-5-4-BYOS-GCE-2023-1827,Image SLES15-SP4-Micro-5-4-EC2-2023-1827,Image SLES15-SP4-Micro-5-4-GCE-2023-1827,Image SLES15-SP4-SAP-2023-1827,Image SLES15-SP4-SAP-BYOS-2023-1827,Image SLES15-SP4-SAP-BYOS-Azure-2023-1827,Image SLES15-SP4-SAP-BYOS-EC2-2023-1827,Image SLES15-SP4-SAP-EC2-2023-1827,Image SLES15-SP4-SAP-Hardened-2023-1827,Image SLES15-SP4-SAP-Hardened-EC2-2023-1827,Image SLES15-SP4-SAPCAL-2023-1827,Image SLES15-SP4-SAPCAL-EC2-2023-1827,SUSE-2023-1827,SUSE-SLE-Micro-5.3-2023-1827,SUSE-SLE-Micro-5.4-2023-1827,SUSE-SLE-Module-Containers-15-SP4-2023-1827,SUSE-SUSE-MicroOS-5.1-2023-1827,SUSE-SUSE-MicroOS-5.2-2023-1827,openSUSE-Leap-Micro-5.3-2023-1827,openSUSE-SLE-15.4-2023-1827",
       "Title": "Patchnames",
       "Type": "Details"
     }
@@ -45,12 +45,22 @@
       },
       {
         "ProductReference": "containerd-1.6.19-150000.87.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "containerd-1.6.19-150000.87.1",
         "RelatesToProductReference": "Image SLES15-SP3-Micro-5-1-BYOS-GCE",
         "RelationType": "Default Component Of"
       },
       {
         "ProductReference": "containerd-1.6.19-150000.87.1",
         "RelatesToProductReference": "Image SLES15-SP3-Micro-5-2-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "containerd-1.6.19-150000.87.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM",
         "RelationType": "Default Component Of"
       },
       {
@@ -86,6 +96,66 @@
       {
         "ProductReference": "containerd-1.6.19-150000.87.1",
         "RelatesToProductReference": "Image SLES15-SP4-BYOS-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "containerd-1.6.19-150000.87.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "containerd-ctr-1.6.19-150000.87.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "containerd-1.6.19-150000.87.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS-Aliyun",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "containerd-ctr-1.6.19-150000.87.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS-Aliyun",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "containerd-1.6.19-150000.87.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "containerd-ctr-1.6.19-150000.87.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "containerd-1.6.19-150000.87.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "containerd-ctr-1.6.19-150000.87.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "containerd-1.6.19-150000.87.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "containerd-ctr-1.6.19-150000.87.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "containerd-1.6.19-150000.87.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS-SAP-CCloud",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "containerd-ctr-1.6.19-150000.87.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS-SAP-CCloud",
         "RelationType": "Default Component Of"
       },
       {
@@ -245,6 +315,16 @@
       },
       {
         "ProductReference": "containerd-1.6.19-150000.87.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "containerd-1.6.19-150000.87.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "containerd-1.6.19-150000.87.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAPCAL",
         "RelationType": "Default Component Of"
       },
@@ -360,14 +440,28 @@
           "Type": "Fixed",
           "ProductID": [
             "Image SLES15-SP3-Micro-5-1-BYOS-Azure:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP3-Micro-5-1-BYOS-GCE:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP3-Micro-5-2-BYOS-Azure:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP3-Micro-5-2-BYOS-GCE:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-Azure-Basic:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-Azure-Standard:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-BYOS-Azure:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-BYOS-EC2:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-BYOS:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-Aliyun:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-Aliyun:containerd-ctr-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-Azure:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-Azure:containerd-ctr-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-EC2:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-EC2:containerd-ctr-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-GCE:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-GCE:containerd-ctr-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-SAP-CCloud:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-SAP-CCloud:containerd-ctr-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS:containerd-ctr-1.6.19-150000.87.1",
             "Image SLES15-SP4-EC2-ECS-HVM:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-EC2:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-HPC-Azure:containerd-1.6.19-150000.87.1",
@@ -398,6 +492,8 @@
             "Image SLES15-SP4-SAP-BYOS-EC2:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-SAP-BYOS:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-SAP-EC2:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-SAP-Hardened-EC2:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-SAP-Hardened:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-SAP:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-SAPCAL-EC2:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-SAPCAL:containerd-1.6.19-150000.87.1",
@@ -441,14 +537,28 @@
           "Type": "Fixed",
           "ProductID": [
             "Image SLES15-SP3-Micro-5-1-BYOS-Azure:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP3-Micro-5-1-BYOS-GCE:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP3-Micro-5-2-BYOS-Azure:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP3-Micro-5-2-BYOS-GCE:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-Azure-Basic:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-Azure-Standard:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-BYOS-Azure:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-BYOS-EC2:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-BYOS:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-Aliyun:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-Aliyun:containerd-ctr-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-Azure:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-Azure:containerd-ctr-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-EC2:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-EC2:containerd-ctr-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-GCE:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-GCE:containerd-ctr-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-SAP-CCloud:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS-SAP-CCloud:containerd-ctr-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-CHOST-BYOS:containerd-ctr-1.6.19-150000.87.1",
             "Image SLES15-SP4-EC2-ECS-HVM:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-EC2:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-HPC-Azure:containerd-1.6.19-150000.87.1",
@@ -479,6 +589,8 @@
             "Image SLES15-SP4-SAP-BYOS-EC2:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-SAP-BYOS:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-SAP-EC2:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-SAP-Hardened-EC2:containerd-1.6.19-150000.87.1",
+            "Image SLES15-SP4-SAP-Hardened:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-SAP:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-SAPCAL-EC2:containerd-1.6.19-150000.87.1",
             "Image SLES15-SP4-SAPCAL:containerd-1.6.19-150000.87.1",

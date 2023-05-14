@@ -31,13 +31,43 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "SUSE-2023-2135,SUSE-SLE-Module-Basesystem-15-SP4-2023-2135,openSUSE-SLE-15.4-2023-2135",
+      "Text": "Image SLES15-SP4-CHOST-BYOS-2023-2135,Image SLES15-SP4-CHOST-BYOS-Aliyun-2023-2135,Image SLES15-SP4-CHOST-BYOS-Azure-2023-2135,Image SLES15-SP4-CHOST-BYOS-EC2-2023-2135,Image SLES15-SP4-CHOST-BYOS-GCE-2023-2135,Image SLES15-SP4-CHOST-BYOS-SAP-CCloud-2023-2135,SUSE-2023-2135,SUSE-SLE-Module-Basesystem-15-SP4-2023-2135,openSUSE-SLE-15.4-2023-2135",
       "Title": "Patchnames",
       "Type": "Details"
     }
   ],
   "ProductTree": {
     "Relationships": [
+      {
+        "ProductReference": "libfastjson4-0.99.9-150400.3.3.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libfastjson4-0.99.9-150400.3.3.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS-Aliyun",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libfastjson4-0.99.9-150400.3.3.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libfastjson4-0.99.9-150400.3.3.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libfastjson4-0.99.9-150400.3.3.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libfastjson4-0.99.9-150400.3.3.1",
+        "RelatesToProductReference": "Image SLES15-SP4-CHOST-BYOS-SAP-CCloud",
+        "RelationType": "Default Component Of"
+      },
       {
         "ProductReference": "libfastjson-devel-0.99.9-150400.3.3.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Module for Basesystem 15 SP4",
@@ -110,6 +140,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES15-SP4-CHOST-BYOS-Aliyun:libfastjson4-0.99.9-150400.3.3.1",
+            "Image SLES15-SP4-CHOST-BYOS-Azure:libfastjson4-0.99.9-150400.3.3.1",
+            "Image SLES15-SP4-CHOST-BYOS-EC2:libfastjson4-0.99.9-150400.3.3.1",
+            "Image SLES15-SP4-CHOST-BYOS-GCE:libfastjson4-0.99.9-150400.3.3.1",
+            "Image SLES15-SP4-CHOST-BYOS-SAP-CCloud:libfastjson4-0.99.9-150400.3.3.1",
+            "Image SLES15-SP4-CHOST-BYOS:libfastjson4-0.99.9-150400.3.3.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP4:libfastjson-devel-0.99.9-150400.3.3.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP4:libfastjson4-0.99.9-150400.3.3.1",
             "openSUSE Leap 15.4:libfastjson-devel-0.99.9-150400.3.3.1",

@@ -294,11 +294,6 @@
         "RelationType": "Default Component Of"
       },
       {
-        "ProductReference": "python3-3.6.15-150300.10.37.2",
-        "RelatesToProductReference": "Container suse/sles/15.5/virt-launcher:0.58.0",
-        "RelationType": "Default Component Of"
-      },
-      {
         "ProductReference": "python3-base-3.6.15-150300.10.37.2",
         "RelatesToProductReference": "Container suse/sles/15.5/virt-launcher:0.58.0",
         "RelationType": "Default Component Of"
@@ -2462,7 +2457,6 @@
             "Container suse/sles/15.5/virt-handler:0.58.0:libpython3_6m1_0-3.6.15-150300.10.37.2",
             "Container suse/sles/15.5/virt-handler:0.58.0:python3-base-3.6.15-150300.10.37.2",
             "Container suse/sles/15.5/virt-launcher:0.58.0:libpython3_6m1_0-3.6.15-150300.10.37.2",
-            "Container suse/sles/15.5/virt-launcher:0.58.0:python3-3.6.15-150300.10.37.2",
             "Container suse/sles/15.5/virt-launcher:0.58.0:python3-base-3.6.15-150300.10.37.2",
             "Image SLES15-SP3-CHOST-BYOS-Aliyun:libpython3_6m1_0-3.6.15-150300.10.37.2",
             "Image SLES15-SP3-CHOST-BYOS-Aliyun:python3-3.6.15-150300.10.37.2",
@@ -2971,7 +2965,6 @@
             "Container suse/sles/15.5/virt-handler:0.58.0:libpython3_6m1_0-3.6.15-150300.10.37.2",
             "Container suse/sles/15.5/virt-handler:0.58.0:python3-base-3.6.15-150300.10.37.2",
             "Container suse/sles/15.5/virt-launcher:0.58.0:libpython3_6m1_0-3.6.15-150300.10.37.2",
-            "Container suse/sles/15.5/virt-launcher:0.58.0:python3-3.6.15-150300.10.37.2",
             "Container suse/sles/15.5/virt-launcher:0.58.0:python3-base-3.6.15-150300.10.37.2",
             "Image SLES15-SP3-CHOST-BYOS-Aliyun:libpython3_6m1_0-3.6.15-150300.10.37.2",
             "Image SLES15-SP3-CHOST-BYOS-Aliyun:python3-3.6.15-150300.10.37.2",
@@ -3460,7 +3453,6 @@
             "Container suse/sles/15.5/virt-handler:0.58.0:libpython3_6m1_0-3.6.15-150300.10.37.2",
             "Container suse/sles/15.5/virt-handler:0.58.0:python3-base-3.6.15-150300.10.37.2",
             "Container suse/sles/15.5/virt-launcher:0.58.0:libpython3_6m1_0-3.6.15-150300.10.37.2",
-            "Container suse/sles/15.5/virt-launcher:0.58.0:python3-3.6.15-150300.10.37.2",
             "Container suse/sles/15.5/virt-launcher:0.58.0:python3-base-3.6.15-150300.10.37.2",
             "Image SLES15-SP3-CHOST-BYOS-Aliyun:libpython3_6m1_0-3.6.15-150300.10.37.2",
             "Image SLES15-SP3-CHOST-BYOS-Aliyun:python3-3.6.15-150300.10.37.2",
@@ -3957,7 +3949,6 @@
             "Container suse/sles/15.5/virt-handler:0.58.0:libpython3_6m1_0-3.6.15-150300.10.37.2",
             "Container suse/sles/15.5/virt-handler:0.58.0:python3-base-3.6.15-150300.10.37.2",
             "Container suse/sles/15.5/virt-launcher:0.58.0:libpython3_6m1_0-3.6.15-150300.10.37.2",
-            "Container suse/sles/15.5/virt-launcher:0.58.0:python3-3.6.15-150300.10.37.2",
             "Container suse/sles/15.5/virt-launcher:0.58.0:python3-base-3.6.15-150300.10.37.2",
             "Image SLES15-SP3-CHOST-BYOS-Aliyun:libpython3_6m1_0-3.6.15-150300.10.37.2",
             "Image SLES15-SP3-CHOST-BYOS-Aliyun:python3-3.6.15-150300.10.37.2",

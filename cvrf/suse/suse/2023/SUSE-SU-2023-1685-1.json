@@ -31,7 +31,7 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "Image SLES15-SP4-SAP-BYOS-2023-1685,Image SLES15-SP4-SAP-BYOS-Azure-2023-1685,Image SLES15-SP4-SAP-BYOS-EC2-2023-1685,SUSE-2023-1685,SUSE-SLE-Product-HA-15-SP1-2023-1685,SUSE-SLE-Product-HA-15-SP2-2023-1685,SUSE-SLE-Product-HA-15-SP3-2023-1685,SUSE-SLE-Product-HA-15-SP4-2023-1685,openSUSE-SLE-15.4-2023-1685",
+      "Text": "Image SLES15-SP4-SAP-BYOS-2023-1685,Image SLES15-SP4-SAP-BYOS-Azure-2023-1685,Image SLES15-SP4-SAP-BYOS-EC2-2023-1685,Image SLES15-SP4-SAP-Hardened-2023-1685,Image SLES15-SP4-SAP-Hardened-EC2-2023-1685,SUSE-2023-1685,SUSE-SLE-Product-HA-15-SP1-2023-1685,SUSE-SLE-Product-HA-15-SP2-2023-1685,SUSE-SLE-Product-HA-15-SP3-2023-1685,SUSE-SLE-Product-HA-15-SP4-2023-1685,openSUSE-SLE-15.4-2023-1685",
       "Title": "Patchnames",
       "Type": "Details"
     }
@@ -51,6 +51,16 @@
       {
         "ProductReference": "ruby2.5-rubygem-rack-2.0.8-150000.3.18.1",
         "RelatesToProductReference": "Image SLES15-SP4-SAP-BYOS-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ruby2.5-rubygem-rack-2.0.8-150000.3.18.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ruby2.5-rubygem-rack-2.0.8-150000.3.18.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-EC2",
         "RelationType": "Default Component Of"
       },
       {
@@ -139,6 +149,8 @@
             "Image SLES15-SP4-SAP-BYOS-Azure:ruby2.5-rubygem-rack-2.0.8-150000.3.18.1",
             "Image SLES15-SP4-SAP-BYOS-EC2:ruby2.5-rubygem-rack-2.0.8-150000.3.18.1",
             "Image SLES15-SP4-SAP-BYOS:ruby2.5-rubygem-rack-2.0.8-150000.3.18.1",
+            "Image SLES15-SP4-SAP-Hardened-EC2:ruby2.5-rubygem-rack-2.0.8-150000.3.18.1",
+            "Image SLES15-SP4-SAP-Hardened:ruby2.5-rubygem-rack-2.0.8-150000.3.18.1",
             "SUSE Linux Enterprise High Availability Extension 15 SP1:ruby2.5-rubygem-rack-2.0.8-150000.3.18.1",
             "SUSE Linux Enterprise High Availability Extension 15 SP2:ruby2.5-rubygem-rack-2.0.8-150000.3.18.1",
             "SUSE Linux Enterprise High Availability Extension 15 SP3:ruby2.5-rubygem-rack-2.0.8-150000.3.18.1",
