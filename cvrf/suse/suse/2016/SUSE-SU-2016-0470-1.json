@@ -228,6 +228,10 @@
         {
           "URL": "https://bugzilla.suse.com/830257",
           "Description": "SUSE Bug 830257"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/979109",
+          "Description": "SUSE Bug 979109"
         }
       ],
       "ProductStatuses": [
@@ -260,7 +264,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -419,6 +423,10 @@
         {
           "URL": "https://bugzilla.suse.com/927080",
           "Description": "SUSE Bug 927080"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/979109",
+          "Description": "SUSE Bug 979109"
         }
       ],
       "ProductStatuses": [
