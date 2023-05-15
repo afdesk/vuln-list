@@ -120,7 +120,7 @@
                 "Criterions": [
                   {
                     "Comment": "Module python36:3.6 is enabled",
-                    "TestRef": "oval:com.redhat.cve:tst:20074559089"
+                    "TestRef": "oval:com.redhat.cve:tst:20074559083"
                   }
                 ],
                 "Criterias": [
@@ -136,7 +136,7 @@
                           },
                           {
                             "Comment": "python-nose-docs is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559020"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559066"
                           }
                         ]
                       },
@@ -149,7 +149,7 @@
                           },
                           {
                             "Comment": "python-pymongo-doc is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559068"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559038"
                           }
                         ]
                       },
@@ -175,7 +175,7 @@
                           },
                           {
                             "Comment": "python-virtualenv-doc is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559040"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559072"
                           }
                         ]
                       },
@@ -188,7 +188,7 @@
                           },
                           {
                             "Comment": "python3-PyMySQL is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559052"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559026"
                           }
                         ]
                       },
@@ -201,7 +201,7 @@
                           },
                           {
                             "Comment": "python3-bson is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559066"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559074"
                           }
                         ]
                       },
@@ -214,7 +214,7 @@
                           },
                           {
                             "Comment": "python3-distro is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559062"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559068"
                           }
                         ]
                       },
@@ -240,7 +240,7 @@
                           },
                           {
                             "Comment": "python3-docutils is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559074"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559058"
                           }
                         ]
                       },
@@ -253,7 +253,7 @@
                           },
                           {
                             "Comment": "python3-nose is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559050"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559062"
                           }
                         ]
                       },
@@ -266,7 +266,7 @@
                           },
                           {
                             "Comment": "python3-pygments is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559032"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559044"
                           }
                         ]
                       },
@@ -279,7 +279,7 @@
                           },
                           {
                             "Comment": "python3-pymongo is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559078"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559054"
                           }
                         ]
                       },
@@ -292,7 +292,7 @@
                           },
                           {
                             "Comment": "python3-pymongo-gridfs is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559072"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559032"
                           }
                         ]
                       },
@@ -305,7 +305,7 @@
                           },
                           {
                             "Comment": "python3-scipy is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559080"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559060"
                           }
                         ]
                       },
@@ -318,7 +318,7 @@
                           },
                           {
                             "Comment": "python3-sqlalchemy is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559038"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559080"
                           }
                         ]
                       },
@@ -331,7 +331,7 @@
                           },
                           {
                             "Comment": "python3-virtualenv is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559026"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559022"
                           }
                         ]
                       },
@@ -344,7 +344,7 @@
                           },
                           {
                             "Comment": "python3-wheel is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559044"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559050"
                           }
                         ]
                       },
@@ -357,7 +357,7 @@
                           },
                           {
                             "Comment": "python3-wheel-wheel is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559076"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559018"
                           }
                         ]
                       },
@@ -370,7 +370,7 @@
                           },
                           {
                             "Comment": "python36 is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559086"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559028"
                           }
                         ]
                       },
@@ -383,7 +383,7 @@
                           },
                           {
                             "Comment": "python36-debug is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559042"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559056"
                           }
                         ]
                       },
@@ -396,7 +396,7 @@
                           },
                           {
                             "Comment": "python36-devel is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559084"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559070"
                           }
                         ]
                       },
@@ -409,7 +409,7 @@
                           },
                           {
                             "Comment": "python36-rpm-macros is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559036"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559052"
                           }
                         ]
                       }

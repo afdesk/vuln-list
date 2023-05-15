@@ -8,157 +8,157 @@
     {
       "ID": "oval:com.redhat.cve:obj:20074559001",
       "Version": "636",
-      "Name": "platform-python"
+      "Name": "python3"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559002",
       "Version": "636",
-      "Name": "python3-idle"
+      "Name": "platform-python"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559003",
       "Version": "636",
-      "Name": "platform-python-devel"
+      "Name": "python3-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559004",
       "Version": "636",
-      "Name": "python3-tkinter"
+      "Name": "python3-idle"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559005",
       "Version": "636",
-      "Name": "python3-test"
+      "Name": "platform-python-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559006",
       "Version": "636",
-      "Name": "platform-python-debug"
+      "Name": "python3-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559007",
       "Version": "636",
-      "Name": "python3-debugsource"
+      "Name": "platform-python-debug"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559008",
       "Version": "636",
-      "Name": "python3"
+      "Name": "python3-tkinter"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559009",
       "Version": "636",
-      "Name": "python3-libs"
+      "Name": "python3-wheel-wheel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559010",
       "Version": "636",
-      "Name": "python-nose-docs"
+      "Name": "python-pymongo"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559011",
       "Version": "636",
-      "Name": "python-wheel"
+      "Name": "python3-virtualenv"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559012",
       "Version": "636",
-      "Name": "python-virtualenv"
+      "Name": "python-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559013",
       "Version": "636",
-      "Name": "python3-virtualenv"
+      "Name": "python3-PyMySQL"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559014",
       "Version": "636",
-      "Name": "python-pygments"
+      "Name": "python36"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559015",
       "Version": "636",
-      "Name": "scipy"
+      "Name": "python-nose"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559016",
       "Version": "636",
-      "Name": "python3-pygments"
+      "Name": "python3-pymongo-gridfs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559017",
       "Version": "636",
-      "Name": "python-docutils"
+      "Name": "python-PyMySQL"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559018",
       "Version": "636",
-      "Name": "python36-rpm-macros"
+      "Name": "python-sqlalchemy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559019",
       "Version": "636",
-      "Name": "python3-sqlalchemy"
+      "Name": "python-pymongo-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559020",
       "Version": "636",
-      "Name": "python-virtualenv-doc"
+      "Name": "python-wheel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559021",
       "Version": "636",
-      "Name": "python36-debug"
+      "Name": "python-virtualenv"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559022",
       "Version": "636",
-      "Name": "python3-wheel"
+      "Name": "python3-pygments"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559023",
       "Version": "636",
-      "Name": "python-distro"
+      "Name": "python-docutils"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559024",
       "Version": "636",
-      "Name": "scipy-debugsource"
+      "Name": "scipy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559025",
       "Version": "636",
-      "Name": "python3-nose"
+      "Name": "python3-wheel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559026",
       "Version": "636",
-      "Name": "python3-PyMySQL"
+      "Name": "python36-rpm-macros"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559027",
       "Version": "636",
-      "Name": "python-pymongo-debugsource"
+      "Name": "python3-pymongo"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559028",
       "Version": "636",
-      "Name": "python-pymongo"
+      "Name": "python36-debug"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559029",
       "Version": "636",
-      "Name": "python-nose"
+      "Name": "python3-docutils"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559030",
       "Version": "636",
-      "Name": "python-sqlalchemy"
+      "Name": "python3-scipy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559031",
       "Version": "636",
-      "Name": "python3-distro"
+      "Name": "python3-nose"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559032",
@@ -168,42 +168,42 @@
     {
       "ID": "oval:com.redhat.cve:obj:20074559033",
       "Version": "636",
-      "Name": "python3-bson"
+      "Name": "python-nose-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559034",
       "Version": "636",
-      "Name": "python-pymongo-doc"
+      "Name": "python3-distro"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559035",
       "Version": "636",
-      "Name": "python-PyMySQL"
+      "Name": "python36-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559036",
       "Version": "636",
-      "Name": "python3-pymongo-gridfs"
+      "Name": "python-virtualenv-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559037",
       "Version": "636",
-      "Name": "python3-docutils"
+      "Name": "python3-bson"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559038",
       "Version": "636",
-      "Name": "python3-wheel-wheel"
+      "Name": "python-distro"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559039",
       "Version": "636",
-      "Name": "python3-pymongo"
+      "Name": "python-pygments"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559040",
       "Version": "636",
-      "Name": "python3-scipy"
+      "Name": "python3-sqlalchemy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559041",
@@ -211,34 +211,34 @@
       "Name": "python3-docs"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559042",
-      "Version": "636",
-      "Name": "python36-devel"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20074559043",
       "Version": "636",
-      "Name": "python36"
+      "Name": "python2-debug"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559044",
       "Version": "636",
-      "Name": "python-docs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559046",
-      "Version": "636",
       "Name": "python2-tkinter"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559047",
+      "ID": "oval:com.redhat.cve:obj:20074559045",
       "Version": "636",
       "Name": "python2-libs"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20074559046",
+      "Version": "636",
+      "Name": "python2-test"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559047",
+      "Version": "636",
+      "Name": "python2-tools"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20074559048",
       "Version": "636",
-      "Name": "python2-debugsource"
+      "Name": "python2-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559049",
@@ -246,209 +246,209 @@
       "Name": "python2"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559050",
-      "Version": "636",
-      "Name": "python2-tools"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20074559051",
       "Version": "636",
-      "Name": "python2-debug"
+      "Name": "python-jinja2"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559052",
       "Version": "636",
-      "Name": "python2-devel"
+      "Name": "python-cryptography"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559053",
       "Version": "636",
-      "Name": "python2-test"
+      "Name": "python38-PyMySQL"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559055",
-      "Version": "636",
-      "Name": "python38-pyyaml"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559056",
-      "Version": "636",
-      "Name": "python-chardet"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559057",
-      "Version": "636",
-      "Name": "python-asn1crypto"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559058",
-      "Version": "636",
-      "Name": "python38-urllib3"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559059",
-      "Version": "636",
-      "Name": "python-markupsafe-debugsource"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559060",
-      "Version": "636",
-      "Name": "python38"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559061",
-      "Version": "636",
-      "Name": "python-requests"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559062",
-      "Version": "636",
-      "Name": "python38-lxml"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559063",
-      "Version": "636",
-      "Name": "PyYAML"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559064",
-      "Version": "636",
-      "Name": "python38-idna"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559065",
-      "Version": "636",
-      "Name": "python-markupsafe"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559066",
+      "ID": "oval:com.redhat.cve:obj:20074559054",
       "Version": "636",
       "Name": "python38-psutil"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559067",
+      "ID": "oval:com.redhat.cve:obj:20074559055",
       "Version": "636",
-      "Name": "python38-pycparser"
+      "Name": "python-six"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559068",
-      "Version": "636",
-      "Name": "python-psutil-debugsource"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559069",
-      "Version": "636",
-      "Name": "python38-setuptools"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559070",
-      "Version": "636",
-      "Name": "python38-PyMySQL"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559071",
-      "Version": "636",
-      "Name": "python38-pytz"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559072",
-      "Version": "636",
-      "Name": "python38-pysocks"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559073",
-      "Version": "636",
-      "Name": "python38-numpy-doc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559074",
-      "Version": "636",
-      "Name": "python-cffi"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559075",
-      "Version": "636",
-      "Name": "python-urllib3"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559076",
-      "Version": "636",
-      "Name": "python38-ply"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559077",
-      "Version": "636",
-      "Name": "python-pycparser"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559078",
-      "Version": "636",
-      "Name": "python3x-pip"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559079",
-      "Version": "636",
-      "Name": "python38-numpy"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559080",
-      "Version": "636",
-      "Name": "python38-Cython"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559081",
-      "Version": "636",
-      "Name": "python38-requests"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559082",
-      "Version": "636",
-      "Name": "babel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559083",
-      "Version": "636",
-      "Name": "python-ply"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559084",
-      "Version": "636",
-      "Name": "python38-mod_wsgi"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559085",
-      "Version": "636",
-      "Name": "python38-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559086",
+      "ID": "oval:com.redhat.cve:obj:20074559056",
       "Version": "636",
       "Name": "python38-cryptography"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559087",
+      "ID": "oval:com.redhat.cve:obj:20074559057",
       "Version": "636",
-      "Name": "python38-setuptools-wheel"
+      "Name": "python38-lxml"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559088",
+      "ID": "oval:com.redhat.cve:obj:20074559058",
+      "Version": "636",
+      "Name": "python38-babel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559059",
       "Version": "636",
       "Name": "mod_wsgi"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559089",
+      "ID": "oval:com.redhat.cve:obj:20074559060",
       "Version": "636",
-      "Name": "numpy-debugsource"
+      "Name": "python38-wheel-wheel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559090",
+      "ID": "oval:com.redhat.cve:obj:20074559061",
+      "Version": "636",
+      "Name": "python3x-six"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559062",
+      "Version": "636",
+      "Name": "python38-setuptools"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559063",
+      "Version": "636",
+      "Name": "python38-cffi"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559064",
+      "Version": "636",
+      "Name": "python38-pycparser"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559065",
       "Version": "636",
       "Name": "python38-markupsafe"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20074559066",
+      "Version": "636",
+      "Name": "python38-pysocks"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559067",
+      "Version": "636",
+      "Name": "PyYAML"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559068",
+      "Version": "636",
+      "Name": "python-psutil"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559069",
+      "Version": "636",
+      "Name": "python38-idna"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559070",
+      "Version": "636",
+      "Name": "python38-setuptools-wheel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559071",
+      "Version": "636",
+      "Name": "python3x-setuptools"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559072",
+      "Version": "636",
+      "Name": "numpy"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559073",
+      "Version": "636",
+      "Name": "python-pycparser"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559074",
+      "Version": "636",
+      "Name": "python38-rpm-macros"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559075",
+      "Version": "636",
+      "Name": "python38-jinja2"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559076",
+      "Version": "636",
+      "Name": "python-markupsafe"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559077",
+      "Version": "636",
+      "Name": "python38-chardet"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559078",
+      "Version": "636",
+      "Name": "python-lxml"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559079",
+      "Version": "636",
+      "Name": "python38-numpy-f2py"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559080",
+      "Version": "636",
+      "Name": "python38-idle"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559081",
+      "Version": "636",
+      "Name": "python38-scipy"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559082",
+      "Version": "636",
+      "Name": "python38-wheel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559083",
+      "Version": "636",
+      "Name": "python38-requests"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559084",
+      "Version": "636",
+      "Name": "python38-six"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559085",
+      "Version": "636",
+      "Name": "python-cffi"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559086",
+      "Version": "636",
+      "Name": "python-asn1crypto"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559087",
+      "Version": "636",
+      "Name": "python38-numpy-doc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559088",
+      "Version": "636",
+      "Name": "python-urllib3"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559089",
+      "Version": "636",
+      "Name": "python38"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559090",
+      "Version": "636",
+      "Name": "python-pysocks"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20074559091",
       "Version": "636",
-      "Name": "python-lxml-debugsource"
+      "Name": "python38-pyyaml"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559092",
@@ -458,387 +458,312 @@
     {
       "ID": "oval:com.redhat.cve:obj:20074559093",
       "Version": "636",
-      "Name": "python38-pip-wheel"
+      "Name": "python38-psycopg2-tests"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559094",
       "Version": "636",
-      "Name": "python38-scipy"
+      "Name": "python38-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559095",
       "Version": "636",
-      "Name": "python-cryptography"
+      "Name": "python38-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559096",
       "Version": "636",
-      "Name": "python-psycopg2-debugsource"
+      "Name": "python38-pytz"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559097",
       "Version": "636",
-      "Name": "python38-wheel-wheel"
+      "Name": "python-requests"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559098",
       "Version": "636",
-      "Name": "python-six"
+      "Name": "babel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559099",
       "Version": "636",
-      "Name": "python38-cffi"
+      "Name": "python38-pip-wheel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559100",
       "Version": "636",
-      "Name": "python3x-six"
+      "Name": "python-chardet"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559101",
       "Version": "636",
-      "Name": "Cython"
+      "Name": "python38-urllib3"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559102",
       "Version": "636",
-      "Name": "python38-asn1crypto"
+      "Name": "python38-debug"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559103",
       "Version": "636",
-      "Name": "Cython-debugsource"
+      "Name": "python38-pip"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559104",
       "Version": "636",
-      "Name": "python-psutil"
+      "Name": "python38-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559105",
       "Version": "636",
-      "Name": "python38-debug"
+      "Name": "python38-tkinter"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559106",
       "Version": "636",
-      "Name": "python38-test"
+      "Name": "python-ply"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559107",
       "Version": "636",
-      "Name": "python-jinja2"
+      "Name": "python38-asn1crypto"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559108",
       "Version": "636",
-      "Name": "python38-rpm-macros"
+      "Name": "pytz"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559109",
       "Version": "636",
-      "Name": "python38-pip"
+      "Name": "Cython"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559110",
       "Version": "636",
-      "Name": "python-cryptography-debugsource"
+      "Name": "python38-ply"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559111",
       "Version": "636",
-      "Name": "python38-libs"
+      "Name": "python-psycopg2"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559112",
       "Version": "636",
-      "Name": "python38-six"
+      "Name": "python38-mod_wsgi"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559113",
       "Version": "636",
-      "Name": "pytz"
+      "Name": "python3x-pip"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559114",
       "Version": "636",
-      "Name": "python38-debugsource"
+      "Name": "python38-Cython"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559115",
       "Version": "636",
-      "Name": "python38-numpy-f2py"
+      "Name": "python-idna"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559116",
       "Version": "636",
-      "Name": "python38-tkinter"
+      "Name": "python38-psycopg2-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559117",
       "Version": "636",
-      "Name": "python38-jinja2"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559118",
-      "Version": "636",
-      "Name": "python38-psycopg2-doc"
+      "Name": "python38-numpy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559119",
       "Version": "636",
-      "Name": "python-cffi-debugsource"
+      "Name": "python39-pip-wheel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559120",
       "Version": "636",
-      "Name": "python-psycopg2"
+      "Name": "python39-psutil"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559121",
       "Version": "636",
-      "Name": "python-idna"
+      "Name": "python39-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559122",
       "Version": "636",
-      "Name": "PyYAML-debugsource"
+      "Name": "python39-chardet"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559123",
       "Version": "636",
-      "Name": "numpy"
+      "Name": "python39-idle"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559124",
       "Version": "636",
-      "Name": "python38-idle"
+      "Name": "python39-idna"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559125",
       "Version": "636",
-      "Name": "python38-babel"
+      "Name": "python39-pysocks"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559126",
       "Version": "636",
-      "Name": "python38-psycopg2-tests"
+      "Name": "python39-cffi"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559127",
       "Version": "636",
-      "Name": "python-pysocks"
+      "Name": "python-toml"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559128",
       "Version": "636",
-      "Name": "python3x-setuptools"
+      "Name": "python39-cryptography"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559129",
       "Version": "636",
-      "Name": "python38-chardet"
+      "Name": "python39-tkinter"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559130",
       "Version": "636",
-      "Name": "python-lxml"
+      "Name": "python39-ply"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559131",
       "Version": "636",
-      "Name": "python38-wheel"
+      "Name": "python39-numpy-doc"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559133",
-      "Version": "636",
-      "Name": "python39-psycopg2-doc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559134",
-      "Version": "636",
-      "Name": "python39-test"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559135",
-      "Version": "636",
-      "Name": "python39-toml"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559136",
+      "ID": "oval:com.redhat.cve:obj:20074559132",
       "Version": "636",
       "Name": "python39-setuptools"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559137",
-      "Version": "636",
-      "Name": "python39-psycopg2"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559138",
-      "Version": "636",
-      "Name": "python39-numpy-f2py"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559139",
+      "ID": "oval:com.redhat.cve:obj:20074559133",
       "Version": "636",
       "Name": "python39-wheel-wheel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559140",
+      "ID": "oval:com.redhat.cve:obj:20074559134",
       "Version": "636",
-      "Name": "python39-devel"
+      "Name": "python39-psycopg2"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559141",
-      "Version": "636",
-      "Name": "python39-setuptools-wheel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559142",
-      "Version": "636",
-      "Name": "python39-six"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559143",
-      "Version": "636",
-      "Name": "python39-numpy-doc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559144",
-      "Version": "636",
-      "Name": "python39-lxml"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559145",
-      "Version": "636",
-      "Name": "python39-cffi"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559146",
-      "Version": "636",
-      "Name": "python39-idna"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559147",
-      "Version": "636",
-      "Name": "python39-pip-wheel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559148",
-      "Version": "636",
-      "Name": "python39-psutil"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559149",
-      "Version": "636",
-      "Name": "python39-tkinter"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559150",
-      "Version": "636",
-      "Name": "python39-pycparser"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559151",
-      "Version": "636",
-      "Name": "python-toml"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559152",
-      "Version": "636",
-      "Name": "python39"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559153",
-      "Version": "636",
-      "Name": "python39-numpy"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559154",
-      "Version": "636",
-      "Name": "python39-chardet"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559155",
-      "Version": "636",
-      "Name": "python39-ply"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559156",
-      "Version": "636",
-      "Name": "python39-pyyaml"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559157",
-      "Version": "636",
-      "Name": "python39-psycopg2-tests"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559158",
-      "Version": "636",
-      "Name": "python39-pysocks"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559159",
-      "Version": "636",
-      "Name": "python39-cryptography"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559160",
-      "Version": "636",
-      "Name": "python39-wheel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559161",
-      "Version": "636",
-      "Name": "python39-mod_wsgi"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559162",
-      "Version": "636",
-      "Name": "python39-PyMySQL"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559163",
+      "ID": "oval:com.redhat.cve:obj:20074559135",
       "Version": "636",
       "Name": "python39-pip"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559164",
-      "Version": "636",
-      "Name": "python39-requests"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20074559165",
+      "ID": "oval:com.redhat.cve:obj:20074559136",
       "Version": "636",
       "Name": "python39-rpm-macros"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559166",
+      "ID": "oval:com.redhat.cve:obj:20074559137",
       "Version": "636",
-      "Name": "python39-libs"
+      "Name": "python39-lxml"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559167",
+      "ID": "oval:com.redhat.cve:obj:20074559138",
       "Version": "636",
-      "Name": "python39-urllib3"
+      "Name": "python39-mod_wsgi"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559168",
+      "ID": "oval:com.redhat.cve:obj:20074559139",
       "Version": "636",
-      "Name": "python39-debugsource"
+      "Name": "python39-numpy-f2py"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559169",
+      "ID": "oval:com.redhat.cve:obj:20074559140",
       "Version": "636",
       "Name": "python39-scipy"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559170",
+      "ID": "oval:com.redhat.cve:obj:20074559141",
       "Version": "636",
-      "Name": "python39-idle"
+      "Name": "python39-pyyaml"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559142",
+      "Version": "636",
+      "Name": "python39-wheel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559143",
+      "Version": "636",
+      "Name": "python39-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559144",
+      "Version": "636",
+      "Name": "python39-psycopg2-tests"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559145",
+      "Version": "636",
+      "Name": "python39-numpy"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559146",
+      "Version": "636",
+      "Name": "python39-psycopg2-doc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559147",
+      "Version": "636",
+      "Name": "python39-PyMySQL"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559148",
+      "Version": "636",
+      "Name": "python39-libs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559149",
+      "Version": "636",
+      "Name": "python39-six"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559150",
+      "Version": "636",
+      "Name": "python39-requests"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559151",
+      "Version": "636",
+      "Name": "python39-setuptools-wheel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559152",
+      "Version": "636",
+      "Name": "python39-urllib3"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559153",
+      "Version": "636",
+      "Name": "python39-toml"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559154",
+      "Version": "636",
+      "Name": "python39-pycparser"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20074559155",
+      "Version": "636",
+      "Name": "python39"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20091143001",
@@ -869,6 +794,16 @@
       "ID": "oval:com.redhat.cve:obj:201410402001",
       "Version": "636",
       "Name": "perl-DBI"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201520107008",
+      "Version": "636",
+      "Name": "python-pymongo-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201520107009",
+      "Version": "636",
+      "Name": "scipy-debugsource"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20158540001",
@@ -1089,6 +1024,11 @@
       "ID": "oval:com.redhat.cve:obj:201717840004",
       "Version": "636",
       "Name": "iscsi-initiator-utils-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201718342001",
+      "Version": "636",
+      "Name": "PyYAML-debugsource"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201718342004",
@@ -2459,6 +2399,11 @@
       "ID": "oval:com.redhat.cve:obj:201819787002",
       "Version": "636",
       "Name": "python3-lxml"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:201819787003",
+      "Version": "636",
+      "Name": "python-lxml-debugsource"
     },
     {
       "ID": "oval:com.redhat.cve:obj:201819826001",
@@ -4731,6 +4676,16 @@
       "Name": "mingw32-glib2"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20199674001",
+      "Version": "636",
+      "Name": "python3-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20199674047",
+      "Version": "636",
+      "Name": "python2-debugsource"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20199704001",
       "Version": "636",
       "Name": "cronie"
@@ -6054,6 +6009,11 @@
       "ID": "oval:com.redhat.cve:obj:202035738003",
       "Version": "636",
       "Name": "wavpack-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202036242001",
+      "Version": "636",
+      "Name": "python-cryptography-debugsource"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202036242002",
@@ -7649,6 +7609,46 @@
       "ID": "oval:com.redhat.cve:obj:202126291053",
       "Version": "636",
       "Name": "hawtjni"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202128861050",
+      "Version": "636",
+      "Name": "numpy-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202128861053",
+      "Version": "636",
+      "Name": "Cython-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202128861074",
+      "Version": "636",
+      "Name": "python-psutil-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202128861082",
+      "Version": "636",
+      "Name": "python-markupsafe-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202128861088",
+      "Version": "636",
+      "Name": "python-psycopg2-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202128861095",
+      "Version": "636",
+      "Name": "python-cffi-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202128861097",
+      "Version": "636",
+      "Name": "python38-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202128861132",
+      "Version": "636",
+      "Name": "python39-debugsource"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202128902001",
@@ -10716,24 +10716,29 @@
       "Name": "python3-configobj"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202326464003",
+      "ID": "oval:com.redhat.cve:obj:202326464001",
       "Version": "636",
       "Name": "slf4j-manual"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202326464002",
+      "Version": "636",
+      "Name": "slf4j-log4j12"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202326464003",
+      "Version": "636",
+      "Name": "jul-to-slf4j"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202326464004",
       "Version": "636",
-      "Name": "slf4j-jdk14"
+      "Name": "slf4j-ext"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464005",
       "Version": "636",
-      "Name": "slf4j-jcl"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202326464006",
-      "Version": "636",
-      "Name": "slf4j-ext"
+      "Name": "slf4j-jdk14"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464007",
@@ -10743,172 +10748,167 @@
     {
       "ID": "oval:com.redhat.cve:obj:202326464008",
       "Version": "636",
-      "Name": "slf4j-sources"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202326464009",
-      "Version": "636",
       "Name": "log4j-over-slf4j"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464010",
       "Version": "636",
-      "Name": "slf4j-log4j12"
+      "Name": "slf4j-jcl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464011",
       "Version": "636",
-      "Name": "jul-to-slf4j"
+      "Name": "slf4j-sources"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700001",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-nodedev"
+      "Name": "libvirt-daemon-driver-storage-rbd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700002",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage-core"
+      "Name": "libvirt-wireshark"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700003",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage-logical"
+      "Name": "libvirt-daemon-kvm"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700004",
       "Version": "636",
-      "Name": "libvirt-daemon"
+      "Name": "libvirt-bash-completion"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700005",
       "Version": "636",
-      "Name": "libvirt"
+      "Name": "libvirt-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700006",
       "Version": "636",
-      "Name": "libvirt-client"
+      "Name": "libvirt-daemon-driver-network"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700007",
       "Version": "636",
-      "Name": "libvirt-lock-sanlock"
+      "Name": "libvirt-daemon-driver-storage-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700008",
       "Version": "636",
-      "Name": "libvirt-nss"
+      "Name": "libvirt-daemon-driver-storage-disk"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700009",
       "Version": "636",
-      "Name": "libvirt-docs"
+      "Name": "libvirt-daemon-config-nwfilter"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700010",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage-rbd"
+      "Name": "libvirt-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700011",
       "Version": "636",
-      "Name": "libvirt-daemon-kvm"
+      "Name": "libvirt-daemon-driver-nodedev"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700012",
       "Version": "636",
-      "Name": "libvirt-bash-completion"
+      "Name": "libvirt-daemon-driver-storage-iscsi"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700013",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-qemu"
+      "Name": "libvirt"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700014",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-secret"
+      "Name": "libvirt-daemon"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700015",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage-gluster"
+      "Name": "libvirt-daemon-driver-secret"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700016",
       "Version": "636",
-      "Name": "libvirt-devel"
+      "Name": "libvirt-daemon-driver-interface"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700017",
       "Version": "636",
-      "Name": "libvirt-wireshark"
+      "Name": "libvirt-daemon-driver-storage"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700018",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage-mpath"
+      "Name": "libvirt-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700019",
       "Version": "636",
-      "Name": "libvirt-daemon-config-nwfilter"
+      "Name": "libvirt-daemon-driver-storage-mpath"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700020",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-interface"
+      "Name": "libvirt-daemon-driver-storage-iscsi-direct"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700021",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-nwfilter"
+      "Name": "libvirt-daemon-config-network"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700022",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage-iscsi-direct"
+      "Name": "libvirt-admin"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700023",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage-scsi"
+      "Name": "libvirt-daemon-driver-storage-gluster"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700024",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage"
+      "Name": "libvirt-client"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700025",
       "Version": "636",
-      "Name": "libvirt-daemon-config-network"
+      "Name": "libvirt-daemon-driver-qemu"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700026",
       "Version": "636",
-      "Name": "libvirt-admin"
+      "Name": "libvirt-lock-sanlock"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700027",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-network"
+      "Name": "libvirt-daemon-driver-nwfilter"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700028",
       "Version": "636",
-      "Name": "libvirt-libs"
+      "Name": "libvirt-nss"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700029",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage-iscsi"
+      "Name": "libvirt-daemon-driver-storage-scsi"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700030",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage-disk"
+      "Name": "libvirt-daemon-driver-storage-logical"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327371001",
@@ -20519,7 +20519,7 @@
   ],
   "Textfilecontent54Objects": [
     {
-      "ID": "oval:com.redhat.cve:obj:20074559045",
+      "ID": "oval:com.redhat.cve:obj:20074559042",
       "Version": "636",
       "Filepath": {
         "Text": "/etc/dnf/modules.d/python36.module",
@@ -20535,7 +20535,7 @@
       }
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559054",
+      "ID": "oval:com.redhat.cve:obj:20074559050",
       "Version": "636",
       "Filepath": {
         "Text": "/etc/dnf/modules.d/python27.module",
@@ -20551,7 +20551,7 @@
       }
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559132",
+      "ID": "oval:com.redhat.cve:obj:20074559118",
       "Version": "636",
       "Filepath": {
         "Text": "/etc/dnf/modules.d/python38.module",
@@ -20567,7 +20567,7 @@
       }
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20074559171",
+      "ID": "oval:com.redhat.cve:obj:20074559156",
       "Version": "636",
       "Filepath": {
         "Text": "/etc/dnf/modules.d/python39.module",
