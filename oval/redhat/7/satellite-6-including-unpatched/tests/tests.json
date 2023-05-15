@@ -2642,7 +2642,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-qpid-proton-docs is installed",
+      "Comment": "qpid-proton-tests is installed",
       "ID": "oval:com.redhat.cve:tst:202241722003",
       "Version": "636",
       "Object": {
@@ -2652,7 +2652,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-qpid-proton-docs is signed with Red Hat redhatrelease2 key",
+      "Comment": "qpid-proton-tests is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202241722004",
       "Version": "636",
       "Object": {
@@ -2664,7 +2664,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rubygem-qpid_proton is installed",
+      "Comment": "qpid-proton-c-devel is installed",
       "ID": "oval:com.redhat.cve:tst:202241722005",
       "Version": "636",
       "Object": {
@@ -2674,7 +2674,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rubygem-qpid_proton is signed with Red Hat redhatrelease2 key",
+      "Comment": "qpid-proton-c-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202241722006",
       "Version": "636",
       "Object": {
@@ -2686,7 +2686,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-cpp is installed",
+      "Comment": "python-qpid-proton is installed",
       "ID": "oval:com.redhat.cve:tst:202241722007",
       "Version": "636",
       "Object": {
@@ -2696,7 +2696,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-cpp is signed with Red Hat redhatrelease2 key",
+      "Comment": "python-qpid-proton is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202241722008",
       "Version": "636",
       "Object": {
@@ -2708,7 +2708,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-c-docs is installed",
+      "Comment": "qpid-proton-cpp-devel is installed",
       "ID": "oval:com.redhat.cve:tst:202241722009",
       "Version": "636",
       "Object": {
@@ -2718,7 +2718,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-c-docs is signed with Red Hat redhatrelease2 key",
+      "Comment": "qpid-proton-cpp-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202241722010",
       "Version": "636",
       "Object": {
@@ -2730,7 +2730,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-qpid-proton is installed",
+      "Comment": "qpid-proton-c-docs is installed",
       "ID": "oval:com.redhat.cve:tst:202241722011",
       "Version": "636",
       "Object": {
@@ -2740,7 +2740,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-qpid-proton is signed with Red Hat redhatrelease2 key",
+      "Comment": "qpid-proton-c-docs is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202241722012",
       "Version": "636",
       "Object": {
@@ -2752,7 +2752,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-cpp-docs is installed",
+      "Comment": "qpid-proton-c is installed",
       "ID": "oval:com.redhat.cve:tst:202241722013",
       "Version": "636",
       "Object": {
@@ -2762,7 +2762,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-cpp-docs is signed with Red Hat redhatrelease2 key",
+      "Comment": "qpid-proton-c is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202241722014",
       "Version": "636",
       "Object": {
@@ -2774,7 +2774,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-tests is installed",
+      "Comment": "qpid-proton-cpp-docs is installed",
       "ID": "oval:com.redhat.cve:tst:202241722015",
       "Version": "636",
       "Object": {
@@ -2784,7 +2784,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-tests is signed with Red Hat redhatrelease2 key",
+      "Comment": "qpid-proton-cpp-docs is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202241722016",
       "Version": "636",
       "Object": {
@@ -2796,7 +2796,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-cpp-devel is installed",
+      "Comment": "python-qpid-proton-docs is installed",
       "ID": "oval:com.redhat.cve:tst:202241722017",
       "Version": "636",
       "Object": {
@@ -2806,7 +2806,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-cpp-devel is signed with Red Hat redhatrelease2 key",
+      "Comment": "python-qpid-proton-docs is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202241722018",
       "Version": "636",
       "Object": {
@@ -2818,7 +2818,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-c-devel is installed",
+      "Comment": "qpid-proton-cpp is installed",
       "ID": "oval:com.redhat.cve:tst:202241722019",
       "Version": "636",
       "Object": {
@@ -2828,7 +2828,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-c-devel is signed with Red Hat redhatrelease2 key",
+      "Comment": "qpid-proton-cpp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202241722020",
       "Version": "636",
       "Object": {
@@ -2840,7 +2840,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-c is installed",
+      "Comment": "rubygem-qpid_proton is installed",
       "ID": "oval:com.redhat.cve:tst:202241722021",
       "Version": "636",
       "Object": {
@@ -2850,7 +2850,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "qpid-proton-c is signed with Red Hat redhatrelease2 key",
+      "Comment": "rubygem-qpid_proton is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202241722022",
       "Version": "636",
       "Object": {
@@ -4004,7 +4004,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241722006"
+        "ObjectRef": "oval:com.redhat.cve:obj:202241722004"
       },
       "State": {}
     },
@@ -4738,7 +4738,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241722011"
+        "ObjectRef": "oval:com.redhat.cve:obj:202241722007"
       },
       "State": {}
     },
@@ -4749,7 +4749,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241722002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202241722009"
       },
       "State": {}
     },
@@ -4760,7 +4760,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241722004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202241722010"
       },
       "State": {}
     },
@@ -4771,7 +4771,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241722009"
+        "ObjectRef": "oval:com.redhat.cve:obj:202241722005"
       },
       "State": {}
     },
@@ -4782,7 +4782,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241722003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202241722011"
       },
       "State": {}
     },
@@ -4793,7 +4793,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241722010"
+        "ObjectRef": "oval:com.redhat.cve:obj:202241722003"
       },
       "State": {}
     },
@@ -4804,7 +4804,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241722005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202241722006"
       },
       "State": {}
     },
@@ -4815,7 +4815,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241722007"
+        "ObjectRef": "oval:com.redhat.cve:obj:202241722008"
       },
       "State": {}
     },
@@ -4826,7 +4826,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241722008"
+        "ObjectRef": "oval:com.redhat.cve:obj:202241722002"
       },
       "State": {}
     },

@@ -101,12 +101,12 @@
       "Name": "collectd-libpod-stats"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241722004",
+      "ID": "oval:com.redhat.cve:obj:202241722003",
       "Version": "636",
       "Name": "qpid-proton-c-devel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241722005",
+      "ID": "oval:com.redhat.cve:obj:202241722004",
       "Version": "636",
       "Name": "qpid-proton-c"
     },
