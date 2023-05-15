@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Jul 2017] DSA-3921-1 enigmail - update",
-    "Line": 4975,
+    "Line": 4978,
     "ID": "DSA-3921-1",
     "Description": "enigmail - update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - enigmail 2:1.9.8.1-1~deb8u1",
-      "Line": 4976,
+      "Line": 4979,
       "Type": "package",
       "Release": "jessie",
       "Package": "enigmail",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[stretch] - enigmail 2:1.9.8.1-1~deb9u1",
-      "Line": 4977,
+      "Line": 4980,
       "Type": "package",
       "Release": "stretch",
       "Package": "enigmail",

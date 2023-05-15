@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Jun 2003] DSA-319 webmin - session ID spoofing",
-    "Line": 17641,
+    "Line": 17644,
     "ID": "DSA-319",
     "Description": "webmin - session ID spoofing"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0101}",
-      "Line": 17642,
+      "Line": 17645,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0101"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - webmin 0.94-7woody1",
-      "Line": 17643,
+      "Line": 17646,
       "Type": "package",
       "Release": "woody",
       "Package": "webmin",

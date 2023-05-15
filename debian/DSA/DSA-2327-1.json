@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Oct 2011] DSA-2327-1 libfcgi-perl - authentication bypass",
-    "Line": 10342,
+    "Line": 10345,
     "ID": "DSA-2327-1",
     "Description": "libfcgi-perl - authentication bypass"
   },
   "Annotations": [
     {
       "Original": "{CVE-2011-2766}",
-      "Line": 10343,
+      "Line": 10346,
       "Type": "xref",
       "Bugs": [
         "CVE-2011-2766"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - libfcgi-perl 0.71-1+squeeze1",
-      "Line": 10344,
+      "Line": 10347,
       "Type": "package",
       "Release": "squeeze",
       "Package": "libfcgi-perl",

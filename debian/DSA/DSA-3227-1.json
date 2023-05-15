@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Apr 2015] DSA-3227-1 movabletype-opensource - security update",
-    "Line": 7369,
+    "Line": 7372,
     "ID": "DSA-3227-1",
     "Description": "movabletype-opensource - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-0845}",
-      "Line": 7370,
+      "Line": 7373,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-0845"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - movabletype-opensource 5.1.4+dfsg-4+deb7u3",
-      "Line": 7371,
+      "Line": 7374,
       "Type": "package",
       "Release": "wheezy",
       "Package": "movabletype-opensource",

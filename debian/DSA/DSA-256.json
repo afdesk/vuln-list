@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Feb 2003] DSA-256 mhc - insecure temporary file",
-    "Line": 17836,
+    "Line": 17839,
     "ID": "DSA-256",
     "Description": "mhc - insecure temporary file"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0120}",
-      "Line": 17837,
+      "Line": 17840,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0120"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - mhc 0.25+20010625-7.1",
-      "Line": 17838,
+      "Line": 17841,
       "Type": "package",
       "Release": "woody",
       "Package": "mhc",

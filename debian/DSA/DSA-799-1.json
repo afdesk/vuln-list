@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Sep 2005] DSA-799-1 webcalendar - input validation",
-    "Line": 15890,
+    "Line": 15893,
     "ID": "DSA-799-1",
     "Description": "webcalendar - input validation"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2717}",
-      "Line": 15891,
+      "Line": 15894,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2717"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - webcalendar 0.9.45-4sarge2 (bug #326223; high)",
-      "Line": 15892,
+      "Line": 15895,
       "Type": "package",
       "Release": "sarge",
       "Package": "webcalendar",
@@ -27,7 +27,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA (coordinated disclosure)",
-      "Line": 15893,
+      "Line": 15896,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA (coordinated disclosure)"
     }

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Jan 2006] DSA-958-1 drupal - several",
-    "Line": 15128,
+    "Line": 15131,
     "ID": "DSA-958-1",
     "Description": "drupal - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-3973 CVE-2005-3974 CVE-2005-3975}",
-      "Line": 15129,
+      "Line": 15132,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-3973",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[sarge] - drupal 4.5.3-5",
-      "Line": 15130,
+      "Line": 15133,
       "Type": "package",
       "Release": "sarge",
       "Package": "drupal",
@@ -27,7 +27,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA",
-      "Line": 15131,
+      "Line": 15134,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA"
     }

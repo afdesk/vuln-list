@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Mar 2022] DSA-5091-1 containerd - security update",
-    "Line": 1001,
+    "Line": 1004,
     "ID": "DSA-5091-1",
     "Description": "containerd - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-23648}",
-      "Line": 1002,
+      "Line": 1005,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-23648"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[bullseye] - containerd 1.4.13~ds1-1~deb11u1",
-      "Line": 1003,
+      "Line": 1006,
       "Type": "package",
       "Release": "bullseye",
       "Package": "containerd",
