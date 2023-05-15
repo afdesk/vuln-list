@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Feb 2017] DLA-839-1 tnef - security update",
-    "Line": 7861,
+    "Line": 7867,
     "ID": "DLA-839-1",
     "Description": "tnef - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-6307 CVE-2017-6308 CVE-2017-6309 CVE-2017-6310}",
-      "Line": 7862,
+      "Line": 7868,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-6307",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[wheezy] - tnef 1.4.9-1+deb7u1",
-      "Line": 7863,
+      "Line": 7869,
       "Type": "package",
       "Release": "wheezy",
       "Package": "tnef",

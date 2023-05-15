@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Oct 2016] DLA-662-1 quagga - security update",
-    "Line": 8415,
+    "Line": 8421,
     "ID": "DLA-662-1",
     "Description": "quagga - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-1245}",
-      "Line": 8416,
+      "Line": 8422,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-1245"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - quagga 0.99.22.4-1+wheezy3+deb7u1",
-      "Line": 8417,
+      "Line": 8423,
       "Type": "package",
       "Release": "wheezy",
       "Package": "quagga",

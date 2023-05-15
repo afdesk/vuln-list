@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 May 2017] DLA-942-1 jbig2dec - security update",
-    "Line": 7553,
+    "Line": 7559,
     "ID": "DLA-942-1",
     "Description": "jbig2dec - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-7885 CVE-2017-7975 CVE-2017-7976}",
-      "Line": 7554,
+      "Line": 7560,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-7885",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[wheezy] - jbig2dec 0.13-4~deb7u2",
-      "Line": 7555,
+      "Line": 7561,
       "Type": "package",
       "Release": "wheezy",
       "Package": "jbig2dec",

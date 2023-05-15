@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Jan 2019] DLA-1647-1 apache2 - security update",
-    "Line": 5421,
+    "Line": 5427,
     "ID": "DLA-1647-1",
     "Description": "apache2 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-17199}",
-      "Line": 5422,
+      "Line": 5428,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-17199"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - apache2 2.4.10-10+deb8u13",
-      "Line": 5423,
+      "Line": 5429,
       "Type": "package",
       "Release": "jessie",
       "Package": "apache2",

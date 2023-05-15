@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Oct 2019] DLA-1961-1 milkytracker - security update",
-    "Line": 4442,
+    "Line": 4448,
     "ID": "DLA-1961-1",
     "Description": "milkytracker - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-14464 CVE-2019-14496 CVE-2019-14497}",
-      "Line": 4443,
+      "Line": 4449,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-14464",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[jessie] - milkytracker 0.90.85+dfsg-2.2+deb8u1",
-      "Line": 4444,
+      "Line": 4450,
       "Type": "package",
       "Release": "jessie",
       "Package": "milkytracker",

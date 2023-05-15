@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Aug 2020] DLA-2331-1 postgresql-9.6 - security update",
-    "Line": 3305,
+    "Line": 3311,
     "ID": "DLA-2331-1",
     "Description": "postgresql-9.6 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-14350}",
-      "Line": 3306,
+      "Line": 3312,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-14350"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - postgresql-9.6 9.6.19-0+deb9u1",
-      "Line": 3307,
+      "Line": 3313,
       "Type": "package",
       "Release": "stretch",
       "Package": "postgresql-9.6",

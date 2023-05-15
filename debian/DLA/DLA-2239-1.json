@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Jun 2020] DLA-2239-1 libpam-tacplus - security update",
-    "Line": 3585,
+    "Line": 3591,
     "ID": "DLA-2239-1",
     "Description": "libpam-tacplus - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-13881}",
-      "Line": 3586,
+      "Line": 3592,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-13881"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - libpam-tacplus 1.3.8-2+deb8u1",
-      "Line": 3587,
+      "Line": 3593,
       "Type": "package",
       "Release": "jessie",
       "Package": "libpam-tacplus",

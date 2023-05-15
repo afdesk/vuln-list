@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Apr 2023] DLA-3389-1 lldpd - security update",
-    "Line": 93,
+    "Line": 99,
     "ID": "DLA-3389-1",
     "Description": "lldpd - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-27827 CVE-2021-43612}",
-      "Line": 94,
+      "Line": 100,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-27827",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[buster] - lldpd 1.0.3-1+deb10u1",
-      "Line": 95,
+      "Line": 101,
       "Type": "package",
       "Release": "buster",
       "Package": "lldpd",

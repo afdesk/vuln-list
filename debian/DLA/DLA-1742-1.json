@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Apr 2019] DLA-1742-1 wordpress - security update",
-    "Line": 5137,
+    "Line": 5143,
     "ID": "DLA-1742-1",
     "Description": "wordpress - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-8942 CVE-2019-9787}",
-      "Line": 5138,
+      "Line": 5144,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-8942",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - wordpress 4.1.26+dfsg-1+deb8u1",
-      "Line": 5139,
+      "Line": 5145,
       "Type": "package",
       "Release": "jessie",
       "Package": "wordpress",
