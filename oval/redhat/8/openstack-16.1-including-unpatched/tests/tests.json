@@ -1696,7 +1696,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-twisted-debugsource is installed",
+      "Comment": "python3-twisted is installed",
       "ID": "oval:com.redhat.cve:tst:202239348001",
       "Version": "636",
       "Object": {
@@ -1706,7 +1706,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-twisted-debugsource is signed with Red Hat redhatrelease2 key",
+      "Comment": "python3-twisted is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202239348002",
       "Version": "636",
       "Object": {
@@ -1733,28 +1733,6 @@
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202239348002"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20178761001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3-twisted is installed",
-      "ID": "oval:com.redhat.cve:tst:202239348005",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202239348003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3-twisted is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202239348006",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202239348003"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20178761001"
@@ -2836,7 +2814,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20220982001",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202239348003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202239348001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20220982001"
@@ -3220,7 +3198,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20221646001",
       "Version": "634",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202239348003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202239348001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20221646001"
@@ -5325,21 +5303,21 @@
     {
       "Check": "at least one",
       "Comment": "python3-adal is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202229217009",
+      "ID": "oval:com.redhat.unaffected:tst:202229217003",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202229217005"
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202229217002"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "python3-adal is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202229217010",
+      "ID": "oval:com.redhat.unaffected:tst:202229217004",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202229217005"
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202229217002"
       },
       "State": {}
     },

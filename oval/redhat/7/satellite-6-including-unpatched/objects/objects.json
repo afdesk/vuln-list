@@ -468,22 +468,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:20223644001",
       "Version": "636",
-      "Name": "python-pulp-oid_validation"
+      "Name": "pulp-maintenance"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223644002",
       "Version": "636",
-      "Name": "pulp-server"
+      "Name": "pulp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223644003",
       "Version": "636",
-      "Name": "pulp-maintenance"
+      "Name": "python-pulp-agent-lib"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223644004",
       "Version": "636",
-      "Name": "python-pulp-agent-lib"
+      "Name": "pulp-selinux"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223644005",
@@ -493,52 +493,52 @@
     {
       "ID": "oval:com.redhat.cve:obj:20223644006",
       "Version": "636",
-      "Name": "python-pulp-repoauth"
+      "Name": "python-pulp-bindings"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223644007",
       "Version": "636",
-      "Name": "python-pulp-streamer"
+      "Name": "python-pulp-oid_validation"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223644008",
       "Version": "636",
-      "Name": "python-pulp-common"
+      "Name": "pulp-nodes-child"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223644009",
       "Version": "636",
-      "Name": "pulp-nodes-child"
+      "Name": "pulp-nodes-parent"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223644010",
       "Version": "636",
-      "Name": "python-pulp-client-lib"
+      "Name": "pulp-server"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223644011",
       "Version": "636",
-      "Name": "pulp-selinux"
+      "Name": "python-pulp-client-lib"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223644012",
       "Version": "636",
-      "Name": "pulp-nodes-parent"
+      "Name": "python-pulp-repoauth"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223644013",
       "Version": "636",
-      "Name": "pulp"
+      "Name": "python-pulp-streamer"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223644014",
       "Version": "636",
-      "Name": "pulp-nodes-common"
+      "Name": "python-pulp-common"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223644015",
       "Version": "636",
-      "Name": "python-pulp-bindings"
+      "Name": "pulp-nodes-common"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202238900001",
@@ -583,17 +583,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:202241717001",
       "Version": "636",
-      "Name": "yggdrasil-worker-forwarder"
+      "Name": "foreman_ygg_worker"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241717002",
       "Version": "636",
-      "Name": "foreman_ygg_worker"
+      "Name": "yggdrasil"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241717003",
       "Version": "636",
-      "Name": "yggdrasil"
+      "Name": "yggdrasil-worker-forwarder"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241722001",
@@ -603,52 +603,52 @@
     {
       "ID": "oval:com.redhat.cve:obj:202241722002",
       "Version": "636",
-      "Name": "qpid-proton-tests"
+      "Name": "qpid-proton-cpp-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241722003",
       "Version": "636",
-      "Name": "qpid-proton-c-devel"
+      "Name": "qpid-proton-cpp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241722004",
       "Version": "636",
-      "Name": "python-qpid-proton"
+      "Name": "qpid-proton-c"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241722005",
       "Version": "636",
-      "Name": "qpid-proton-cpp-devel"
+      "Name": "rubygem-qpid_proton"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241722006",
       "Version": "636",
-      "Name": "qpid-proton-c-docs"
+      "Name": "qpid-proton-tests"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241722007",
       "Version": "636",
-      "Name": "qpid-proton-c"
+      "Name": "qpid-proton-c-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241722008",
       "Version": "636",
-      "Name": "qpid-proton-cpp-docs"
+      "Name": "python-qpid-proton-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241722009",
       "Version": "636",
-      "Name": "python-qpid-proton-docs"
+      "Name": "qpid-proton-cpp-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241722010",
       "Version": "636",
-      "Name": "qpid-proton-cpp"
+      "Name": "python-qpid-proton"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241722011",
       "Version": "636",
-      "Name": "rubygem-qpid_proton"
+      "Name": "qpid-proton-c-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202244566001",
@@ -893,12 +893,12 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:202229217001",
       "Version": "635",
-      "Name": "python-pyjwt"
+      "Name": "python3-pyjwt"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202229217002",
       "Version": "635",
-      "Name": "python3-pyjwt"
+      "Name": "python-pyjwt"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202231144001",

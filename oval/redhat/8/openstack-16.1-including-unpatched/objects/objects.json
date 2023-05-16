@@ -388,17 +388,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202239348001",
       "Version": "636",
-      "Name": "python-twisted-debugsource"
+      "Name": "python3-twisted"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202239348002",
       "Version": "636",
       "Name": "python-twisted"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202239348003",
-      "Version": "636",
-      "Name": "python3-twisted"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202240897001",
@@ -766,7 +761,7 @@
       "Name": "python3-certifi"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202229217005",
+      "ID": "oval:com.redhat.unaffected:obj:202229217002",
       "Version": "635",
       "Name": "python3-adal"
     },

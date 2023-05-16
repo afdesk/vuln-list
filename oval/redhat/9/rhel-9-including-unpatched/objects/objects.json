@@ -5191,12 +5191,12 @@
       "Name": "butane"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221705005",
+      "ID": "oval:com.redhat.cve:obj:20221705016",
       "Version": "636",
       "Name": "ignition"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221705016",
+      "ID": "oval:com.redhat.cve:obj:20221705019",
       "Version": "636",
       "Name": "weldr-client"
     },
@@ -5461,16 +5461,6 @@
       "Name": "python3-louis"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202227664009",
-      "Version": "636",
-      "Name": "toolbox-tests"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202227664013",
-      "Version": "636",
-      "Name": "toolbox"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202227943001",
       "Version": "636",
       "Name": "libstdc++"
@@ -5603,72 +5593,72 @@
     {
       "ID": "oval:com.redhat.cve:obj:202229217001",
       "Version": "636",
-      "Name": "fence-agents-all"
+      "Name": "fence-agents-sbd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217002",
       "Version": "636",
-      "Name": "fence-agents-wti"
+      "Name": "fence-agents-redfish"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217003",
       "Version": "636",
-      "Name": "fence-agents-kdump"
+      "Name": "fence-agents-bladecenter"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217004",
       "Version": "636",
-      "Name": "fence-agents-ibmblade"
+      "Name": "fence-agents-hpblade"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217005",
       "Version": "636",
-      "Name": "fence-agents-gce"
+      "Name": "fence-agents-rsa"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217006",
       "Version": "636",
-      "Name": "fence-agents-ibm-vpc"
+      "Name": "fence-agents-eaton-snmp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217007",
       "Version": "636",
-      "Name": "fence-virtd"
+      "Name": "fence-agents-lpar"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217008",
       "Version": "636",
-      "Name": "fence-agents-compute"
+      "Name": "fence-virtd-libvirt"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217009",
       "Version": "636",
-      "Name": "fence-agents-eps"
+      "Name": "fence-virtd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217010",
       "Version": "636",
-      "Name": "fence-agents-ilo-moonshot"
+      "Name": "fence-agents-kdump"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217011",
       "Version": "636",
-      "Name": "fence-agents-aliyun"
+      "Name": "fence-agents-cisco-ucs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217012",
       "Version": "636",
-      "Name": "fence-agents-drac5"
+      "Name": "fence-agents-aws"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217013",
       "Version": "636",
-      "Name": "fence-virtd-multicast"
+      "Name": "fence-virtd-cpg"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217014",
       "Version": "636",
-      "Name": "ha-openstack-support"
+      "Name": "fence-agents-kubevirt"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217015",
@@ -5678,207 +5668,207 @@
     {
       "ID": "oval:com.redhat.cve:obj:202229217016",
       "Version": "636",
-      "Name": "fence-agents-ilo2"
+      "Name": "fence-agents-common"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217017",
       "Version": "636",
-      "Name": "fence-agents-sbd"
+      "Name": "fence-agents-ilo-moonshot"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217018",
       "Version": "636",
-      "Name": "fence-agents-cisco-ucs"
+      "Name": "fence-agents-brocade"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217019",
       "Version": "636",
-      "Name": "fence-agents-ipmilan"
+      "Name": "fence-agents-eps"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217020",
       "Version": "636",
-      "Name": "fence-agents-apc"
+      "Name": "fence-agents-wti"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217021",
       "Version": "636",
-      "Name": "fence-agents-rsb"
+      "Name": "fence-agents-zvm"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217022",
       "Version": "636",
-      "Name": "fence-virtd-serial"
+      "Name": "fence-agents-drac5"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217023",
       "Version": "636",
-      "Name": "fence-virtd-libvirt"
+      "Name": "fence-virtd-serial"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217024",
       "Version": "636",
-      "Name": "fence-agents-ipdu"
+      "Name": "fence-virt"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217025",
       "Version": "636",
-      "Name": "fence-agents-bladecenter"
+      "Name": "fence-agents-ipdu"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217026",
       "Version": "636",
-      "Name": "fence-agents-scsi"
+      "Name": "fence-agents-mpath"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217027",
       "Version": "636",
-      "Name": "fence-agents-redfish"
+      "Name": "fence-agents-rhevm"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217028",
       "Version": "636",
-      "Name": "fence-agents-hpblade"
+      "Name": "fence-agents-ifmib"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217029",
       "Version": "636",
-      "Name": "fence-agents-vmware-soap"
+      "Name": "fence-agents-rsb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217030",
       "Version": "636",
-      "Name": "fence-agents-mpath"
+      "Name": "fence-agents-ibm-powervs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217031",
       "Version": "636",
-      "Name": "fence-agents-openstack"
+      "Name": "fence-agents-compute"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217032",
       "Version": "636",
-      "Name": "fence-agents-azure-arm"
+      "Name": "fence-agents-heuristics-ping"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217033",
       "Version": "636",
-      "Name": "fence-agents-vmware-rest"
+      "Name": "fence-agents-vmware-soap"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217034",
       "Version": "636",
-      "Name": "fence-agents-apc-snmp"
+      "Name": "fence-agents-emerson"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217035",
       "Version": "636",
-      "Name": "ha-cloud-support"
+      "Name": "fence-agents-ibmblade"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217036",
       "Version": "636",
-      "Name": "fence-agents-heuristics-ping"
+      "Name": "fence-agents-virsh"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217037",
       "Version": "636",
-      "Name": "fence-agents-eaton-snmp"
+      "Name": "fence-agents"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217038",
       "Version": "636",
-      "Name": "fence-agents-lpar"
+      "Name": "fence-virtd-multicast"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217039",
       "Version": "636",
-      "Name": "fence-agents-ibm-powervs"
+      "Name": "fence-agents-intelmodular"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217040",
       "Version": "636",
-      "Name": "fence-agents-cisco-mds"
+      "Name": "fence-agents-all"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217041",
       "Version": "636",
-      "Name": "fence-virtd-tcp"
+      "Name": "fence-agents-ilo-mp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217042",
       "Version": "636",
-      "Name": "fence-agents-rhevm"
+      "Name": "fence-agents-apc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217043",
       "Version": "636",
-      "Name": "fence-agents-emerson"
+      "Name": "fence-agents-ibm-vpc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217044",
       "Version": "636",
-      "Name": "fence-agents-virsh"
+      "Name": "fence-agents-apc-snmp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217045",
       "Version": "636",
-      "Name": "fence-virt"
+      "Name": "fence-agents-vmware-rest"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217046",
       "Version": "636",
-      "Name": "fence-agents-ifmib"
+      "Name": "fence-agents-ilo-ssh"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217047",
       "Version": "636",
-      "Name": "fence-agents-rsa"
+      "Name": "fence-agents-openstack"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217048",
       "Version": "636",
-      "Name": "fence-agents-zvm"
+      "Name": "fence-agents-aliyun"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217049",
       "Version": "636",
-      "Name": "fence-agents-ilo-ssh"
+      "Name": "fence-agents-azure-arm"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217050",
       "Version": "636",
-      "Name": "fence-agents-kubevirt"
+      "Name": "ha-cloud-support"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217051",
       "Version": "636",
-      "Name": "fence-agents-aws"
+      "Name": "fence-agents-ilo2"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217052",
       "Version": "636",
-      "Name": "fence-agents-ilo-mp"
+      "Name": "fence-agents-ipmilan"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217053",
       "Version": "636",
-      "Name": "fence-agents-brocade"
+      "Name": "fence-agents-cisco-mds"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217054",
       "Version": "636",
-      "Name": "fence-agents-intelmodular"
+      "Name": "fence-virtd-tcp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217055",
       "Version": "636",
-      "Name": "fence-virtd-cpg"
+      "Name": "fence-agents-scsi"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217056",
       "Version": "636",
-      "Name": "fence-agents-common"
+      "Name": "fence-agents-gce"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229458001",
@@ -5941,6 +5931,16 @@
       "Name": "pam_cifscreds"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202230629003",
+      "Version": "636",
+      "Name": "toolbox-tests"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202230629014",
+      "Version": "636",
+      "Name": "toolbox"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202232081007",
       "Version": "636",
       "Name": "mariadb-debugsource"
@@ -5956,109 +5956,109 @@
       "Name": "osbuild-composer-debugsource"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189003",
-      "Version": "636",
-      "Name": "rsyslog-mmsnmptrapd"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189004",
-      "Version": "636",
-      "Name": "rsyslog-relp"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189008",
-      "Version": "636",
-      "Name": "rsyslog-logrotate"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189013",
-      "Version": "636",
-      "Name": "rsyslog-omamqp1"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189014",
-      "Version": "636",
-      "Name": "rsyslog-mysql"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189015",
-      "Version": "636",
-      "Name": "rsyslog-pgsql"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189016",
-      "Version": "636",
-      "Name": "rsyslog-mmjsonparse"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189017",
-      "Version": "636",
-      "Name": "rsyslog"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189018",
-      "Version": "636",
-      "Name": "rsyslog-mmkubernetes"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189019",
-      "Version": "636",
-      "Name": "rsyslog-snmp"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189023",
-      "Version": "636",
-      "Name": "rsyslog-elasticsearch"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189027",
-      "Version": "636",
-      "Name": "rsyslog-gnutls"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189028",
-      "Version": "636",
-      "Name": "rsyslog-kafka"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189029",
-      "Version": "636",
-      "Name": "rsyslog-gssapi"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189030",
-      "Version": "636",
-      "Name": "rsyslog-mmaudit"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189032",
-      "Version": "636",
-      "Name": "rsyslog-mmnormalize"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189035",
-      "Version": "636",
-      "Name": "rsyslog-crypto"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189037",
-      "Version": "636",
-      "Name": "rsyslog-udpspoof"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189038",
+      "ID": "oval:com.redhat.cve:obj:202232189001",
       "Version": "636",
       "Name": "rsyslog-doc"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189039",
+      "ID": "oval:com.redhat.cve:obj:202232189002",
+      "Version": "636",
+      "Name": "rsyslog-pgsql"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189003",
       "Version": "636",
       "Name": "rsyslog-openssl"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189044",
+      "ID": "oval:com.redhat.cve:obj:202232189006",
+      "Version": "636",
+      "Name": "rsyslog-mmaudit"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189008",
+      "Version": "636",
+      "Name": "rsyslog-mmnormalize"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189012",
+      "Version": "636",
+      "Name": "rsyslog-mmjsonparse"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189014",
+      "Version": "636",
+      "Name": "rsyslog-gnutls"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189015",
       "Version": "636",
       "Name": "rsyslog-mmfields"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189017",
+      "Version": "636",
+      "Name": "rsyslog-snmp"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189018",
+      "Version": "636",
+      "Name": "rsyslog-logrotate"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189020",
+      "Version": "636",
+      "Name": "rsyslog-kafka"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189021",
+      "Version": "636",
+      "Name": "rsyslog-omamqp1"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189023",
+      "Version": "636",
+      "Name": "rsyslog-mmsnmptrapd"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189024",
+      "Version": "636",
+      "Name": "rsyslog-gssapi"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189025",
+      "Version": "636",
+      "Name": "rsyslog"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189026",
+      "Version": "636",
+      "Name": "rsyslog-elasticsearch"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189029",
+      "Version": "636",
+      "Name": "rsyslog-crypto"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189032",
+      "Version": "636",
+      "Name": "rsyslog-mmkubernetes"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189033",
+      "Version": "636",
+      "Name": "rsyslog-relp"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189038",
+      "Version": "636",
+      "Name": "rsyslog-udpspoof"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189039",
+      "Version": "636",
+      "Name": "rsyslog-mysql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223219001",
@@ -6233,7 +6233,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202235977001",
       "Version": "636",
-      "Name": "redis-devel"
+      "Name": "redis"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202235977002",
@@ -6243,12 +6243,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202235977003",
       "Version": "636",
-      "Name": "redis-debugsource"
+      "Name": "redis-devel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202235977004",
+      "ID": "oval:com.redhat.cve:obj:202236021003",
       "Version": "636",
-      "Name": "redis"
+      "Name": "redis-debugsource"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223638009",
@@ -6591,7 +6591,7 @@
       "Name": "squid-debugsource"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241715019",
+      "ID": "oval:com.redhat.cve:obj:202241715006",
       "Version": "636",
       "Name": "oci-seccomp-bpf-hook"
     },
@@ -7109,6 +7109,11 @@
       "ID": "oval:com.redhat.cve:obj:202323931001",
       "Version": "636",
       "Name": "python3-cryptography"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202323931002",
+      "Version": "636",
+      "Name": "python3.11-cryptography"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202324056001",
@@ -13339,6 +13344,11 @@
       "ID": "oval:com.redhat.unaffected:obj:202224407011",
       "Version": "635",
       "Name": "cyrus-sasl-md5"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20222447051",
+      "Version": "635",
+      "Name": "ha-openstack-support"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202224785008",

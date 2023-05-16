@@ -88188,29 +88188,92 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-postgresql12-postgresql-libs is installed",
+      "Comment": "rh-postgresql12-postgresql is installed",
       "ID": "oval:com.redhat.unaffected:tst:202120229003",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112006"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112001"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "rh-postgresql12-postgresql-libs is not installed",
+      "Comment": "rh-postgresql12-postgresql is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202120229004",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112006"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql12-postgresql-devel is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202120229005",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql12-postgresql-devel is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202120229006",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql12-postgresql-test is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202120229011",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112014"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql12-postgresql-test is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202120229012",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112014"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql12-postgresql-server is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202120229017",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112010"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql12-postgresql-server is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202120229018",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112010"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-static is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229005",
+      "ID": "oval:com.redhat.unaffected:tst:202120229019",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112012"
@@ -88220,7 +88283,7 @@
     {
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-static is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229006",
+      "ID": "oval:com.redhat.unaffected:tst:202120229020",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -88230,8 +88293,29 @@
     },
     {
       "Check": "at least one",
+      "Comment": "rh-postgresql12-postgresql-contrib-syspaths is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202120229025",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql12-postgresql-contrib-syspaths is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202120229026",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-syspaths is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229015",
+      "ID": "oval:com.redhat.unaffected:tst:202120229029",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112013"
@@ -88241,7 +88325,7 @@
     {
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-syspaths is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229016",
+      "ID": "oval:com.redhat.unaffected:tst:202120229030",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -88252,7 +88336,7 @@
     {
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-server-syspaths is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229017",
+      "ID": "oval:com.redhat.unaffected:tst:202120229035",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112011"
@@ -88262,7 +88346,7 @@
     {
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-server-syspaths is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229018",
+      "ID": "oval:com.redhat.unaffected:tst:202120229036",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -88272,71 +88356,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-postgresql12-postgresql-pltcl is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229019",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112009"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql12-postgresql-pltcl is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229020",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112009"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql12-postgresql-contrib is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229023",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112002"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql12-postgresql-contrib is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229024",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112002"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql12-postgresql-test is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229025",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112014"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql12-postgresql-test is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229026",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112014"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-plpython is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229027",
+      "ID": "oval:com.redhat.unaffected:tst:202120229041",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112008"
@@ -88346,7 +88367,7 @@
     {
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-plpython is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229028",
+      "ID": "oval:com.redhat.unaffected:tst:202120229042",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -88356,71 +88377,71 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rh-postgresql12-postgresql is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229037",
+      "Comment": "rh-postgresql12-postgresql-pltcl is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202120229045",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112001"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112009"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "rh-postgresql12-postgresql is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229038",
+      "Comment": "rh-postgresql12-postgresql-pltcl is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202120229046",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112001"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112009"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "rh-postgresql12-postgresql-server is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229039",
+      "Comment": "rh-postgresql12-postgresql-libs is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202120229051",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112010"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112006"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "rh-postgresql12-postgresql-server is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229040",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112010"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql12-postgresql-devel is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229041",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112004"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql12-postgresql-devel is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229042",
+      "Comment": "rh-postgresql12-postgresql-libs is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202120229052",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112004"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112006"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql12-postgresql-contrib is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202120229053",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-postgresql12-postgresql-contrib is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202120229054",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112002"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-plperl is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229043",
+      "ID": "oval:com.redhat.unaffected:tst:202120229055",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112007"
@@ -88430,32 +88451,11 @@
     {
       "Check": "at least one",
       "Comment": "rh-postgresql12-postgresql-plperl is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229044",
+      "ID": "oval:com.redhat.unaffected:tst:202120229056",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20205112007"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql12-postgresql-contrib-syspaths is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229047",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rh-postgresql12-postgresql-contrib-syspaths is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229048",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20205112003"
       },
       "State": {}
     },

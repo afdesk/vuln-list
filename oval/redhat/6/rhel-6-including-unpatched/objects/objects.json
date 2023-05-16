@@ -10331,44 +10331,44 @@
       "Name": "zlib-devel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202239348002",
-      "Version": "636",
-      "Name": "python-twisted-core-doc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202239348003",
-      "Version": "636",
-      "Name": "python-twisted-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202239348004",
-      "Version": "636",
-      "Name": "python-twisted-mail"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202239348005",
-      "Version": "636",
-      "Name": "python-twisted-names"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202239348006",
-      "Version": "636",
-      "Name": "python-twisted-runner"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202239348007",
-      "Version": "636",
-      "Name": "python-twisted-lore"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202239348008",
+      "ID": "oval:com.redhat.cve:obj:202239348001",
       "Version": "636",
       "Name": "python-twisted-core-zsh"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202239348010",
+      "ID": "oval:com.redhat.cve:obj:202239348002",
       "Version": "636",
       "Name": "python-twisted-news"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202239348005",
+      "Version": "636",
+      "Name": "python-twisted-mail"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202239348006",
+      "Version": "636",
+      "Name": "python-twisted-lore"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202239348007",
+      "Version": "636",
+      "Name": "python-twisted-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202239348009",
+      "Version": "636",
+      "Name": "python-twisted-core-doc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202239348011",
+      "Version": "636",
+      "Name": "python-twisted-names"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202239348012",
+      "Version": "636",
+      "Name": "python-twisted-runner"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202240023001",

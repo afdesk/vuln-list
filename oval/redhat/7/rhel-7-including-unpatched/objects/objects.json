@@ -14786,19 +14786,19 @@
       "Name": "apache-ivy-javadoc"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202239348001",
+      "ID": "oval:com.redhat.cve:obj:202239348002",
       "Version": "636",
       "Name": "python-twisted-core-doc"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202239348002",
+      "ID": "oval:com.redhat.cve:obj:202239348003",
       "Version": "636",
-      "Name": "python-twisted-core"
+      "Name": "python-twisted-web"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202239348004",
       "Version": "636",
-      "Name": "python-twisted-web"
+      "Name": "python-twisted-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202239377001",
@@ -20721,7 +20721,7 @@
       "Name": "perl-SNMP_Session"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202229217002",
+      "ID": "oval:com.redhat.unaffected:obj:202229217001",
       "Version": "635",
       "Name": "python-adal"
     },

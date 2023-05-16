@@ -146,19 +146,19 @@
       "Name": "python-oslo-utils"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221705003",
+      "ID": "oval:com.redhat.cve:obj:20221705005",
       "Version": "636",
-      "Name": "conmon"
+      "Name": "ignition"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221705006",
+      "ID": "oval:com.redhat.cve:obj:20221705007",
       "Version": "636",
       "Name": "butane"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221705008",
+      "ID": "oval:com.redhat.cve:obj:20221705010",
       "Version": "636",
-      "Name": "ignition"
+      "Name": "conmon"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20221996003",
@@ -201,7 +201,7 @@
       "Name": "future"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241722003",
+      "ID": "oval:com.redhat.cve:obj:202241722002",
       "Version": "636",
       "Name": "conmon-rs"
     },
