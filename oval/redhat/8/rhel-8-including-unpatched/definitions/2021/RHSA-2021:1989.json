@@ -107,7 +107,7 @@
                   },
                   {
                     "Comment": "bind is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795044"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094028"
                   }
                 ]
               },
@@ -120,7 +120,7 @@
                   },
                   {
                     "Comment": "bind-chroot is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795030"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094034"
                   }
                 ]
               },
@@ -133,7 +133,7 @@
                   },
                   {
                     "Comment": "bind-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795032"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094006"
                   }
                 ]
               },
@@ -146,7 +146,7 @@
                   },
                   {
                     "Comment": "bind-export-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795014"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094012"
                   }
                 ]
               },
@@ -159,7 +159,7 @@
                   },
                   {
                     "Comment": "bind-export-libs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795040"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094024"
                   }
                 ]
               },
@@ -172,7 +172,7 @@
                   },
                   {
                     "Comment": "bind-libs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795012"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094018"
                   }
                 ]
               },
@@ -185,7 +185,7 @@
                   },
                   {
                     "Comment": "bind-libs-lite is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795020"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094022"
                   }
                 ]
               },
@@ -198,7 +198,7 @@
                   },
                   {
                     "Comment": "bind-license is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795002"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094010"
                   }
                 ]
               },
@@ -211,7 +211,7 @@
                   },
                   {
                     "Comment": "bind-lite-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795018"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094008"
                   }
                 ]
               },
@@ -224,7 +224,7 @@
                   },
                   {
                     "Comment": "bind-pkcs11 is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795038"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094014"
                   }
                 ]
               },
@@ -237,7 +237,7 @@
                   },
                   {
                     "Comment": "bind-pkcs11-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795052"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094002"
                   }
                 ]
               },
@@ -250,7 +250,7 @@
                   },
                   {
                     "Comment": "bind-pkcs11-libs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795050"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094016"
                   }
                 ]
               },
@@ -263,7 +263,7 @@
                   },
                   {
                     "Comment": "bind-pkcs11-utils is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795026"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094026"
                   }
                 ]
               },
@@ -276,7 +276,7 @@
                   },
                   {
                     "Comment": "bind-sdb is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795008"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094020"
                   }
                 ]
               },
@@ -289,7 +289,7 @@
                   },
                   {
                     "Comment": "bind-sdb-chroot is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795010"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094004"
                   }
                 ]
               },
@@ -302,7 +302,7 @@
                   },
                   {
                     "Comment": "bind-utils is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795024"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094032"
                   }
                 ]
               },
@@ -315,7 +315,7 @@
                   },
                   {
                     "Comment": "python3-bind is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222795028"
+                    "TestRef": "oval:com.redhat.cve:tst:20223094030"
                   }
                 ]
               }

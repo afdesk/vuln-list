@@ -136,7 +136,7 @@
                           },
                           {
                             "Comment": "babel is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559194"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559154"
                           }
                         ]
                       },
@@ -149,7 +149,7 @@
                           },
                           {
                             "Comment": "python-nose-docs is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559066"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559052"
                           }
                         ]
                       },
@@ -175,7 +175,7 @@
                           },
                           {
                             "Comment": "python-sqlalchemy-doc is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559064"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559026"
                           }
                         ]
                       },
@@ -188,7 +188,7 @@
                           },
                           {
                             "Comment": "python2 is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559097"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559093"
                           }
                         ]
                       },
@@ -318,7 +318,7 @@
                           },
                           {
                             "Comment": "python2-debug is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559085"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559097"
                           }
                         ]
                       },
@@ -448,7 +448,7 @@
                           },
                           {
                             "Comment": "python2-libs is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559089"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559085"
                           }
                         ]
                       },
@@ -877,7 +877,7 @@
                           },
                           {
                             "Comment": "python2-tools is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20074559093"
+                            "TestRef": "oval:com.redhat.cve:tst:20074559089"
                           }
                         ]
                       },

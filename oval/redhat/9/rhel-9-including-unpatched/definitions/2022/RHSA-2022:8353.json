@@ -117,7 +117,7 @@
                   },
                   {
                     "Comment": "python-unversioned-command is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20074559008"
+                    "TestRef": "oval:com.redhat.cve:tst:20074559018"
                   }
                 ]
               },
@@ -130,7 +130,7 @@
                   },
                   {
                     "Comment": "python3 is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20074559002"
+                    "TestRef": "oval:com.redhat.cve:tst:20074559006"
                   }
                 ]
               },
@@ -143,7 +143,7 @@
                   },
                   {
                     "Comment": "python3-debug is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20074559004"
+                    "TestRef": "oval:com.redhat.cve:tst:20074559012"
                   }
                 ]
               },
@@ -156,7 +156,7 @@
                   },
                   {
                     "Comment": "python3-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20074559012"
+                    "TestRef": "oval:com.redhat.cve:tst:20074559002"
                   }
                 ]
               },
@@ -169,7 +169,7 @@
                   },
                   {
                     "Comment": "python3-idle is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20074559010"
+                    "TestRef": "oval:com.redhat.cve:tst:20074559014"
                   }
                 ]
               },
@@ -182,7 +182,7 @@
                   },
                   {
                     "Comment": "python3-libs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20074559006"
+                    "TestRef": "oval:com.redhat.cve:tst:20074559004"
                   }
                 ]
               },
@@ -208,7 +208,7 @@
                   },
                   {
                     "Comment": "python3-tkinter is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20074559018"
+                    "TestRef": "oval:com.redhat.cve:tst:20074559008"
                   }
                 ]
               }

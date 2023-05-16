@@ -13594,6 +13594,191 @@
       "ID": "oval:com.redhat.rhsa:obj:20231930006",
       "Version": "636",
       "Name": "emacs-terminal"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232786001",
+      "Version": "636",
+      "Name": "libwayland-client"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232786002",
+      "Version": "636",
+      "Name": "libwayland-cursor"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232786003",
+      "Version": "636",
+      "Name": "libwayland-egl"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232786004",
+      "Version": "636",
+      "Name": "libwayland-server"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232786005",
+      "Version": "636",
+      "Name": "wayland-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232801002",
+      "Version": "636",
+      "Name": "frr-selinux"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232863001",
+      "Version": "636",
+      "Name": "ctags"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232863002",
+      "Version": "636",
+      "Name": "ctags-etags"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232873001",
+      "Version": "641",
+      "Name": "gcc-toolset-12-binutils"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232873002",
+      "Version": "641",
+      "Name": "gcc-toolset-12-binutils-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232873003",
+      "Version": "641",
+      "Name": "gcc-toolset-12-binutils-gold"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232893001",
+      "Version": "637",
+      "Name": "python3-mako"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232898001",
+      "Version": "636",
+      "Name": "libtar"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232948002",
+      "Version": "637",
+      "Name": "device-mapper-multipath-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232948003",
+      "Version": "637",
+      "Name": "device-mapper-multipath-libs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232948004",
+      "Version": "637",
+      "Name": "kpartx"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232948005",
+      "Version": "637",
+      "Name": "libdmmp"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232987002",
+      "Version": "637",
+      "Name": "libnetapi"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232987003",
+      "Version": "637",
+      "Name": "libnetapi-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232987009",
+      "Version": "637",
+      "Name": "python3-samba-dc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232987010",
+      "Version": "637",
+      "Name": "python3-samba-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232987018",
+      "Version": "637",
+      "Name": "samba-dc-libs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232987019",
+      "Version": "637",
+      "Name": "samba-dcerpc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232987022",
+      "Version": "637",
+      "Name": "samba-ldb-ldap-modules"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232987027",
+      "Version": "637",
+      "Name": "samba-tools"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232987028",
+      "Version": "637",
+      "Name": "samba-usershares"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233087002",
+      "Version": "636",
+      "Name": "mecab-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233097001",
+      "Version": "636",
+      "Name": "gssntlmssp"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233109001",
+      "Version": "635",
+      "Name": "apr-util"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233109002",
+      "Version": "635",
+      "Name": "apr-util-bdb"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233109003",
+      "Version": "635",
+      "Name": "apr-util-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233109004",
+      "Version": "635",
+      "Name": "apr-util-ldap"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233109005",
+      "Version": "635",
+      "Name": "apr-util-mysql"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233109006",
+      "Version": "635",
+      "Name": "apr-util-odbc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233109007",
+      "Version": "635",
+      "Name": "apr-util-openssl"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233109008",
+      "Version": "635",
+      "Name": "apr-util-pgsql"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233109009",
+      "Version": "635",
+      "Name": "apr-util-sqlite"
     }
   ],
   "RpmverifyfileObjects": [
@@ -16036,6 +16221,38 @@
     {
       "ID": "oval:com.redhat.rhsa:obj:20231659005",
       "Version": "638",
+      "Filepath": {
+        "Text": "/boot/grub2/grub.cfg",
+        "Datatype": "string"
+      },
+      "Pattern": {
+        "Text": "^menuentry.*",
+        "Operation": "pattern match"
+      },
+      "Instance": {
+        "Datatype": "int",
+        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232736015",
+      "Version": "642",
+      "Filepath": {
+        "Text": "/boot/grub2/grub.cfg",
+        "Datatype": "string"
+      },
+      "Pattern": {
+        "Text": "^menuentry.*",
+        "Operation": "pattern match"
+      },
+      "Instance": {
+        "Datatype": "int",
+        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232951027",
+      "Version": "643",
       "Filepath": {
         "Text": "/boot/grub2/grub.cfg",
         "Datatype": "string"

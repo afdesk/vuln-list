@@ -166,24 +166,24 @@
       "Name": "future"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241722003",
+      "ID": "oval:com.redhat.cve:obj:202241722002",
+      "Version": "636",
+      "Name": "ignition"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202241722004",
       "Version": "636",
       "Name": "conmon-rs"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241722008",
-      "Version": "636",
-      "Name": "runc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241722012",
+      "ID": "oval:com.redhat.cve:obj:202241722010",
       "Version": "636",
       "Name": "conmon"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241722013",
+      "ID": "oval:com.redhat.cve:obj:202241722014",
       "Version": "636",
-      "Name": "ignition"
+      "Name": "runc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230836001",
