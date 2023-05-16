@@ -1,6 +1,6 @@
 {
   "id": "GHSA-r3xc-prgr-mg9p",
-  "modified": "2023-05-11T14:41:39.982754Z",
+  "modified": "2023-05-15T21:45:48.133245Z",
   "published": "2023-05-07T03:30:17Z",
   "aliases": [
     "CVE-2023-31047"
@@ -48,6 +48,11 @@
         "3.2.8",
         "3.2.9"
       ],
+      "ecosystem_specific": {
+        "affected_functions": [
+          "django.forms.widgets.FileInput"
+        ]
+      },
       "database_specific": {
         "source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/05/GHSA-r3xc-prgr-mg9p/GHSA-r3xc-prgr-mg9p.json"
       }
@@ -96,6 +101,11 @@
         "4.1b1",
         "4.1rc1"
       ],
+      "ecosystem_specific": {
+        "affected_functions": [
+          "django.forms.widgets.FileInput"
+        ]
+      },
       "database_specific": {
         "source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/05/GHSA-r3xc-prgr-mg9p/GHSA-r3xc-prgr-mg9p.json"
       }
@@ -122,6 +132,11 @@
       "versions": [
         "4.2"
       ],
+      "ecosystem_specific": {
+        "affected_functions": [
+          "django.forms.widgets.FileInput"
+        ]
+      },
       "database_specific": {
         "source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/05/GHSA-r3xc-prgr-mg9p/GHSA-r3xc-prgr-mg9p.json"
       }
