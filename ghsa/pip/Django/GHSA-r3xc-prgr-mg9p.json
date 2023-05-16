@@ -35,6 +35,9 @@
         "Url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/A45VKTUVQ2BN6D5ZLZGCM774R6QGFOHW/"
       },
       {
+        "Url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/DNEHD6N435OE2XUFGDAAVAXSYWLCUBFD/"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-r3xc-prgr-mg9p"
       }
     ],
@@ -53,7 +56,7 @@
     "PublishedAt": "2023-05-07T03:30:17Z",
     "Severity": "CRITICAL",
     "Summary": "Django bypasses validation when using one form field to upload multiple files",
-    "UpdatedAt": "2023-05-15T21:42:53Z",
+    "UpdatedAt": "2023-05-16T12:22:49Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,
