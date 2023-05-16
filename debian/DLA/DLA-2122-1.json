@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Feb 2020] DLA-2122-1 libusbmuxd - security update",
-    "Line": 3954,
+    "Line": 3960,
     "ID": "DLA-2122-1",
     "Description": "libusbmuxd - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-5104}",
-      "Line": 3955,
+      "Line": 3961,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-5104"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - libusbmuxd 1.0.9-1+deb8u1",
-      "Line": 3956,
+      "Line": 3962,
       "Type": "package",
       "Release": "jessie",
       "Package": "libusbmuxd",
