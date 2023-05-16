@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Jun 2019] DLA-1816-1 otrs2 - security update",
-    "Line": 4919,
+    "Line": 4922,
     "ID": "DLA-1816-1",
     "Description": "otrs2 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-12248 CVE-2019-12497}",
-      "Line": 4920,
+      "Line": 4923,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-12248",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - otrs2 3.3.18-1+deb8u10",
-      "Line": 4921,
+      "Line": 4924,
       "Type": "package",
       "Release": "jessie",
       "Package": "otrs2",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Feb 2016] DLA-421-1 openssl - security update",
-    "Line": 9152,
+    "Line": 9155,
     "ID": "DLA-421-1",
     "Description": "openssl - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-3197}",
-      "Line": 9153,
+      "Line": 9156,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-3197"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - openssl 0.9.8o-4squeeze23",
-      "Line": 9154,
+      "Line": 9157,
       "Type": "package",
       "Release": "squeeze",
       "Package": "openssl",

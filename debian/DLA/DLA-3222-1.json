@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Dec 2022] DLA-3222-1 node-fetch - security update",
-    "Line": 617,
+    "Line": 620,
     "ID": "DLA-3222-1",
     "Description": "node-fetch - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-0235}",
-      "Line": 618,
+      "Line": 621,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-0235"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - node-fetch 1.7.3-1+deb10u1",
-      "Line": 619,
+      "Line": 622,
       "Type": "package",
       "Release": "buster",
       "Package": "node-fetch",
