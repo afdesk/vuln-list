@@ -1,6 +1,6 @@
 {
-  "Severity": "MODERATE",
-  "UpdatedAt": "2023-05-09T21:35:47Z",
+  "Severity": "CRITICAL",
+  "UpdatedAt": "2023-05-15T21:42:53Z",
   "Package": {
     "Ecosystem": "PIP",
     "Name": "Django"
@@ -51,13 +51,13 @@
     "Description": "In Django 3.2 before 3.2.19, 4.x before 4.1.9, and 4.2 before 4.2.1, it was possible to bypass validation when using one form field to upload multiple files. This multiple upload has never been supported by forms.FileField or forms.ImageField (only the last uploaded file was validated). However, Django's \"Uploading multiple files\" documentation suggested otherwise.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-07T03:30:17Z",
-    "Severity": "MODERATE",
+    "Severity": "CRITICAL",
     "Summary": "Django bypasses validation when using one form field to upload multiple files",
-    "UpdatedAt": "2023-05-11T14:08:12Z",
+    "UpdatedAt": "2023-05-15T21:42:53Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 9.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [
