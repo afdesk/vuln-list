@@ -173,17 +173,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:202241722008",
       "Version": "636",
-      "Name": "ignition"
+      "Name": "runc"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241722009",
+      "ID": "oval:com.redhat.cve:obj:202241722012",
       "Version": "636",
       "Name": "conmon"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241722011",
+      "ID": "oval:com.redhat.cve:obj:202241722013",
       "Version": "636",
-      "Name": "runc"
+      "Name": "ignition"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230836001",

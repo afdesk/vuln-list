@@ -107,7 +107,7 @@
                   },
                   {
                     "Comment": "dhcp-client is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222928010"
+                    "TestRef": "oval:com.redhat.cve:tst:20222928008"
                   }
                 ]
               },
@@ -133,7 +133,7 @@
                   },
                   {
                     "Comment": "dhcp-libs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222928006"
+                    "TestRef": "oval:com.redhat.cve:tst:20222928010"
                   }
                 ]
               },
@@ -146,7 +146,7 @@
                   },
                   {
                     "Comment": "dhcp-relay is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222928002"
+                    "TestRef": "oval:com.redhat.cve:tst:20222928006"
                   }
                 ]
               },
@@ -159,7 +159,7 @@
                   },
                   {
                     "Comment": "dhcp-server is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20222928008"
+                    "TestRef": "oval:com.redhat.cve:tst:20222928002"
                   }
                 ]
               }

@@ -8130,6 +8130,14 @@
       }
     },
     {
+      "ID": "oval:com.redhat.cve:ste:20232454002",
+      "Version": "636",
+      "Text": {
+        "Text": "\\nstream\\s*=\\s*15\\b[\\w\\W]*\\nstate\\s*=\\s*(enabled|1|true)|\\nstate\\s*=\\s*(enabled|1|true)[\\w\\W]*\\nstream\\s*=\\s*15\\b",
+        "Operation": "pattern match"
+      }
+    },
+    {
       "ID": "oval:com.redhat.rhsa:ste:20225214005",
       "Version": "635",
       "Text": {

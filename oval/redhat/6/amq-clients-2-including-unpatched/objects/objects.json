@@ -76,6 +76,11 @@
       "Name": "mysql-connector-java"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20232454001",
+      "Version": "636",
+      "Name": "postgresql"
+    },
+    {
       "ID": "oval:com.redhat.rhsa:obj:20190886001",
       "Version": "638",
       "Name": "python-qpid-proton"

@@ -5246,22 +5246,22 @@
       "Name": "kernel-debug-uki-virt"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20232458032",
+      "ID": "oval:com.redhat.rhsa:obj:20232458033",
       "Version": "644",
       "Name": "kernel-modules-core"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20232458037",
+      "ID": "oval:com.redhat.rhsa:obj:20232458038",
       "Version": "644",
       "Name": "kernel-uki-virt"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20232458043",
+      "ID": "oval:com.redhat.rhsa:obj:20232458044",
       "Version": "644",
       "Name": "kernel-zfcpdump-modules-core"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20232458047",
+      "ID": "oval:com.redhat.rhsa:obj:20232458048",
       "Version": "644",
       "Name": "rtla"
     },
@@ -5888,7 +5888,7 @@
       }
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20232458050",
+      "ID": "oval:com.redhat.rhsa:obj:20232458051",
       "Version": "644",
       "Filepath": {
         "Text": "/boot/grub2/grub.cfg",

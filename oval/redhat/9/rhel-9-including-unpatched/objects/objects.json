@@ -4166,6 +4166,21 @@
       "Name": "golang-misc"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202131239001",
+      "Version": "636",
+      "Name": "sqlite"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202131239002",
+      "Version": "636",
+      "Name": "sqlite-libs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202131239003",
+      "Version": "636",
+      "Name": "sqlite-devel"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202131535001",
       "Version": "636",
       "Name": "libX11-devel"
@@ -4329,16 +4344,6 @@
       "ID": "oval:com.redhat.cve:obj:202133621022",
       "Version": "636",
       "Name": "ruby"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202133656013",
-      "Version": "636",
-      "Name": "kernel-rt-debug-modules-core"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202133656015",
-      "Version": "636",
-      "Name": "kernel-rt-modules-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202134558001",
@@ -4611,6 +4616,16 @@
       "Name": "ant-apache-bsf"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20213714010",
+      "Version": "636",
+      "Name": "kernel-rt-modules-core"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213714061",
+      "Version": "636",
+      "Name": "kernel-rt-debug-modules-core"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202137519001",
       "Version": "636",
       "Name": "memcached-selinux"
@@ -4653,7 +4668,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20213782001",
       "Version": "636",
-      "Name": "wayland-devel"
+      "Name": "libwayland-server"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213782002",
@@ -4663,17 +4678,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20213782003",
       "Version": "636",
-      "Name": "libwayland-cursor"
+      "Name": "libwayland-client"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213782004",
       "Version": "636",
-      "Name": "libwayland-client"
+      "Name": "libwayland-cursor"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213782005",
       "Version": "636",
-      "Name": "libwayland-server"
+      "Name": "wayland-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213807003",
@@ -5186,19 +5201,19 @@
       "Name": "compat-openssl11"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221705003",
+      "ID": "oval:com.redhat.cve:obj:20221705002",
+      "Version": "636",
+      "Name": "weldr-client"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20221705004",
       "Version": "636",
       "Name": "butane"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221705016",
+      "ID": "oval:com.redhat.cve:obj:20221705006",
       "Version": "636",
       "Name": "ignition"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20221705019",
-      "Version": "636",
-      "Name": "weldr-client"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20221708001",
@@ -5333,47 +5348,47 @@
     {
       "ID": "oval:com.redhat.cve:obj:202225147001",
       "Version": "636",
-      "Name": "apr-util-odbc"
+      "Name": "apr-util"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147002",
       "Version": "636",
-      "Name": "apr-util"
+      "Name": "apr-util-odbc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147003",
       "Version": "636",
-      "Name": "apr-util-openssl"
+      "Name": "apr-util-ldap"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147004",
       "Version": "636",
-      "Name": "apr-util-devel"
+      "Name": "apr-util-pgsql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147005",
       "Version": "636",
-      "Name": "apr-util-sqlite"
+      "Name": "apr-util-openssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147006",
       "Version": "636",
-      "Name": "apr-util-bdb"
+      "Name": "apr-util-mysql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147007",
       "Version": "636",
-      "Name": "apr-util-ldap"
+      "Name": "apr-util-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147008",
       "Version": "636",
-      "Name": "apr-util-pgsql"
+      "Name": "apr-util-bdb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225147009",
       "Version": "636",
-      "Name": "apr-util-mysql"
+      "Name": "apr-util-sqlite"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881001",
@@ -5936,7 +5951,7 @@
       "Name": "toolbox"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202230629005",
+      "ID": "oval:com.redhat.cve:obj:202230629002",
       "Version": "636",
       "Name": "toolbox-tests"
     },
@@ -5958,97 +5973,97 @@
     {
       "ID": "oval:com.redhat.cve:obj:202232189001",
       "Version": "636",
-      "Name": "rsyslog-doc"
+      "Name": "rsyslog-kafka"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189002",
       "Version": "636",
-      "Name": "rsyslog-pgsql"
+      "Name": "rsyslog-mmkubernetes"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189003",
       "Version": "636",
-      "Name": "rsyslog-openssl"
+      "Name": "rsyslog-elasticsearch"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189006",
-      "Version": "636",
-      "Name": "rsyslog-mmaudit"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189008",
-      "Version": "636",
-      "Name": "rsyslog-mmnormalize"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189012",
-      "Version": "636",
-      "Name": "rsyslog-mmjsonparse"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189014",
-      "Version": "636",
-      "Name": "rsyslog-gnutls"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189015",
-      "Version": "636",
-      "Name": "rsyslog-mmfields"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189017",
+      "ID": "oval:com.redhat.cve:obj:202232189004",
       "Version": "636",
       "Name": "rsyslog-snmp"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189018",
-      "Version": "636",
-      "Name": "rsyslog-logrotate"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189020",
-      "Version": "636",
-      "Name": "rsyslog-kafka"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189021",
+      "ID": "oval:com.redhat.cve:obj:202232189006",
       "Version": "636",
       "Name": "rsyslog-omamqp1"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189023",
+      "ID": "oval:com.redhat.cve:obj:202232189007",
+      "Version": "636",
+      "Name": "rsyslog-crypto"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189008",
+      "Version": "636",
+      "Name": "rsyslog-mmaudit"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189010",
+      "Version": "636",
+      "Name": "rsyslog-mmfields"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189011",
+      "Version": "636",
+      "Name": "rsyslog-doc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189014",
+      "Version": "636",
+      "Name": "rsyslog-logrotate"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189016",
+      "Version": "636",
+      "Name": "rsyslog-pgsql"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189019",
+      "Version": "636",
+      "Name": "rsyslog-gssapi"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189020",
       "Version": "636",
       "Name": "rsyslog-mmsnmptrapd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189024",
       "Version": "636",
-      "Name": "rsyslog-gssapi"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189025",
-      "Version": "636",
-      "Name": "rsyslog"
+      "Name": "rsyslog-mysql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189026",
       "Version": "636",
-      "Name": "rsyslog-elasticsearch"
+      "Name": "rsyslog-mmjsonparse"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189029",
       "Version": "636",
-      "Name": "rsyslog-crypto"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189032",
-      "Version": "636",
-      "Name": "rsyslog-mmkubernetes"
+      "Name": "rsyslog-gnutls"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189033",
       "Version": "636",
+      "Name": "rsyslog-mmnormalize"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189036",
+      "Version": "636",
       "Name": "rsyslog-relp"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189037",
+      "Version": "636",
+      "Name": "rsyslog-openssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189038",
@@ -6056,9 +6071,9 @@
       "Name": "rsyslog-udpspoof"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189039",
+      "ID": "oval:com.redhat.cve:obj:202232189040",
       "Version": "636",
-      "Name": "rsyslog-mysql"
+      "Name": "rsyslog"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223219001",
@@ -6518,12 +6533,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202238784001",
       "Version": "636",
-      "Name": "poppler-qt5-devel"
+      "Name": "poppler-cpp-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202238784002",
       "Version": "636",
-      "Name": "poppler-cpp-devel"
+      "Name": "poppler-cpp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202238784003",
@@ -6533,32 +6548,32 @@
     {
       "ID": "oval:com.redhat.cve:obj:202238784004",
       "Version": "636",
-      "Name": "poppler-devel"
+      "Name": "poppler-utils"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202238784005",
       "Version": "636",
-      "Name": "poppler-cpp"
+      "Name": "poppler-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202238784006",
       "Version": "636",
-      "Name": "poppler-utils"
+      "Name": "poppler-glib-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202238784007",
       "Version": "636",
-      "Name": "poppler-glib-devel"
+      "Name": "poppler-qt5-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202238784008",
       "Version": "636",
-      "Name": "poppler-glib"
+      "Name": "poppler"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202238784009",
       "Version": "636",
-      "Name": "poppler"
+      "Name": "poppler-glib"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202239955001",
@@ -6576,7 +6591,7 @@
       "Name": "xdg-utils"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202240674002",
+      "ID": "oval:com.redhat.cve:obj:202240674001",
       "Version": "636",
       "Name": "firefox-x11"
     },
@@ -6631,14 +6646,54 @@
       "Name": "pki-jackson-databind"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20224285004",
+      "ID": "oval:com.redhat.cve:obj:202242252002",
+      "Version": "636",
+      "Name": "tomcat-el-3.0-api"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202242252003",
+      "Version": "636",
+      "Name": "tomcat-admin-webapps"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202242252005",
+      "Version": "636",
+      "Name": "tomcat-lib"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202242252006",
+      "Version": "636",
+      "Name": "tomcat-webapps"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202242252007",
+      "Version": "636",
+      "Name": "tomcat-jsp-2.3-api"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202242252008",
+      "Version": "636",
+      "Name": "tomcat-docs-webapp"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202242252009",
+      "Version": "636",
+      "Name": "tomcat-servlet-4.0-api"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202242252010",
+      "Version": "636",
+      "Name": "tomcat"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20224285003",
       "Version": "636",
       "Name": "gcc-toolset-12-gdb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20224304001",
       "Version": "636",
-      "Name": "shim-aa64"
+      "Name": "shim"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20224304003",
@@ -6648,7 +6703,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20224304004",
       "Version": "636",
-      "Name": "shim"
+      "Name": "shim-aa64"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202244638001",
@@ -7136,6 +7191,76 @@
       "Name": "pkgconf-m4"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20232454001",
+      "Version": "636",
+      "Name": "postgresql-plpython3"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232454002",
+      "Version": "636",
+      "Name": "postgresql-pltcl"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232454003",
+      "Version": "636",
+      "Name": "postgresql-plperl"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232454004",
+      "Version": "636",
+      "Name": "postgresql-contrib"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232454005",
+      "Version": "636",
+      "Name": "postgresql-private-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232454006",
+      "Version": "636",
+      "Name": "postgresql-upgrade"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232454007",
+      "Version": "636",
+      "Name": "postgresql"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232454008",
+      "Version": "636",
+      "Name": "postgresql-server"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232454009",
+      "Version": "636",
+      "Name": "postgresql-private-libs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232454010",
+      "Version": "636",
+      "Name": "postgresql-docs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232454011",
+      "Version": "636",
+      "Name": "postgresql-upgrade-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232454012",
+      "Version": "636",
+      "Name": "postgresql-static"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232454013",
+      "Version": "636",
+      "Name": "postgresql-server-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232454014",
+      "Version": "636",
+      "Name": "postgresql-test"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202324593001",
       "Version": "636",
       "Name": "glib2-devel"
@@ -7159,11 +7284,6 @@
       "ID": "oval:com.redhat.cve:obj:202324593005",
       "Version": "636",
       "Name": "glib2-doc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324998001",
-      "Version": "636",
-      "Name": "tomcat"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202325193001",
@@ -7604,61 +7724,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20224592002",
       "Version": "636",
       "Name": "rsync-daemon"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20224771001",
-      "Version": "636",
-      "Name": "postgresql"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20224771002",
-      "Version": "636",
-      "Name": "postgresql-contrib"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20224771003",
-      "Version": "636",
-      "Name": "postgresql-plperl"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20224771004",
-      "Version": "636",
-      "Name": "postgresql-plpython3"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20224771005",
-      "Version": "636",
-      "Name": "postgresql-pltcl"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20224771006",
-      "Version": "636",
-      "Name": "postgresql-private-devel"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20224771007",
-      "Version": "636",
-      "Name": "postgresql-private-libs"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20224771008",
-      "Version": "636",
-      "Name": "postgresql-server"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20224771009",
-      "Version": "636",
-      "Name": "postgresql-server-devel"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20224771010",
-      "Version": "636",
-      "Name": "postgresql-test"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20224771011",
-      "Version": "636",
-      "Name": "postgresql-upgrade"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20224940001",
@@ -8696,21 +8761,6 @@
       "Name": "dbus-x11"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20230339001",
-      "Version": "635",
-      "Name": "sqlite"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20230339002",
-      "Version": "635",
-      "Name": "sqlite-devel"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20230339003",
-      "Version": "635",
-      "Name": "sqlite-libs"
-    },
-    {
       "ID": "oval:com.redhat.rhsa:obj:20230340001",
       "Version": "635",
       "Name": "bash"
@@ -8844,21 +8894,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20231681008",
       "Version": "635",
       "Name": "kpatch-patch-5_14_0-162_22_2"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20231693003",
-      "Version": "635",
-      "Name": "postgresql-docs"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20231693011",
-      "Version": "635",
-      "Name": "postgresql-static"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20231693014",
-      "Version": "635",
-      "Name": "postgresql-upgrade-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20232078001",
@@ -12438,7 +12473,7 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:20213520001",
       "Version": "635",
-      "Name": "lz4-devel"
+      "Name": "lz4-libs"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213520002",
@@ -12448,7 +12483,7 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:20213520003",
       "Version": "635",
-      "Name": "lz4-libs"
+      "Name": "lz4-devel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213551007",
@@ -13767,6 +13802,22 @@
       }
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20232454015",
+      "Version": "636",
+      "Filepath": {
+        "Text": "/etc/dnf/modules.d/postgresql.module",
+        "Datatype": "string"
+      },
+      "Pattern": {
+        "Text": "\\[postgresql\\][\\w\\W]*",
+        "Operation": "pattern match"
+      },
+      "Instance": {
+        "Text": "1",
+        "Datatype": "int"
+      }
+    },
+    {
       "ID": "oval:com.redhat.rhsa:obj:20225214004",
       "Version": "635",
       "Filepath": {
@@ -14199,7 +14250,7 @@
       }
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20232458050",
+      "ID": "oval:com.redhat.rhsa:obj:20232458051",
       "Version": "644",
       "Filepath": {
         "Text": "/boot/grub2/grub.cfg",

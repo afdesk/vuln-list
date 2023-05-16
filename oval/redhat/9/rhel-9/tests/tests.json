@@ -39066,8 +39066,20 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-modules is earlier than 0:5.14.0-284.11.1.el9_2",
+      "Comment": "kernel-headers is earlier than 0:5.14.0-284.11.1.el9_2",
       "ID": "oval:com.redhat.rhsa:tst:20232458061",
+      "Version": "644",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20225249015"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232458003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-modules is earlier than 0:5.14.0-284.11.1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20232458063",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225249016"
@@ -39079,10 +39091,10 @@
     {
       "Check": "at least one",
       "Comment": "kernel-modules-core is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458063",
+      "ID": "oval:com.redhat.rhsa:tst:20232458065",
       "Version": "644",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458032"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458033"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232458003"
@@ -39091,10 +39103,10 @@
     {
       "Check": "at least one",
       "Comment": "kernel-modules-core is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20232458064",
+      "ID": "oval:com.redhat.rhsa:tst:20232458066",
       "Version": "644",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458032"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458033"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhba:ste:20225749002"
@@ -39103,7 +39115,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-modules-extra is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458065",
+      "ID": "oval:com.redhat.rhsa:tst:20232458067",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225249017"
@@ -39115,7 +39127,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-tools is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458067",
+      "ID": "oval:com.redhat.rhsa:tst:20232458069",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225249018"
@@ -39127,7 +39139,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-tools-libs is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458069",
+      "ID": "oval:com.redhat.rhsa:tst:20232458071",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225249019"
@@ -39139,7 +39151,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-tools-libs-devel is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458071",
+      "ID": "oval:com.redhat.rhsa:tst:20232458073",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225249020"
@@ -39151,10 +39163,10 @@
     {
       "Check": "at least one",
       "Comment": "kernel-uki-virt is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458073",
+      "ID": "oval:com.redhat.rhsa:tst:20232458075",
       "Version": "644",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458037"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458038"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232458006"
@@ -39163,10 +39175,10 @@
     {
       "Check": "at least one",
       "Comment": "kernel-uki-virt is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20232458074",
+      "ID": "oval:com.redhat.rhsa:tst:20232458076",
       "Version": "644",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458037"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458038"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhba:ste:20225749002"
@@ -39175,7 +39187,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-zfcpdump is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458075",
+      "ID": "oval:com.redhat.rhsa:tst:20232458077",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225249021"
@@ -39187,7 +39199,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-zfcpdump-core is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458077",
+      "ID": "oval:com.redhat.rhsa:tst:20232458079",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225249022"
@@ -39199,7 +39211,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-zfcpdump-devel is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458079",
+      "ID": "oval:com.redhat.rhsa:tst:20232458081",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225249023"
@@ -39211,7 +39223,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-zfcpdump-devel-matched is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458081",
+      "ID": "oval:com.redhat.rhsa:tst:20232458083",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225249024"
@@ -39223,7 +39235,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-zfcpdump-modules is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458083",
+      "ID": "oval:com.redhat.rhsa:tst:20232458085",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225249025"
@@ -39235,10 +39247,10 @@
     {
       "Check": "at least one",
       "Comment": "kernel-zfcpdump-modules-core is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458085",
+      "ID": "oval:com.redhat.rhsa:tst:20232458087",
       "Version": "644",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458043"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458044"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232458008"
@@ -39247,10 +39259,10 @@
     {
       "Check": "at least one",
       "Comment": "kernel-zfcpdump-modules-core is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20232458086",
+      "ID": "oval:com.redhat.rhsa:tst:20232458088",
       "Version": "644",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458043"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458044"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhba:ste:20225749002"
@@ -39259,7 +39271,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-zfcpdump-modules-extra is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458087",
+      "ID": "oval:com.redhat.rhsa:tst:20232458089",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225249026"
@@ -39271,7 +39283,7 @@
     {
       "Check": "at least one",
       "Comment": "perf is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458089",
+      "ID": "oval:com.redhat.rhsa:tst:20232458091",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225249027"
@@ -39283,7 +39295,7 @@
     {
       "Check": "at least one",
       "Comment": "python3-perf is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458091",
+      "ID": "oval:com.redhat.rhsa:tst:20232458093",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.rhsa:obj:20225249028"
@@ -39295,10 +39307,10 @@
     {
       "Check": "at least one",
       "Comment": "rtla is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458093",
+      "ID": "oval:com.redhat.rhsa:tst:20232458095",
       "Version": "644",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458047"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458048"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232458003"
@@ -39307,10 +39319,10 @@
     {
       "Check": "at least one",
       "Comment": "rtla is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20232458094",
+      "ID": "oval:com.redhat.rhsa:tst:20232458096",
       "Version": "644",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458047"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458048"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhba:ste:20225749002"
@@ -41423,10 +41435,10 @@
     {
       "Check": "all",
       "Comment": "kernel earlier than 0:5.14.0-284.11.1.el9_2 is set to boot up on next boot",
-      "ID": "oval:com.redhat.rhsa:tst:20232458096",
+      "ID": "oval:com.redhat.rhsa:tst:20232458098",
       "Version": "644",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458050"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458051"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232148004"

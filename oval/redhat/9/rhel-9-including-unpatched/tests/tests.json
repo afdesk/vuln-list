@@ -18328,6 +18328,72 @@
     },
     {
       "Check": "at least one",
+      "Comment": "sqlite is installed",
+      "ID": "oval:com.redhat.cve:tst:202131239001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202131239001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "sqlite is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202131239002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202131239001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "sqlite-libs is installed",
+      "ID": "oval:com.redhat.cve:tst:202131239003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202131239002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "sqlite-libs is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202131239004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202131239002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "sqlite-devel is installed",
+      "ID": "oval:com.redhat.cve:tst:202131239005",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202131239003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "sqlite-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202131239006",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202131239003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "libX11-devel is installed",
       "ID": "oval:com.redhat.cve:tst:202131535001",
       "Version": "636",
@@ -19047,50 +19113,6 @@
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202133621022"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-rt-debug-modules-core is installed",
-      "ID": "oval:com.redhat.cve:tst:202133656025",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202133656013"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-rt-debug-modules-core is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202133656026",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202133656013"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-rt-modules-core is installed",
-      "ID": "oval:com.redhat.cve:tst:202133656029",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202133656015"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-rt-modules-core is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202133656030",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202133656015"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -20286,6 +20308,50 @@
     },
     {
       "Check": "at least one",
+      "Comment": "kernel-rt-modules-core is installed",
+      "ID": "oval:com.redhat.cve:tst:20213714019",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20213714010"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-rt-modules-core is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20213714020",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20213714010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-rt-debug-modules-core is installed",
+      "ID": "oval:com.redhat.cve:tst:20213714121",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20213714061"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-rt-debug-modules-core is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20213714122",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20213714061"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "memcached-selinux is installed",
       "ID": "oval:com.redhat.cve:tst:202137519001",
       "Version": "636",
@@ -20462,7 +20528,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "wayland-devel is installed",
+      "Comment": "libwayland-server is installed",
       "ID": "oval:com.redhat.cve:tst:20213782001",
       "Version": "636",
       "Object": {
@@ -20472,7 +20538,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "wayland-devel is signed with Red Hat redhatrelease2 key",
+      "Comment": "libwayland-server is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20213782002",
       "Version": "636",
       "Object": {
@@ -20506,7 +20572,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libwayland-cursor is installed",
+      "Comment": "libwayland-client is installed",
       "ID": "oval:com.redhat.cve:tst:20213782005",
       "Version": "636",
       "Object": {
@@ -20516,7 +20582,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libwayland-cursor is signed with Red Hat redhatrelease2 key",
+      "Comment": "libwayland-client is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20213782006",
       "Version": "636",
       "Object": {
@@ -20528,7 +20594,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libwayland-client is installed",
+      "Comment": "libwayland-cursor is installed",
       "ID": "oval:com.redhat.cve:tst:20213782007",
       "Version": "636",
       "Object": {
@@ -20538,7 +20604,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libwayland-client is signed with Red Hat redhatrelease2 key",
+      "Comment": "libwayland-cursor is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20213782008",
       "Version": "636",
       "Object": {
@@ -20550,7 +20616,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libwayland-server is installed",
+      "Comment": "wayland-devel is installed",
       "ID": "oval:com.redhat.cve:tst:20213782009",
       "Version": "636",
       "Object": {
@@ -20560,7 +20626,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libwayland-server is signed with Red Hat redhatrelease2 key",
+      "Comment": "wayland-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20213782010",
       "Version": "636",
       "Object": {
@@ -22816,21 +22882,43 @@
     },
     {
       "Check": "at least one",
-      "Comment": "butane is installed",
-      "ID": "oval:com.redhat.cve:tst:20221705005",
+      "Comment": "weldr-client is installed",
+      "ID": "oval:com.redhat.cve:tst:20221705003",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221705003"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221705002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "weldr-client is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20221705004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20221705002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "butane is installed",
+      "ID": "oval:com.redhat.cve:tst:20221705007",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20221705004"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "butane is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20221705006",
+      "ID": "oval:com.redhat.cve:tst:20221705008",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221705003"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221705004"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -22839,42 +22927,20 @@
     {
       "Check": "at least one",
       "Comment": "ignition is installed",
-      "ID": "oval:com.redhat.cve:tst:20221705031",
+      "ID": "oval:com.redhat.cve:tst:20221705011",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221705016"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221705006"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "ignition is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20221705032",
+      "ID": "oval:com.redhat.cve:tst:20221705012",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221705016"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "weldr-client is installed",
-      "ID": "oval:com.redhat.cve:tst:20221705037",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221705019"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "weldr-client is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20221705038",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221705019"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221705006"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -23454,7 +23520,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util-odbc is installed",
+      "Comment": "apr-util is installed",
       "ID": "oval:com.redhat.cve:tst:202225147001",
       "Version": "636",
       "Object": {
@@ -23464,7 +23530,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util-odbc is signed with Red Hat redhatrelease2 key",
+      "Comment": "apr-util is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202225147002",
       "Version": "636",
       "Object": {
@@ -23476,7 +23542,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util is installed",
+      "Comment": "apr-util-odbc is installed",
       "ID": "oval:com.redhat.cve:tst:202225147003",
       "Version": "636",
       "Object": {
@@ -23486,7 +23552,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util is signed with Red Hat redhatrelease2 key",
+      "Comment": "apr-util-odbc is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202225147004",
       "Version": "636",
       "Object": {
@@ -23498,7 +23564,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util-openssl is installed",
+      "Comment": "apr-util-ldap is installed",
       "ID": "oval:com.redhat.cve:tst:202225147005",
       "Version": "636",
       "Object": {
@@ -23508,7 +23574,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util-openssl is signed with Red Hat redhatrelease2 key",
+      "Comment": "apr-util-ldap is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202225147006",
       "Version": "636",
       "Object": {
@@ -23520,7 +23586,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util-devel is installed",
+      "Comment": "apr-util-pgsql is installed",
       "ID": "oval:com.redhat.cve:tst:202225147007",
       "Version": "636",
       "Object": {
@@ -23530,7 +23596,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util-devel is signed with Red Hat redhatrelease2 key",
+      "Comment": "apr-util-pgsql is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202225147008",
       "Version": "636",
       "Object": {
@@ -23542,7 +23608,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util-sqlite is installed",
+      "Comment": "apr-util-openssl is installed",
       "ID": "oval:com.redhat.cve:tst:202225147009",
       "Version": "636",
       "Object": {
@@ -23552,7 +23618,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util-sqlite is signed with Red Hat redhatrelease2 key",
+      "Comment": "apr-util-openssl is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202225147010",
       "Version": "636",
       "Object": {
@@ -23564,7 +23630,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util-bdb is installed",
+      "Comment": "apr-util-mysql is installed",
       "ID": "oval:com.redhat.cve:tst:202225147011",
       "Version": "636",
       "Object": {
@@ -23574,7 +23640,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util-bdb is signed with Red Hat redhatrelease2 key",
+      "Comment": "apr-util-mysql is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202225147012",
       "Version": "636",
       "Object": {
@@ -23586,7 +23652,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util-ldap is installed",
+      "Comment": "apr-util-devel is installed",
       "ID": "oval:com.redhat.cve:tst:202225147013",
       "Version": "636",
       "Object": {
@@ -23596,7 +23662,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util-ldap is signed with Red Hat redhatrelease2 key",
+      "Comment": "apr-util-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202225147014",
       "Version": "636",
       "Object": {
@@ -23608,7 +23674,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util-pgsql is installed",
+      "Comment": "apr-util-bdb is installed",
       "ID": "oval:com.redhat.cve:tst:202225147015",
       "Version": "636",
       "Object": {
@@ -23618,7 +23684,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util-pgsql is signed with Red Hat redhatrelease2 key",
+      "Comment": "apr-util-bdb is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202225147016",
       "Version": "636",
       "Object": {
@@ -23630,7 +23696,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util-mysql is installed",
+      "Comment": "apr-util-sqlite is installed",
       "ID": "oval:com.redhat.cve:tst:202225147017",
       "Version": "636",
       "Object": {
@@ -23640,7 +23706,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apr-util-mysql is signed with Red Hat redhatrelease2 key",
+      "Comment": "apr-util-sqlite is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202225147018",
       "Version": "636",
       "Object": {
@@ -26117,20 +26183,20 @@
     {
       "Check": "at least one",
       "Comment": "toolbox-tests is installed",
-      "ID": "oval:com.redhat.cve:tst:202230629009",
+      "ID": "oval:com.redhat.cve:tst:202230629003",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202230629005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202230629002"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "toolbox-tests is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202230629010",
+      "ID": "oval:com.redhat.cve:tst:202230629004",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202230629005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202230629002"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -26204,7 +26270,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-doc is installed",
+      "Comment": "rsyslog-kafka is installed",
       "ID": "oval:com.redhat.cve:tst:202232189001",
       "Version": "636",
       "Object": {
@@ -26214,7 +26280,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-doc is signed with Red Hat redhatrelease2 key",
+      "Comment": "rsyslog-kafka is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202232189002",
       "Version": "636",
       "Object": {
@@ -26226,7 +26292,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-pgsql is installed",
+      "Comment": "rsyslog-mmkubernetes is installed",
       "ID": "oval:com.redhat.cve:tst:202232189003",
       "Version": "636",
       "Object": {
@@ -26236,7 +26302,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-pgsql is signed with Red Hat redhatrelease2 key",
+      "Comment": "rsyslog-mmkubernetes is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202232189004",
       "Version": "636",
       "Object": {
@@ -26248,7 +26314,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-openssl is installed",
+      "Comment": "rsyslog-elasticsearch is installed",
       "ID": "oval:com.redhat.cve:tst:202232189005",
       "Version": "636",
       "Object": {
@@ -26258,7 +26324,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-openssl is signed with Red Hat redhatrelease2 key",
+      "Comment": "rsyslog-elasticsearch is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202232189006",
       "Version": "636",
       "Object": {
@@ -26270,7 +26336,29 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-mmaudit is installed",
+      "Comment": "rsyslog-snmp is installed",
+      "ID": "oval:com.redhat.cve:tst:202232189007",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rsyslog-snmp is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202232189008",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rsyslog-omamqp1 is installed",
       "ID": "oval:com.redhat.cve:tst:202232189011",
       "Version": "636",
       "Object": {
@@ -26280,7 +26368,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-mmaudit is signed with Red Hat redhatrelease2 key",
+      "Comment": "rsyslog-omamqp1 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202232189012",
       "Version": "636",
       "Object": {
@@ -26292,7 +26380,29 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-mmnormalize is installed",
+      "Comment": "rsyslog-crypto is installed",
+      "ID": "oval:com.redhat.cve:tst:202232189013",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189007"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rsyslog-crypto is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202232189014",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rsyslog-mmaudit is installed",
       "ID": "oval:com.redhat.cve:tst:202232189015",
       "Version": "636",
       "Object": {
@@ -26302,7 +26412,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-mmnormalize is signed with Red Hat redhatrelease2 key",
+      "Comment": "rsyslog-mmaudit is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202232189016",
       "Version": "636",
       "Object": {
@@ -26314,21 +26424,21 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-mmjsonparse is installed",
-      "ID": "oval:com.redhat.cve:tst:202232189023",
+      "Comment": "rsyslog-mmfields is installed",
+      "ID": "oval:com.redhat.cve:tst:202232189019",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189012"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189010"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-mmjsonparse is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202232189024",
+      "Comment": "rsyslog-mmfields is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202232189020",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189012"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189010"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -26336,7 +26446,29 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-gnutls is installed",
+      "Comment": "rsyslog-doc is installed",
+      "ID": "oval:com.redhat.cve:tst:202232189021",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189011"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rsyslog-doc is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202232189022",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rsyslog-logrotate is installed",
       "ID": "oval:com.redhat.cve:tst:202232189027",
       "Version": "636",
       "Object": {
@@ -26346,7 +26478,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-gnutls is signed with Red Hat redhatrelease2 key",
+      "Comment": "rsyslog-logrotate is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202232189028",
       "Version": "636",
       "Object": {
@@ -26358,21 +26490,21 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-mmfields is installed",
-      "ID": "oval:com.redhat.cve:tst:202232189029",
+      "Comment": "rsyslog-pgsql is installed",
+      "ID": "oval:com.redhat.cve:tst:202232189031",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189015"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189016"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-mmfields is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202232189030",
+      "Comment": "rsyslog-pgsql is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202232189032",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189015"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189016"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -26380,21 +26512,21 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-snmp is installed",
-      "ID": "oval:com.redhat.cve:tst:202232189033",
+      "Comment": "rsyslog-gssapi is installed",
+      "ID": "oval:com.redhat.cve:tst:202232189037",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189017"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189019"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-snmp is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202232189034",
+      "Comment": "rsyslog-gssapi is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202232189038",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189017"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189019"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -26402,29 +26534,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-logrotate is installed",
-      "ID": "oval:com.redhat.cve:tst:202232189035",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189018"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rsyslog-logrotate is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202232189036",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189018"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rsyslog-kafka is installed",
+      "Comment": "rsyslog-mmsnmptrapd is installed",
       "ID": "oval:com.redhat.cve:tst:202232189039",
       "Version": "636",
       "Object": {
@@ -26434,7 +26544,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-kafka is signed with Red Hat redhatrelease2 key",
+      "Comment": "rsyslog-mmsnmptrapd is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202232189040",
       "Version": "636",
       "Object": {
@@ -26446,51 +26556,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-omamqp1 is installed",
-      "ID": "oval:com.redhat.cve:tst:202232189041",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189021"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rsyslog-omamqp1 is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202232189042",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189021"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rsyslog-mmsnmptrapd is installed",
-      "ID": "oval:com.redhat.cve:tst:202232189045",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189023"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rsyslog-mmsnmptrapd is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202232189046",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189023"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rsyslog-gssapi is installed",
+      "Comment": "rsyslog-mysql is installed",
       "ID": "oval:com.redhat.cve:tst:202232189047",
       "Version": "636",
       "Object": {
@@ -26500,7 +26566,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-gssapi is signed with Red Hat redhatrelease2 key",
+      "Comment": "rsyslog-mysql is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202232189048",
       "Version": "636",
       "Object": {
@@ -26512,29 +26578,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog is installed",
-      "ID": "oval:com.redhat.cve:tst:202232189049",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189025"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rsyslog is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202232189050",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189025"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rsyslog-elasticsearch is installed",
+      "Comment": "rsyslog-mmjsonparse is installed",
       "ID": "oval:com.redhat.cve:tst:202232189051",
       "Version": "636",
       "Object": {
@@ -26544,7 +26588,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-elasticsearch is signed with Red Hat redhatrelease2 key",
+      "Comment": "rsyslog-mmjsonparse is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202232189052",
       "Version": "636",
       "Object": {
@@ -26556,7 +26600,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-crypto is installed",
+      "Comment": "rsyslog-gnutls is installed",
       "ID": "oval:com.redhat.cve:tst:202232189057",
       "Version": "636",
       "Object": {
@@ -26566,7 +26610,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-crypto is signed with Red Hat redhatrelease2 key",
+      "Comment": "rsyslog-gnutls is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202232189058",
       "Version": "636",
       "Object": {
@@ -26578,29 +26622,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-mmkubernetes is installed",
-      "ID": "oval:com.redhat.cve:tst:202232189063",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189032"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rsyslog-mmkubernetes is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202232189064",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189032"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rsyslog-relp is installed",
+      "Comment": "rsyslog-mmnormalize is installed",
       "ID": "oval:com.redhat.cve:tst:202232189065",
       "Version": "636",
       "Object": {
@@ -26610,11 +26632,55 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-relp is signed with Red Hat redhatrelease2 key",
+      "Comment": "rsyslog-mmnormalize is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202232189066",
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202232189033"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rsyslog-relp is installed",
+      "ID": "oval:com.redhat.cve:tst:202232189071",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189036"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rsyslog-relp is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202232189072",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189036"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rsyslog-openssl is installed",
+      "ID": "oval:com.redhat.cve:tst:202232189073",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189037"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rsyslog-openssl is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202232189074",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189037"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -26644,21 +26710,21 @@
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-mysql is installed",
-      "ID": "oval:com.redhat.cve:tst:202232189077",
+      "Comment": "rsyslog is installed",
+      "ID": "oval:com.redhat.cve:tst:202232189079",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189039"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189040"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "rsyslog-mysql is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202232189078",
+      "Comment": "rsyslog is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202232189080",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189039"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189040"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -28668,7 +28734,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "poppler-qt5-devel is installed",
+      "Comment": "poppler-cpp-devel is installed",
       "ID": "oval:com.redhat.cve:tst:202238784001",
       "Version": "636",
       "Object": {
@@ -28678,7 +28744,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "poppler-qt5-devel is signed with Red Hat redhatrelease2 key",
+      "Comment": "poppler-cpp-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202238784002",
       "Version": "636",
       "Object": {
@@ -28690,7 +28756,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "poppler-cpp-devel is installed",
+      "Comment": "poppler-cpp is installed",
       "ID": "oval:com.redhat.cve:tst:202238784003",
       "Version": "636",
       "Object": {
@@ -28700,7 +28766,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "poppler-cpp-devel is signed with Red Hat redhatrelease2 key",
+      "Comment": "poppler-cpp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202238784004",
       "Version": "636",
       "Object": {
@@ -28734,7 +28800,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "poppler-devel is installed",
+      "Comment": "poppler-utils is installed",
       "ID": "oval:com.redhat.cve:tst:202238784007",
       "Version": "636",
       "Object": {
@@ -28744,7 +28810,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "poppler-devel is signed with Red Hat redhatrelease2 key",
+      "Comment": "poppler-utils is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202238784008",
       "Version": "636",
       "Object": {
@@ -28756,7 +28822,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "poppler-cpp is installed",
+      "Comment": "poppler-devel is installed",
       "ID": "oval:com.redhat.cve:tst:202238784009",
       "Version": "636",
       "Object": {
@@ -28766,7 +28832,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "poppler-cpp is signed with Red Hat redhatrelease2 key",
+      "Comment": "poppler-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202238784010",
       "Version": "636",
       "Object": {
@@ -28778,7 +28844,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "poppler-utils is installed",
+      "Comment": "poppler-glib-devel is installed",
       "ID": "oval:com.redhat.cve:tst:202238784011",
       "Version": "636",
       "Object": {
@@ -28788,7 +28854,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "poppler-utils is signed with Red Hat redhatrelease2 key",
+      "Comment": "poppler-glib-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202238784012",
       "Version": "636",
       "Object": {
@@ -28800,7 +28866,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "poppler-glib-devel is installed",
+      "Comment": "poppler-qt5-devel is installed",
       "ID": "oval:com.redhat.cve:tst:202238784013",
       "Version": "636",
       "Object": {
@@ -28810,7 +28876,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "poppler-glib-devel is signed with Red Hat redhatrelease2 key",
+      "Comment": "poppler-qt5-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202238784014",
       "Version": "636",
       "Object": {
@@ -28822,7 +28888,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "poppler-glib is installed",
+      "Comment": "poppler is installed",
       "ID": "oval:com.redhat.cve:tst:202238784015",
       "Version": "636",
       "Object": {
@@ -28832,7 +28898,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "poppler-glib is signed with Red Hat redhatrelease2 key",
+      "Comment": "poppler is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202238784016",
       "Version": "636",
       "Object": {
@@ -28844,7 +28910,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "poppler is installed",
+      "Comment": "poppler-glib is installed",
       "ID": "oval:com.redhat.cve:tst:202238784017",
       "Version": "636",
       "Object": {
@@ -28854,7 +28920,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "poppler is signed with Red Hat redhatrelease2 key",
+      "Comment": "poppler-glib is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202238784018",
       "Version": "636",
       "Object": {
@@ -28933,20 +28999,20 @@
     {
       "Check": "at least one",
       "Comment": "firefox-x11 is installed",
-      "ID": "oval:com.redhat.cve:tst:202240674003",
+      "ID": "oval:com.redhat.cve:tst:202240674001",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202240674002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202240674001"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "firefox-x11 is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202240674004",
+      "ID": "oval:com.redhat.cve:tst:202240674002",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202240674002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202240674001"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -29174,21 +29240,21 @@
     },
     {
       "Check": "at least one",
-      "Comment": "gcc-toolset-12-gdb is installed",
-      "ID": "oval:com.redhat.cve:tst:20224285007",
+      "Comment": "tomcat-el-3.0-api is installed",
+      "ID": "oval:com.redhat.cve:tst:202242252003",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20224285004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252002"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "gcc-toolset-12-gdb is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20224285008",
+      "Comment": "tomcat-el-3.0-api is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202242252004",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20224285004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252002"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -29196,7 +29262,183 @@
     },
     {
       "Check": "at least one",
-      "Comment": "shim-aa64 is installed",
+      "Comment": "tomcat-admin-webapps is installed",
+      "ID": "oval:com.redhat.cve:tst:202242252005",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-admin-webapps is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202242252006",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-lib is installed",
+      "ID": "oval:com.redhat.cve:tst:202242252009",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252005"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-lib is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202242252010",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-webapps is installed",
+      "ID": "oval:com.redhat.cve:tst:202242252011",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252006"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-webapps is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202242252012",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-jsp-2.3-api is installed",
+      "ID": "oval:com.redhat.cve:tst:202242252013",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252007"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-jsp-2.3-api is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202242252014",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-docs-webapp is installed",
+      "ID": "oval:com.redhat.cve:tst:202242252015",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252008"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-docs-webapp is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202242252016",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-servlet-4.0-api is installed",
+      "ID": "oval:com.redhat.cve:tst:202242252017",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252009"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat-servlet-4.0-api is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202242252018",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat is installed",
+      "ID": "oval:com.redhat.cve:tst:202242252019",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252010"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tomcat is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202242252020",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "gcc-toolset-12-gdb is installed",
+      "ID": "oval:com.redhat.cve:tst:20224285005",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20224285003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "gcc-toolset-12-gdb is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20224285006",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20224285003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "shim is installed",
       "ID": "oval:com.redhat.cve:tst:20224304001",
       "Version": "636",
       "Object": {
@@ -29206,7 +29448,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "shim-aa64 is signed with Red Hat redhatrelease2 key",
+      "Comment": "shim is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20224304002",
       "Version": "636",
       "Object": {
@@ -29240,7 +29482,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "shim is installed",
+      "Comment": "shim-aa64 is installed",
       "ID": "oval:com.redhat.cve:tst:20224304007",
       "Version": "636",
       "Object": {
@@ -29250,7 +29492,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "shim is signed with Red Hat redhatrelease2 key",
+      "Comment": "shim-aa64 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:20224304008",
       "Version": "636",
       "Object": {
@@ -31396,6 +31638,314 @@
     },
     {
       "Check": "at least one",
+      "Comment": "postgresql-plpython3 is installed",
+      "ID": "oval:com.redhat.cve:tst:20232454001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-plpython3 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232454002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-pltcl is installed",
+      "ID": "oval:com.redhat.cve:tst:20232454003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-pltcl is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232454004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-plperl is installed",
+      "ID": "oval:com.redhat.cve:tst:20232454005",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-plperl is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232454006",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-contrib is installed",
+      "ID": "oval:com.redhat.cve:tst:20232454007",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-contrib is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232454008",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-private-devel is installed",
+      "ID": "oval:com.redhat.cve:tst:20232454009",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454005"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-private-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232454010",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-upgrade is installed",
+      "ID": "oval:com.redhat.cve:tst:20232454011",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454006"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-upgrade is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232454012",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql is installed",
+      "ID": "oval:com.redhat.cve:tst:20232454013",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454007"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232454014",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-server is installed",
+      "ID": "oval:com.redhat.cve:tst:20232454015",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454008"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-server is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232454016",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-private-libs is installed",
+      "ID": "oval:com.redhat.cve:tst:20232454017",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454009"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-private-libs is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232454018",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-docs is installed",
+      "ID": "oval:com.redhat.cve:tst:20232454019",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454010"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-docs is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232454020",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-upgrade-devel is installed",
+      "ID": "oval:com.redhat.cve:tst:20232454021",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454011"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-upgrade-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232454022",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-static is installed",
+      "ID": "oval:com.redhat.cve:tst:20232454023",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454012"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-static is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232454024",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454012"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-server-devel is installed",
+      "ID": "oval:com.redhat.cve:tst:20232454025",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454013"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-server-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232454026",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454013"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-test is installed",
+      "ID": "oval:com.redhat.cve:tst:20232454027",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454014"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "postgresql-test is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232454028",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454014"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "glib2-devel is installed",
       "ID": "oval:com.redhat.cve:tst:202324593001",
       "Version": "636",
@@ -31499,28 +32049,6 @@
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202324593005"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tomcat is installed",
-      "ID": "oval:com.redhat.cve:tst:202324998001",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324998001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "tomcat is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324998002",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324998001"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -34662,22 +35190,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20224771001",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771001"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454007"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224771001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20224771002",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771001"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -34686,22 +35202,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20224771003",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771002"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454004"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224771001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-contrib is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20224771004",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771002"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -34710,22 +35214,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20224771005",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771003"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454003"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224771001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-plperl is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20224771006",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771003"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -34734,22 +35226,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20224771007",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771004"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224771001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-plpython3 is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20224771008",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771004"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -34758,22 +35238,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20224771009",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771005"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224771001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-pltcl is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20224771010",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771005"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -34782,22 +35250,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20224771011",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771006"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454005"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224771001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-private-devel is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20224771012",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771006"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -34806,22 +35262,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20224771013",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771007"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454009"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224771001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-private-libs is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20224771014",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771007"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -34830,22 +35274,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20224771015",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771008"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454008"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224771001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-server is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20224771016",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771008"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -34854,22 +35286,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20224771017",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771009"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454013"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224771001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-server-devel is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20224771018",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771009"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -34878,22 +35298,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20224771019",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771010"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454014"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224771001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-test is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20224771020",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771010"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -34902,22 +35310,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20224771021",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771011"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454006"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224771001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-upgrade is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20224771022",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771011"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -34938,7 +35334,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795001",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189025"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189040"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -34950,7 +35346,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795003",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189029"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189007"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -34962,7 +35358,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795005",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189011"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795003"
@@ -34974,7 +35370,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795007",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189026"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189003"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -34986,7 +35382,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795009",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189014"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189029"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -34998,7 +35394,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795011",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189024"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189019"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -35010,7 +35406,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795013",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189020"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -35022,7 +35418,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795015",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189018"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189014"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -35034,7 +35430,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795017",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189006"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189008"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -35046,7 +35442,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795019",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189015"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189010"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -35058,7 +35454,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795021",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189012"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189026"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -35070,7 +35466,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795023",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189032"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -35082,7 +35478,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795025",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189008"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189033"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -35094,7 +35490,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795027",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189023"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189020"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -35106,7 +35502,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795029",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189039"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189024"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -35118,7 +35514,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795031",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189021"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189006"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -35130,7 +35526,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795033",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189037"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -35142,7 +35538,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795035",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189016"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -35154,7 +35550,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795037",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189033"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189036"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -35166,7 +35562,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20224795039",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189017"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189004"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20224795001"
@@ -35934,7 +36330,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20225099033",
       "Version": "637",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20224304001"
+        "ObjectRef": "oval:com.redhat.cve:obj:20224304004"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20225099008"
@@ -43610,7 +44006,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20227950001",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221705019"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221705002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20227950001"
@@ -45818,7 +46214,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228098003",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202230629005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202230629002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228098001"
@@ -45914,7 +46310,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228126001",
       "Version": "637",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221705016"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221705006"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228126001"
@@ -45950,7 +46346,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228151001",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784009"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784008"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228151001"
@@ -45962,7 +46358,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228151003",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228151001"
@@ -45974,7 +46370,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228151005",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228151001"
@@ -45986,7 +46382,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228151007",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784005"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228151001"
@@ -45998,7 +46394,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228151009",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784008"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784009"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228151001"
@@ -46010,7 +46406,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228151011",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784007"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784006"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228151001"
@@ -46034,7 +46430,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228151015",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784007"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228151001"
@@ -46046,7 +46442,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228151017",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784006"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784004"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228151003"
@@ -53774,22 +54170,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20230339001",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20230339001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202131239001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20230339001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "sqlite is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20230339002",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20230339001"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -53798,22 +54182,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20230339003",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20230339002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202131239003"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20230339001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "sqlite-devel is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20230339004",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20230339002"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -53822,22 +54194,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20230339005",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20230339003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202131239002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20230339001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "sqlite-libs is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20230339006",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20230339003"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -54649,7 +55009,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20230810003",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202240674002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202240674001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20230810001"
@@ -56340,7 +56700,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231337003",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202240674002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202240674001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231337001"
@@ -57538,7 +57898,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231693001",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771001"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454007"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231693001"
@@ -57550,7 +57910,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231693003",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771002"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454004"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231693001"
@@ -57562,22 +57922,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20231693005",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20231693003"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454010"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231693001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-docs is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20231693006",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20231693003"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -57586,7 +57934,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231693007",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771003"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454003"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231693001"
@@ -57598,7 +57946,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231693009",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771004"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231693001"
@@ -57610,7 +57958,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231693011",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771005"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231693001"
@@ -57622,7 +57970,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231693013",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771006"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454005"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231693001"
@@ -57634,7 +57982,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231693015",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771007"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454009"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231693001"
@@ -57646,7 +57994,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231693017",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771008"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454008"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231693001"
@@ -57658,7 +58006,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231693019",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771009"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454013"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231693001"
@@ -57670,22 +58018,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20231693021",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20231693011"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454012"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231693001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-static is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20231693022",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20231693011"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -57694,7 +58030,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231693023",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771010"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454014"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231693001"
@@ -57706,7 +58042,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231693025",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771011"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454006"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231693001"
@@ -57718,22 +58054,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20231693027",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20231693014"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454011"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231693001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-upgrade-devel is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20231693028",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20231693014"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -58150,7 +58474,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231786003",
       "Version": "638",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202240674002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202240674001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231786001"
@@ -59470,7 +59794,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232148015",
       "Version": "640",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202133656013"
+        "ObjectRef": "oval:com.redhat.cve:obj:20213714061"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232148001"
@@ -59530,7 +59854,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232148025",
       "Version": "640",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202133656015"
+        "ObjectRef": "oval:com.redhat.cve:obj:20213714010"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232148001"
@@ -60862,7 +61186,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232193001",
       "Version": "637",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221705003"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221705004"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232193001"
@@ -60898,7 +61222,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232204001",
       "Version": "641",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221705019"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221705002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232204001"
@@ -61078,7 +61402,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232236003",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202230629005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202230629002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232236001"
@@ -61378,7 +61702,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232259001",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784009"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784008"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232259001"
@@ -61390,7 +61714,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232259003",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232259001"
@@ -61402,7 +61726,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232259005",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232259001"
@@ -61414,7 +61738,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232259007",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784005"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232259001"
@@ -61426,7 +61750,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232259009",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784008"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784009"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232259001"
@@ -61438,7 +61762,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232259011",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784007"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784006"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232259001"
@@ -61462,7 +61786,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232259015",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784007"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232259001"
@@ -61474,7 +61798,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232259017",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784006"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784004"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232259003"
@@ -63378,8 +63702,20 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-modules is earlier than 0:5.14.0-284.11.1.el9_2",
+      "Comment": "kernel-headers is earlier than 0:5.14.0-284.11.1.el9_2",
       "ID": "oval:com.redhat.rhsa:tst:20232458061",
+      "Version": "644",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089045"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232458003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-modules is earlier than 0:5.14.0-284.11.1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20232458063",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089032"
@@ -63391,7 +63727,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-modules-core is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458063",
+      "ID": "oval:com.redhat.rhsa:tst:20232458065",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089024"
@@ -63403,7 +63739,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-modules-extra is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458065",
+      "ID": "oval:com.redhat.rhsa:tst:20232458067",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089036"
@@ -63415,7 +63751,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-tools is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458067",
+      "ID": "oval:com.redhat.rhsa:tst:20232458069",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089038"
@@ -63427,7 +63763,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-tools-libs is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458069",
+      "ID": "oval:com.redhat.rhsa:tst:20232458071",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089027"
@@ -63439,7 +63775,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-tools-libs-devel is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458071",
+      "ID": "oval:com.redhat.rhsa:tst:20232458073",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089001"
@@ -63451,7 +63787,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-uki-virt is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458073",
+      "ID": "oval:com.redhat.rhsa:tst:20232458075",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089039"
@@ -63463,7 +63799,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-zfcpdump is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458075",
+      "ID": "oval:com.redhat.rhsa:tst:20232458077",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089002"
@@ -63475,7 +63811,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-zfcpdump-core is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458077",
+      "ID": "oval:com.redhat.rhsa:tst:20232458079",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089037"
@@ -63487,7 +63823,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-zfcpdump-devel is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458079",
+      "ID": "oval:com.redhat.rhsa:tst:20232458081",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089007"
@@ -63499,7 +63835,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-zfcpdump-devel-matched is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458081",
+      "ID": "oval:com.redhat.rhsa:tst:20232458083",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089012"
@@ -63511,7 +63847,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-zfcpdump-modules is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458083",
+      "ID": "oval:com.redhat.rhsa:tst:20232458085",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089026"
@@ -63523,7 +63859,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-zfcpdump-modules-core is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458085",
+      "ID": "oval:com.redhat.rhsa:tst:20232458087",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089010"
@@ -63535,7 +63871,7 @@
     {
       "Check": "at least one",
       "Comment": "kernel-zfcpdump-modules-extra is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458087",
+      "ID": "oval:com.redhat.rhsa:tst:20232458089",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089040"
@@ -63547,7 +63883,7 @@
     {
       "Check": "at least one",
       "Comment": "perf is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458089",
+      "ID": "oval:com.redhat.rhsa:tst:20232458091",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089023"
@@ -63559,7 +63895,7 @@
     {
       "Check": "at least one",
       "Comment": "python3-perf is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458091",
+      "ID": "oval:com.redhat.rhsa:tst:20232458093",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089006"
@@ -63571,7 +63907,7 @@
     {
       "Check": "at least one",
       "Comment": "rtla is earlier than 0:5.14.0-284.11.1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232458093",
+      "ID": "oval:com.redhat.rhsa:tst:20232458095",
       "Version": "644",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201916089013"
@@ -76159,7 +76495,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324998001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202242252010"
       },
       "State": {}
     },
@@ -76559,22 +76895,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "postgresql-upgrade is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202014349001",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771011"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "postgresql-upgrade is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202014349002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771011"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454006"
       },
       "State": {}
     },
@@ -76601,32 +76927,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "postgresql is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202014349005",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "postgresql is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202014349006",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-plpython3 is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202014349007",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771004"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454007"
       },
       "State": {}
     },
@@ -76637,17 +76943,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771004"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-test is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202014349009",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771010"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454001"
       },
       "State": {}
     },
@@ -76658,17 +76954,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771010"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-server is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202014349011",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771008"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454014"
       },
       "State": {}
     },
@@ -76679,17 +76965,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771008"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-private-libs is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202014349013",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771007"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454008"
       },
       "State": {}
     },
@@ -76700,17 +76976,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771007"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-contrib is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202014349015",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771002"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454009"
       },
       "State": {}
     },
@@ -76721,17 +76987,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771002"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-pltcl is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202014349017",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771005"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454004"
       },
       "State": {}
     },
@@ -76742,17 +76998,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771005"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-server-devel is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202014349019",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771009"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454002"
       },
       "State": {}
     },
@@ -76763,17 +77009,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771009"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-plperl is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202014349021",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771003"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454013"
       },
       "State": {}
     },
@@ -76784,17 +77020,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-private-devel is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202014349023",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771006"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454003"
       },
       "State": {}
     },
@@ -76805,7 +77031,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20224771006"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454005"
       },
       "State": {}
     },
@@ -80525,32 +80751,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sqlite-devel is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202024736001",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20230339002"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "sqlite-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202024736002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20230339002"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "sqlite is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202024736003",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20230339001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202131239003"
       },
       "State": {}
     },
@@ -80561,7 +80767,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20230339001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202131239001"
       },
       "State": {}
     },
@@ -80588,22 +80794,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sqlite-libs is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202024736007",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20230339003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "sqlite-libs is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202024736008",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20230339003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202131239002"
       },
       "State": {}
     },
@@ -82161,7 +82357,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784005"
       },
       "State": {}
     },
@@ -82172,7 +82368,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784002"
       },
       "State": {}
     },
@@ -82183,7 +82379,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784001"
       },
       "State": {}
     },
@@ -82205,7 +82401,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784009"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784008"
       },
       "State": {}
     },
@@ -82216,7 +82412,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784006"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784004"
       },
       "State": {}
     },
@@ -82227,7 +82423,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784008"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784009"
       },
       "State": {}
     },
@@ -82238,7 +82434,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784007"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784006"
       },
       "State": {}
     },
@@ -82249,7 +82445,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202238784001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202238784007"
       },
       "State": {}
     },
@@ -84994,32 +85190,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "postgresql-docs is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229003",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20231693003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "postgresql-docs is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202120229004",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20231693003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-upgrade-devel is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229005",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20231693014"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454010"
       },
       "State": {}
     },
@@ -85030,17 +85206,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20231693014"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "postgresql-static is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202120229017",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20231693011"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454011"
       },
       "State": {}
     },
@@ -85051,7 +85217,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20231693011"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454012"
       },
       "State": {}
     },
@@ -87915,23 +88081,23 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-rt-modules-core is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202133656010",
+      "Comment": "kernel-rt-debug-modules-core is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202133656012",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202133656015"
+        "ObjectRef": "oval:com.redhat.cve:obj:20213714061"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-rt-debug-modules-core is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202133656028",
+      "Comment": "kernel-rt-modules-core is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202133656020",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202133656013"
+        "ObjectRef": "oval:com.redhat.cve:obj:20213714010"
       },
       "State": {}
     },
@@ -88341,7 +88507,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "lz4-devel is installed",
+      "Comment": "lz4-libs is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213520001",
       "Version": "635",
       "Object": {
@@ -88351,7 +88517,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "lz4-devel is not installed",
+      "Comment": "lz4-libs is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213520002",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -88383,7 +88549,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "lz4-libs is installed",
+      "Comment": "lz4-devel is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213520005",
       "Version": "635",
       "Object": {
@@ -88393,7 +88559,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "lz4-libs is not installed",
+      "Comment": "lz4-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213520006",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -91494,7 +91660,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202240674002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202240674001"
       },
       "State": {}
     },
@@ -91696,7 +91862,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20224285004"
+        "ObjectRef": "oval:com.redhat.cve:obj:20224285003"
       },
       "State": {}
     },
@@ -93697,7 +93863,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20224304004"
+        "ObjectRef": "oval:com.redhat.cve:obj:20224304001"
       },
       "State": {}
     },
@@ -93719,7 +93885,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20224304001"
+        "ObjectRef": "oval:com.redhat.cve:obj:20224304004"
       },
       "State": {}
     },
@@ -95336,7 +95502,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202225147003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202225147005"
       },
       "State": {}
     },
@@ -95347,7 +95513,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202225147006"
+        "ObjectRef": "oval:com.redhat.cve:obj:202225147008"
       },
       "State": {}
     },
@@ -95358,7 +95524,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202225147002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202225147001"
       },
       "State": {}
     },
@@ -95369,7 +95535,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202225147009"
+        "ObjectRef": "oval:com.redhat.cve:obj:202225147006"
       },
       "State": {}
     },
@@ -95380,7 +95546,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202225147005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202225147009"
       },
       "State": {}
     },
@@ -95391,7 +95557,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202225147004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202225147007"
       },
       "State": {}
     },
@@ -95402,7 +95568,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202225147007"
+        "ObjectRef": "oval:com.redhat.cve:obj:202225147003"
       },
       "State": {}
     },
@@ -95413,7 +95579,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202225147008"
+        "ObjectRef": "oval:com.redhat.cve:obj:202225147004"
       },
       "State": {}
     },
@@ -95424,7 +95590,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202225147001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202225147002"
       },
       "State": {}
     },
@@ -96120,7 +96286,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221705019"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221705002"
       },
       "State": {}
     },
@@ -96131,7 +96297,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189006"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189008"
       },
       "State": {}
     },
@@ -96142,7 +96308,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189021"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189006"
       },
       "State": {}
     },
@@ -96153,7 +96319,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189020"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189001"
       },
       "State": {}
     },
@@ -96164,7 +96330,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189026"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189003"
       },
       "State": {}
     },
@@ -96175,7 +96341,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189018"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189014"
       },
       "State": {}
     },
@@ -96252,7 +96418,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189016"
       },
       "State": {}
     },
@@ -96295,7 +96461,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221705016"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221705006"
       },
       "State": {}
     },
@@ -96306,7 +96472,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202230629005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202230629002"
       },
       "State": {}
     },
@@ -96317,7 +96483,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189008"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189033"
       },
       "State": {}
     },
@@ -96328,7 +96494,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189033"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189036"
       },
       "State": {}
     },
@@ -96360,7 +96526,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189025"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189040"
       },
       "State": {}
     },
@@ -96371,7 +96537,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189014"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189029"
       },
       "State": {}
     },
@@ -96382,7 +96548,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189024"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189019"
       },
       "State": {}
     },
@@ -96393,7 +96559,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189012"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189026"
       },
       "State": {}
     },
@@ -96404,7 +96570,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189011"
       },
       "State": {}
     },
@@ -96415,7 +96581,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189032"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189002"
       },
       "State": {}
     },
@@ -96426,7 +96592,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189029"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189007"
       },
       "State": {}
     },
@@ -96437,7 +96603,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189039"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189024"
       },
       "State": {}
     },
@@ -96448,7 +96614,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189023"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189020"
       },
       "State": {}
     },
@@ -96459,7 +96625,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189017"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189004"
       },
       "State": {}
     },
@@ -96481,7 +96647,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189015"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189010"
       },
       "State": {}
     },
@@ -96503,7 +96669,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202232189003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202232189037"
       },
       "State": {}
     },
@@ -96514,7 +96680,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221705003"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221705004"
       },
       "State": {}
     },
@@ -98056,6 +98222,18 @@
     },
     {
       "Check": "all",
+      "Comment": "Module postgresql:15 is enabled",
+      "ID": "oval:com.redhat.cve:tst:20232454029",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232454015"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20232454002"
+      }
+    },
+    {
+      "Check": "all",
       "Comment": "kernel version 0:5.14.0-70.13.1.el9_0 is set to boot up on next boot",
       "ID": "oval:com.redhat.rhsa:tst:20225214007",
       "Version": "635",
@@ -98501,10 +98679,10 @@
     {
       "Check": "all",
       "Comment": "kernel earlier than 0:5.14.0-284.11.1.el9_2 is set to boot up on next boot",
-      "ID": "oval:com.redhat.rhsa:tst:20232458096",
+      "ID": "oval:com.redhat.rhsa:tst:20232458098",
       "Version": "644",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458050"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20232458051"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232148004"

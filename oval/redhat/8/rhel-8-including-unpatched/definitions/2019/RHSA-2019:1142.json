@@ -136,7 +136,7 @@
                           },
                           {
                             "Comment": "freeradius is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202241859026"
+                            "TestRef": "oval:com.redhat.cve:tst:202241859018"
                           }
                         ]
                       },
@@ -149,7 +149,7 @@
                           },
                           {
                             "Comment": "freeradius-devel is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202241859018"
+                            "TestRef": "oval:com.redhat.cve:tst:202241859020"
                           }
                         ]
                       },
@@ -175,7 +175,7 @@
                           },
                           {
                             "Comment": "freeradius-krb5 is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202241859022"
+                            "TestRef": "oval:com.redhat.cve:tst:202241859026"
                           }
                         ]
                       },
@@ -188,7 +188,7 @@
                           },
                           {
                             "Comment": "freeradius-ldap is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202241859010"
+                            "TestRef": "oval:com.redhat.cve:tst:202241859022"
                           }
                         ]
                       },
@@ -201,7 +201,7 @@
                           },
                           {
                             "Comment": "freeradius-mysql is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202241859012"
+                            "TestRef": "oval:com.redhat.cve:tst:202241859024"
                           }
                         ]
                       },
@@ -214,7 +214,7 @@
                           },
                           {
                             "Comment": "freeradius-perl is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202241859004"
+                            "TestRef": "oval:com.redhat.cve:tst:202241859014"
                           }
                         ]
                       },
@@ -227,7 +227,7 @@
                           },
                           {
                             "Comment": "freeradius-postgresql is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202241859024"
+                            "TestRef": "oval:com.redhat.cve:tst:202241859004"
                           }
                         ]
                       },
@@ -240,7 +240,7 @@
                           },
                           {
                             "Comment": "freeradius-rest is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202241859014"
+                            "TestRef": "oval:com.redhat.cve:tst:202241859006"
                           }
                         ]
                       },
@@ -253,7 +253,7 @@
                           },
                           {
                             "Comment": "freeradius-sqlite is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202241859006"
+                            "TestRef": "oval:com.redhat.cve:tst:202241859008"
                           }
                         ]
                       },
@@ -266,7 +266,7 @@
                           },
                           {
                             "Comment": "freeradius-unixODBC is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202241859020"
+                            "TestRef": "oval:com.redhat.cve:tst:202241859010"
                           }
                         ]
                       },
@@ -279,7 +279,7 @@
                           },
                           {
                             "Comment": "freeradius-utils is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:202241859008"
+                            "TestRef": "oval:com.redhat.cve:tst:202241859016"
                           }
                         ]
                       }

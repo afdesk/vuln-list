@@ -14218,17 +14218,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20213782001",
       "Version": "636",
-      "Name": "wayland-devel"
+      "Name": "wayland"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213782002",
       "Version": "636",
-      "Name": "libwayland-egl"
+      "Name": "libwayland-server"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213782003",
       "Version": "636",
-      "Name": "libwayland-cursor"
+      "Name": "libwayland-egl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213782004",
@@ -14243,12 +14243,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20213782006",
       "Version": "636",
-      "Name": "wayland"
+      "Name": "libwayland-cursor"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213782007",
       "Version": "636",
-      "Name": "libwayland-server"
+      "Name": "wayland-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213802001",
