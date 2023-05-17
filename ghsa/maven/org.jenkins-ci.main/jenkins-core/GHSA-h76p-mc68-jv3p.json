@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2023-03-17T14:44:28Z",
+  "UpdatedAt": "2023-05-17T04:05:42Z",
   "Package": {
     "Ecosystem": "MAVEN",
     "Name": "org.jenkins-ci.main:jenkins-core"
@@ -35,7 +35,7 @@
     "PublishedAt": "2023-03-10T21:30:19Z",
     "Severity": "HIGH",
     "Summary": "Denial of service in Jenkins Core",
-    "UpdatedAt": "2023-03-17T14:44:28Z",
+    "UpdatedAt": "2023-05-17T04:05:42Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
@@ -45,15 +45,21 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": ""
+        "Identifier": "2.387.1"
       },
-      "VulnerableVersionRange": "\u003c 2.375.4"
+      "VulnerableVersionRange": "\u003e= 2.376, \u003c 2.387.1"
     },
     {
       "FirstPatchedVersion": {
         "Identifier": "2.394"
       },
-      "VulnerableVersionRange": "\u003e= 2.376, \u003c 2.394"
+      "VulnerableVersionRange": "\u003e= 2.388, \u003c 2.394"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "2.375.4"
+      },
+      "VulnerableVersionRange": "\u003c 2.375.4"
     }
   ]
 }
