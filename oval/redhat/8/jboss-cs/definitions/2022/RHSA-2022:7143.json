@@ -1,9 +1,9 @@
 {
   "Class": "patch",
   "ID": "oval:com.redhat.rhsa:def:20227143",
-  "Version": "641",
+  "Version": "644",
   "Metadata": {
-    "Title": "RHSA-2022:7143: Red Hat JBoss Core Services Apache HTTP Server 2.4.51 security update (Important)",
+    "Title": "RHSA-2022:7143: Red Hat JBoss Core Services Apache HTTP Server 2.4.51 security update (Moderate)",
     "AffectedList": [
       {
         "Family": "unix",
@@ -42,93 +42,18 @@
         "Source": "CVE",
         "RefID": "CVE-2021-44224",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2021-44224"
-      },
-      {
-        "Source": "CVE",
-        "RefID": "CVE-2021-45960",
-        "RefURL": "https://access.redhat.com/security/cve/CVE-2021-45960"
-      },
-      {
-        "Source": "CVE",
-        "RefID": "CVE-2021-46143",
-        "RefURL": "https://access.redhat.com/security/cve/CVE-2021-46143"
-      },
-      {
-        "Source": "CVE",
-        "RefID": "CVE-2022-22822",
-        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-22822"
-      },
-      {
-        "Source": "CVE",
-        "RefID": "CVE-2022-22823",
-        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-22823"
-      },
-      {
-        "Source": "CVE",
-        "RefID": "CVE-2022-22824",
-        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-22824"
-      },
-      {
-        "Source": "CVE",
-        "RefID": "CVE-2022-22825",
-        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-22825"
-      },
-      {
-        "Source": "CVE",
-        "RefID": "CVE-2022-22826",
-        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-22826"
-      },
-      {
-        "Source": "CVE",
-        "RefID": "CVE-2022-22827",
-        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-22827"
-      },
-      {
-        "Source": "CVE",
-        "RefID": "CVE-2022-23852",
-        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-23852"
-      },
-      {
-        "Source": "CVE",
-        "RefID": "CVE-2022-23990",
-        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-23990"
-      },
-      {
-        "Source": "CVE",
-        "RefID": "CVE-2022-25235",
-        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-25235"
-      },
-      {
-        "Source": "CVE",
-        "RefID": "CVE-2022-25236",
-        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-25236"
-      },
-      {
-        "Source": "CVE",
-        "RefID": "CVE-2022-25313",
-        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-25313"
-      },
-      {
-        "Source": "CVE",
-        "RefID": "CVE-2022-25314",
-        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-25314"
-      },
-      {
-        "Source": "CVE",
-        "RefID": "CVE-2022-25315",
-        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-25315"
       }
     ],
-    "Description": "Red Hat JBoss Core Services is a set of supplementary software for Red Hat JBoss middleware products. This software, such as Apache HTTP Server, is common to multiple JBoss middleware products, and is packaged under Red Hat JBoss Core Services to allow for faster distribution of updates, and for a more consistent update experience.\n\nThis release of Red Hat JBoss Core Services Apache HTTP Server 2.4.51 serves as a replacement for Red Hat JBoss Core Services Apache HTTP Server 2.4.37 Service Pack 10, and includes bug fixes and enhancements, which are documented in the Release Notes document linked to in the References.\n\nSecurity Fix(es):\n\n* expat: Malformed 2- and 3-byte UTF-8 sequences can lead to arbitrary code execution (CVE-2022-25235)\n\n* expat: Namespace-separator characters in \"xmlns[:prefix]\" attribute values can lead to arbitrary code execution (CVE-2022-25236)\n\n* expat: Integer overflow in storeRawNames() (CVE-2022-25315)\n\n* httpd: Request splitting via HTTP/2 method injection and mod_proxy (CVE-2021-33193)\n\n* httpd: mod_proxy_uwsgi: out-of-bounds read via a crafted request uri-path (CVE-2021-36160)\n\n* httpd: Out-of-bounds write in ap_escape_quotes() via malicious input (CVE-2021-39275)\n\n* httpd: NULL pointer dereference via crafted request during HTTP/2 request processing (CVE-2021-41524)\n\n* httpd: possible NULL dereference or SSRF in forward proxy configurations (CVE-2021-44224)\n\n* expat: Large number of prefixed XML attributes on a single tag can crash libexpat (CVE-2021-45960)\n\n* expat: Integer overflow in doProlog in xmlparse.c (CVE-2021-46143)\n\n* expat: Integer overflow in addBinding in xmlparse.c (CVE-2022-22822)\n\n* expat: Integer overflow in build_model in xmlparse.c (CVE-2022-22823)\n\n* expat: Integer overflow in defineAttribute in xmlparse.c (CVE-2022-22824)\n\n* expat: Integer overflow in lookup in xmlparse.c (CVE-2022-22825)\n\n* expat: Integer overflow in nextScaffoldPart in xmlparse.c (CVE-2022-22826)\n\n* expat: Integer overflow in storeAtts in xmlparse.c (CVE-2022-22827)\n\n* expat: Integer overflow in function XML_GetBuffer (CVE-2022-23852)\n\n* expat: stack exhaustion in doctype parsing (CVE-2022-25313)\n\n* expat: integer overflow in copyString() (CVE-2022-25314)\n\n* expat: integer overflow in the doProlog function (CVE-2022-23990)\n\nFor more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.",
+    "Description": "Red Hat JBoss Core Services is a set of supplementary software for Red Hat JBoss middleware products. This software, such as Apache HTTP Server, is common to multiple JBoss middleware products and packaged under Red Hat JBoss Core Services, to allow for faster distribution of updates and for a more consistent update experience.\n\nThis release of Red Hat JBoss Core Services Apache HTTP Server 2.4.51 serves as a replacement for Red Hat JBoss Core Services Apache HTTP Server 2.4.37 Service Pack 10, and includes bug fixes and enhancements, which are documented in the Release Notes linked to in the References section.\n\nSecurity Fix(es):\n\n* httpd: Request splitting via HTTP/2 method injection and mod_proxy (CVE-2021-33193)\n\n* httpd: mod_proxy_uwsgi: out-of-bounds read via a crafted request uri-path (CVE-2021-36160)\n\n* httpd: Out-of-bounds write in ap_escape_quotes() via malicious input (CVE-2021-39275)\n\n* httpd: NULL pointer dereference via crafted request during HTTP/2 request processing (CVE-2021-41524)\n\n* httpd: possible NULL dereference or SSRF in forward proxy configurations (CVE-2021-44224)\n\nFor more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.",
     "Advisory": {
       "From": "secalert@redhat.com",
-      "Severity": "Important",
-      "Rights": "Copyright 2022 Red Hat, Inc.",
+      "Severity": "Moderate",
+      "Rights": "Copyright 2023 Red Hat, Inc.",
       "Issued": {
         "Date": "2022-10-26"
       },
       "Updated": {
-        "Date": "2022-10-26"
+        "Date": "2023-05-17"
       },
       "Cves": [
         {
@@ -170,126 +95,6 @@
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2021-44224",
           "Public": "20211220"
-        },
-        {
-          "CveID": "CVE-2021-45960",
-          "Cvss3": "8.8/CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
-          "Cwe": "CWE-682-\u003eCWE-130",
-          "Impact": "moderate",
-          "Href": "https://access.redhat.com/security/cve/CVE-2021-45960",
-          "Public": "20220117"
-        },
-        {
-          "CveID": "CVE-2021-46143",
-          "Cvss3": "7.8/CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
-          "Cwe": "CWE-190",
-          "Impact": "moderate",
-          "Href": "https://access.redhat.com/security/cve/CVE-2021-46143",
-          "Public": "20220115"
-        },
-        {
-          "CveID": "CVE-2022-22822",
-          "Cvss3": "9.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
-          "Cwe": "CWE-190",
-          "Impact": "moderate",
-          "Href": "https://access.redhat.com/security/cve/CVE-2022-22822",
-          "Public": "20220115"
-        },
-        {
-          "CveID": "CVE-2022-22823",
-          "Cvss3": "9.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
-          "Cwe": "CWE-190",
-          "Impact": "moderate",
-          "Href": "https://access.redhat.com/security/cve/CVE-2022-22823",
-          "Public": "20220115"
-        },
-        {
-          "CveID": "CVE-2022-22824",
-          "Cvss3": "9.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
-          "Cwe": "CWE-190",
-          "Impact": "moderate",
-          "Href": "https://access.redhat.com/security/cve/CVE-2022-22824",
-          "Public": "20220115"
-        },
-        {
-          "CveID": "CVE-2022-22825",
-          "Cvss3": "8.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
-          "Cwe": "CWE-190",
-          "Impact": "moderate",
-          "Href": "https://access.redhat.com/security/cve/CVE-2022-22825",
-          "Public": "20220115"
-        },
-        {
-          "CveID": "CVE-2022-22826",
-          "Cvss3": "8.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
-          "Cwe": "CWE-190",
-          "Impact": "moderate",
-          "Href": "https://access.redhat.com/security/cve/CVE-2022-22826",
-          "Public": "20220115"
-        },
-        {
-          "CveID": "CVE-2022-22827",
-          "Cvss3": "8.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
-          "Cwe": "CWE-190",
-          "Impact": "moderate",
-          "Href": "https://access.redhat.com/security/cve/CVE-2022-22827",
-          "Public": "20220115"
-        },
-        {
-          "CveID": "CVE-2022-23852",
-          "Cvss3": "9.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
-          "Cwe": "CWE-190",
-          "Impact": "moderate",
-          "Href": "https://access.redhat.com/security/cve/CVE-2022-23852",
-          "Public": "20220123"
-        },
-        {
-          "CveID": "CVE-2022-23990",
-          "Cvss3": "6.5/CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
-          "Cwe": "CWE-190",
-          "Impact": "moderate",
-          "Href": "https://access.redhat.com/security/cve/CVE-2022-23990",
-          "Public": "20220126"
-        },
-        {
-          "CveID": "CVE-2022-25235",
-          "Cvss3": "9.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
-          "Cwe": "CWE-838",
-          "Impact": "important",
-          "Href": "https://access.redhat.com/security/cve/CVE-2022-25235",
-          "Public": "20220219"
-        },
-        {
-          "CveID": "CVE-2022-25236",
-          "Cvss3": "9.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
-          "Cwe": "CWE-179",
-          "Impact": "important",
-          "Href": "https://access.redhat.com/security/cve/CVE-2022-25236",
-          "Public": "20220219"
-        },
-        {
-          "CveID": "CVE-2022-25313",
-          "Cvss3": "6.5/CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H",
-          "Cwe": "CWE-400-\u003eCWE-770",
-          "Impact": "moderate",
-          "Href": "https://access.redhat.com/security/cve/CVE-2022-25313",
-          "Public": "20220219"
-        },
-        {
-          "CveID": "CVE-2022-25314",
-          "Cvss3": "7.5/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
-          "Cwe": "CWE-190",
-          "Impact": "moderate",
-          "Href": "https://access.redhat.com/security/cve/CVE-2022-25314",
-          "Public": "20220219"
-        },
-        {
-          "CveID": "CVE-2022-25315",
-          "Cvss3": "9.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
-          "Cwe": "CWE-190-\u003eCWE-787",
-          "Impact": "important",
-          "Href": "https://access.redhat.com/security/cve/CVE-2022-25315",
-          "Public": "20220219"
         }
       ],
       "Bugzilla": [
@@ -312,66 +117,6 @@
         {
           "Href": "https://bugzilla.redhat.com/2034672",
           "ID": "2034672"
-        },
-        {
-          "Href": "https://bugzilla.redhat.com/2044451",
-          "ID": "2044451"
-        },
-        {
-          "Href": "https://bugzilla.redhat.com/2044455",
-          "ID": "2044455"
-        },
-        {
-          "Href": "https://bugzilla.redhat.com/2044457",
-          "ID": "2044457"
-        },
-        {
-          "Href": "https://bugzilla.redhat.com/2044464",
-          "ID": "2044464"
-        },
-        {
-          "Href": "https://bugzilla.redhat.com/2044467",
-          "ID": "2044467"
-        },
-        {
-          "Href": "https://bugzilla.redhat.com/2044479",
-          "ID": "2044479"
-        },
-        {
-          "Href": "https://bugzilla.redhat.com/2044484",
-          "ID": "2044484"
-        },
-        {
-          "Href": "https://bugzilla.redhat.com/2044488",
-          "ID": "2044488"
-        },
-        {
-          "Href": "https://bugzilla.redhat.com/2044613",
-          "ID": "2044613"
-        },
-        {
-          "Href": "https://bugzilla.redhat.com/2048356",
-          "ID": "2048356"
-        },
-        {
-          "Href": "https://bugzilla.redhat.com/2056350",
-          "ID": "2056350"
-        },
-        {
-          "Href": "https://bugzilla.redhat.com/2056354",
-          "ID": "2056354"
-        },
-        {
-          "Href": "https://bugzilla.redhat.com/2056363",
-          "ID": "2056363"
-        },
-        {
-          "Href": "https://bugzilla.redhat.com/2056366",
-          "ID": "2056366"
-        },
-        {
-          "Href": "https://bugzilla.redhat.com/2056370",
-          "ID": "2056370"
         }
       ],
       "AffectedCpeList": [
@@ -415,203 +160,8 @@
                 "Operator": "AND",
                 "Criterions": [
                   {
-                    "Comment": "jbcs-httpd24-brotli is earlier than 0:1.0.9-2.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143001"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-brotli is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472024"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-brotli-devel is earlier than 0:1.0.9-2.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143003"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-brotli-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472026"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-jansson is earlier than 0:2.14-1.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143005"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-jansson is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472028"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-jansson-devel is earlier than 0:2.14-1.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143007"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-jansson-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472030"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-apr is earlier than 0:1.7.0-6.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143009"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-apr is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472002"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-apr-devel is earlier than 0:1.7.0-6.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143011"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-apr-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472004"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-openssl is earlier than 1:1.1.1k-12.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143013"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-openssl is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472036"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-openssl-devel is earlier than 1:1.1.1k-12.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143015"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-openssl-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472038"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-openssl-libs is earlier than 1:1.1.1k-12.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143017"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-openssl-libs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472040"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-openssl-perl is earlier than 1:1.1.1k-12.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143019"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-openssl-perl is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472042"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-openssl-static is earlier than 1:1.1.1k-12.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143021"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-openssl-static is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472044"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-openssl-pkcs11 is earlier than 0:0.4.10-31.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143023"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-openssl-pkcs11 is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472048"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-openssl-chil is earlier than 0:1.0.0-16.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143025"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-openssl-chil is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472046"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-nghttp2 is earlier than 0:1.43.0-10.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143027"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-nghttp2 is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472032"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-nghttp2-devel is earlier than 0:1.43.0-10.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143029"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-nghttp2-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472034"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
                     "Comment": "jbcs-httpd24-httpd is earlier than 0:2.4.51-28.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143031"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20227143001"
                   },
                   {
                     "Comment": "jbcs-httpd24-httpd is signed with Red Hat redhatrelease2 key",
@@ -624,7 +174,7 @@
                 "Criterions": [
                   {
                     "Comment": "jbcs-httpd24-httpd-devel is earlier than 0:2.4.51-28.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143033"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20227143003"
                   },
                   {
                     "Comment": "jbcs-httpd24-httpd-devel is signed with Red Hat redhatrelease2 key",
@@ -637,7 +187,7 @@
                 "Criterions": [
                   {
                     "Comment": "jbcs-httpd24-httpd-manual is earlier than 0:2.4.51-28.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143035"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20227143005"
                   },
                   {
                     "Comment": "jbcs-httpd24-httpd-manual is signed with Red Hat redhatrelease2 key",
@@ -650,7 +200,7 @@
                 "Criterions": [
                   {
                     "Comment": "jbcs-httpd24-httpd-selinux is earlier than 0:2.4.51-28.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143037"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20227143007"
                   },
                   {
                     "Comment": "jbcs-httpd24-httpd-selinux is signed with Red Hat redhatrelease2 key",
@@ -663,7 +213,7 @@
                 "Criterions": [
                   {
                     "Comment": "jbcs-httpd24-httpd-tools is earlier than 0:2.4.51-28.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143039"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20227143009"
                   },
                   {
                     "Comment": "jbcs-httpd24-httpd-tools is signed with Red Hat redhatrelease2 key",
@@ -676,7 +226,7 @@
                 "Criterions": [
                   {
                     "Comment": "jbcs-httpd24-mod_ldap is earlier than 0:2.4.51-28.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143041"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20227143011"
                   },
                   {
                     "Comment": "jbcs-httpd24-mod_ldap is signed with Red Hat redhatrelease2 key",
@@ -689,7 +239,7 @@
                 "Criterions": [
                   {
                     "Comment": "jbcs-httpd24-mod_proxy_html is earlier than 1:2.4.51-28.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143043"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20227143013"
                   },
                   {
                     "Comment": "jbcs-httpd24-mod_proxy_html is signed with Red Hat redhatrelease2 key",
@@ -702,7 +252,7 @@
                 "Criterions": [
                   {
                     "Comment": "jbcs-httpd24-mod_session is earlier than 0:2.4.51-28.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143045"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20227143015"
                   },
                   {
                     "Comment": "jbcs-httpd24-mod_session is signed with Red Hat redhatrelease2 key",
@@ -715,232 +265,11 @@
                 "Criterions": [
                   {
                     "Comment": "jbcs-httpd24-mod_ssl is earlier than 1:2.4.51-28.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143047"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20227143017"
                   },
                   {
                     "Comment": "jbcs-httpd24-mod_ssl is signed with Red Hat redhatrelease2 key",
                     "TestRef": "oval:com.redhat.rhsa:tst:20212472076"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-mod_http2 is earlier than 0:1.15.19-17.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143049"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-mod_http2 is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472078"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-mod_md is earlier than 1:2.4.0-15.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143051"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-mod_md is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472080"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-mod_security is earlier than 0:2.9.3-19.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143053"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-mod_security is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472084"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-curl is earlier than 0:7.83.1-6.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143055"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-curl is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472054"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-libcurl is earlier than 0:7.83.1-6.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143057"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-libcurl is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472056"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-libcurl-devel is earlier than 0:7.83.1-6.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143059"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-libcurl-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472058"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-apr-util is earlier than 0:1.6.1-98.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143061"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-apr-util is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472006"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-apr-util-devel is earlier than 0:1.6.1-98.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143063"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-apr-util-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472008"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-apr-util-ldap is earlier than 0:1.6.1-98.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143065"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-apr-util-ldap is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472010"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-apr-util-mysql is earlier than 0:1.6.1-98.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143067"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-apr-util-mysql is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472012"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-apr-util-nss is earlier than 0:1.6.1-98.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143069"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-apr-util-nss is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472014"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-apr-util-odbc is earlier than 0:1.6.1-98.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143071"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-apr-util-odbc is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472016"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-apr-util-openssl is earlier than 0:1.6.1-98.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143073"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-apr-util-openssl is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472018"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-apr-util-pgsql is earlier than 0:1.6.1-98.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143075"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-apr-util-pgsql is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472020"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-apr-util-sqlite is earlier than 0:1.6.1-98.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143077"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-apr-util-sqlite is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472022"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-mod_proxy_cluster is earlier than 0:1.3.17-9.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143079"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-mod_proxy_cluster is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143080"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "jbcs-httpd24-mod_jk-ap24 is earlier than 0:1.2.48-41.redhat_1.el8jbcs",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20227143081"
-                  },
-                  {
-                    "Comment": "jbcs-httpd24-mod_jk-ap24 is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20212472086"
                   }
                 ]
               }

@@ -561,11 +561,6 @@
       "Name": "python-futures"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232454001",
-      "Version": "636",
-      "Name": "postgresql-apb-role"
-    },
-    {
       "ID": "oval:com.redhat.rhba:obj:20183743035",
       "Version": "636",
       "Name": "openshift-ansible"
@@ -649,6 +644,11 @@
       "ID": "oval:com.redhat.unaffected:obj:20213701001",
       "Version": "635",
       "Name": "ansible-runner"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20232454001",
+      "Version": "635",
+      "Name": "postgresql-apb-role"
     }
   ],
   "RpmverifyfileObjects": [

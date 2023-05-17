@@ -166,12 +166,12 @@
       "Name": "future"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241722002",
+      "ID": "oval:com.redhat.cve:obj:202241722005",
       "Version": "636",
       "Name": "ignition"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241722004",
+      "ID": "oval:com.redhat.cve:obj:202241722008",
       "Version": "636",
       "Name": "conmon-rs"
     },

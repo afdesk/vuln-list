@@ -596,61 +596,6 @@
       "Name": "yggdrasil-worker-forwarder"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241722001",
-      "Version": "636",
-      "Name": "rubygem-qpid_proton"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241722002",
-      "Version": "636",
-      "Name": "qpid-proton-c-docs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241722003",
-      "Version": "636",
-      "Name": "qpid-proton-cpp-docs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241722004",
-      "Version": "636",
-      "Name": "python-qpid-proton-docs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241722005",
-      "Version": "636",
-      "Name": "qpid-proton-cpp"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241722006",
-      "Version": "636",
-      "Name": "qpid-proton-tests"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241722007",
-      "Version": "636",
-      "Name": "python-qpid-proton"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241722008",
-      "Version": "636",
-      "Name": "qpid-proton"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241722009",
-      "Version": "636",
-      "Name": "qpid-proton-c"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241722010",
-      "Version": "636",
-      "Name": "qpid-proton-c-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241722011",
-      "Version": "636",
-      "Name": "qpid-proton-cpp-devel"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202244566001",
       "Version": "636",
       "Name": "rubygem-activerecord"
@@ -679,11 +624,6 @@
       "ID": "oval:com.redhat.cve:obj:202322799001",
       "Version": "636",
       "Name": "rubygem-globalid"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232454001",
-      "Version": "636",
-      "Name": "rh-postgresql12-postgresql-evr"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20214702003",
@@ -779,6 +719,11 @@
       "ID": "oval:com.redhat.unaffected:obj:20157519007",
       "Version": "635",
       "Name": "tfm-rubygem-passenger-native"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20162166001",
+      "Version": "635",
+      "Name": "python-qpid-proton"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20164800001",
@@ -906,6 +851,56 @@
       "Name": "python-pyjwt"
     },
     {
+      "ID": "oval:com.redhat.unaffected:obj:202230580001",
+      "Version": "635",
+      "Name": "qpid-proton"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202230580002",
+      "Version": "635",
+      "Name": "qpid-proton-c"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202230580003",
+      "Version": "635",
+      "Name": "python-qpid-proton-docs"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202230580004",
+      "Version": "635",
+      "Name": "qpid-proton-cpp"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202230580005",
+      "Version": "635",
+      "Name": "qpid-proton-cpp-devel"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202230580006",
+      "Version": "635",
+      "Name": "rubygem-qpid_proton"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202230580007",
+      "Version": "635",
+      "Name": "qpid-proton-c-devel"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202230580008",
+      "Version": "635",
+      "Name": "qpid-proton-c-docs"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202230580010",
+      "Version": "635",
+      "Name": "qpid-proton-cpp-docs"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202230580011",
+      "Version": "635",
+      "Name": "qpid-proton-tests"
+    },
+    {
       "ID": "oval:com.redhat.unaffected:obj:202231144001",
       "Version": "635",
       "Name": "tfm-rubygem-gitlab-sidekiq-fetcher"
@@ -959,6 +954,11 @@
       "ID": "oval:com.redhat.unaffected:obj:20231892002",
       "Version": "635",
       "Name": "rubygem-gitlab-sidekiq-fetcher"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20232454001",
+      "Version": "635",
+      "Name": "rh-postgresql12-postgresql-evr"
     }
   ],
   "RpmverifyfileObjects": [
