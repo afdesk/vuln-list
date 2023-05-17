@@ -1,6 +1,6 @@
 {
   "id": "GO-2022-0322",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-05-16T21:17:24Z",
   "published": "2022-07-15T23:29:02Z",
   "aliases": [
     "CVE-2022-21698",
@@ -54,6 +54,12 @@
       "database_specific": {
         "source": "https://vuln.go.dev/ID/GO-2022-0322.json"
       }
+    }
+  ],
+  "references": [
+    {
+      "type": "FIX",
+      "url": "https://github.com/prometheus/client_golang/pull/962"
     }
   ]
 }
