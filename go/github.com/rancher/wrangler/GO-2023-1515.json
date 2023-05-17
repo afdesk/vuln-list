@@ -2,7 +2,7 @@
   "module": "github.com/rancher/wrangler",
   "id": "GO-2023-1515",
   "published": "2023-02-14T16:19:12Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-05-16T21:17:26Z",
   "aliases": [
     "CVE-2022-43756",
     "GHSA-8fcj-gf77-47mg"
@@ -19,6 +19,18 @@
           "type": "SEMVER",
           "events": [
             {
+              "introduced": "0"
+            },
+            {
+              "fixed": "0.7.4-security1"
+            },
+            {
+              "introduced": "0.8.0"
+            },
+            {
+              "fixed": "0.8.5-security1"
+            },
+            {
               "introduced": "0.8.6"
             },
             {
@@ -29,15 +41,6 @@
             },
             {
               "fixed": "1.0.1"
-            },
-            {
-              "introduced": "0.8.0"
-            },
-            {
-              "fixed": "0.8.5-security1"
-            },
-            {
-              "fixed": "0.7.4-security1"
             }
           ]
         }
