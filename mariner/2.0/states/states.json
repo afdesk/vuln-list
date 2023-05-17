@@ -688,7 +688,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13829002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.12.11-4.cm2",
+        "Text": "0:5.12.11-5.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -706,7 +706,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13827002",
       "Version": "0",
       "Evr": {
-        "Text": "0:16.19.1-1.cm2",
+        "Text": "0:16.19.1-2.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -769,7 +769,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13820002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -778,7 +778,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13819002",
       "Version": "0",
       "Evr": {
-        "Text": "0:1.24.12-1.cm2",
+        "Text": "0:1.25.8-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -985,7 +985,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13743002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -1426,7 +1426,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13572002",
       "Version": "0",
       "Evr": {
-        "Text": "0:1.24.12-1.cm2",
+        "Text": "0:1.25.8-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -1435,7 +1435,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13571002",
       "Version": "0",
       "Evr": {
-        "Text": "0:1.24.12-1.cm2",
+        "Text": "0:1.25.8-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -1444,7 +1444,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13570002",
       "Version": "0",
       "Evr": {
-        "Text": "0:1.24.12-1.cm2",
+        "Text": "0:1.25.8-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -1588,7 +1588,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13364002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -1903,7 +1903,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13231002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.12.11-4.cm2",
+        "Text": "0:5.12.11-5.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -2047,7 +2047,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13173002",
       "Version": "0",
       "Evr": {
-        "Text": "0:16.19.1-1.cm2",
+        "Text": "0:16.19.1-2.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -2065,7 +2065,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13171002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -2506,7 +2506,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:12989002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -2668,7 +2668,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:12932002",
       "Version": "0",
       "Evr": {
-        "Text": "0:3.0.0-8.cm2",
+        "Text": "0:3.1.0-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -2947,7 +2947,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:11614002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -3406,7 +3406,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:11487002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -3415,7 +3415,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:11486002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -3424,7 +3424,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:11485002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -3433,7 +3433,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:11484002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -3442,7 +3442,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:11483002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -3469,7 +3469,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:11469002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -3658,7 +3658,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:11382002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -3667,7 +3667,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:11381002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -3676,7 +3676,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:11380002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -4396,7 +4396,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:11079002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -4792,7 +4792,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:10903002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -4801,7 +4801,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:10902002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -4810,7 +4810,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:10901002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -5170,7 +5170,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:10761002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -8167,7 +8167,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:9301002",
       "Version": "0",
       "Evr": {
-        "Text": "0:5.15.107.1-2.cm2",
+        "Text": "0:5.15.111.1-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
