@@ -176,36 +176,6 @@
       "Name": "openstack-barbican-worker"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232088004",
-      "Version": "636",
-      "Name": "tripleo-ansible"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232088009",
-      "Version": "636",
-      "Name": "python3-os-brick"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232088011",
-      "Version": "636",
-      "Name": "python3-cinder"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232088014",
-      "Version": "636",
-      "Name": "python3-cinder-common"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232088015",
-      "Version": "636",
-      "Name": "openstack-cinder"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232088017",
-      "Version": "636",
-      "Name": "python3-glance-store"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202323969001",
       "Version": "636",
       "Name": "python3-django"
@@ -269,6 +239,21 @@
       "ID": "oval:com.redhat.rhsa:obj:20231013005",
       "Version": "634",
       "Name": "python3-swift"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20231016001",
+      "Version": "635",
+      "Name": "openstack-cinder"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20231016002",
+      "Version": "635",
+      "Name": "python3-cinder"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20231016003",
+      "Version": "635",
+      "Name": "python3-cinder-common"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20231018001",

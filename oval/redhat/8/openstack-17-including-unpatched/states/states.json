@@ -134,6 +134,17 @@
         "Operation": "less than"
       },
       "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233157001",
+      "Version": "635",
+      "Arch": {},
+      "Evr": {
+        "Text": "1:18.2.1-0.20230509200451.1776695.el9ost",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
     }
   ],
   "RpmverifyfileStates": [

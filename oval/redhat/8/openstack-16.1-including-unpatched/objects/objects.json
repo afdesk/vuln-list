@@ -471,26 +471,6 @@
       "Name": "openstack-barbican-worker"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232088007",
-      "Version": "636",
-      "Name": "python3-os-brick"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232088013",
-      "Version": "636",
-      "Name": "openstack-cinder"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232088014",
-      "Version": "636",
-      "Name": "python3-cinder"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232088016",
-      "Version": "636",
-      "Name": "python3-glance-store"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202323934001",
       "Version": "636",
       "Name": "python-werkzeug"
@@ -514,6 +494,16 @@
       "ID": "oval:com.redhat.rhsa:obj:20203199001",
       "Version": "634",
       "Name": "openstack-tripleo-heat-templates"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20204283001",
+      "Version": "635",
+      "Name": "openstack-cinder"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20204283002",
+      "Version": "635",
+      "Name": "python3-cinder"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20204381001",

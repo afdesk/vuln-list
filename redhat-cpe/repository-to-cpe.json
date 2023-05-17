@@ -27316,9 +27316,6 @@
   "satellite-capsule-6.13-for-rhel-8-x86_64-debug-rpms": [
     "cpe:/a:redhat:satellite_capsule:6.13::el8"
   ],
-  "satellite-capsule-6.13-for-rhel-8-x86_64-rpms": [
-    "cpe:/a:redhat:satellite_capsule:6.13::el8"
-  ],
   "satellite-capsule-6.13-for-rhel-8-x86_64-source-rpms": [
     "cpe:/a:redhat:satellite_capsule:6.13::el8"
   ],

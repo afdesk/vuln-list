@@ -88783,7 +88783,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "lz4-libs is installed",
+      "Comment": "lz4 is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213520001",
       "Version": "635",
       "Object": {
@@ -88793,7 +88793,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "lz4-libs is not installed",
+      "Comment": "lz4 is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213520002",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -88804,7 +88804,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "lz4 is installed",
+      "Comment": "lz4-libs is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213520003",
       "Version": "635",
       "Object": {
@@ -88814,7 +88814,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "lz4 is not installed",
+      "Comment": "lz4-libs is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213520004",
       "Version": "635",
       "CheckExistence": "none_exist",

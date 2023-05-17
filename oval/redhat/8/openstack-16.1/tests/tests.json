@@ -2471,6 +2471,30 @@
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20203199002"
       }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openstack-cinder is earlier than 1:15.4.0-1.20230510003501.58f0e73.el8ost",
+      "ID": "oval:com.redhat.rhsa:tst:20233156001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20204283001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233156001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-cinder is earlier than 1:15.4.0-1.20230510003501.58f0e73.el8ost",
+      "ID": "oval:com.redhat.rhsa:tst:20233156003",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20204283002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233156001"
+      }
     }
   ],
   "RpmverifyfileTests": [
