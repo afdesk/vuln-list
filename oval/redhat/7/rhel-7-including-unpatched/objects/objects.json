@@ -14218,7 +14218,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20213782001",
       "Version": "636",
-      "Name": "wayland"
+      "Name": "wayland-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213782002",
@@ -14228,27 +14228,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:20213782003",
       "Version": "636",
-      "Name": "libwayland-egl"
+      "Name": "libwayland-cursor"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213782004",
       "Version": "636",
-      "Name": "libwayland-client"
+      "Name": "wayland-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213782005",
       "Version": "636",
-      "Name": "wayland-doc"
+      "Name": "libwayland-egl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213782006",
       "Version": "636",
-      "Name": "libwayland-cursor"
+      "Name": "wayland"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213782007",
       "Version": "636",
-      "Name": "wayland-devel"
+      "Name": "libwayland-client"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213802001",
@@ -14433,32 +14433,32 @@
     {
       "ID": "oval:com.redhat.cve:obj:202221426002",
       "Version": "636",
-      "Name": "java-1.7.1-ibm"
+      "Name": "java-1.7.1-ibm-src"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202221426003",
+      "ID": "oval:com.redhat.cve:obj:202221426006",
       "Version": "636",
-      "Name": "java-1.7.1-ibm-plugin"
+      "Name": "java-1.7.1-ibm-demo"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202221426008",
+      "ID": "oval:com.redhat.cve:obj:202221426007",
       "Version": "636",
       "Name": "java-1.7.1-ibm-jdbc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202221426009",
       "Version": "636",
-      "Name": "java-1.7.1-ibm-demo"
+      "Name": "java-1.7.1-ibm-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202221426010",
+      "Version": "636",
+      "Name": "java-1.7.1-ibm-plugin"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202221426011",
       "Version": "636",
-      "Name": "java-1.7.1-ibm-src"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221426012",
-      "Version": "636",
-      "Name": "java-1.7.1-ibm-devel"
+      "Name": "java-1.7.1-ibm"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20222211001",

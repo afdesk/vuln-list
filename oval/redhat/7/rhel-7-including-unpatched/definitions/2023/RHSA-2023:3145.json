@@ -1,21 +1,37 @@
 {
-  "Class": "vulnerability",
-  "ID": "oval:com.redhat.cve:def:202225147",
+  "Class": "patch",
+  "ID": "oval:com.redhat.rhsa:def:20233145",
   "Version": "636",
   "Metadata": {
-    "Title": "out-of-bounds writes in the apr_base64 (important)",
+    "Title": "RHSA-2023:3145: apr-util security update (Important)",
+    "AffectedList": [
+      {
+        "Family": "unix",
+        "Platforms": [
+          "Red Hat Enterprise Linux 7"
+        ]
+      }
+    ],
     "References": [
+      {
+        "Source": "RHSA",
+        "RefID": "RHSA-2023:3145",
+        "RefURL": "https://access.redhat.com/errata/RHSA-2023:3145"
+      },
       {
         "Source": "CVE",
         "RefID": "CVE-2022-25147",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-25147"
       }
     ],
-    "Description": "DOCUMENTATION: A flaw was found in the Apache Portable Runtime (APR) library. This issue may allow a malicious attacker to cause an out-of-bounds write due to an integer overflow when encoding/decoding a very long string using the base64 family of functions. \n            STATEMENT: This flaw is only exploitable when the user of the APR library uses the base64 encoding/decoding family of functions provided by the API with a string bigger than 2GiB to cause an integer overflow and later in the out-of-bounds write.\n\nThis flaw was rated with an important severity as it allows remote attackers to cause a denial of service to the application linked to the library.",
+    "Description": "The Apache Portable Runtime (APR) is a portability library used by the Apache HTTP Server and other projects. apr-util is a library which provides additional utility interfaces for APR; including support for XML parsing, LDAP, database interfaces, URI parsing, and more.\n\nSecurity Fix(es):\n\n* apr-util: out-of-bounds writes in the apr_base64 (CVE-2022-25147)\n\nFor more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.",
     "Advisory": {
       "From": "secalert@redhat.com",
       "Severity": "Important",
-      "Issued": {},
+      "Rights": "Copyright 2023 Red Hat, Inc.",
+      "Issued": {
+        "Date": "2023-05-16"
+      },
       "Updated": {
         "Date": "2023-05-16"
       },
@@ -27,6 +43,12 @@
           "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-25147",
           "Public": "20230131"
+        }
+      ],
+      "Bugzilla": [
+        {
+          "Href": "https://bugzilla.redhat.com/2169652",
+          "ID": "2169652"
         }
       ],
       "AffectedCpeList": [
@@ -42,9 +64,7 @@
         "cpe:/o:redhat:enterprise_linux:7::workstation"
       ],
       "Affected": {
-        "Resolution": {
-          "State": "Affected"
-        }
+        "Resolution": {}
       }
     }
   },
@@ -73,8 +93,8 @@
                 "Operator": "AND",
                 "Criterions": [
                   {
-                    "Comment": "apr-util is installed",
-                    "TestRef": "oval:com.redhat.cve:tst:201712618009"
+                    "Comment": "apr-util is earlier than 0:1.5.2-6.el7_9.1",
+                    "TestRef": "oval:com.redhat.rhsa:tst:20233145001"
                   },
                   {
                     "Comment": "apr-util is signed with Red Hat redhatrelease2 key",
@@ -86,86 +106,8 @@
                 "Operator": "AND",
                 "Criterions": [
                   {
-                    "Comment": "apr-util-nss is installed",
-                    "TestRef": "oval:com.redhat.cve:tst:201712618003"
-                  },
-                  {
-                    "Comment": "apr-util-nss is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201712618004"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "apr-util-odbc is installed",
-                    "TestRef": "oval:com.redhat.cve:tst:201712618011"
-                  },
-                  {
-                    "Comment": "apr-util-odbc is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201712618012"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "apr-util-ldap is installed",
-                    "TestRef": "oval:com.redhat.cve:tst:201712618015"
-                  },
-                  {
-                    "Comment": "apr-util-ldap is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201712618016"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "apr-util-pgsql is installed",
-                    "TestRef": "oval:com.redhat.cve:tst:201712618013"
-                  },
-                  {
-                    "Comment": "apr-util-pgsql is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201712618014"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "apr-util-openssl is installed",
-                    "TestRef": "oval:com.redhat.cve:tst:201712618005"
-                  },
-                  {
-                    "Comment": "apr-util-openssl is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201712618006"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "apr-util-mysql is installed",
-                    "TestRef": "oval:com.redhat.cve:tst:201712618017"
-                  },
-                  {
-                    "Comment": "apr-util-mysql is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:201712618018"
-                  }
-                ]
-              },
-              {
-                "Operator": "AND",
-                "Criterions": [
-                  {
-                    "Comment": "apr-util-devel is installed",
-                    "TestRef": "oval:com.redhat.cve:tst:201712618007"
+                    "Comment": "apr-util-devel is earlier than 0:1.5.2-6.el7_9.1",
+                    "TestRef": "oval:com.redhat.rhsa:tst:20233145003"
                   },
                   {
                     "Comment": "apr-util-devel is signed with Red Hat redhatrelease2 key",
@@ -177,8 +119,86 @@
                 "Operator": "AND",
                 "Criterions": [
                   {
-                    "Comment": "apr-util-sqlite is installed",
-                    "TestRef": "oval:com.redhat.cve:tst:201712618001"
+                    "Comment": "apr-util-ldap is earlier than 0:1.5.2-6.el7_9.1",
+                    "TestRef": "oval:com.redhat.rhsa:tst:20233145005"
+                  },
+                  {
+                    "Comment": "apr-util-ldap is signed with Red Hat redhatrelease2 key",
+                    "TestRef": "oval:com.redhat.cve:tst:201712618016"
+                  }
+                ]
+              },
+              {
+                "Operator": "AND",
+                "Criterions": [
+                  {
+                    "Comment": "apr-util-mysql is earlier than 0:1.5.2-6.el7_9.1",
+                    "TestRef": "oval:com.redhat.rhsa:tst:20233145007"
+                  },
+                  {
+                    "Comment": "apr-util-mysql is signed with Red Hat redhatrelease2 key",
+                    "TestRef": "oval:com.redhat.cve:tst:201712618018"
+                  }
+                ]
+              },
+              {
+                "Operator": "AND",
+                "Criterions": [
+                  {
+                    "Comment": "apr-util-nss is earlier than 0:1.5.2-6.el7_9.1",
+                    "TestRef": "oval:com.redhat.rhsa:tst:20233145009"
+                  },
+                  {
+                    "Comment": "apr-util-nss is signed with Red Hat redhatrelease2 key",
+                    "TestRef": "oval:com.redhat.cve:tst:201712618004"
+                  }
+                ]
+              },
+              {
+                "Operator": "AND",
+                "Criterions": [
+                  {
+                    "Comment": "apr-util-odbc is earlier than 0:1.5.2-6.el7_9.1",
+                    "TestRef": "oval:com.redhat.rhsa:tst:20233145011"
+                  },
+                  {
+                    "Comment": "apr-util-odbc is signed with Red Hat redhatrelease2 key",
+                    "TestRef": "oval:com.redhat.cve:tst:201712618012"
+                  }
+                ]
+              },
+              {
+                "Operator": "AND",
+                "Criterions": [
+                  {
+                    "Comment": "apr-util-openssl is earlier than 0:1.5.2-6.el7_9.1",
+                    "TestRef": "oval:com.redhat.rhsa:tst:20233145013"
+                  },
+                  {
+                    "Comment": "apr-util-openssl is signed with Red Hat redhatrelease2 key",
+                    "TestRef": "oval:com.redhat.cve:tst:201712618006"
+                  }
+                ]
+              },
+              {
+                "Operator": "AND",
+                "Criterions": [
+                  {
+                    "Comment": "apr-util-pgsql is earlier than 0:1.5.2-6.el7_9.1",
+                    "TestRef": "oval:com.redhat.rhsa:tst:20233145015"
+                  },
+                  {
+                    "Comment": "apr-util-pgsql is signed with Red Hat redhatrelease2 key",
+                    "TestRef": "oval:com.redhat.cve:tst:201712618014"
+                  }
+                ]
+              },
+              {
+                "Operator": "AND",
+                "Criterions": [
+                  {
+                    "Comment": "apr-util-sqlite is earlier than 0:1.5.2-6.el7_9.1",
+                    "TestRef": "oval:com.redhat.rhsa:tst:20233145017"
                   },
                   {
                     "Comment": "apr-util-sqlite is signed with Red Hat redhatrelease2 key",

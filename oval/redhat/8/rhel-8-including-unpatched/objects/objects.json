@@ -8641,16 +8641,6 @@
       "Name": "weldr-client"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221705019",
-      "Version": "636",
-      "Name": "toolbox-tests"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20221705020",
-      "Version": "636",
-      "Name": "toolbox"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202221299001",
       "Version": "636",
       "Name": "java-1.8.0-ibm-headless"
@@ -8969,6 +8959,16 @@
       "ID": "oval:com.redhat.cve:obj:202226491005",
       "Version": "636",
       "Name": "pidgin-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202227664003",
+      "Version": "636",
+      "Name": "toolbox-tests"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202227664004",
+      "Version": "636",
+      "Name": "toolbox"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202227943006",

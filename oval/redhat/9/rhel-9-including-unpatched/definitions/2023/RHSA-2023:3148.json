@@ -1,21 +1,37 @@
 {
-  "Class": "vulnerability",
-  "ID": "oval:com.redhat.cve:def:20232295",
-  "Version": "636",
+  "Class": "patch",
+  "ID": "oval:com.redhat.rhsa:def:20233148",
+  "Version": "635",
   "Metadata": {
-    "Title": "Regression of CVE-2023-30570 fixes in the Red Hat Enterprise Linux (important)",
+    "Title": "RHSA-2023:3148: libreswan security update (Important)",
+    "AffectedList": [
+      {
+        "Family": "unix",
+        "Platforms": [
+          "Red Hat Enterprise Linux 9"
+        ]
+      }
+    ],
     "References": [
+      {
+        "Source": "RHSA",
+        "RefID": "RHSA-2023:3148",
+        "RefURL": "https://access.redhat.com/errata/RHSA-2023:3148"
+      },
       {
         "Source": "CVE",
         "RefID": "CVE-2023-2295",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2023-2295"
       }
     ],
-    "Description": "DOCUMENTATION: A vulnerability was found in the libreswan library. This security issue occurs when an IKEv1 Aggressive Mode packet is received with only unacceptable crypto algorithms, and the response packet is not sent with a zero responder SPI. When a subsequent packet is received where the sender reuses the libreswan responder SPI as its own initiator SPI, the pluto daemon state machine crashes. No remote code execution is possible. This CVE exists because of a CVE-2023-30570 security regression for libreswan package in Red Hat Enterprise Linux 9.2. \n            STATEMENT: This issue only affects Red Hat Enterprise Linux 9.2, which introduced this regression via the following errata:\n\nhttps://access.redhat.com/errata/RHBA-2023:2355 (Red Hat Enterprise Linux 9.2)\n\nThe errata provided updates for libreswan package, but did not include fixes for CVE-2023-30570.\n\nA user who installs or updates to Red Hat Enterprise Linux 9.2 would be vulnerable to the CVE-2023-30570, even if it is properly fixed in Red Hat Enterprise Linux 9.1. The CVE-2023-2295 was assigned to that Red Hat specific security regression and it is not applicable to any upstream libreswan version or libreswan packages of any other vendor that are not directly based on Red Hat Enterprise Linux packages.\n\nFor more details about the original security issue CVE-2023-30570, refer to the CVE page: https://access.redhat.com/security/cve/CVE-2023-30570.",
+    "Description": "Libreswan is an implementation of IPsec and IKE for Linux. IPsec is the Internet Protocol Security and uses strong cryptography to provide both authentication and encryption services. These services allow you to build secure tunnels through untrusted networks such as virtual private network (VPN).\n\nSecurity Fix(es):\n\n* libreswan: Regression of CVE-2023-30570 fixes in the Red Hat Enterprise Linux (CVE-2023-2295)\n\nFor more details about the security issue(s), including the impact, a CVSS score, acknowledgments, and other related information, refer to the CVE page(s) listed in the References section.",
     "Advisory": {
       "From": "secalert@redhat.com",
       "Severity": "Important",
-      "Issued": {},
+      "Rights": "Copyright 2023 Red Hat, Inc.",
+      "Issued": {
+        "Date": "2023-05-16"
+      },
       "Updated": {
         "Date": "2023-05-16"
       },
@@ -27,6 +43,12 @@
           "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2023-2295",
           "Public": "20230509"
+        }
+      ],
+      "Bugzilla": [
+        {
+          "Href": "https://bugzilla.redhat.com/2189777",
+          "ID": "2189777"
         }
       ],
       "AffectedCpeList": [
@@ -44,9 +66,7 @@
         "cpe:/o:redhat:enterprise_linux:9::baseos"
       ],
       "Affected": {
-        "Resolution": {
-          "State": "Affected"
-        }
+        "Resolution": {}
       }
     }
   },
@@ -67,12 +87,12 @@
             "TestRef": "oval:com.redhat.cve:tst:20052541003"
           },
           {
-            "Comment": "libreswan is installed",
-            "TestRef": "oval:com.redhat.cve:tst:20232295001"
+            "Comment": "libreswan is earlier than 0:4.9-4.el9_2",
+            "TestRef": "oval:com.redhat.rhsa:tst:20233148001"
           },
           {
             "Comment": "libreswan is signed with Red Hat redhatrelease2 key",
-            "TestRef": "oval:com.redhat.cve:tst:20232295002"
+            "TestRef": "oval:com.redhat.rhsa:tst:20232120002"
           }
         ]
       }
