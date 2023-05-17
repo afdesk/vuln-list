@@ -41,11 +41,11 @@
     "PublishedAt": "2023-05-11T20:42:37Z",
     "Severity": "MODERATE",
     "Summary": "Pimcore Cross-site Scripting (XSS) vulnerability in Admin Translations",
-    "UpdatedAt": "2023-05-11T20:42:57Z",
+    "UpdatedAt": "2023-05-17T15:37:48Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 5.7,
-      "VectorString": "CVSS:3.0/AV:N/AC:L/PR:H/UI:R/S:U/C:L/I:L/A:H"
+      "Score": 4.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:H/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [
