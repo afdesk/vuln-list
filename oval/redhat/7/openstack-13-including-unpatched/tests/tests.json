@@ -12691,19 +12691,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "openstack-barbican-keystone-listener is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20231636008",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202223451003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "openstack-barbican-worker is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20231636010",
+      "ID": "oval:com.redhat.unaffected:tst:20231636008",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -12714,11 +12703,22 @@
     {
       "Check": "at least one",
       "Comment": "python-barbican is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20231636012",
+      "ID": "oval:com.redhat.unaffected:tst:20231636010",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202223451004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openstack-barbican-keystone-listener is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20231636012",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202223451003"
       },
       "State": {}
     },

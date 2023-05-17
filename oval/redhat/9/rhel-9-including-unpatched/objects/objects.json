@@ -8,47 +8,47 @@
     {
       "ID": "oval:com.redhat.cve:obj:20074559001",
       "Version": "636",
-      "Name": "python3-devel"
+      "Name": "python3"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559002",
       "Version": "636",
-      "Name": "python3-libs"
+      "Name": "python3-idle"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559003",
       "Version": "636",
-      "Name": "python3"
+      "Name": "python3.9"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559004",
       "Version": "636",
-      "Name": "python3-tkinter"
+      "Name": "python-unversioned-command"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559005",
       "Version": "636",
-      "Name": "python3.9"
+      "Name": "python3-tkinter"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559006",
       "Version": "636",
-      "Name": "python3-debug"
+      "Name": "python3-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559007",
       "Version": "636",
-      "Name": "python3-idle"
+      "Name": "python3-debug"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559008",
       "Version": "636",
-      "Name": "python3-test"
+      "Name": "python3-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559009",
       "Version": "636",
-      "Name": "python-unversioned-command"
+      "Name": "python3-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20151197001",
@@ -4003,27 +4003,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:202126291001",
       "Version": "636",
-      "Name": "maven-lib"
+      "Name": "maven-openjdk8"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202126291002",
       "Version": "636",
-      "Name": "maven-openjdk8"
+      "Name": "maven-openjdk17"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202126291003",
       "Version": "636",
-      "Name": "maven-openjdk11"
+      "Name": "maven-lib"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202126291004",
       "Version": "636",
-      "Name": "maven-openjdk17"
+      "Name": "maven"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202126291005",
       "Version": "636",
-      "Name": "maven"
+      "Name": "maven-openjdk11"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202127212001",
@@ -7126,14 +7126,49 @@
       "Name": "pkgconf-m4"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202324329001",
+      "Version": "636",
+      "Name": "python3.11-tkinter"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324329002",
+      "Version": "636",
+      "Name": "python3.11-debug"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324329007",
+      "Version": "636",
+      "Name": "python3.11-idle"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324329008",
+      "Version": "636",
+      "Name": "python3.11-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324329009",
+      "Version": "636",
+      "Name": "python3.11"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324329010",
+      "Version": "636",
+      "Name": "python3.11-test"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324329014",
+      "Version": "636",
+      "Name": "python3.11-libs"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20232454001",
       "Version": "636",
-      "Name": "postgresql-plperl"
+      "Name": "postgresql-server"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454002",
       "Version": "636",
-      "Name": "postgresql-docs"
+      "Name": "postgresql-static"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454003",
@@ -7143,57 +7178,57 @@
     {
       "ID": "oval:com.redhat.cve:obj:20232454004",
       "Version": "636",
-      "Name": "postgresql-private-devel"
+      "Name": "postgresql-plpython3"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454005",
       "Version": "636",
-      "Name": "postgresql-server"
+      "Name": "postgresql-private-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454006",
       "Version": "636",
-      "Name": "postgresql-upgrade"
+      "Name": "postgresql-private-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454007",
       "Version": "636",
-      "Name": "postgresql-pltcl"
+      "Name": "postgresql-server-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454008",
       "Version": "636",
-      "Name": "postgresql-private-libs"
+      "Name": "postgresql-upgrade-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454009",
       "Version": "636",
-      "Name": "postgresql-server-devel"
+      "Name": "postgresql-upgrade"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454010",
       "Version": "636",
-      "Name": "postgresql-upgrade-devel"
+      "Name": "postgresql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454011",
       "Version": "636",
-      "Name": "postgresql-plpython3"
+      "Name": "postgresql-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454012",
       "Version": "636",
-      "Name": "postgresql-test"
+      "Name": "postgresql-plperl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454013",
       "Version": "636",
-      "Name": "postgresql-static"
+      "Name": "postgresql-pltcl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454014",
       "Version": "636",
-      "Name": "postgresql"
+      "Name": "postgresql-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202324593001",
@@ -7219,6 +7254,21 @@
       "ID": "oval:com.redhat.cve:obj:202324593005",
       "Version": "636",
       "Name": "glib2-doc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324805001",
+      "Version": "636",
+      "Name": "cups-filters"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324805002",
+      "Version": "636",
+      "Name": "cups-filters-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324805003",
+      "Version": "636",
+      "Name": "cups-filters-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202325193001",
