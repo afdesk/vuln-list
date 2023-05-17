@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Oct 2016] DLA-680-2 bash - version number correction",
-    "Line": 8352,
+    "Line": 8355,
     "ID": "DLA-680-2",
     "Description": "bash - version number correction"
   },
   "Annotations": [
     {
       "Original": "[wheezy] - bash 4.2+dfsg-0.1+deb7u4",
-      "Line": 8353,
+      "Line": 8356,
       "Type": "package",
       "Release": "wheezy",
       "Package": "bash",
