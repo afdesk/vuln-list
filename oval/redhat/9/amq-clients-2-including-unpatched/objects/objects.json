@@ -46,11 +46,6 @@
       "Name": "snakeyaml"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202231692001",
-      "Version": "636",
-      "Name": "spring-security"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202241854001",
       "Version": "636",
       "Name": "dev-java-snakeyaml"
@@ -199,6 +194,11 @@
       "ID": "oval:com.redhat.unaffected:obj:202231690001",
       "Version": "635",
       "Name": "spring-security-oauth2-client"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202231692001",
+      "Version": "635",
+      "Name": "spring-security"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202234916001",

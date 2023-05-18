@@ -92,6 +92,11 @@
         "Source": "CVE",
         "RefID": "CVE-2013-1827",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2013-1827"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2014-0196",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2014-0196"
       }
     ],
     "Description": "Security:\n\n* An integer overflow flaw, leading to a heap-based buffer overflow, was\nfound in the way the Intel i915 driver in the Linux kernel handled the\nallocation of the buffer used for relocation copies. A local user with\nconsole access could use this flaw to cause a denial of service or escalate\ntheir privileges. (CVE-2013-0913, Important)\n\n* A buffer overflow flaw was found in the way UTF-8 characters were\nconverted to UTF-16 in the utf8s_to_utf16s() function of the Linux kernel's\nFAT file system implementation. A local user able to mount a FAT file\nsystem with the \"utf8=1\" option could use this flaw to crash the system or,\npotentially, to escalate their privileges. (CVE-2013-1773, Important)\n\n* A flaw was found in the way KVM handled guest time updates when the\nbuffer the guest registered by writing to the MSR_KVM_SYSTEM_TIME machine\nstate register (MSR) crossed a page boundary. A privileged guest user could\nuse this flaw to crash the host or, potentially, escalate their privileges,\nallowing them to execute arbitrary code at the host kernel level.\n(CVE-2013-1796, Important)\n\n* A potential use-after-free flaw was found in the way KVM handled guest\ntime updates when the GPA (guest physical address) the guest registered by\nwriting to the MSR_KVM_SYSTEM_TIME machine state register (MSR) fell into a\nmovable or removable memory region of the hosting user-space process (by\ndefault, QEMU-KVM) on the host. If that memory region is deregistered from\nKVM using KVM_SET_USER_MEMORY_REGION and the allocated virtual memory\nreused, a privileged guest user could potentially use this flaw to\nescalate their privileges on the host. (CVE-2013-1797, Important)\n\n* A flaw was found in the way KVM emulated IOAPIC (I/O Advanced\nProgrammable Interrupt Controller). A missing validation check in the\nioapic_read_indirect() function could allow a privileged guest user to\ncrash the host, or read a substantial portion of host kernel memory.\n(CVE-2013-1798, Important)\n\n* A race condition in install_user_keyrings(), leading to a NULL pointer\ndereference, was found in the key management facility. A local,\nunprivileged user could use this flaw to cause a denial of service.\n(CVE-2013-1792, Moderate)\n\n* A NULL pointer dereference in the XFRM implementation could allow a local\nuser who has the CAP_NET_ADMIN capability to cause a denial of service.\n(CVE-2013-1826, Moderate)\n\n* A NULL pointer dereference in the Datagram Congestion Control Protocol\n(DCCP) implementation could allow a local user to cause a denial of\nservice. (CVE-2013-1827, Moderate)\n\n* Information leak flaws in the XFRM implementation could allow a local\nuser who has the CAP_NET_ADMIN capability to leak kernel stack memory to\nuser-space. (CVE-2012-6537, Low)\n\n* Two information leak flaws in the Asynchronous Transfer Mode (ATM)\nsubsystem could allow a local, unprivileged user to leak kernel stack\nmemory to user-space. (CVE-2012-6546, Low)\n\n* An information leak was found in the TUN/TAP device driver in the\nnetworking implementation. A local user with access to a TUN/TAP virtual\ninterface could use this flaw to leak kernel stack memory to user-space.\n(CVE-2012-6547, Low)\n\n* An information leak in the Bluetooth implementation could allow a local\nuser who has the CAP_NET_ADMIN capability to leak kernel stack memory to\nuser-space. (CVE-2013-0349, Low)\n\n* A use-after-free flaw was found in the tmpfs implementation. A local user\nable to mount and unmount a tmpfs file system could use this flaw to cause\na denial of service or, potentially, escalate their privileges.\n(CVE-2013-1767, Low)\n\n* A NULL pointer dereference was found in the Linux kernel's USB Inside Out\nEdgeport Serial Driver implementation. An attacker with physical access to\na system could use this flaw to cause a denial of service. (CVE-2013-1774,\nLow)\n\nRed Hat would like to thank Andrew Honig of Google for reporting\nCVE-2013-1796, CVE-2013-1797, and CVE-2013-1798. CVE-2013-1792 was\ndiscovered by Mateusz Guzik of Red Hat EMEA GSS SEG Team.",
@@ -213,6 +218,13 @@
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2013-1827",
           "Public": "20120815"
+        },
+        {
+          "CveID": "CVE-2014-0196",
+          "Cvss2": "6.9/AV:L/AC:M/Au:N/C:C/I:C/A:C",
+          "Impact": "important",
+          "Href": "https://access.redhat.com/security/cve/CVE-2014-0196",
+          "Public": "20140501"
         }
       ],
       "Bugzilla": [
@@ -275,6 +287,10 @@
         {
           "Href": "https://bugzilla.redhat.com/922424",
           "ID": "922424"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/1094232",
+          "ID": "1094232"
         }
       ],
       "AffectedCpeList": [

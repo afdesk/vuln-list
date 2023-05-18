@@ -7998,12 +7998,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138561001",
       "Version": "636",
-      "Name": "osbuild-composer-worker"
+      "Name": "osbuild-composer"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561002",
       "Version": "636",
-      "Name": "osbuild-composer"
+      "Name": "osbuild-composer-dnf-json"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561003",
@@ -8013,7 +8013,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138561004",
       "Version": "636",
-      "Name": "osbuild-composer-dnf-json"
+      "Name": "osbuild-composer-worker"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138593001",
@@ -9796,11 +9796,6 @@
       "Name": "oci-seccomp-bpf-hook"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241721003",
-      "Version": "636",
-      "Name": "osbuild-composer-debugsource"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202241862001",
       "Version": "636",
       "Name": "libpq-devel"
@@ -10388,17 +10383,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:202324805001",
       "Version": "636",
-      "Name": "cups-filters"
+      "Name": "cups-filters-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202324805002",
       "Version": "636",
-      "Name": "cups-filters-devel"
+      "Name": "cups-filters-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202324805003",
       "Version": "636",
-      "Name": "cups-filters-libs"
+      "Name": "cups-filters"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202325193001",
@@ -20449,6 +20444,11 @@
       "ID": "oval:com.redhat.unaffected:obj:202230580003",
       "Version": "635",
       "Name": "weldr-client-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202230580010",
+      "Version": "635",
+      "Name": "osbuild-composer-debugsource"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202230580067",

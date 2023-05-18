@@ -4708,12 +4708,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138561001",
       "Version": "636",
-      "Name": "osbuild-composer-worker"
+      "Name": "osbuild-composer-dnf-json"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561002",
       "Version": "636",
-      "Name": "osbuild-composer"
+      "Name": "podman-remote"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561003",
@@ -4723,32 +4723,32 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138561004",
       "Version": "636",
-      "Name": "podman-tests"
+      "Name": "osbuild-composer"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561005",
       "Version": "636",
-      "Name": "osbuild-composer-core"
+      "Name": "osbuild-composer-worker"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561006",
       "Version": "636",
-      "Name": "podman-docker"
+      "Name": "osbuild-composer-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561007",
       "Version": "636",
-      "Name": "osbuild-composer-dnf-json"
+      "Name": "podman"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561008",
       "Version": "636",
-      "Name": "podman-plugins"
+      "Name": "podman-tests"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561009",
       "Version": "636",
-      "Name": "podman-remote"
+      "Name": "podman-plugins"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561010",
@@ -4758,7 +4758,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138561011",
       "Version": "636",
-      "Name": "podman"
+      "Name": "podman-docker"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138593001",
@@ -6546,11 +6546,6 @@
       "Name": "oci-seccomp-bpf-hook"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241721003",
-      "Version": "636",
-      "Name": "osbuild-composer-debugsource"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202241854001",
       "Version": "636",
       "Name": "pki-jackson-jaxrs-json-provider"
@@ -7258,17 +7253,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:202324805001",
       "Version": "636",
-      "Name": "cups-filters"
+      "Name": "cups-filters-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202324805002",
       "Version": "636",
-      "Name": "cups-filters-devel"
+      "Name": "cups-filters-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202324805003",
       "Version": "636",
-      "Name": "cups-filters-libs"
+      "Name": "cups-filters"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202325193001",
@@ -13479,6 +13474,11 @@
       "ID": "oval:com.redhat.unaffected:obj:202230580007",
       "Version": "635",
       "Name": "weldr-client-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202230580017",
+      "Version": "635",
+      "Name": "osbuild-composer-debugsource"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202230580031",
