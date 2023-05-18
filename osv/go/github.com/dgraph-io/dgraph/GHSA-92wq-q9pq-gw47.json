@@ -1,6 +1,6 @@
 {
   "id": "GHSA-92wq-q9pq-gw47",
-  "modified": "2023-05-17T17:07:40Z",
+  "modified": "2023-05-17T18:48:30Z",
   "published": "2023-05-17T17:07:40Z",
   "aliases": [
     "CVE-2023-31135"
@@ -38,8 +38,16 @@
       "url": "https://github.com/dgraph-io/dgraph/security/advisories/GHSA-92wq-q9pq-gw47"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-31135"
+    },
+    {
       "type": "WEB",
       "url": "https://github.com/dgraph-io/dgraph/pull/8323"
+    },
+    {
+      "type": "WEB",
+      "url": "https://en.wikipedia.org/wiki/Cryptographic_nonce"
     },
     {
       "type": "PACKAGE",
