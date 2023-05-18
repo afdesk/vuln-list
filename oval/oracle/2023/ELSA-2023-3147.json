@@ -1,19 +1,19 @@
 {
-  "Title": "ELSA-2023-2650:  curl security update (MODERATE)",
-  "Description": "[7.76.1-23.el9_2.1]\n- fix FTP too eager connection reuse (CVE-2023-27535)\n\n[7.76.1-23]\n- fix HTTP multi-header compression denial of service (CVE-2023-23916)\n\n[7.76.1-22]\n- smb/telnet: fix use-after-free when HTTP proxy denies tunnel (CVE-2022-43552)\n\n[7.76.1-21]\n- fix POST following PUT confusion (CVE-2022-32221)\n\n[7.76.1-20]\n- control code in cookie denial of service (CVE-2022-35252)",
+  "Title": "ELSA-2023-3147:  apr-util security update (IMPORTANT)",
+  "Description": "[1.6.1-20.1]\n- Resolves: #2196575 - CVE-2022-25147 apr-util: out-of-bounds writes\n  in the apr_base64",
   "Platform": [
     "Oracle Linux 9"
   ],
   "References": [
     {
       "Source": "elsa",
-      "URI": "https://linux.oracle.com/errata/ELSA-2023-2650.html",
-      "ID": "ELSA-2023-2650"
+      "URI": "https://linux.oracle.com/errata/ELSA-2023-3147.html",
+      "ID": "ELSA-2023-3147"
     },
     {
       "Source": "CVE",
-      "URI": "https://linux.oracle.com/cve/CVE-2023-27535.html",
-      "ID": "CVE-2023-27535"
+      "URI": "https://linux.oracle.com/cve/CVE-2022-25147.html",
+      "ID": "CVE-2022-25147"
     }
   ],
   "Criteria": {
@@ -33,10 +33,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "curl is earlier than 0:7.76.1-23.el9"
+                        "Comment": "apr-util is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "curl is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -45,10 +45,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "curl is earlier than 0:7.76.1-23.el9_2.1"
+                        "Comment": "apr-util-bdb is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "curl is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util-bdb is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -57,10 +57,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "curl-minimal is earlier than 0:7.76.1-23.el9"
+                        "Comment": "apr-util-devel is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "curl-minimal is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util-devel is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -69,10 +69,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "curl-minimal is earlier than 0:7.76.1-23.el9_2.1"
+                        "Comment": "apr-util-ldap is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "curl-minimal is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util-ldap is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -81,10 +81,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "libcurl is earlier than 0:7.76.1-23.el9"
+                        "Comment": "apr-util-mysql is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "libcurl is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util-mysql is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -93,10 +93,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "libcurl is earlier than 0:7.76.1-23.el9_2.1"
+                        "Comment": "apr-util-odbc is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "libcurl is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util-odbc is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -105,10 +105,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "libcurl-devel is earlier than 0:7.76.1-23.el9"
+                        "Comment": "apr-util-openssl is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "libcurl-devel is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util-openssl is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -117,10 +117,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "libcurl-devel is earlier than 0:7.76.1-23.el9_2.1"
+                        "Comment": "apr-util-pgsql is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "libcurl-devel is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util-pgsql is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -129,22 +129,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "libcurl-minimal is earlier than 0:7.76.1-23.el9"
+                        "Comment": "apr-util-sqlite is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "libcurl-minimal is signed with the Oracle Linux 9 key"
-                      }
-                    ]
-                  },
-                  {
-                    "Operator": "AND",
-                    "Criterias": null,
-                    "Criterions": [
-                      {
-                        "Comment": "libcurl-minimal is earlier than 0:7.76.1-23.el9_2.1"
-                      },
-                      {
-                        "Comment": "libcurl-minimal is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util-sqlite is signed with the Oracle Linux 9 key"
                       }
                     ]
                   }
@@ -169,10 +157,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "curl is earlier than 0:7.76.1-23.el9"
+                        "Comment": "apr-util is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "curl is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -181,10 +169,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "curl is earlier than 0:7.76.1-23.el9_2.1"
+                        "Comment": "apr-util-bdb is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "curl is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util-bdb is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -193,10 +181,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "curl-minimal is earlier than 0:7.76.1-23.el9"
+                        "Comment": "apr-util-devel is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "curl-minimal is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util-devel is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -205,10 +193,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "curl-minimal is earlier than 0:7.76.1-23.el9_2.1"
+                        "Comment": "apr-util-ldap is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "curl-minimal is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util-ldap is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -217,10 +205,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "libcurl is earlier than 0:7.76.1-23.el9"
+                        "Comment": "apr-util-mysql is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "libcurl is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util-mysql is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -229,10 +217,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "libcurl is earlier than 0:7.76.1-23.el9_2.1"
+                        "Comment": "apr-util-odbc is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "libcurl is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util-odbc is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -241,10 +229,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "libcurl-devel is earlier than 0:7.76.1-23.el9"
+                        "Comment": "apr-util-openssl is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "libcurl-devel is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util-openssl is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -253,10 +241,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "libcurl-devel is earlier than 0:7.76.1-23.el9_2.1"
+                        "Comment": "apr-util-pgsql is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "libcurl-devel is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util-pgsql is signed with the Oracle Linux 9 key"
                       }
                     ]
                   },
@@ -265,22 +253,10 @@
                     "Criterias": null,
                     "Criterions": [
                       {
-                        "Comment": "libcurl-minimal is earlier than 0:7.76.1-23.el9"
+                        "Comment": "apr-util-sqlite is earlier than 0:1.6.1-20.el9_2.1"
                       },
                       {
-                        "Comment": "libcurl-minimal is signed with the Oracle Linux 9 key"
-                      }
-                    ]
-                  },
-                  {
-                    "Operator": "AND",
-                    "Criterias": null,
-                    "Criterions": [
-                      {
-                        "Comment": "libcurl-minimal is earlier than 0:7.76.1-23.el9_2.1"
-                      },
-                      {
-                        "Comment": "libcurl-minimal is signed with the Oracle Linux 9 key"
+                        "Comment": "apr-util-sqlite is signed with the Oracle Linux 9 key"
                       }
                     ]
                   }
@@ -304,12 +280,12 @@
       }
     ]
   },
-  "Severity": "MODERATE",
+  "Severity": "IMPORTANT",
   "Cves": [
     {
       "Impact": "",
-      "Href": "https://linux.oracle.com/cve/CVE-2023-27535.html",
-      "ID": "CVE-2023-27535"
+      "Href": "https://linux.oracle.com/cve/CVE-2022-25147.html",
+      "ID": "CVE-2022-25147"
     }
   ],
   "Issued": {

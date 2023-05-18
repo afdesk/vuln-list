@@ -1,6 +1,6 @@
 {
   "Title": "ELSA-2023-2626:  emacs security update (IMPORTANT)",
-  "Description": "[1:27.2-8]\n- Use a 64KB page size for pdump (#1979804)\n\n[1:27.2-7]\n- Fix ctags local command execute vulnerability (#2149387)",
+  "Description": "[1:27.2-8.1]\n- Fix etags local command injection vulnerability (#2184369)\n- Fix htmlfontify.el command injection vulnerability (#2184368)\n- Fix ruby-mode.el local command injection vulnerability (#2184367)\n- Fix ob-latex.el command injection vulnerability (#2184377)\n\n[1:27.2-8]\n- Use a 64KB page size for pdump (#1979804)\n\n[1:27.2-7]\n- Fix ctags local command execute vulnerability (#2149387)",
   "Platform": [
     "Oracle Linux 9"
   ],
@@ -60,7 +60,31 @@
                     "Criterias": null,
                     "Criterions": [
                       {
+                        "Comment": "emacs is earlier than 1:27.2-8.el9_2.1"
+                      },
+                      {
+                        "Comment": "emacs is signed with the Oracle Linux 9 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
                         "Comment": "emacs-common is earlier than 1:27.2-8.el9"
+                      },
+                      {
+                        "Comment": "emacs-common is signed with the Oracle Linux 9 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "emacs-common is earlier than 1:27.2-8.el9_2.1"
                       },
                       {
                         "Comment": "emacs-common is signed with the Oracle Linux 9 key"
@@ -84,6 +108,18 @@
                     "Criterias": null,
                     "Criterions": [
                       {
+                        "Comment": "emacs-filesystem is earlier than 1:27.2-8.el9_2.1"
+                      },
+                      {
+                        "Comment": "emacs-filesystem is signed with the Oracle Linux 9 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
                         "Comment": "emacs-lucid is earlier than 1:27.2-8.el9"
                       },
                       {
@@ -96,7 +132,31 @@
                     "Criterias": null,
                     "Criterions": [
                       {
+                        "Comment": "emacs-lucid is earlier than 1:27.2-8.el9_2.1"
+                      },
+                      {
+                        "Comment": "emacs-lucid is signed with the Oracle Linux 9 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
                         "Comment": "emacs-nox is earlier than 1:27.2-8.el9"
+                      },
+                      {
+                        "Comment": "emacs-nox is signed with the Oracle Linux 9 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "emacs-nox is earlier than 1:27.2-8.el9_2.1"
                       },
                       {
                         "Comment": "emacs-nox is signed with the Oracle Linux 9 key"
@@ -136,7 +196,31 @@
                     "Criterias": null,
                     "Criterions": [
                       {
+                        "Comment": "emacs is earlier than 1:27.2-8.el9_2.1"
+                      },
+                      {
+                        "Comment": "emacs is signed with the Oracle Linux 9 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
                         "Comment": "emacs-common is earlier than 1:27.2-8.el9"
+                      },
+                      {
+                        "Comment": "emacs-common is signed with the Oracle Linux 9 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "emacs-common is earlier than 1:27.2-8.el9_2.1"
                       },
                       {
                         "Comment": "emacs-common is signed with the Oracle Linux 9 key"
@@ -160,6 +244,18 @@
                     "Criterias": null,
                     "Criterions": [
                       {
+                        "Comment": "emacs-filesystem is earlier than 1:27.2-8.el9_2.1"
+                      },
+                      {
+                        "Comment": "emacs-filesystem is signed with the Oracle Linux 9 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
                         "Comment": "emacs-lucid is earlier than 1:27.2-8.el9"
                       },
                       {
@@ -172,7 +268,31 @@
                     "Criterias": null,
                     "Criterions": [
                       {
+                        "Comment": "emacs-lucid is earlier than 1:27.2-8.el9_2.1"
+                      },
+                      {
+                        "Comment": "emacs-lucid is signed with the Oracle Linux 9 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
                         "Comment": "emacs-nox is earlier than 1:27.2-8.el9"
+                      },
+                      {
+                        "Comment": "emacs-nox is signed with the Oracle Linux 9 key"
+                      }
+                    ]
+                  },
+                  {
+                    "Operator": "AND",
+                    "Criterias": null,
+                    "Criterions": [
+                      {
+                        "Comment": "emacs-nox is earlier than 1:27.2-8.el9_2.1"
                       },
                       {
                         "Comment": "emacs-nox is signed with the Oracle Linux 9 key"
@@ -223,6 +343,6 @@
     }
   ],
   "Issued": {
-    "Date": "2023-05-15"
+    "Date": "2023-05-17"
   }
 }
