@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 May 2018] DSA-4206-1 gitlab - security update",
-    "Line": 3952,
+    "Line": 3955,
     "ID": "DSA-4206-1",
     "Description": "gitlab - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-0920 CVE-2018-8971}",
-      "Line": 3953,
+      "Line": 3956,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-0920",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[stretch] - gitlab 8.13.11+dfsg1-8+deb9u2",
-      "Line": 3954,
+      "Line": 3957,
       "Type": "package",
       "Release": "stretch",
       "Package": "gitlab",

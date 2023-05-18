@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 Jun 2013] DSA-2711-1 haproxy - several",
-    "Line": 9079,
+    "Line": 9082,
     "ID": "DSA-2711-1",
     "Description": "haproxy - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-2942 CVE-2013-1912 CVE-2013-2175}",
-      "Line": 9080,
+      "Line": 9083,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-2942",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[squeeze] - haproxy 1.4.8-1+squeeze1",
-      "Line": 9081,
+      "Line": 9084,
       "Type": "package",
       "Release": "squeeze",
       "Package": "haproxy",
