@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Feb 2009] DSA-1717-1 devil - buffer overflow",
-    "Line": 12527,
+    "Line": 12530,
     "ID": "DSA-1717-1",
     "Description": "devil - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-5262}",
-      "Line": 12528,
+      "Line": 12531,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-5262"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - devil 1.6.7-5+etch1",
-      "Line": 12529,
+      "Line": 12532,
       "Type": "package",
       "Release": "etch",
       "Package": "devil",

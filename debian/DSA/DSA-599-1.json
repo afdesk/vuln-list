@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[25 Nov 2004] DSA-599-1 tetex-bin - integer overflows",
-    "Line": 16738,
+    "Line": 16741,
     "ID": "DSA-599-1",
     "Description": "tetex-bin - integer overflows"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0888}",
-      "Line": 16739,
+      "Line": 16742,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0888"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - tetex-bin 1.0.7+20011202-7.3",
-      "Line": 16740,
+      "Line": 16743,
       "Type": "package",
       "Release": "woody",
       "Package": "tetex-bin",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 Jun 2007] DSA-1321-1 evolution-data-server",
-    "Line": 13916,
+    "Line": 13919,
     "ID": "DSA-1321-1",
     "Description": "evolution-data-server"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-3257}",
-      "Line": 13917,
+      "Line": 13920,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-3257"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - evolution-data-server 1.6.3-5etch1",
-      "Line": 13918,
+      "Line": 13921,
       "Type": "package",
       "Release": "etch",
       "Package": "evolution-data-server",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Sep 2003] DSA-386 libmailtools-perl - input validation bug",
-    "Line": 17437,
+    "Line": 17440,
     "ID": "DSA-386",
     "Description": "libmailtools-perl - input validation bug"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-1271}",
-      "Line": 17438,
+      "Line": 17441,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-1271"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - libmailtools-perl 1.44-1woody1",
-      "Line": 17439,
+      "Line": 17442,
       "Type": "package",
       "Release": "woody",
       "Package": "libmailtools-perl",

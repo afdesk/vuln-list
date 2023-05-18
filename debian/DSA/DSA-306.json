@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 May 2003] DSA-306 ircii-pana - buffer overflows, integer overflow",
-    "Line": 17689,
+    "Line": 17692,
     "ID": "DSA-306",
     "Description": "ircii-pana - buffer overflows, integer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0321 CVE-2003-0322 CVE-2003-0328}",
-      "Line": 17690,
+      "Line": 17693,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0321",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[woody] - ircii-pana 1.0-0c19-1.1",
-      "Line": 17691,
+      "Line": 17694,
       "Type": "package",
       "Release": "woody",
       "Package": "ircii-pana",

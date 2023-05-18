@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Feb 2013] DSA-2628-1 nss-pam-ldapd - buffer overflow",
-    "Line": 9361,
+    "Line": 9364,
     "ID": "DSA-2628-1",
     "Description": "nss-pam-ldapd - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-0288}",
-      "Line": 9362,
+      "Line": 9365,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-0288"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - nss-pam-ldapd 0.7.15+squeeze3",
-      "Line": 9363,
+      "Line": 9366,
       "Type": "package",
       "Release": "squeeze",
       "Package": "nss-pam-ldapd",

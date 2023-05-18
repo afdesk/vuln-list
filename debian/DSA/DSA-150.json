@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Aug 2002] DSA-150 interchange - illegal file exposition",
-    "Line": 18166,
+    "Line": 18169,
     "ID": "DSA-150",
     "Description": "interchange - illegal file exposition"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-0874}",
-      "Line": 18167,
+      "Line": 18170,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-0874"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - interchange 4.8.3.20020306-1.woody.1",
-      "Line": 18168,
+      "Line": 18171,
       "Type": "package",
       "Release": "woody",
       "Package": "interchange",

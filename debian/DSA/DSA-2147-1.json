@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Jan 2011] DSA-2147-1 pimd - insecure temporary files",
-    "Line": 10973,
+    "Line": 10976,
     "ID": "DSA-2147-1",
     "Description": "pimd - insecure temporary files"
   },
   "Annotations": [
     {
       "Original": "{CVE-2011-0007}",
-      "Line": 10974,
+      "Line": 10977,
       "Type": "xref",
       "Bugs": [
         "CVE-2011-0007"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - pimd 2.1.0-alpha29.17-8.1lenny1",
-      "Line": 10975,
+      "Line": 10978,
       "Type": "package",
       "Release": "lenny",
       "Package": "pimd",
