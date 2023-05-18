@@ -8963,12 +8963,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202227664003",
       "Version": "636",
-      "Name": "toolbox"
+      "Name": "toolbox-tests"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202227664004",
       "Version": "636",
-      "Name": "toolbox-tests"
+      "Name": "toolbox"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202227943006",
@@ -9141,9 +9141,14 @@
       "Name": "bind-chroot"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189003",
+      "ID": "oval:com.redhat.cve:obj:202232189001",
       "Version": "636",
-      "Name": "rsyslog-mmsnmptrapd"
+      "Name": "rsyslog-omamqp1"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189004",
+      "Version": "636",
+      "Name": "rsyslog-mmfields"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189005",
@@ -9151,84 +9156,64 @@
       "Name": "rsyslog-relp"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189010",
-      "Version": "636",
-      "Name": "rsyslog-omamqp1"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189011",
-      "Version": "636",
-      "Name": "rsyslog-mysql"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189012",
-      "Version": "636",
-      "Name": "rsyslog-pgsql"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189014",
-      "Version": "636",
-      "Name": "rsyslog-mmjsonparse"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189015",
-      "Version": "636",
-      "Name": "rsyslog"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189016",
-      "Version": "636",
-      "Name": "rsyslog-mmkubernetes"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189017",
-      "Version": "636",
-      "Name": "rsyslog-snmp"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189019",
-      "Version": "636",
-      "Name": "rsyslog-elasticsearch"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189021",
-      "Version": "636",
-      "Name": "rsyslog-gnutls"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189022",
-      "Version": "636",
-      "Name": "rsyslog-kafka"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189023",
-      "Version": "636",
-      "Name": "rsyslog-gssapi"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189024",
-      "Version": "636",
-      "Name": "rsyslog-mmaudit"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189026",
+      "ID": "oval:com.redhat.cve:obj:202232189006",
       "Version": "636",
       "Name": "rsyslog-mmnormalize"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189027",
+      "ID": "oval:com.redhat.cve:obj:202232189007",
+      "Version": "636",
+      "Name": "rsyslog-pgsql"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189008",
+      "Version": "636",
+      "Name": "rsyslog-gssapi"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189009",
+      "Version": "636",
+      "Name": "rsyslog"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189012",
       "Version": "636",
       "Name": "rsyslog-crypto"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189029",
+      "ID": "oval:com.redhat.cve:obj:202232189014",
       "Version": "636",
-      "Name": "rsyslog-udpspoof"
+      "Name": "rsyslog-mmkubernetes"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189015",
+      "Version": "636",
+      "Name": "rsyslog-gnutls"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189017",
+      "Version": "636",
+      "Name": "rsyslog-doc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189022",
+      "Version": "636",
+      "Name": "rsyslog-elasticsearch"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189027",
+      "Version": "636",
+      "Name": "rsyslog-mysql"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189028",
+      "Version": "636",
+      "Name": "rsyslog-mmsnmptrapd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189031",
       "Version": "636",
-      "Name": "rsyslog-doc"
+      "Name": "rsyslog-mmaudit"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189032",
@@ -9236,9 +9221,24 @@
       "Name": "rsyslog-openssl"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189037",
+      "ID": "oval:com.redhat.cve:obj:202232189033",
       "Version": "636",
-      "Name": "rsyslog-mmfields"
+      "Name": "rsyslog-kafka"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189034",
+      "Version": "636",
+      "Name": "rsyslog-udpspoof"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189036",
+      "Version": "636",
+      "Name": "rsyslog-mmjsonparse"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189038",
+      "Version": "636",
+      "Name": "rsyslog-snmp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223219001",
@@ -9791,7 +9791,7 @@
       "Name": "oci-seccomp-bpf-hook"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241723004",
+      "ID": "oval:com.redhat.cve:obj:202241723008",
       "Version": "636",
       "Name": "git-lfs"
     },
@@ -10184,6 +10184,11 @@
       "ID": "oval:com.redhat.cve:obj:20231017002",
       "Version": "636",
       "Name": "libtpms"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20231436004",
+      "Version": "636",
+      "Name": "log4j-web"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231667001",
@@ -20264,11 +20269,6 @@
       "ID": "oval:com.redhat.unaffected:obj:20208991012",
       "Version": "635",
       "Name": "lvm2-lockd"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:20210341002",
-      "Version": "635",
-      "Name": "log4j-web"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202120286006",

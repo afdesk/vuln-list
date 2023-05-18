@@ -684,65 +684,21 @@
     },
     {
       "Check": "at least one",
-      "Comment": "atomic-enterprise-service-catalog is installed",
-      "ID": "oval:com.redhat.cve:tst:20221996001",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221996001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "atomic-enterprise-service-catalog is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20221996002",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221996001"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201714623001"
-      }
-    },
-    {
-      "Check": "at least one",
       "Comment": "atomic-openshift-service-idler is installed",
-      "ID": "oval:com.redhat.cve:tst:20221996005",
+      "ID": "oval:com.redhat.cve:tst:20221996009",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221996003"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221996005"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "atomic-openshift-service-idler is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20221996006",
+      "ID": "oval:com.redhat.cve:tst:20221996010",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221996003"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201714623001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "machine-config-daemon is installed",
-      "ID": "oval:com.redhat.cve:tst:20221996007",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221996004"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "machine-config-daemon is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20221996008",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221996004"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221996005"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:201714623001"
@@ -1522,7 +1478,17 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221996003"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221996005"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "atomic-enterprise-service-catalog is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202024553011",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202024553006"
       },
       "State": {}
     },
@@ -1533,7 +1499,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221996001"
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202024553006"
       },
       "State": {}
     },
@@ -1571,12 +1537,22 @@
     },
     {
       "Check": "at least one",
+      "Comment": "machine-config-daemon is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202024553023",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202024553012"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "machine-config-daemon is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202024553024",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221996004"
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202024553012"
       },
       "State": {}
     },
@@ -1938,7 +1914,7 @@
     {
       "Check": "at least one",
       "Comment": "butane is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202241717002",
+      "ID": "oval:com.redhat.unaffected:tst:202241717006",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {

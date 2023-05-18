@@ -156,19 +156,9 @@
       "Name": "python-oslo-utils"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221996001",
-      "Version": "636",
-      "Name": "atomic-enterprise-service-catalog"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20221996003",
+      "ID": "oval:com.redhat.cve:obj:20221996005",
       "Version": "636",
       "Name": "atomic-openshift-service-idler"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20221996004",
-      "Version": "636",
-      "Name": "machine-config-daemon"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202227650001",
@@ -281,9 +271,19 @@
       "Name": "openshift-eventrouter"
     },
     {
+      "ID": "oval:com.redhat.unaffected:obj:202024553006",
+      "Version": "635",
+      "Name": "atomic-enterprise-service-catalog"
+    },
+    {
       "ID": "oval:com.redhat.unaffected:obj:202024553007",
       "Version": "635",
       "Name": "pivot"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202024553012",
+      "Version": "635",
+      "Name": "machine-config-daemon"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202024553015",
