@@ -34,7 +34,7 @@
     "PublishedAt": "2023-05-10T21:25:28Z",
     "Severity": "MODERATE",
     "Summary": "Ibexa User Settings are accessible on the front-end for anonymous user",
-    "UpdatedAt": "2023-05-11T20:12:32Z",
+    "UpdatedAt": "2023-05-18T18:03:15Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.4,
