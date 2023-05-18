@@ -18,7 +18,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138561002",
       "Version": "636",
-      "Name": "servicemesh-pilot-agent"
+      "Name": "servicemesh-pilot-discovery"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561003",
@@ -28,7 +28,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138561004",
       "Version": "636",
-      "Name": "servicemesh-pilot-discovery"
+      "Name": "servicemesh-pilot-agent"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202221656001",
@@ -46,12 +46,12 @@
       "Name": "servicemesh-proxy"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241717002",
+      "ID": "oval:com.redhat.cve:obj:202241717005",
       "Version": "636",
       "Name": "servicemesh-operator"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241717003",
+      "ID": "oval:com.redhat.cve:obj:202241717008",
       "Version": "636",
       "Name": "servicemesh-ratelimit"
     },
