@@ -14818,12 +14818,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202240149001",
       "Version": "636",
-      "Name": "jettison-javadoc"
+      "Name": "jettison"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202240149002",
       "Version": "636",
-      "Name": "jettison"
+      "Name": "jettison-javadoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202240152001",

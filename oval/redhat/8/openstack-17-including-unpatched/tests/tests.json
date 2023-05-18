@@ -2208,6 +2208,17 @@
         "ObjectRef": "oval:com.redhat.unaffected:obj:202241722007"
       },
       "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-django is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202331047002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202323969001"
+      },
+      "State": {}
     }
   ],
   "RpmverifyfileTests": [

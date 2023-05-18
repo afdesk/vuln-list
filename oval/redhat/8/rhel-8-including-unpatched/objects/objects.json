@@ -9543,17 +9543,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:202236944001",
       "Version": "636",
-      "Name": "scala-swing"
+      "Name": "scala-apidoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202236944002",
       "Version": "636",
-      "Name": "scala-apidoc"
+      "Name": "scala"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202236944003",
       "Version": "636",
-      "Name": "scala"
+      "Name": "scala-swing"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202237290001",
@@ -9791,7 +9791,7 @@
       "Name": "oci-seccomp-bpf-hook"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241723010",
+      "ID": "oval:com.redhat.cve:obj:202241723004",
       "Version": "636",
       "Name": "git-lfs"
     },
@@ -20264,6 +20264,11 @@
       "ID": "oval:com.redhat.unaffected:obj:20208991012",
       "Version": "635",
       "Name": "lvm2-lockd"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20210341002",
+      "Version": "635",
+      "Name": "log4j-web"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202120286006",

@@ -2392,12 +2392,97 @@
     },
     {
       "Check": "at least one",
-      "Comment": "butane is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202228948008",
+      "Comment": "buildah-tests is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202228948004",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202129923007"
+        "ObjectRef": "oval:com.redhat.cve:obj:202325173008"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openshift-hyperkube is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202228948006",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-networking is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202228948011",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231329002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-networking is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202228948012",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231329002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openshift-clients-redistributable is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202228948014",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-release-info is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202228948015",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231329003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-release-info is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202228948016",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231329003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-selinux is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202228948019",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231329004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-selinux is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202228948020",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231329004"
       },
       "State": {}
     },
@@ -2446,45 +2531,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "openshift-clients-redistributable is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20223064008",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "podman-gvproxy is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20223064010",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202138561008"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "openshift-hyperkube is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20223064014",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "buildah-tests is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20223064016",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202325173008"
       },
       "State": {}
     },
@@ -2550,6 +2602,17 @@
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201925076004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "butane is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202241720012",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202129923007"
       },
       "State": {}
     },

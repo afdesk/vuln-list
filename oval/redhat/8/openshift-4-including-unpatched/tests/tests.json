@@ -1827,12 +1827,23 @@
     },
     {
       "Check": "at least one",
-      "Comment": "butane is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202228948008",
+      "Comment": "openshift-clients-redistributable is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202228948002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241722007"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openshift-hyperkube is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202228948006",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561007"
       },
       "State": {}
     },
@@ -1860,34 +1871,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "openshift-clients-redistributable is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20223064008",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "podman-gvproxy is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20223064010",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202138561010"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "openshift-hyperkube is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20223064014",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561007"
       },
       "State": {}
     },
@@ -1943,6 +1932,17 @@
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:201925076004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "butane is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202241717002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202241722007"
       },
       "State": {}
     },
