@@ -914,7 +914,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package qt5-qtbase is installed with version 5.12.11-5 or earlier",
+      "Comment": "Package qt5-qtbase is installed with version 5.15.9-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13829000",
       "Version": "0",
       "Object": {
@@ -2534,7 +2534,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package qt5-qtbase is installed with version 5.12.11-5 or earlier",
+      "Comment": "Package qt5-qtbase is installed with version 5.15.9-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13231000",
       "Version": "0",
       "Object": {
