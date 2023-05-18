@@ -24,30 +24,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "wireshark-cli",
-        "version": "3.4.10",
-        "release": "4.el9",
-        "epoch": "1",
-        "arch": "s390x",
-        "src": "wireshark-3.4.10-4.el9.src.rpm",
-        "filename": "wireshark-cli-3.4.10-4.el9.s390x.rpm",
-        "sum": "6f3b9c440a9b824ac8711db58cf0a555023aa1735f6e73f98075355b8140b32e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "wireshark",
-        "version": "3.4.10",
-        "release": "4.el9",
-        "epoch": "1",
-        "arch": "s390x",
-        "src": "wireshark-3.4.10-4.el9.src.rpm",
-        "filename": "wireshark-3.4.10-4.el9.s390x.rpm",
-        "sum": "982519e9147624c34790f4a9e3fdd5392382b535ace2ea8cf3056ae9a46fa16a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "wireshark",
         "version": "3.4.10",
         "release": "4.el9",
@@ -96,6 +72,30 @@
         "reboot_suggested": 0
       },
       {
+        "name": "wireshark-cli",
+        "version": "3.4.10",
+        "release": "4.el9",
+        "epoch": "1",
+        "arch": "s390x",
+        "src": "wireshark-3.4.10-4.el9.src.rpm",
+        "filename": "wireshark-cli-3.4.10-4.el9.s390x.rpm",
+        "sum": "6f3b9c440a9b824ac8711db58cf0a555023aa1735f6e73f98075355b8140b32e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "wireshark",
+        "version": "3.4.10",
+        "release": "4.el9",
+        "epoch": "1",
+        "arch": "s390x",
+        "src": "wireshark-3.4.10-4.el9.src.rpm",
+        "filename": "wireshark-3.4.10-4.el9.s390x.rpm",
+        "sum": "982519e9147624c34790f4a9e3fdd5392382b535ace2ea8cf3056ae9a46fa16a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "wireshark",
         "version": "3.4.10",
         "release": "4.el9",
@@ -136,18 +136,6 @@
         "version": "3.4.10",
         "release": "4.el9",
         "epoch": "1",
-        "arch": "ppc64le",
-        "src": "wireshark-3.4.10-4.el9.src.rpm",
-        "filename": "wireshark-devel-3.4.10-4.el9.ppc64le.rpm",
-        "sum": "16770214dc484ff9449c9a4f4bc00e8cd68d497801f70319eafb6c548b2d58f8",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "wireshark-devel",
-        "version": "3.4.10",
-        "release": "4.el9",
-        "epoch": "1",
         "arch": "x86_64",
         "src": "wireshark-3.4.10-4.el9.src.rpm",
         "filename": "wireshark-devel-3.4.10-4.el9.x86_64.rpm",
@@ -160,10 +148,10 @@
         "version": "3.4.10",
         "release": "4.el9",
         "epoch": "1",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "wireshark-3.4.10-4.el9.src.rpm",
-        "filename": "wireshark-devel-3.4.10-4.el9.s390x.rpm",
-        "sum": "34f1fd77915ca733a8124c6993b8f0e541e5ab29720bb7bcb9ce09ae32cc4877",
+        "filename": "wireshark-devel-3.4.10-4.el9.aarch64.rpm",
+        "sum": "ecc03cb75a5e4b7de753b0183d471bee3e19bd04e59f8ed62b63ae7048e25348",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -172,10 +160,22 @@
         "version": "3.4.10",
         "release": "4.el9",
         "epoch": "1",
-        "arch": "aarch64",
+        "arch": "ppc64le",
         "src": "wireshark-3.4.10-4.el9.src.rpm",
-        "filename": "wireshark-devel-3.4.10-4.el9.aarch64.rpm",
-        "sum": "ecc03cb75a5e4b7de753b0183d471bee3e19bd04e59f8ed62b63ae7048e25348",
+        "filename": "wireshark-devel-3.4.10-4.el9.ppc64le.rpm",
+        "sum": "16770214dc484ff9449c9a4f4bc00e8cd68d497801f70319eafb6c548b2d58f8",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "wireshark-devel",
+        "version": "3.4.10",
+        "release": "4.el9",
+        "epoch": "1",
+        "arch": "s390x",
+        "src": "wireshark-3.4.10-4.el9.src.rpm",
+        "filename": "wireshark-devel-3.4.10-4.el9.s390x.rpm",
+        "sum": "34f1fd77915ca733a8124c6993b8f0e541e5ab29720bb7bcb9ce09ae32cc4877",
         "sum_type": 5,
         "reboot_suggested": 0
       }

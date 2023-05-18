@@ -36,30 +36,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libwebp",
-        "version": "1.2.0",
-        "release": "6.el9_1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "libwebp-1.2.0-6.el9_1.src.rpm",
-        "filename": "libwebp-1.2.0-6.el9_1.s390x.rpm",
-        "sum": "bbd3325877c0b1aa5eeb874644cd460a33aed09c5532b656c37ff5d23540f384",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libwebp-devel",
-        "version": "1.2.0",
-        "release": "6.el9_1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "libwebp-1.2.0-6.el9_1.src.rpm",
-        "filename": "libwebp-devel-1.2.0-6.el9_1.s390x.rpm",
-        "sum": "d1b813e0ed40aa7b7c705ca5663129290a91f56350664645e5b238eba4682725",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libwebp-devel",
         "version": "1.2.0",
         "release": "6.el9_1",
@@ -104,6 +80,30 @@
         "src": "libwebp-1.2.0-6.el9_1.src.rpm",
         "filename": "libwebp-devel-1.2.0-6.el9_1.ppc64le.rpm",
         "sum": "44b2654868922eaa3924ab3cc85703467d322fdef60d2154260f92832fd618fe",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libwebp",
+        "version": "1.2.0",
+        "release": "6.el9_1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "libwebp-1.2.0-6.el9_1.src.rpm",
+        "filename": "libwebp-1.2.0-6.el9_1.s390x.rpm",
+        "sum": "bbd3325877c0b1aa5eeb874644cd460a33aed09c5532b656c37ff5d23540f384",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libwebp-devel",
+        "version": "1.2.0",
+        "release": "6.el9_1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "libwebp-1.2.0-6.el9_1.src.rpm",
+        "filename": "libwebp-devel-1.2.0-6.el9_1.s390x.rpm",
+        "sum": "d1b813e0ed40aa7b7c705ca5663129290a91f56350664645e5b238eba4682725",
         "sum_type": 5,
         "reboot_suggested": 0
       },

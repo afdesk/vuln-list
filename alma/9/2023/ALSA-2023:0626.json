@@ -8,21 +8,9 @@
     "$date": 1675728000000
   },
   "pkglist": {
-    "name": "almalinux-9-for-x86_64-baseos-rpms__9_1_default",
-    "shortname": "almalinux-9-for-x86_64-baseos-rpms__9_1_default",
+    "name": "almalinux-9-for-i686-baseos-rpms__9_1_default",
+    "shortname": "almalinux-9-for-i686-baseos-rpms__9_1_default",
     "packages": [
-      {
-        "name": "libksba",
-        "version": "1.5.1",
-        "release": "6.el9_1",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "libksba-1.5.1-6.el9_1.src.rpm",
-        "filename": "libksba-1.5.1-6.el9_1.x86_64.rpm",
-        "sum": "95b84e9a29325368df9ac97533c9fad91120c7dbc5c7274858e4f894aa7846af",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "libksba",
         "version": "1.5.1",
@@ -32,18 +20,6 @@
         "src": "libksba-1.5.1-6.el9_1.src.rpm",
         "filename": "libksba-1.5.1-6.el9_1.i686.rpm",
         "sum": "bab03b2be16b504f1aadf2af62dacbe0f66a8120baf70c4354f2fdb431173e85",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libksba",
-        "version": "1.5.1",
-        "release": "6.el9_1",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "libksba-1.5.1-6.el9_1.src.rpm",
-        "filename": "libksba-1.5.1-6.el9_1.aarch64.rpm",
-        "sum": "2928b1f1c988cda721b603a91e5be06a717378929b66ac9dcb0535df6446dbab",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -84,14 +60,26 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libksba-devel",
+        "name": "libksba",
         "version": "1.5.1",
         "release": "6.el9_1",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "x86_64",
         "src": "libksba-1.5.1-6.el9_1.src.rpm",
-        "filename": "libksba-devel-1.5.1-6.el9_1.ppc64le.rpm",
-        "sum": "6185dc4e309e7df024c6f83e9d8f333b6f56eb58804d4758b0316fc347694faa",
+        "filename": "libksba-1.5.1-6.el9_1.x86_64.rpm",
+        "sum": "95b84e9a29325368df9ac97533c9fad91120c7dbc5c7274858e4f894aa7846af",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libksba",
+        "version": "1.5.1",
+        "release": "6.el9_1",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "libksba-1.5.1-6.el9_1.src.rpm",
+        "filename": "libksba-1.5.1-6.el9_1.aarch64.rpm",
+        "sum": "2928b1f1c988cda721b603a91e5be06a717378929b66ac9dcb0535df6446dbab",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -112,10 +100,10 @@
         "version": "1.5.1",
         "release": "6.el9_1",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "libksba-1.5.1-6.el9_1.src.rpm",
-        "filename": "libksba-devel-1.5.1-6.el9_1.s390x.rpm",
-        "sum": "6b8e06cc23075389b1f63c52251a9b275138d7a3c6f4cf550c2f50af0c8c1050",
+        "filename": "libksba-devel-1.5.1-6.el9_1.aarch64.rpm",
+        "sum": "47fc3964dcd6a7a72b7a849425307979d34123abbfaa016c8c8c230f00ddee92",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -124,10 +112,22 @@
         "version": "1.5.1",
         "release": "6.el9_1",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "ppc64le",
         "src": "libksba-1.5.1-6.el9_1.src.rpm",
-        "filename": "libksba-devel-1.5.1-6.el9_1.aarch64.rpm",
-        "sum": "47fc3964dcd6a7a72b7a849425307979d34123abbfaa016c8c8c230f00ddee92",
+        "filename": "libksba-devel-1.5.1-6.el9_1.ppc64le.rpm",
+        "sum": "6185dc4e309e7df024c6f83e9d8f333b6f56eb58804d4758b0316fc347694faa",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libksba-devel",
+        "version": "1.5.1",
+        "release": "6.el9_1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "libksba-1.5.1-6.el9_1.src.rpm",
+        "filename": "libksba-devel-1.5.1-6.el9_1.s390x.rpm",
+        "sum": "6b8e06cc23075389b1f63c52251a9b275138d7a3c6f4cf550c2f50af0c8c1050",
         "sum_type": 5,
         "reboot_suggested": 0
       }
@@ -170,7 +170,7 @@
   "title": "Important: libksba security update",
   "type": "security",
   "updated_date": {
-    "$date": 1678189811000
+    "$date": 1675958401000
   },
   "version": "1"
 }

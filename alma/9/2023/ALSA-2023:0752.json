@@ -8,33 +8,9 @@
     "$date": 1676332800000
   },
   "pkglist": {
-    "name": "almalinux-9-for-x86_64-baseos-rpms__9_1_default",
-    "shortname": "almalinux-9-for-x86_64-baseos-rpms__9_1_default",
+    "name": "almalinux-9-for-i686-baseos-rpms__9_1_default",
+    "shortname": "almalinux-9-for-i686-baseos-rpms__9_1_default",
     "packages": [
-      {
-        "name": "grub2-tools-efi",
-        "version": "2.06",
-        "release": "46.el9_1.3.alma",
-        "epoch": "1",
-        "arch": "x86_64",
-        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
-        "filename": "grub2-tools-efi-2.06-46.el9_1.3.alma.x86_64.rpm",
-        "sum": "2e5da8f931b6f9ec894ac08bf68693874938b05c8a217367b1fa9e7fe77ea3ca",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "grub2-tools",
-        "version": "2.06",
-        "release": "46.el9_1.3.alma",
-        "epoch": "1",
-        "arch": "x86_64",
-        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
-        "filename": "grub2-tools-2.06-46.el9_1.3.alma.x86_64.rpm",
-        "sum": "3bbd1d52cbc1c64402c47c2017c39b709a7d1dd937cd96664ba99efba63fb125",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "grub2-common",
         "version": "2.06",
@@ -44,30 +20,6 @@
         "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
         "filename": "grub2-common-2.06-46.el9_1.3.alma.noarch.rpm",
         "sum": "3d7943591c3cb72c5c1c2d0b121c33aa63616191a20b0ac166476e682a726637",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "grub2-tools-extra",
-        "version": "2.06",
-        "release": "46.el9_1.3.alma",
-        "epoch": "1",
-        "arch": "x86_64",
-        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
-        "filename": "grub2-tools-extra-2.06-46.el9_1.3.alma.x86_64.rpm",
-        "sum": "46cea3ddec9c1e513181e5c8d866d2645aede1d0f9b85ea53a20069943232dc4",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "grub2-tools-minimal",
-        "version": "2.06",
-        "release": "46.el9_1.3.alma",
-        "epoch": "1",
-        "arch": "x86_64",
-        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
-        "filename": "grub2-tools-minimal-2.06-46.el9_1.3.alma.x86_64.rpm",
-        "sum": "4d8960b9edfbeb45a2dae63fc037c493ddd2685c87e8a201ebc8668b7ae10d8f",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -96,18 +48,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "grub2-pc",
-        "version": "2.06",
-        "release": "46.el9_1.3.alma",
-        "epoch": "1",
-        "arch": "x86_64",
-        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
-        "filename": "grub2-pc-2.06-46.el9_1.3.alma.x86_64.rpm",
-        "sum": "944150ad9c1799da77e5ab4af885d8c69601f74e6244b6b4644b428d9c7fa830",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "grub2-pc-modules",
         "version": "2.06",
         "release": "46.el9_1.3.alma",
@@ -128,6 +68,114 @@
         "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
         "filename": "grub2-efi-x64-modules-2.06-46.el9_1.3.alma.noarch.rpm",
         "sum": "bb7dbf92409f9a739e2f7009a330c2c8fd7827db40118327f4ab18639a16c82d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "grub2-tools",
+        "version": "2.06",
+        "release": "46.el9_1.3.alma",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
+        "filename": "grub2-tools-2.06-46.el9_1.3.alma.ppc64le.rpm",
+        "sum": "2066fa90ea28ea6104284170d9b8eb899a85b2bf0325e6bd543e8dde5f9006e5",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "grub2-tools-minimal",
+        "version": "2.06",
+        "release": "46.el9_1.3.alma",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
+        "filename": "grub2-tools-minimal-2.06-46.el9_1.3.alma.ppc64le.rpm",
+        "sum": "2a30a6c2df080b48d3b4ae0b227b0f0c2378bfee45aa6e966788afd012455ee0",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "grub2-ppc64le",
+        "version": "2.06",
+        "release": "46.el9_1.3.alma",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
+        "filename": "grub2-ppc64le-2.06-46.el9_1.3.alma.ppc64le.rpm",
+        "sum": "6393af6328bc883a93fdffda019d0992abe7772f113581c328d77c41c4d81e2f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "grub2-tools-extra",
+        "version": "2.06",
+        "release": "46.el9_1.3.alma",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
+        "filename": "grub2-tools-extra-2.06-46.el9_1.3.alma.ppc64le.rpm",
+        "sum": "7abbb5232f0231b6da22bc9f7c35c5290b76b3e5ff6a8593f3e80358b4eb8aeb",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "grub2-tools-efi",
+        "version": "2.06",
+        "release": "46.el9_1.3.alma",
+        "epoch": "1",
+        "arch": "x86_64",
+        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
+        "filename": "grub2-tools-efi-2.06-46.el9_1.3.alma.x86_64.rpm",
+        "sum": "2e5da8f931b6f9ec894ac08bf68693874938b05c8a217367b1fa9e7fe77ea3ca",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "grub2-tools",
+        "version": "2.06",
+        "release": "46.el9_1.3.alma",
+        "epoch": "1",
+        "arch": "x86_64",
+        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
+        "filename": "grub2-tools-2.06-46.el9_1.3.alma.x86_64.rpm",
+        "sum": "3bbd1d52cbc1c64402c47c2017c39b709a7d1dd937cd96664ba99efba63fb125",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "grub2-tools-extra",
+        "version": "2.06",
+        "release": "46.el9_1.3.alma",
+        "epoch": "1",
+        "arch": "x86_64",
+        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
+        "filename": "grub2-tools-extra-2.06-46.el9_1.3.alma.x86_64.rpm",
+        "sum": "46cea3ddec9c1e513181e5c8d866d2645aede1d0f9b85ea53a20069943232dc4",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "grub2-tools-minimal",
+        "version": "2.06",
+        "release": "46.el9_1.3.alma",
+        "epoch": "1",
+        "arch": "x86_64",
+        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
+        "filename": "grub2-tools-minimal-2.06-46.el9_1.3.alma.x86_64.rpm",
+        "sum": "4d8960b9edfbeb45a2dae63fc037c493ddd2685c87e8a201ebc8668b7ae10d8f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "grub2-pc",
+        "version": "2.06",
+        "release": "46.el9_1.3.alma",
+        "epoch": "1",
+        "arch": "x86_64",
+        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
+        "filename": "grub2-pc-2.06-46.el9_1.3.alma.x86_64.rpm",
+        "sum": "944150ad9c1799da77e5ab4af885d8c69601f74e6244b6b4644b428d9c7fa830",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -214,54 +262,6 @@
         "sum": "def308f494e9d4ea039936c629191ba67d0822cce3f59b8d31aa420f4d8e40fa",
         "sum_type": 5,
         "reboot_suggested": 0
-      },
-      {
-        "name": "grub2-tools",
-        "version": "2.06",
-        "release": "46.el9_1.3.alma",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
-        "filename": "grub2-tools-2.06-46.el9_1.3.alma.ppc64le.rpm",
-        "sum": "2066fa90ea28ea6104284170d9b8eb899a85b2bf0325e6bd543e8dde5f9006e5",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "grub2-tools-minimal",
-        "version": "2.06",
-        "release": "46.el9_1.3.alma",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
-        "filename": "grub2-tools-minimal-2.06-46.el9_1.3.alma.ppc64le.rpm",
-        "sum": "2a30a6c2df080b48d3b4ae0b227b0f0c2378bfee45aa6e966788afd012455ee0",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "grub2-ppc64le",
-        "version": "2.06",
-        "release": "46.el9_1.3.alma",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
-        "filename": "grub2-ppc64le-2.06-46.el9_1.3.alma.ppc64le.rpm",
-        "sum": "6393af6328bc883a93fdffda019d0992abe7772f113581c328d77c41c4d81e2f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "grub2-tools-extra",
-        "version": "2.06",
-        "release": "46.el9_1.3.alma",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "grub2-2.06-46.el9_1.3.alma.src.rpm",
-        "filename": "grub2-tools-extra-2.06-46.el9_1.3.alma.ppc64le.rpm",
-        "sum": "7abbb5232f0231b6da22bc9f7c35c5290b76b3e5ff6a8593f3e80358b4eb8aeb",
-        "sum_type": 5,
-        "reboot_suggested": 0
       }
     ],
     "module": {}
@@ -314,7 +314,7 @@
   "title": "Moderate: grub2 security update",
   "type": "security",
   "updated_date": {
-    "$date": 1676400675000
+    "$date": 1676400674000
   },
   "version": "1"
 }

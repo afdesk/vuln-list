@@ -48,42 +48,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "gdk-pixbuf2-devel",
-        "version": "2.42.6",
-        "release": "3.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "gdk-pixbuf2-2.42.6-3.el9.src.rpm",
-        "filename": "gdk-pixbuf2-devel-2.42.6-3.el9.s390x.rpm",
-        "sum": "57ded8fdf0da2e42930df2eea2c6db621d846a8f1ad7cfd46222f05bd9d8cdf8",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gdk-pixbuf2",
-        "version": "2.42.6",
-        "release": "3.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "gdk-pixbuf2-2.42.6-3.el9.src.rpm",
-        "filename": "gdk-pixbuf2-2.42.6-3.el9.s390x.rpm",
-        "sum": "73e1d7519795df27edbfd200c8176dd9362808792d259c3590a645f2f7de783b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gdk-pixbuf2-modules",
-        "version": "2.42.6",
-        "release": "3.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "gdk-pixbuf2-2.42.6-3.el9.src.rpm",
-        "filename": "gdk-pixbuf2-modules-2.42.6-3.el9.s390x.rpm",
-        "sum": "d6c933abf94176c6d8e26dfd45c16b318e244411de37c6b7e830f1550b678ec7",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "gdk-pixbuf2-modules",
         "version": "2.42.6",
         "release": "3.el9",
@@ -152,6 +116,42 @@
         "src": "gdk-pixbuf2-2.42.6-3.el9.src.rpm",
         "filename": "gdk-pixbuf2-2.42.6-3.el9.ppc64le.rpm",
         "sum": "7fdda8e3c03762e9815cf580b3956b08f0b0bef007ad17c06439c38eb8f35be9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gdk-pixbuf2-devel",
+        "version": "2.42.6",
+        "release": "3.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "gdk-pixbuf2-2.42.6-3.el9.src.rpm",
+        "filename": "gdk-pixbuf2-devel-2.42.6-3.el9.s390x.rpm",
+        "sum": "57ded8fdf0da2e42930df2eea2c6db621d846a8f1ad7cfd46222f05bd9d8cdf8",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gdk-pixbuf2",
+        "version": "2.42.6",
+        "release": "3.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "gdk-pixbuf2-2.42.6-3.el9.src.rpm",
+        "filename": "gdk-pixbuf2-2.42.6-3.el9.s390x.rpm",
+        "sum": "73e1d7519795df27edbfd200c8176dd9362808792d259c3590a645f2f7de783b",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gdk-pixbuf2-modules",
+        "version": "2.42.6",
+        "release": "3.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "gdk-pixbuf2-2.42.6-3.el9.src.rpm",
+        "filename": "gdk-pixbuf2-modules-2.42.6-3.el9.s390x.rpm",
+        "sum": "d6c933abf94176c6d8e26dfd45c16b318e244411de37c6b7e830f1550b678ec7",
         "sum_type": 5,
         "reboot_suggested": 0
       },

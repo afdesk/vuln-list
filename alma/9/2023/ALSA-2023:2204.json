@@ -8,69 +8,9 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-x86_64-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-x86_64-appstream-rpms__9_2_default",
     "packages": [
-      {
-        "name": "osbuild-composer",
-        "version": "76",
-        "release": "2.el9_2.alma",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "osbuild-composer-76-2.el9_2.alma.src.rpm",
-        "filename": "osbuild-composer-76-2.el9_2.alma.s390x.rpm",
-        "sum": "0ec27bf7233cc110fdbe3d0b4423cd903714258eb2db06c91672fdf71df59d25",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "weldr-client",
-        "version": "35.9",
-        "release": "1.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "weldr-client-35.9-1.el9.src.rpm",
-        "filename": "weldr-client-35.9-1.el9.s390x.rpm",
-        "sum": "1363987722103df7684ce456cb5ef2033d89cffe9b1c86db83e752ea1c040579",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "osbuild-composer-core",
-        "version": "76",
-        "release": "2.el9_2.alma",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "osbuild-composer-76-2.el9_2.alma.src.rpm",
-        "filename": "osbuild-composer-core-76-2.el9_2.alma.s390x.rpm",
-        "sum": "3c8e3df36178b4082144c07476d3db46a883b5c5a347908e8ec361f6820046f9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "osbuild-composer-dnf-json",
-        "version": "76",
-        "release": "2.el9_2.alma",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "osbuild-composer-76-2.el9_2.alma.src.rpm",
-        "filename": "osbuild-composer-dnf-json-76-2.el9_2.alma.s390x.rpm",
-        "sum": "f55857e8fda2e6b39a8ee94d196d6d16902bee5ad2094d3ecd9124d4f71a32c0",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "osbuild-composer-worker",
-        "version": "76",
-        "release": "2.el9_2.alma",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "osbuild-composer-76-2.el9_2.alma.src.rpm",
-        "filename": "osbuild-composer-worker-76-2.el9_2.alma.s390x.rpm",
-        "sum": "f911f4607d0478d9836aa2e1b358222b4660f8f8b2630bd3ed2fef00c76f3f80",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "osbuild-composer-core",
         "version": "76",
@@ -188,6 +128,66 @@
         "src": "osbuild-composer-76-2.el9_2.alma.src.rpm",
         "filename": "osbuild-composer-worker-76-2.el9_2.alma.ppc64le.rpm",
         "sum": "e20fb1b7f1c8d82238492c59b335808dc4172033d88e839435d6a4276d49f0cf",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "osbuild-composer",
+        "version": "76",
+        "release": "2.el9_2.alma",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "osbuild-composer-76-2.el9_2.alma.src.rpm",
+        "filename": "osbuild-composer-76-2.el9_2.alma.s390x.rpm",
+        "sum": "0ec27bf7233cc110fdbe3d0b4423cd903714258eb2db06c91672fdf71df59d25",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "weldr-client",
+        "version": "35.9",
+        "release": "1.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "weldr-client-35.9-1.el9.src.rpm",
+        "filename": "weldr-client-35.9-1.el9.s390x.rpm",
+        "sum": "1363987722103df7684ce456cb5ef2033d89cffe9b1c86db83e752ea1c040579",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "osbuild-composer-core",
+        "version": "76",
+        "release": "2.el9_2.alma",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "osbuild-composer-76-2.el9_2.alma.src.rpm",
+        "filename": "osbuild-composer-core-76-2.el9_2.alma.s390x.rpm",
+        "sum": "3c8e3df36178b4082144c07476d3db46a883b5c5a347908e8ec361f6820046f9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "osbuild-composer-dnf-json",
+        "version": "76",
+        "release": "2.el9_2.alma",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "osbuild-composer-76-2.el9_2.alma.src.rpm",
+        "filename": "osbuild-composer-dnf-json-76-2.el9_2.alma.s390x.rpm",
+        "sum": "f55857e8fda2e6b39a8ee94d196d6d16902bee5ad2094d3ecd9124d4f71a32c0",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "osbuild-composer-worker",
+        "version": "76",
+        "release": "2.el9_2.alma",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "osbuild-composer-76-2.el9_2.alma.src.rpm",
+        "filename": "osbuild-composer-worker-76-2.el9_2.alma.s390x.rpm",
+        "sum": "f911f4607d0478d9836aa2e1b358222b4660f8f8b2630bd3ed2fef00c76f3f80",
         "sum_type": 5,
         "reboot_suggested": 0
       },
