@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-05-11T20:45:06Z",
   "Package": {
     "Ecosystem": "NPM",
@@ -39,13 +39,13 @@
     "Description": "The n8n package prior to 0.216.1 for Node.js allows Escalation of Privileges.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-10T15:30:22Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "n8n Privilege Escalation vulnerability",
-    "UpdatedAt": "2023-05-11T20:45:06Z",
+    "UpdatedAt": "2023-05-17T21:33:23Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 8.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [
