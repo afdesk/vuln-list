@@ -23,6 +23,9 @@
         "Url": "https://github.com/pterodactyl/wings/releases/tag/v1.7.5"
       },
       {
+        "Url": "https://github.com/pterodactyl/wings/releases/tag/v1.17.5"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-p744-4q6p-hvc2"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2023-05-11T19:54:17Z",
     "Severity": "CRITICAL",
     "Summary": "Wings vulnerable to escape to host from installation container",
-    "UpdatedAt": "2023-05-11T19:54:18Z",
+    "UpdatedAt": "2023-05-18T21:32:37Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9,
