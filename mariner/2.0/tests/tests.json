@@ -266,6 +266,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package golang is earlier than 1.19.8-1, affected by CVE-2023-24538",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:25992000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:25992001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:25992002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package libyang is earlier than 2.1.55-1, affected by CVE-2023-26916",
       "ID": "oval:com.microsoft.cbl-mariner:tst:25966000",
       "Version": "1",
@@ -938,7 +950,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package nodejs is installed with version 16.19.1-2 or earlier",
+      "Comment": "Package nodejs is installed with version 16.19.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13827000",
       "Version": "0",
       "Object": {
@@ -1034,7 +1046,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.25.8-1 or earlier",
+      "Comment": "Package k3s is installed with version 1.24.6-4 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13819000",
       "Version": "0",
       "Object": {
@@ -1454,7 +1466,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package rust is installed with version 1.68.2-1 or earlier",
+      "Comment": "Package rust is installed with version 1.68.2-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13705000",
       "Version": "0",
       "Object": {
@@ -1526,7 +1538,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package rust is installed with version 1.68.2-1 or earlier",
+      "Comment": "Package rust is installed with version 1.68.2-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13686000",
       "Version": "0",
       "Object": {
@@ -1622,7 +1634,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package rust is installed with version 1.68.2-1 or earlier",
+      "Comment": "Package rust is installed with version 1.68.2-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13660000",
       "Version": "0",
       "Object": {
@@ -1634,7 +1646,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package rust is installed with version 1.68.2-1 or earlier",
+      "Comment": "Package rust is installed with version 1.68.2-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13659000",
       "Version": "0",
       "Object": {
@@ -1646,7 +1658,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package rust is installed with version 1.68.2-1 or earlier",
+      "Comment": "Package rust is installed with version 1.68.2-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13658000",
       "Version": "0",
       "Object": {
@@ -1898,7 +1910,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.25.8-1 or earlier",
+      "Comment": "Package k3s is installed with version 1.24.6-4 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13572000",
       "Version": "0",
       "Object": {
@@ -1910,7 +1922,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.25.8-1 or earlier",
+      "Comment": "Package k3s is installed with version 1.24.6-4 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13571000",
       "Version": "0",
       "Object": {
@@ -1922,7 +1934,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.25.8-1 or earlier",
+      "Comment": "Package k3s is installed with version 1.24.6-4 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13570000",
       "Version": "0",
       "Object": {
@@ -2234,7 +2246,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package rust is installed with version 1.68.2-1 or earlier",
+      "Comment": "Package rust is installed with version 1.68.2-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13313000",
       "Version": "0",
       "Object": {
@@ -2246,7 +2258,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package rust is installed with version 1.68.2-1 or earlier",
+      "Comment": "Package rust is installed with version 1.68.2-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13312000",
       "Version": "0",
       "Object": {
@@ -2258,7 +2270,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package rust is installed with version 1.68.2-1 or earlier",
+      "Comment": "Package rust is installed with version 1.68.2-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13311000",
       "Version": "0",
       "Object": {
@@ -2354,7 +2366,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package rust is installed with version 1.68.2-1 or earlier",
+      "Comment": "Package rust is installed with version 1.68.2-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13289000",
       "Version": "0",
       "Object": {
@@ -2726,7 +2738,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package nodejs is installed with version 16.19.1-2 or earlier",
+      "Comment": "Package nodejs is installed with version 16.19.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13173000",
       "Version": "0",
       "Object": {
@@ -3482,7 +3494,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package rust is installed with version 1.68.2-1 or earlier",
+      "Comment": "Package rust is installed with version 1.68.2-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:12938000",
       "Version": "0",
       "Object": {
