@@ -1,1 +1,52 @@
-{}
+{
+  "RpminfoState": [
+    {
+      "ID": "oval:com.redhat.rhba:ste:20228256001",
+      "Version": "635",
+      "Arch": {
+        "Text": "x86_64",
+        "Datatype": "string",
+        "Operation": "equals"
+      },
+      "Evr": {
+        "Text": "0:1.0.9-1.el9",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhba:ste:20228256002",
+      "Version": "635",
+      "Arch": {},
+      "Evr": {},
+      "SignatureKeyID": {
+        "Text": "199e2f91fd431d51",
+        "Operation": "equals"
+      }
+    }
+  ],
+  "RpmverifyfileStates": [
+    {
+      "ID": "oval:com.redhat.rhba:ste:20228256003",
+      "AttrVersion": "635",
+      "Name": {
+        "Text": "^redhat-release",
+        "Operation": "pattern match"
+      },
+      "Version": {
+        "Text": "^9[^\\d]",
+        "Operation": "pattern match"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.rhba:ste:20228256004",
+      "AttrVersion": "635",
+      "Name": {
+        "Text": "^redhat-release",
+        "Operation": "pattern match"
+      },
+      "Version": {}
+    }
+  ]
+}

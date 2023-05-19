@@ -1,1 +1,102 @@
-{}
+{
+  "RpminfoTests": [
+    {
+      "Check": "at least one",
+      "Comment": "qatzip is earlier than 0:1.0.9-1.el9",
+      "ID": "oval:com.redhat.rhba:tst:20228256001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20228256001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20228256001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qatzip is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhba:tst:20228256002",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20228256001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20228256002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qatzip-devel is earlier than 0:1.0.9-1.el9",
+      "ID": "oval:com.redhat.rhba:tst:20228256003",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20228256002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20228256001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qatzip-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhba:tst:20228256004",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20228256002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20228256002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qatzip-libs is earlier than 0:1.0.9-1.el9",
+      "ID": "oval:com.redhat.rhba:tst:20228256005",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20228256003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20228256001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "qatzip-libs is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhba:tst:20228256006",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20228256003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20228256002"
+      }
+    }
+  ],
+  "RpmverifyfileTests": [
+    {
+      "Check": "at least one",
+      "Comment": "Red Hat Enterprise Linux 9 is installed",
+      "ID": "oval:com.redhat.rhba:tst:20228256007",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20228256004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20228256003"
+      }
+    },
+    {
+      "Check": "none satisfy",
+      "Comment": "Red Hat Enterprise Linux must be installed",
+      "ID": "oval:com.redhat.rhba:tst:20228256008",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20228256004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20228256004"
+      }
+    }
+  ]
+}
