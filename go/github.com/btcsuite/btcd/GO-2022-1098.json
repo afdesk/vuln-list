@@ -2,7 +2,7 @@
   "module": "github.com/btcsuite/btcd",
   "id": "GO-2022-1098",
   "published": "2022-11-08T16:49:06Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-05-18T20:38:56Z",
   "aliases": [
     "CVE-2022-44797",
     "GHSA-2chg-86hq-7w38"

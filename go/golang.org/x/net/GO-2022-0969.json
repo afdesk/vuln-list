@@ -2,7 +2,7 @@
   "module": "golang.org/x/net",
   "id": "GO-2022-0969",
   "published": "2022-09-12T20:23:06Z",
-  "modified": "2023-05-11T15:31:00Z",
+  "modified": "2023-05-18T20:38:56Z",
   "aliases": [
     "CVE-2022-27664",
     "GHSA-69cg-p879-7622"

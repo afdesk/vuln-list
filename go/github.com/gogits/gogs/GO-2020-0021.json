@@ -2,7 +2,7 @@
   "module": "github.com/gogits/gogs",
   "id": "GO-2020-0021",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-05-18T20:38:56Z",
   "aliases": [
     "CVE-2014-8681",
     "GHSA-mr6h-chqp-p9g2"

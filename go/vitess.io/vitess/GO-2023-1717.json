@@ -2,7 +2,7 @@
   "module": "vitess.io/vitess",
   "id": "GO-2023-1717",
   "published": "2023-04-12T20:20:52Z",
-  "modified": "2023-04-12T20:20:52Z",
+  "modified": "2023-05-18T20:38:56Z",
   "aliases": [
     "CVE-2023-29194",
     "GHSA-735r-hv67-g38f"
