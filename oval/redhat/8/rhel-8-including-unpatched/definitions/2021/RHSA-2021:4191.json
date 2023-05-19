@@ -572,7 +572,7 @@
                           },
                           {
                             "Comment": "libvirt is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700026"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700016"
                           }
                         ]
                       },
@@ -585,7 +585,7 @@
                           },
                           {
                             "Comment": "libvirt-admin is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700044"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700058"
                           }
                         ]
                       },
@@ -598,7 +598,7 @@
                           },
                           {
                             "Comment": "libvirt-bash-completion is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700008"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700038"
                           }
                         ]
                       },
@@ -611,7 +611,7 @@
                           },
                           {
                             "Comment": "libvirt-client is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700048"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700044"
                           }
                         ]
                       },
@@ -624,7 +624,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700028"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700014"
                           }
                         ]
                       },
@@ -637,7 +637,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-config-network is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700042"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700036"
                           }
                         ]
                       },
@@ -650,7 +650,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-config-nwfilter is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700018"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700024"
                           }
                         ]
                       },
@@ -663,7 +663,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-interface is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700032"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700030"
                           }
                         ]
                       },
@@ -676,7 +676,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-network is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700012"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700040"
                           }
                         ]
                       },
@@ -689,7 +689,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-nodedev is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700022"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700060"
                           }
                         ]
                       },
@@ -702,7 +702,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-nwfilter is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700054"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700012"
                           }
                         ]
                       },
@@ -715,7 +715,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-qemu is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700050"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700026"
                           }
                         ]
                       },
@@ -728,7 +728,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-secret is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700030"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700004"
                           }
                         ]
                       },
@@ -741,7 +741,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700034"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700054"
                           }
                         ]
                       },
@@ -754,7 +754,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-core is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700014"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700034"
                           }
                         ]
                       },
@@ -767,7 +767,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-disk is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700016"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700052"
                           }
                         ]
                       },
@@ -780,7 +780,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-gluster is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700046"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700022"
                           }
                         ]
                       },
@@ -793,7 +793,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-iscsi is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700024"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700050"
                           }
                         ]
                       },
@@ -806,7 +806,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-iscsi-direct is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700040"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700042"
                           }
                         ]
                       },
@@ -819,7 +819,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-logical is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700060"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700002"
                           }
                         ]
                       },
@@ -832,7 +832,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-mpath is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700038"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700018"
                           }
                         ]
                       },
@@ -845,7 +845,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-rbd is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700002"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700028"
                           }
                         ]
                       },
@@ -858,7 +858,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-scsi is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700058"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700006"
                           }
                         ]
                       },
@@ -871,7 +871,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-kvm is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700006"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700046"
                           }
                         ]
                       },
@@ -897,7 +897,7 @@
                           },
                           {
                             "Comment": "libvirt-devel is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700010"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700020"
                           }
                         ]
                       },
@@ -910,7 +910,7 @@
                           },
                           {
                             "Comment": "libvirt-docs is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700020"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700008"
                           }
                         ]
                       },
@@ -923,7 +923,7 @@
                           },
                           {
                             "Comment": "libvirt-libs is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700036"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700048"
                           }
                         ]
                       },
@@ -936,7 +936,7 @@
                           },
                           {
                             "Comment": "libvirt-lock-sanlock is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700052"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700032"
                           }
                         ]
                       },
@@ -1693,7 +1693,7 @@
                           },
                           {
                             "Comment": "libvirt is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700026"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700016"
                           }
                         ]
                       },
@@ -1706,7 +1706,7 @@
                           },
                           {
                             "Comment": "libvirt-admin is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700044"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700058"
                           }
                         ]
                       },
@@ -1719,7 +1719,7 @@
                           },
                           {
                             "Comment": "libvirt-bash-completion is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700008"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700038"
                           }
                         ]
                       },
@@ -1732,7 +1732,7 @@
                           },
                           {
                             "Comment": "libvirt-client is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700048"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700044"
                           }
                         ]
                       },
@@ -1745,7 +1745,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700028"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700014"
                           }
                         ]
                       },
@@ -1758,7 +1758,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-config-network is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700042"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700036"
                           }
                         ]
                       },
@@ -1771,7 +1771,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-config-nwfilter is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700018"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700024"
                           }
                         ]
                       },
@@ -1784,7 +1784,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-interface is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700032"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700030"
                           }
                         ]
                       },
@@ -1797,7 +1797,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-network is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700012"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700040"
                           }
                         ]
                       },
@@ -1810,7 +1810,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-nodedev is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700022"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700060"
                           }
                         ]
                       },
@@ -1823,7 +1823,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-nwfilter is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700054"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700012"
                           }
                         ]
                       },
@@ -1836,7 +1836,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-secret is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700030"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700004"
                           }
                         ]
                       },
@@ -1849,7 +1849,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700034"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700054"
                           }
                         ]
                       },
@@ -1862,7 +1862,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-core is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700014"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700034"
                           }
                         ]
                       },
@@ -1875,7 +1875,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-disk is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700016"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700052"
                           }
                         ]
                       },
@@ -1888,7 +1888,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-iscsi is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700024"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700050"
                           }
                         ]
                       },
@@ -1901,7 +1901,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-iscsi-direct is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700040"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700042"
                           }
                         ]
                       },
@@ -1914,7 +1914,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-logical is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700060"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700002"
                           }
                         ]
                       },
@@ -1927,7 +1927,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-mpath is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700038"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700018"
                           }
                         ]
                       },
@@ -1940,7 +1940,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-rbd is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700002"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700028"
                           }
                         ]
                       },
@@ -1953,7 +1953,7 @@
                           },
                           {
                             "Comment": "libvirt-daemon-driver-storage-scsi is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700058"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700006"
                           }
                         ]
                       },
@@ -1979,7 +1979,7 @@
                           },
                           {
                             "Comment": "libvirt-devel is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700010"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700020"
                           }
                         ]
                       },
@@ -1992,7 +1992,7 @@
                           },
                           {
                             "Comment": "libvirt-docs is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700020"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700008"
                           }
                         ]
                       },
@@ -2005,7 +2005,7 @@
                           },
                           {
                             "Comment": "libvirt-libs is signed with Red Hat redhatrelease2 key",
-                            "TestRef": "oval:com.redhat.cve:tst:20232700036"
+                            "TestRef": "oval:com.redhat.cve:tst:20232700048"
                           }
                         ]
                       },

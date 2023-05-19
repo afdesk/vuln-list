@@ -6633,17 +6633,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20224304001",
       "Version": "636",
+      "Name": "shim-aa64"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20224304002",
+      "Version": "636",
       "Name": "shim"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20224304003",
       "Version": "636",
       "Name": "shim-x64"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20224304004",
-      "Version": "636",
-      "Name": "shim-aa64"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202244638001",
@@ -7303,112 +7303,112 @@
     {
       "ID": "oval:com.redhat.cve:obj:20232700001",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage-rbd"
+      "Name": "libvirt-daemon-driver-storage-logical"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700002",
       "Version": "636",
-      "Name": "libvirt-daemon-kvm"
+      "Name": "libvirt-daemon-driver-secret"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700003",
       "Version": "636",
-      "Name": "libvirt-devel"
+      "Name": "libvirt-daemon-driver-storage-scsi"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700004",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage-core"
+      "Name": "libvirt-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700005",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-network"
+      "Name": "libvirt-daemon-driver-nwfilter"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700006",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage-disk"
+      "Name": "libvirt-daemon"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700007",
       "Version": "636",
-      "Name": "libvirt-daemon-config-nwfilter"
+      "Name": "libvirt"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700008",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-nodedev"
+      "Name": "libvirt-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700009",
       "Version": "636",
-      "Name": "libvirt-docs"
+      "Name": "libvirt-daemon-config-nwfilter"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700010",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage-iscsi"
+      "Name": "libvirt-daemon-driver-qemu"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700011",
       "Version": "636",
-      "Name": "libvirt"
+      "Name": "libvirt-daemon-driver-storage-rbd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700012",
       "Version": "636",
-      "Name": "libvirt-daemon"
+      "Name": "libvirt-daemon-driver-interface"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700013",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-secret"
+      "Name": "libvirt-lock-sanlock"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700014",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-interface"
+      "Name": "libvirt-daemon-driver-storage-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700015",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage"
+      "Name": "libvirt-daemon-config-network"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700016",
       "Version": "636",
-      "Name": "libvirt-libs"
+      "Name": "libvirt-daemon-driver-network"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700017",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage-mpath"
+      "Name": "libvirt-client"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700018",
       "Version": "636",
-      "Name": "libvirt-daemon-config-network"
+      "Name": "libvirt-daemon-kvm"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700019",
       "Version": "636",
-      "Name": "libvirt-client"
+      "Name": "libvirt-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700020",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-qemu"
+      "Name": "libvirt-daemon-driver-storage-iscsi"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700021",
       "Version": "636",
-      "Name": "libvirt-lock-sanlock"
+      "Name": "libvirt-daemon-driver-storage-disk"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700022",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-nwfilter"
+      "Name": "libvirt-daemon-driver-storage"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700023",
@@ -7418,12 +7418,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20232700024",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage-scsi"
+      "Name": "libvirt-daemon-driver-storage-mpath"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700025",
       "Version": "636",
-      "Name": "libvirt-daemon-driver-storage-logical"
+      "Name": "libvirt-daemon-driver-nodedev"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327371001",
