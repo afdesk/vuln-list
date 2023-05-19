@@ -1382,6 +1382,42 @@
   "cnv-4.12-for-rhel-8-x86_64-source-rpms": [
     "cpe:/a:redhat:container_native_virtualization:4.12::el8"
   ],
+  "cnv-4.13-for-rhel-8-aarch64-debug-rpms": [
+    "cpe:/a:redhat:container_native_virtualization:4.13::el8"
+  ],
+  "cnv-4.13-for-rhel-8-aarch64-rpms": [
+    "cpe:/a:redhat:container_native_virtualization:4.13::el8"
+  ],
+  "cnv-4.13-for-rhel-8-aarch64-source-rpms": [
+    "cpe:/a:redhat:container_native_virtualization:4.13::el8"
+  ],
+  "cnv-4.13-for-rhel-8-x86_64-debug-rpms": [
+    "cpe:/a:redhat:container_native_virtualization:4.13::el8"
+  ],
+  "cnv-4.13-for-rhel-8-x86_64-rpms": [
+    "cpe:/a:redhat:container_native_virtualization:4.13::el8"
+  ],
+  "cnv-4.13-for-rhel-8-x86_64-source-rpms": [
+    "cpe:/a:redhat:container_native_virtualization:4.13::el8"
+  ],
+  "cnv-4.13-for-rhel-9-aarch64-debug-rpms": [
+    "cpe:/a:redhat:container_native_virtualization:4.13::el9"
+  ],
+  "cnv-4.13-for-rhel-9-aarch64-rpms": [
+    "cpe:/a:redhat:container_native_virtualization:4.13::el9"
+  ],
+  "cnv-4.13-for-rhel-9-aarch64-source-rpms": [
+    "cpe:/a:redhat:container_native_virtualization:4.13::el9"
+  ],
+  "cnv-4.13-for-rhel-9-x86_64-debug-rpms": [
+    "cpe:/a:redhat:container_native_virtualization:4.13::el9"
+  ],
+  "cnv-4.13-for-rhel-9-x86_64-rpms": [
+    "cpe:/a:redhat:container_native_virtualization:4.13::el9"
+  ],
+  "cnv-4.13-for-rhel-9-x86_64-source-rpms": [
+    "cpe:/a:redhat:container_native_virtualization:4.13::el9"
+  ],
   "cnv-4.8-for-rhel-8-x86_64-debug-rpms": [
     "cpe:/a:redhat:container_native_virtualization:4.8::el8"
   ],
@@ -3207,7 +3243,8 @@
     "cpe:/a:redhat:multicluster_engine:2.0::el8",
     "cpe:/a:redhat:multicluster_engine:2.1::el8",
     "cpe:/a:redhat:multicluster_engine:2.2::el8",
-    "cpe:/a:redhat:multicluster_engine:2.3::el8"
+    "cpe:/a:redhat:multicluster_engine:2.3::el8",
+    "cpe:/a:redhat:multicluster_engine:2.4::el8"
   ],
   "multicluster-globalhub-0.7-for-rhel-8-textonly-rpms": [
     "cpe:/a:redhat:multicluster_engine:0.7::el8"
@@ -4654,6 +4691,7 @@
     "cpe:/a:redhat:quarkus:2.2::el8"
   ],
   "quarkus-textonly-1-for-middleware-rpms": [
+    "cpe:/a:redhat:middleware_quarkus:2.13::el8",
     "cpe:/a:redhat:quarkus:::el6"
   ],
   "redhat-integration-textonly-1-for-middleware-rpms": [
@@ -5224,7 +5262,8 @@
     "cpe:/a:redhat:acm:2.5::el8",
     "cpe:/a:redhat:acm:2.6::el8",
     "cpe:/a:redhat:acm:2.7::el8",
-    "cpe:/a:redhat:acm:2.8::el8"
+    "cpe:/a:redhat:acm:2.8::el8",
+    "cpe:/a:redhat:acm:2.9::el8"
   ],
   "rhacs-3-for-rhel-8-ppc64le-debug-rpms": [
     "cpe:/a:redhat:advanced_cluster_security:3.62::el8",
@@ -14181,6 +14220,15 @@
   "rhel-7-server-cnv-4.12-source-rpms": [
     "cpe:/a:redhat:container_native_virtualization:4.12::el7"
   ],
+  "rhel-7-server-cnv-4.13-debug-rpms": [
+    "cpe:/a:redhat:container_native_virtualization:4.13::el7"
+  ],
+  "rhel-7-server-cnv-4.13-rpms": [
+    "cpe:/a:redhat:container_native_virtualization:4.13::el7"
+  ],
+  "rhel-7-server-cnv-4.13-source-rpms": [
+    "cpe:/a:redhat:container_native_virtualization:4.13::el7"
+  ],
   "rhel-7-server-cnv-4.8-debug-rpms": [
     "cpe:/a:redhat:container_native_virtualization:4.8::el7"
   ],
@@ -21199,27 +21247,39 @@
   ],
   "rhel-9-for-aarch64-appstream-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream",
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream",
     "cpe:/a:redhat:rhel_eus:9.0::appstream",
     "cpe:/a:redhat:rhel_eus:9.2::appstream"
   ],
   "rhel-9-for-aarch64-appstream-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream"
   ],
+  "rhel-9-for-aarch64-appstream-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream"
+  ],
   "rhel-9-for-aarch64-appstream-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream",
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream",
     "cpe:/a:redhat:rhel_eus:9.0::appstream",
     "cpe:/a:redhat:rhel_eus:9.2::appstream"
   ],
   "rhel-9-for-aarch64-appstream-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream"
   ],
+  "rhel-9-for-aarch64-appstream-e4s-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream"
+  ],
   "rhel-9-for-aarch64-appstream-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream",
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream",
     "cpe:/a:redhat:rhel_eus:9.0::appstream",
     "cpe:/a:redhat:rhel_eus:9.2::appstream"
   ],
   "rhel-9-for-aarch64-appstream-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream"
+  ],
+  "rhel-9-for-aarch64-appstream-e4s-source-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream"
   ],
   "rhel-9-for-aarch64-appstream-eus-debug-rpms": [
     "cpe:/a:redhat:rhel_eus:9.0::appstream",
@@ -21262,27 +21322,39 @@
   ],
   "rhel-9-for-aarch64-baseos-e4s-debug-rpms": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos",
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos",
     "cpe:/o:redhat:rhel_eus:9.0::baseos",
     "cpe:/o:redhat:rhel_eus:9.2::baseos"
   ],
   "rhel-9-for-aarch64-baseos-e4s-debug-rpms__9_DOT_0": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos"
   ],
+  "rhel-9-for-aarch64-baseos-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos"
+  ],
   "rhel-9-for-aarch64-baseos-e4s-rpms": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos",
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos",
     "cpe:/o:redhat:rhel_eus:9.0::baseos",
     "cpe:/o:redhat:rhel_eus:9.2::baseos"
   ],
   "rhel-9-for-aarch64-baseos-e4s-rpms__9_DOT_0": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos"
   ],
+  "rhel-9-for-aarch64-baseos-e4s-rpms__9_DOT_2": [
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos"
+  ],
   "rhel-9-for-aarch64-baseos-e4s-source-rpms": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos",
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos",
     "cpe:/o:redhat:rhel_eus:9.0::baseos",
     "cpe:/o:redhat:rhel_eus:9.2::baseos"
   ],
   "rhel-9-for-aarch64-baseos-e4s-source-rpms__9_DOT_0": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos"
+  ],
+  "rhel-9-for-aarch64-baseos-e4s-source-rpms__9_DOT_2": [
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos"
   ],
   "rhel-9-for-aarch64-baseos-eus-debug-rpms": [
     "cpe:/o:redhat:rhel_eus:9.0::baseos",
@@ -21325,27 +21397,39 @@
   ],
   "rhel-9-for-aarch64-highavailability-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability",
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability",
     "cpe:/a:redhat:rhel_eus:9.0::highavailability",
     "cpe:/a:redhat:rhel_eus:9.2::highavailability"
   ],
   "rhel-9-for-aarch64-highavailability-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability"
   ],
+  "rhel-9-for-aarch64-highavailability-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability"
+  ],
   "rhel-9-for-aarch64-highavailability-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability",
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability",
     "cpe:/a:redhat:rhel_eus:9.0::highavailability",
     "cpe:/a:redhat:rhel_eus:9.2::highavailability"
   ],
   "rhel-9-for-aarch64-highavailability-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability"
   ],
+  "rhel-9-for-aarch64-highavailability-e4s-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability"
+  ],
   "rhel-9-for-aarch64-highavailability-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability",
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability",
     "cpe:/a:redhat:rhel_eus:9.0::highavailability",
     "cpe:/a:redhat:rhel_eus:9.2::highavailability"
   ],
   "rhel-9-for-aarch64-highavailability-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability"
+  ],
+  "rhel-9-for-aarch64-highavailability-e4s-source-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability"
   ],
   "rhel-9-for-aarch64-highavailability-eus-debug-rpms": [
     "cpe:/a:redhat:rhel_eus:9.0::highavailability",
@@ -21427,27 +21511,39 @@
   ],
   "rhel-9-for-ppc64le-appstream-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream",
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream",
     "cpe:/a:redhat:rhel_eus:9.0::appstream",
     "cpe:/a:redhat:rhel_eus:9.2::appstream"
   ],
   "rhel-9-for-ppc64le-appstream-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream"
   ],
+  "rhel-9-for-ppc64le-appstream-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream"
+  ],
   "rhel-9-for-ppc64le-appstream-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream",
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream",
     "cpe:/a:redhat:rhel_eus:9.0::appstream",
     "cpe:/a:redhat:rhel_eus:9.2::appstream"
   ],
   "rhel-9-for-ppc64le-appstream-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream"
   ],
+  "rhel-9-for-ppc64le-appstream-e4s-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream"
+  ],
   "rhel-9-for-ppc64le-appstream-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream",
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream",
     "cpe:/a:redhat:rhel_eus:9.0::appstream",
     "cpe:/a:redhat:rhel_eus:9.2::appstream"
   ],
   "rhel-9-for-ppc64le-appstream-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream"
+  ],
+  "rhel-9-for-ppc64le-appstream-e4s-source-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream"
   ],
   "rhel-9-for-ppc64le-appstream-eus-debug-rpms": [
     "cpe:/a:redhat:rhel_eus:9.0::appstream",
@@ -21490,19 +21586,27 @@
   ],
   "rhel-9-for-ppc64le-baseos-e4s-debug-rpms": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos",
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos",
     "cpe:/o:redhat:rhel_eus:9.0::baseos",
     "cpe:/o:redhat:rhel_eus:9.2::baseos"
   ],
   "rhel-9-for-ppc64le-baseos-e4s-debug-rpms__9_DOT_0": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos"
   ],
+  "rhel-9-for-ppc64le-baseos-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos"
+  ],
   "rhel-9-for-ppc64le-baseos-e4s-rpms": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos",
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos",
     "cpe:/o:redhat:rhel_eus:9.0::baseos",
     "cpe:/o:redhat:rhel_eus:9.2::baseos"
   ],
   "rhel-9-for-ppc64le-baseos-e4s-rpms__9_DOT_0": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos"
+  ],
+  "rhel-9-for-ppc64le-baseos-e4s-rpms__9_DOT_2": [
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos"
   ],
   "rhel-9-for-ppc64le-baseos-e4s-source-rpms": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos",
@@ -21553,27 +21657,39 @@
   ],
   "rhel-9-for-ppc64le-highavailability-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability",
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability",
     "cpe:/a:redhat:rhel_eus:9.0::highavailability",
     "cpe:/a:redhat:rhel_eus:9.2::highavailability"
   ],
   "rhel-9-for-ppc64le-highavailability-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability"
   ],
+  "rhel-9-for-ppc64le-highavailability-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability"
+  ],
   "rhel-9-for-ppc64le-highavailability-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability",
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability",
     "cpe:/a:redhat:rhel_eus:9.0::highavailability",
     "cpe:/a:redhat:rhel_eus:9.2::highavailability"
   ],
   "rhel-9-for-ppc64le-highavailability-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability"
   ],
+  "rhel-9-for-ppc64le-highavailability-e4s-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability"
+  ],
   "rhel-9-for-ppc64le-highavailability-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability",
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability",
     "cpe:/a:redhat:rhel_eus:9.0::highavailability",
     "cpe:/a:redhat:rhel_eus:9.2::highavailability"
   ],
   "rhel-9-for-ppc64le-highavailability-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability"
+  ],
+  "rhel-9-for-ppc64le-highavailability-e4s-source-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability"
   ],
   "rhel-9-for-ppc64le-highavailability-eus-debug-rpms": [
     "cpe:/a:redhat:rhel_eus:9.0::highavailability",
@@ -21624,11 +21740,15 @@
   ],
   "rhel-9-for-ppc64le-resilientstorage-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
+    "cpe:/a:redhat:rhel_e4s:9.2::resilientstorage",
     "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
     "cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
   ],
   "rhel-9-for-ppc64le-resilientstorage-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage"
+  ],
+  "rhel-9-for-ppc64le-resilientstorage-e4s-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::resilientstorage"
   ],
   "rhel-9-for-ppc64le-resilientstorage-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
@@ -21679,27 +21799,39 @@
   ],
   "rhel-9-for-ppc64le-sap-netweaver-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap",
+    "cpe:/a:redhat:rhel_e4s:9.2::sap",
     "cpe:/a:redhat:rhel_eus:9.0::sap",
     "cpe:/a:redhat:rhel_eus:9.2::sap"
   ],
   "rhel-9-for-ppc64le-sap-netweaver-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap"
   ],
+  "rhel-9-for-ppc64le-sap-netweaver-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::sap"
+  ],
   "rhel-9-for-ppc64le-sap-netweaver-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap",
+    "cpe:/a:redhat:rhel_e4s:9.2::sap",
     "cpe:/a:redhat:rhel_eus:9.0::sap",
     "cpe:/a:redhat:rhel_eus:9.2::sap"
   ],
   "rhel-9-for-ppc64le-sap-netweaver-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap"
   ],
+  "rhel-9-for-ppc64le-sap-netweaver-e4s-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::sap"
+  ],
   "rhel-9-for-ppc64le-sap-netweaver-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap",
+    "cpe:/a:redhat:rhel_e4s:9.2::sap",
     "cpe:/a:redhat:rhel_eus:9.0::sap",
     "cpe:/a:redhat:rhel_eus:9.2::sap"
   ],
   "rhel-9-for-ppc64le-sap-netweaver-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap"
+  ],
+  "rhel-9-for-ppc64le-sap-netweaver-e4s-source-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::sap"
   ],
   "rhel-9-for-ppc64le-sap-netweaver-eus-debug-rpms": [
     "cpe:/a:redhat:rhel_eus:9.0::sap",
@@ -21742,27 +21874,39 @@
   ],
   "rhel-9-for-ppc64le-sap-solutions-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap_hana",
+    "cpe:/a:redhat:rhel_e4s:9.2::sap_hana",
     "cpe:/a:redhat:rhel_eus:9.0::sap_hana",
     "cpe:/a:redhat:rhel_eus:9.2::sap_hana"
   ],
   "rhel-9-for-ppc64le-sap-solutions-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap_hana"
   ],
+  "rhel-9-for-ppc64le-sap-solutions-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::sap_hana"
+  ],
   "rhel-9-for-ppc64le-sap-solutions-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap_hana",
+    "cpe:/a:redhat:rhel_e4s:9.2::sap_hana",
     "cpe:/a:redhat:rhel_eus:9.0::sap_hana",
     "cpe:/a:redhat:rhel_eus:9.2::sap_hana"
   ],
   "rhel-9-for-ppc64le-sap-solutions-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap_hana"
   ],
+  "rhel-9-for-ppc64le-sap-solutions-e4s-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::sap_hana"
+  ],
   "rhel-9-for-ppc64le-sap-solutions-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap_hana",
+    "cpe:/a:redhat:rhel_e4s:9.2::sap_hana",
     "cpe:/a:redhat:rhel_eus:9.0::sap_hana",
     "cpe:/a:redhat:rhel_eus:9.2::sap_hana"
   ],
   "rhel-9-for-ppc64le-sap-solutions-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap_hana"
+  ],
+  "rhel-9-for-ppc64le-sap-solutions-e4s-source-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::sap_hana"
   ],
   "rhel-9-for-ppc64le-sap-solutions-eus-debug-rpms": [
     "cpe:/a:redhat:rhel_eus:9.0::sap_hana",
@@ -21844,27 +21988,39 @@
   ],
   "rhel-9-for-s390x-appstream-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream",
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream",
     "cpe:/a:redhat:rhel_eus:9.0::appstream",
     "cpe:/a:redhat:rhel_eus:9.2::appstream"
   ],
   "rhel-9-for-s390x-appstream-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream"
   ],
+  "rhel-9-for-s390x-appstream-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream"
+  ],
   "rhel-9-for-s390x-appstream-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream",
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream",
     "cpe:/a:redhat:rhel_eus:9.0::appstream",
     "cpe:/a:redhat:rhel_eus:9.2::appstream"
   ],
   "rhel-9-for-s390x-appstream-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream"
   ],
+  "rhel-9-for-s390x-appstream-e4s-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream"
+  ],
   "rhel-9-for-s390x-appstream-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream",
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream",
     "cpe:/a:redhat:rhel_eus:9.0::appstream",
     "cpe:/a:redhat:rhel_eus:9.2::appstream"
   ],
   "rhel-9-for-s390x-appstream-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream"
+  ],
+  "rhel-9-for-s390x-appstream-e4s-source-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream"
   ],
   "rhel-9-for-s390x-appstream-eus-debug-rpms": [
     "cpe:/a:redhat:rhel_eus:9.0::appstream",
@@ -21907,27 +22063,39 @@
   ],
   "rhel-9-for-s390x-baseos-e4s-debug-rpms": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos",
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos",
     "cpe:/o:redhat:rhel_eus:9.0::baseos",
     "cpe:/o:redhat:rhel_eus:9.2::baseos"
   ],
   "rhel-9-for-s390x-baseos-e4s-debug-rpms__9_DOT_0": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos"
   ],
+  "rhel-9-for-s390x-baseos-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos"
+  ],
   "rhel-9-for-s390x-baseos-e4s-rpms": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos",
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos",
     "cpe:/o:redhat:rhel_eus:9.0::baseos",
     "cpe:/o:redhat:rhel_eus:9.2::baseos"
   ],
   "rhel-9-for-s390x-baseos-e4s-rpms__9_DOT_0": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos"
   ],
+  "rhel-9-for-s390x-baseos-e4s-rpms__9_DOT_2": [
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos"
+  ],
   "rhel-9-for-s390x-baseos-e4s-source-rpms": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos",
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos",
     "cpe:/o:redhat:rhel_eus:9.0::baseos",
     "cpe:/o:redhat:rhel_eus:9.2::baseos"
   ],
   "rhel-9-for-s390x-baseos-e4s-source-rpms__9_DOT_0": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos"
+  ],
+  "rhel-9-for-s390x-baseos-e4s-source-rpms__9_DOT_2": [
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos"
   ],
   "rhel-9-for-s390x-baseos-eus-debug-rpms": [
     "cpe:/o:redhat:rhel_eus:9.0::baseos",
@@ -21970,27 +22138,39 @@
   ],
   "rhel-9-for-s390x-highavailability-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability",
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability",
     "cpe:/a:redhat:rhel_eus:9.0::highavailability",
     "cpe:/a:redhat:rhel_eus:9.2::highavailability"
   ],
   "rhel-9-for-s390x-highavailability-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability"
   ],
+  "rhel-9-for-s390x-highavailability-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability"
+  ],
   "rhel-9-for-s390x-highavailability-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability",
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability",
     "cpe:/a:redhat:rhel_eus:9.0::highavailability",
     "cpe:/a:redhat:rhel_eus:9.2::highavailability"
   ],
   "rhel-9-for-s390x-highavailability-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability"
   ],
+  "rhel-9-for-s390x-highavailability-e4s-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability"
+  ],
   "rhel-9-for-s390x-highavailability-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability",
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability",
     "cpe:/a:redhat:rhel_eus:9.0::highavailability",
     "cpe:/a:redhat:rhel_eus:9.2::highavailability"
   ],
   "rhel-9-for-s390x-highavailability-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability"
+  ],
+  "rhel-9-for-s390x-highavailability-e4s-source-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability"
   ],
   "rhel-9-for-s390x-highavailability-eus-debug-rpms": [
     "cpe:/a:redhat:rhel_eus:9.0::highavailability",
@@ -22033,27 +22213,39 @@
   ],
   "rhel-9-for-s390x-resilientstorage-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
+    "cpe:/a:redhat:rhel_e4s:9.2::resilientstorage",
     "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
     "cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
   ],
   "rhel-9-for-s390x-resilientstorage-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage"
   ],
+  "rhel-9-for-s390x-resilientstorage-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::resilientstorage"
+  ],
   "rhel-9-for-s390x-resilientstorage-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
+    "cpe:/a:redhat:rhel_e4s:9.2::resilientstorage",
     "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
     "cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
   ],
   "rhel-9-for-s390x-resilientstorage-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage"
   ],
+  "rhel-9-for-s390x-resilientstorage-e4s-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::resilientstorage"
+  ],
   "rhel-9-for-s390x-resilientstorage-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
+    "cpe:/a:redhat:rhel_e4s:9.2::resilientstorage",
     "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
     "cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
   ],
   "rhel-9-for-s390x-resilientstorage-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage"
+  ],
+  "rhel-9-for-s390x-resilientstorage-e4s-source-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::resilientstorage"
   ],
   "rhel-9-for-s390x-resilientstorage-eus-debug-rpms": [
     "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
@@ -22096,27 +22288,39 @@
   ],
   "rhel-9-for-s390x-sap-netweaver-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap",
+    "cpe:/a:redhat:rhel_e4s:9.2::sap",
     "cpe:/a:redhat:rhel_eus:9.0::sap",
     "cpe:/a:redhat:rhel_eus:9.2::sap"
   ],
   "rhel-9-for-s390x-sap-netweaver-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap"
   ],
+  "rhel-9-for-s390x-sap-netweaver-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::sap"
+  ],
   "rhel-9-for-s390x-sap-netweaver-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap",
+    "cpe:/a:redhat:rhel_e4s:9.2::sap",
     "cpe:/a:redhat:rhel_eus:9.0::sap",
     "cpe:/a:redhat:rhel_eus:9.2::sap"
   ],
   "rhel-9-for-s390x-sap-netweaver-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap"
   ],
+  "rhel-9-for-s390x-sap-netweaver-e4s-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::sap"
+  ],
   "rhel-9-for-s390x-sap-netweaver-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap",
+    "cpe:/a:redhat:rhel_e4s:9.2::sap",
     "cpe:/a:redhat:rhel_eus:9.0::sap",
     "cpe:/a:redhat:rhel_eus:9.2::sap"
   ],
   "rhel-9-for-s390x-sap-netweaver-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap"
+  ],
+  "rhel-9-for-s390x-sap-netweaver-e4s-source-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::sap"
   ],
   "rhel-9-for-s390x-sap-netweaver-eus-debug-rpms": [
     "cpe:/a:redhat:rhel_eus:9.0::sap",
@@ -22194,24 +22398,40 @@
     "cpe:/a:redhat:enterprise_linux:9::supplementary"
   ],
   "rhel-9-for-x86_64-appstream-aus-debug-rpms": [
+    "cpe:/a:redhat:rhel_aus:9.2::appstream",
     "cpe:/a:redhat:rhel_eus:9.2::appstream"
+  ],
+  "rhel-9-for-x86_64-appstream-aus-debug-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_aus:9.2::appstream"
   ],
   "rhel-9-for-x86_64-appstream-aus-rpms": [
+    "cpe:/a:redhat:rhel_aus:9.2::appstream",
     "cpe:/a:redhat:rhel_eus:9.2::appstream"
   ],
+  "rhel-9-for-x86_64-appstream-aus-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_aus:9.2::appstream"
+  ],
   "rhel-9-for-x86_64-appstream-aus-source-rpms": [
+    "cpe:/a:redhat:rhel_aus:9.2::appstream",
     "cpe:/a:redhat:rhel_eus:9.2::appstream"
+  ],
+  "rhel-9-for-x86_64-appstream-aus-source-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_aus:9.2::appstream"
   ],
   "rhel-9-for-x86_64-appstream-debug-rpms": [
     "cpe:/a:redhat:enterprise_linux:9::appstream"
   ],
   "rhel-9-for-x86_64-appstream-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream",
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream",
     "cpe:/a:redhat:rhel_eus:9.0::appstream",
     "cpe:/a:redhat:rhel_eus:9.2::appstream"
   ],
   "rhel-9-for-x86_64-appstream-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream"
+  ],
+  "rhel-9-for-x86_64-appstream-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream"
   ],
   "rhel-9-for-x86_64-appstream-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream",
@@ -22223,11 +22443,15 @@
   ],
   "rhel-9-for-x86_64-appstream-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream",
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream",
     "cpe:/a:redhat:rhel_eus:9.0::appstream",
     "cpe:/a:redhat:rhel_eus:9.2::appstream"
   ],
   "rhel-9-for-x86_64-appstream-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::appstream"
+  ],
+  "rhel-9-for-x86_64-appstream-e4s-source-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::appstream"
   ],
   "rhel-9-for-x86_64-appstream-eus-debug-rpms": [
     "cpe:/a:redhat:rhel_eus:9.0::appstream",
@@ -22266,10 +22490,18 @@
     "cpe:/a:redhat:enterprise_linux:9::appstream"
   ],
   "rhel-9-for-x86_64-baseos-aus-debug-rpms": [
+    "cpe:/o:redhat:rhel_aus:9.2::baseos",
     "cpe:/o:redhat:rhel_eus:9.2::baseos"
   ],
+  "rhel-9-for-x86_64-baseos-aus-debug-rpms__9_DOT_2": [
+    "cpe:/o:redhat:rhel_aus:9.2::baseos"
+  ],
   "rhel-9-for-x86_64-baseos-aus-rpms": [
+    "cpe:/o:redhat:rhel_aus:9.2::baseos",
     "cpe:/o:redhat:rhel_eus:9.2::baseos"
+  ],
+  "rhel-9-for-x86_64-baseos-aus-rpms__9_DOT_2": [
+    "cpe:/o:redhat:rhel_aus:9.2::baseos"
   ],
   "rhel-9-for-x86_64-baseos-aus-source-rpms": [
     "cpe:/o:redhat:rhel_eus:9.2::baseos"
@@ -22279,27 +22511,39 @@
   ],
   "rhel-9-for-x86_64-baseos-e4s-debug-rpms": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos",
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos",
     "cpe:/o:redhat:rhel_eus:9.0::baseos",
     "cpe:/o:redhat:rhel_eus:9.2::baseos"
   ],
   "rhel-9-for-x86_64-baseos-e4s-debug-rpms__9_DOT_0": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos"
   ],
+  "rhel-9-for-x86_64-baseos-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos"
+  ],
   "rhel-9-for-x86_64-baseos-e4s-rpms": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos",
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos",
     "cpe:/o:redhat:rhel_eus:9.0::baseos",
     "cpe:/o:redhat:rhel_eus:9.2::baseos"
   ],
   "rhel-9-for-x86_64-baseos-e4s-rpms__9_DOT_0": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos"
   ],
+  "rhel-9-for-x86_64-baseos-e4s-rpms__9_DOT_2": [
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos"
+  ],
   "rhel-9-for-x86_64-baseos-e4s-source-rpms": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos",
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos",
     "cpe:/o:redhat:rhel_eus:9.0::baseos",
     "cpe:/o:redhat:rhel_eus:9.2::baseos"
   ],
   "rhel-9-for-x86_64-baseos-e4s-source-rpms__9_DOT_0": [
     "cpe:/o:redhat:rhel_e4s:9.0::baseos"
+  ],
+  "rhel-9-for-x86_64-baseos-e4s-source-rpms__9_DOT_2": [
+    "cpe:/o:redhat:rhel_e4s:9.2::baseos"
   ],
   "rhel-9-for-x86_64-baseos-eus-debug-rpms": [
     "cpe:/o:redhat:rhel_eus:9.0::baseos",
@@ -22350,19 +22594,27 @@
   ],
   "rhel-9-for-x86_64-highavailability-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability",
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability",
     "cpe:/a:redhat:rhel_eus:9.0::highavailability",
     "cpe:/a:redhat:rhel_eus:9.2::highavailability"
   ],
   "rhel-9-for-x86_64-highavailability-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability"
   ],
+  "rhel-9-for-x86_64-highavailability-e4s-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability"
+  ],
   "rhel-9-for-x86_64-highavailability-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability",
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability",
     "cpe:/a:redhat:rhel_eus:9.0::highavailability",
     "cpe:/a:redhat:rhel_eus:9.2::highavailability"
   ],
   "rhel-9-for-x86_64-highavailability-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::highavailability"
+  ],
+  "rhel-9-for-x86_64-highavailability-e4s-source-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::highavailability"
   ],
   "rhel-9-for-x86_64-highavailability-eus-debug-rpms": [
     "cpe:/a:redhat:rhel_eus:9.0::highavailability",
@@ -22435,27 +22687,39 @@
   ],
   "rhel-9-for-x86_64-resilientstorage-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
+    "cpe:/a:redhat:rhel_e4s:9.2::resilientstorage",
     "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
     "cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
   ],
   "rhel-9-for-x86_64-resilientstorage-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage"
   ],
+  "rhel-9-for-x86_64-resilientstorage-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::resilientstorage"
+  ],
   "rhel-9-for-x86_64-resilientstorage-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
+    "cpe:/a:redhat:rhel_e4s:9.2::resilientstorage",
     "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
     "cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
   ],
   "rhel-9-for-x86_64-resilientstorage-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage"
   ],
+  "rhel-9-for-x86_64-resilientstorage-e4s-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::resilientstorage"
+  ],
   "rhel-9-for-x86_64-resilientstorage-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
+    "cpe:/a:redhat:rhel_e4s:9.2::resilientstorage",
     "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
     "cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
   ],
   "rhel-9-for-x86_64-resilientstorage-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::resilientstorage"
+  ],
+  "rhel-9-for-x86_64-resilientstorage-e4s-source-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::resilientstorage"
   ],
   "rhel-9-for-x86_64-resilientstorage-eus-debug-rpms": [
     "cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
@@ -22528,27 +22792,39 @@
   ],
   "rhel-9-for-x86_64-sap-netweaver-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap",
+    "cpe:/a:redhat:rhel_e4s:9.2::sap",
     "cpe:/a:redhat:rhel_eus:9.0::sap",
     "cpe:/a:redhat:rhel_eus:9.2::sap"
   ],
   "rhel-9-for-x86_64-sap-netweaver-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap"
   ],
+  "rhel-9-for-x86_64-sap-netweaver-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::sap"
+  ],
   "rhel-9-for-x86_64-sap-netweaver-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap",
+    "cpe:/a:redhat:rhel_e4s:9.2::sap",
     "cpe:/a:redhat:rhel_eus:9.0::sap",
     "cpe:/a:redhat:rhel_eus:9.2::sap"
   ],
   "rhel-9-for-x86_64-sap-netweaver-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap"
   ],
+  "rhel-9-for-x86_64-sap-netweaver-e4s-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::sap"
+  ],
   "rhel-9-for-x86_64-sap-netweaver-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap",
+    "cpe:/a:redhat:rhel_e4s:9.2::sap",
     "cpe:/a:redhat:rhel_eus:9.0::sap",
     "cpe:/a:redhat:rhel_eus:9.2::sap"
   ],
   "rhel-9-for-x86_64-sap-netweaver-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap"
+  ],
+  "rhel-9-for-x86_64-sap-netweaver-e4s-source-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::sap"
   ],
   "rhel-9-for-x86_64-sap-netweaver-eus-debug-rpms": [
     "cpe:/a:redhat:rhel_eus:9.0::sap",
@@ -22591,27 +22867,39 @@
   ],
   "rhel-9-for-x86_64-sap-solutions-e4s-debug-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap_hana",
+    "cpe:/a:redhat:rhel_e4s:9.2::sap_hana",
     "cpe:/a:redhat:rhel_eus:9.0::sap_hana",
     "cpe:/a:redhat:rhel_eus:9.2::sap_hana"
   ],
   "rhel-9-for-x86_64-sap-solutions-e4s-debug-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap_hana"
   ],
+  "rhel-9-for-x86_64-sap-solutions-e4s-debug-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::sap_hana"
+  ],
   "rhel-9-for-x86_64-sap-solutions-e4s-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap_hana",
+    "cpe:/a:redhat:rhel_e4s:9.2::sap_hana",
     "cpe:/a:redhat:rhel_eus:9.0::sap_hana",
     "cpe:/a:redhat:rhel_eus:9.2::sap_hana"
   ],
   "rhel-9-for-x86_64-sap-solutions-e4s-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap_hana"
   ],
+  "rhel-9-for-x86_64-sap-solutions-e4s-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::sap_hana"
+  ],
   "rhel-9-for-x86_64-sap-solutions-e4s-source-rpms": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap_hana",
+    "cpe:/a:redhat:rhel_e4s:9.2::sap_hana",
     "cpe:/a:redhat:rhel_eus:9.0::sap_hana",
     "cpe:/a:redhat:rhel_eus:9.2::sap_hana"
   ],
   "rhel-9-for-x86_64-sap-solutions-e4s-source-rpms__9_DOT_0": [
     "cpe:/a:redhat:rhel_e4s:9.0::sap_hana"
+  ],
+  "rhel-9-for-x86_64-sap-solutions-e4s-source-rpms__9_DOT_2": [
+    "cpe:/a:redhat:rhel_e4s:9.2::sap_hana"
   ],
   "rhel-9-for-x86_64-sap-solutions-eus-debug-rpms": [
     "cpe:/a:redhat:rhel_eus:9.0::sap_hana",
@@ -26679,7 +26967,8 @@
     "cpe:/a:redhat:openshift_data_science:1.24::el8",
     "cpe:/a:redhat:openshift_data_science:1.25::el8",
     "cpe:/a:redhat:openshift_data_science:1.26::el8",
-    "cpe:/a:redhat:openshift_data_science:1.27::el8"
+    "cpe:/a:redhat:openshift_data_science:1.27::el8",
+    "cpe:/a:redhat:openshift_data_science:1.28::el8"
   ],
   "rhods-1-for-rhel-8-x86_64-rpms": [
     "cpe:/a:redhat:openshift_data_science:1.18::el8",
@@ -26689,7 +26978,8 @@
     "cpe:/a:redhat:openshift_data_science:1.24::el8",
     "cpe:/a:redhat:openshift_data_science:1.25::el8",
     "cpe:/a:redhat:openshift_data_science:1.26::el8",
-    "cpe:/a:redhat:openshift_data_science:1.27::el8"
+    "cpe:/a:redhat:openshift_data_science:1.27::el8",
+    "cpe:/a:redhat:openshift_data_science:1.28::el8"
   ],
   "rhods-1-for-rhel-8-x86_64-source-rpms": [
     "cpe:/a:redhat:openshift_data_science:1.18::el8",
@@ -26699,7 +26989,8 @@
     "cpe:/a:redhat:openshift_data_science:1.24::el8",
     "cpe:/a:redhat:openshift_data_science:1.25::el8",
     "cpe:/a:redhat:openshift_data_science:1.26::el8",
-    "cpe:/a:redhat:openshift_data_science:1.27::el8"
+    "cpe:/a:redhat:openshift_data_science:1.27::el8",
+    "cpe:/a:redhat:openshift_data_science:1.28::el8"
   ],
   "rhods-1.20-for-rhel-8-x86_64-debug-rpms": [
     "cpe:/a:redhat:openshift_data_science:1.20::el8"
@@ -27007,28 +27298,7 @@
   "rhoss-1.29-for-rhel-8-ppc64le-debug-rpms": [
     "cpe:/a:redhat:openshift_serverless:1.29::el8"
   ],
-  "rhoss-1.29-for-rhel-8-ppc64le-rpms": [
-    "cpe:/a:redhat:openshift_serverless:1.29::el8"
-  ],
   "rhoss-1.29-for-rhel-8-ppc64le-source-rpms": [
-    "cpe:/a:redhat:openshift_serverless:1.29::el8"
-  ],
-  "rhoss-1.29-for-rhel-8-s390x-debug-rpms": [
-    "cpe:/a:redhat:openshift_serverless:1.29::el8"
-  ],
-  "rhoss-1.29-for-rhel-8-s390x-rpms": [
-    "cpe:/a:redhat:openshift_serverless:1.29::el8"
-  ],
-  "rhoss-1.29-for-rhel-8-s390x-source-rpms": [
-    "cpe:/a:redhat:openshift_serverless:1.29::el8"
-  ],
-  "rhoss-1.29-for-rhel-8-x86_64-debug-rpms": [
-    "cpe:/a:redhat:openshift_serverless:1.29::el8"
-  ],
-  "rhoss-1.29-for-rhel-8-x86_64-rpms": [
-    "cpe:/a:redhat:openshift_serverless:1.29::el8"
-  ],
-  "rhoss-1.29-for-rhel-8-x86_64-source-rpms": [
     "cpe:/a:redhat:openshift_serverless:1.29::el8"
   ],
   "rhs-2.0-for-rhel-6-server-debug-rpms": [
@@ -27283,17 +27553,20 @@
   "rhwa-snr-1-for-rhel-8-x86_64-debug-rpms": [
     "cpe:/a:redhat:workload_availability_self_node_remediation:0.4::el8",
     "cpe:/a:redhat:workload_availability_self_node_remediation:0.5::el8",
-    "cpe:/a:redhat:workload_availability_self_node_remediation:0.6::el8"
+    "cpe:/a:redhat:workload_availability_self_node_remediation:0.6::el8",
+    "cpe:/a:redhat:workload_availability_self_node_remediation:0.7::el8"
   ],
   "rhwa-snr-1-for-rhel-8-x86_64-rpms": [
     "cpe:/a:redhat:workload_availability_self_node_remediation:0.4::el8",
     "cpe:/a:redhat:workload_availability_self_node_remediation:0.5::el8",
-    "cpe:/a:redhat:workload_availability_self_node_remediation:0.6::el8"
+    "cpe:/a:redhat:workload_availability_self_node_remediation:0.6::el8",
+    "cpe:/a:redhat:workload_availability_self_node_remediation:0.7::el8"
   ],
   "rhwa-snr-1-for-rhel-8-x86_64-source-rpms": [
     "cpe:/a:redhat:workload_availability_self_node_remediation:0.4::el8",
     "cpe:/a:redhat:workload_availability_self_node_remediation:0.5::el8",
-    "cpe:/a:redhat:workload_availability_self_node_remediation:0.6::el8"
+    "cpe:/a:redhat:workload_availability_self_node_remediation:0.6::el8",
+    "cpe:/a:redhat:workload_availability_self_node_remediation:0.7::el8"
   ],
   "rodoo-1-for-rhel-8-x86_64-debug-rpms": [
     "cpe:/a:redhat:run_once_duration_override_operator:1.0::el8"
@@ -28252,6 +28525,7 @@
   "web-terminal-textonly-1-for-middleware-rpms": [
     "cpe:/a:redhat:webterminal:1.5::el8",
     "cpe:/a:redhat:webterminal:1.6::el8",
-    "cpe:/a:redhat:webterminal:1.7::el8"
+    "cpe:/a:redhat:webterminal:1.7::el8",
+    "cpe:/a:redhat:webterminal:1.8::el8"
   ]
 }

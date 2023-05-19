@@ -626,6 +626,11 @@
       "Name": "rubygem-globalid"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202331655001",
+      "Version": "636",
+      "Name": "tfm-rubygem-gitlab-sidekiq-fetcher"
+    },
+    {
       "ID": "oval:com.redhat.rhsa:obj:20214702003",
       "Version": "640",
       "Name": "python3-ecdsa"
@@ -899,11 +904,6 @@
       "ID": "oval:com.redhat.unaffected:obj:202230580011",
       "Version": "635",
       "Name": "qpid-proton-tests"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202231144001",
-      "Version": "635",
-      "Name": "tfm-rubygem-gitlab-sidekiq-fetcher"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202232287001",
