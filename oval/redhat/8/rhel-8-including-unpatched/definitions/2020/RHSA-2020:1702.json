@@ -124,7 +124,7 @@
                   },
                   {
                     "Comment": "rsyslog is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202232189018"
+                    "TestRef": "oval:com.redhat.cve:tst:202232189044"
                   }
                 ]
               },
@@ -137,7 +137,7 @@
                   },
                   {
                     "Comment": "rsyslog-crypto is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202232189024"
+                    "TestRef": "oval:com.redhat.cve:tst:202232189004"
                   }
                 ]
               },
@@ -150,7 +150,7 @@
                   },
                   {
                     "Comment": "rsyslog-doc is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202232189034"
+                    "TestRef": "oval:com.redhat.cve:tst:202232189066"
                   }
                 ]
               },
@@ -163,7 +163,7 @@
                   },
                   {
                     "Comment": "rsyslog-elasticsearch is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202232189044"
+                    "TestRef": "oval:com.redhat.cve:tst:202232189052"
                   }
                 ]
               },
@@ -176,7 +176,7 @@
                   },
                   {
                     "Comment": "rsyslog-gnutls is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202232189030"
+                    "TestRef": "oval:com.redhat.cve:tst:202232189054"
                   }
                 ]
               },
@@ -189,7 +189,7 @@
                   },
                   {
                     "Comment": "rsyslog-gssapi is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202232189016"
+                    "TestRef": "oval:com.redhat.cve:tst:202232189022"
                   }
                 ]
               },
@@ -202,7 +202,7 @@
                   },
                   {
                     "Comment": "rsyslog-kafka is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202232189066"
+                    "TestRef": "oval:com.redhat.cve:tst:202232189038"
                   }
                 ]
               },
@@ -215,7 +215,7 @@
                   },
                   {
                     "Comment": "rsyslog-mmaudit is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202232189062"
+                    "TestRef": "oval:com.redhat.cve:tst:202232189032"
                   }
                 ]
               },
@@ -228,7 +228,7 @@
                   },
                   {
                     "Comment": "rsyslog-mmjsonparse is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202232189072"
+                    "TestRef": "oval:com.redhat.cve:tst:202232189068"
                   }
                 ]
               },
@@ -241,7 +241,7 @@
                   },
                   {
                     "Comment": "rsyslog-mmkubernetes is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202232189028"
+                    "TestRef": "oval:com.redhat.cve:tst:202232189002"
                   }
                 ]
               },
@@ -254,7 +254,7 @@
                   },
                   {
                     "Comment": "rsyslog-mmnormalize is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202232189012"
+                    "TestRef": "oval:com.redhat.cve:tst:202232189070"
                   }
                 ]
               },
@@ -267,7 +267,7 @@
                   },
                   {
                     "Comment": "rsyslog-mmsnmptrapd is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202232189056"
+                    "TestRef": "oval:com.redhat.cve:tst:202232189016"
                   }
                 ]
               },
@@ -280,7 +280,7 @@
                   },
                   {
                     "Comment": "rsyslog-mysql is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202232189054"
+                    "TestRef": "oval:com.redhat.cve:tst:202232189056"
                   }
                 ]
               },
@@ -293,7 +293,7 @@
                   },
                   {
                     "Comment": "rsyslog-pgsql is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202232189014"
+                    "TestRef": "oval:com.redhat.cve:tst:202232189006"
                   }
                 ]
               },
@@ -306,7 +306,7 @@
                   },
                   {
                     "Comment": "rsyslog-relp is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202232189010"
+                    "TestRef": "oval:com.redhat.cve:tst:202232189046"
                   }
                 ]
               },
@@ -319,7 +319,7 @@
                   },
                   {
                     "Comment": "rsyslog-snmp is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202232189076"
+                    "TestRef": "oval:com.redhat.cve:tst:202232189010"
                   }
                 ]
               }

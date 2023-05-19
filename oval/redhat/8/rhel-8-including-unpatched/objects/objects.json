@@ -9143,7 +9143,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:202232189001",
       "Version": "636",
-      "Name": "rsyslog-omamqp1"
+      "Name": "rsyslog-mmkubernetes"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189002",
+      "Version": "636",
+      "Name": "rsyslog-crypto"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189003",
+      "Version": "636",
+      "Name": "rsyslog-pgsql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189004",
@@ -9153,92 +9163,82 @@
     {
       "ID": "oval:com.redhat.cve:obj:202232189005",
       "Version": "636",
-      "Name": "rsyslog-relp"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189006",
-      "Version": "636",
-      "Name": "rsyslog-mmnormalize"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189007",
-      "Version": "636",
-      "Name": "rsyslog-pgsql"
+      "Name": "rsyslog-snmp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189008",
       "Version": "636",
-      "Name": "rsyslog-gssapi"
+      "Name": "rsyslog-mmsnmptrapd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189009",
       "Version": "636",
-      "Name": "rsyslog"
+      "Name": "rsyslog-udpspoof"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189012",
+      "ID": "oval:com.redhat.cve:obj:202232189011",
       "Version": "636",
-      "Name": "rsyslog-crypto"
+      "Name": "rsyslog-gssapi"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189014",
       "Version": "636",
-      "Name": "rsyslog-mmkubernetes"
+      "Name": "rsyslog-openssl"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189015",
+      "ID": "oval:com.redhat.cve:obj:202232189016",
       "Version": "636",
-      "Name": "rsyslog-gnutls"
+      "Name": "rsyslog-mmaudit"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189017",
       "Version": "636",
-      "Name": "rsyslog-doc"
+      "Name": "rsyslog-omamqp1"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189019",
+      "Version": "636",
+      "Name": "rsyslog-kafka"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189022",
+      "Version": "636",
+      "Name": "rsyslog"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189023",
+      "Version": "636",
+      "Name": "rsyslog-relp"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202232189026",
       "Version": "636",
       "Name": "rsyslog-elasticsearch"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189027",
       "Version": "636",
-      "Name": "rsyslog-mysql"
+      "Name": "rsyslog-gnutls"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189028",
       "Version": "636",
-      "Name": "rsyslog-mmsnmptrapd"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189031",
-      "Version": "636",
-      "Name": "rsyslog-mmaudit"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189032",
-      "Version": "636",
-      "Name": "rsyslog-openssl"
+      "Name": "rsyslog-mysql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189033",
       "Version": "636",
-      "Name": "rsyslog-kafka"
+      "Name": "rsyslog-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202232189034",
       "Version": "636",
-      "Name": "rsyslog-udpspoof"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202232189036",
-      "Version": "636",
       "Name": "rsyslog-mmjsonparse"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202232189038",
+      "ID": "oval:com.redhat.cve:obj:202232189035",
       "Version": "636",
-      "Name": "rsyslog-snmp"
+      "Name": "rsyslog-mmnormalize"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20223219001",
@@ -10211,14 +10211,14 @@
       "Name": "cloud-init"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232004019",
-      "Version": "636",
-      "Name": "freetype"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232004039",
+      "ID": "oval:com.redhat.cve:obj:20232004016",
       "Version": "636",
       "Name": "freetype-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232004024",
+      "Version": "636",
+      "Name": "freetype"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202321911001",
