@@ -40,10 +40,10 @@
         "version": "2.1.0",
         "release": "11.el8",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "x86_64",
         "src": "yajl-2.1.0-11.el8.src.rpm",
-        "filename": "yajl-devel-2.1.0-11.el8.aarch64.rpm",
-        "sum": "8e6e60a7cede49026f1d05ab4b42d7696175b9ededfe8f4d8139b3cc45048678",
+        "filename": "yajl-devel-2.1.0-11.el8.x86_64.rpm",
+        "sum": "e524e60a707c0287ea76c93e75a702a89ef47ee4a14ee0b827bd4197effe4cae",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +52,10 @@
         "version": "2.1.0",
         "release": "11.el8",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "aarch64",
         "src": "yajl-2.1.0-11.el8.src.rpm",
-        "filename": "yajl-devel-2.1.0-11.el8.x86_64.rpm",
-        "sum": "e524e60a707c0287ea76c93e75a702a89ef47ee4a14ee0b827bd4197effe4cae",
+        "filename": "yajl-devel-2.1.0-11.el8.aarch64.rpm",
+        "sum": "8e6e60a7cede49026f1d05ab4b42d7696175b9ededfe8f4d8139b3cc45048678",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -84,6 +84,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "yajl",
+        "version": "2.1.0",
+        "release": "11.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "yajl-2.1.0-11.el8.src.rpm",
+        "filename": "yajl-2.1.0-11.el8.x86_64.rpm",
+        "sum": "ba8b9cccbc6d9f945fad9c50f205d2c341b9e8acc7786e7da81f369dbf9c5a1f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "yajl-devel",
         "version": "2.1.0",
         "release": "11.el8",
@@ -104,18 +116,6 @@
         "src": "yajl-2.1.0-11.el8.src.rpm",
         "filename": "yajl-2.1.0-11.el8.s390x.rpm",
         "sum": "23e7b239ce8f935af654242ea3dd1b60bbe84d283904827118991cfaff004353",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "yajl",
-        "version": "2.1.0",
-        "release": "11.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "yajl-2.1.0-11.el8.src.rpm",
-        "filename": "yajl-2.1.0-11.el8.x86_64.rpm",
-        "sum": "ba8b9cccbc6d9f945fad9c50f205d2c341b9e8acc7786e7da81f369dbf9c5a1f",
         "sum_type": 5,
         "reboot_suggested": 0
       },
