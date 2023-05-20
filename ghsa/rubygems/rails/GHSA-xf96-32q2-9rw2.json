@@ -60,6 +60,12 @@
       },
       {
         "Url": "http://www.vupen.com/english/advisories/2008/2562"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/activerecord/CVE-2008-4094.yml"
+      },
+      {
+        "Url": "http://www.rorsecurity.info/2008/09/08/sql-injection-issue-in-limit-and-offset-parameter"
       }
     ],
     "Identifiers": [
@@ -76,8 +82,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2017-10-24T18:33:38Z",
     "Severity": "HIGH",
-    "Summary": "High severity vulnerability that affects rails",
-    "UpdatedAt": "2023-01-09T05:03:25Z",
+    "Summary": "rails vulnerable to SQL injection",
+    "UpdatedAt": "2023-05-20T05:00:37Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
