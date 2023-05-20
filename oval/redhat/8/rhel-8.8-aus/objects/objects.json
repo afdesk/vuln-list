@@ -13596,6 +13596,26 @@
       "Name": "emacs-terminal"
     },
     {
+      "ID": "oval:com.redhat.rhsa:obj:20232780002",
+      "Version": "639",
+      "Name": "osbuild-composer"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232780003",
+      "Version": "639",
+      "Name": "osbuild-composer-core"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232780004",
+      "Version": "639",
+      "Name": "osbuild-composer-dnf-json"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20232780005",
+      "Version": "639",
+      "Name": "osbuild-composer-worker"
+    },
+    {
       "ID": "oval:com.redhat.rhsa:obj:20232786001",
       "Version": "636",
       "Name": "libwayland-client"

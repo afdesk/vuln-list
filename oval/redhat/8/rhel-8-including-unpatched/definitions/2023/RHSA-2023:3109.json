@@ -38,9 +38,9 @@
       "Cves": [
         {
           "CveID": "CVE-2022-25147",
-          "Cvss3": "9.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+          "Cvss3": "6.5/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:L",
           "Cwe": "CWE-190",
-          "Impact": "important",
+          "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-25147",
           "Public": "20230131"
         }
