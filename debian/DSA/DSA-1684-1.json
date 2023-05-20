@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Dec 2008] DSA-1684-1 lcms - multiple vulnerabilities",
-    "Line": 12633,
+    "Line": 12636,
     "ID": "DSA-1684-1",
     "Description": "lcms - multiple vulnerabilities"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-5316 CVE-2008-5317}",
-      "Line": 12634,
+      "Line": 12637,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-5316",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[etch] - lcms 1.15-1.1+etch1",
-      "Line": 12635,
+      "Line": 12638,
       "Type": "package",
       "Release": "etch",
       "Package": "lcms",

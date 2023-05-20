@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Dec 2008] DSA-1680-1 clamav - potential code execution",
-    "Line": 12645,
+    "Line": 12648,
     "ID": "DSA-1680-1",
     "Description": "clamav - potential code execution"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-5050 CVE-2008-5314}",
-      "Line": 12646,
+      "Line": 12649,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-5050",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[etch] - clamav 0.90.1dfsg-4etch16",
-      "Line": 12647,
+      "Line": 12650,
       "Type": "package",
       "Release": "etch",
       "Package": "clamav",

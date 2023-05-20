@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Mar 2006] DSA-1011-1 kernel-patch-server, util-vserver - missing attribute support",
-    "Line": 14905,
+    "Line": 14908,
     "ID": "DSA-1011-1",
     "Description": "kernel-patch-server, util-vserver - missing attribute support"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-4347 CVE-2005-4418}",
-      "Line": 14906,
+      "Line": 14909,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-4347",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[sarge] - kernel-patch-vserver 1.9.5.4",
-      "Line": 14907,
+      "Line": 14910,
       "Type": "package",
       "Release": "sarge",
       "Package": "kernel-patch-vserver",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[sarge] - util-vserver 0.30.204-5sarge3",
-      "Line": 14908,
+      "Line": 14911,
       "Type": "package",
       "Release": "sarge",
       "Package": "util-vserver",
@@ -35,7 +35,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at the time of DSA",
-      "Line": 14909,
+      "Line": 14912,
       "Type": "NOTE",
       "Description": "not fixed in testing at the time of DSA"
     }

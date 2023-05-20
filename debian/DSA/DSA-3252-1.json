@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 May 2015] DSA-3252-1 sqlite3 - security update",
-    "Line": 7294,
+    "Line": 7297,
     "ID": "DSA-3252-1",
     "Description": "sqlite3 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-3414 CVE-2015-3415 CVE-2015-3416}",
-      "Line": 7295,
+      "Line": 7298,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-3414",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[jessie] - sqlite3 3.8.7.1-1+deb8u1",
-      "Line": 7296,
+      "Line": 7299,
       "Type": "package",
       "Release": "jessie",
       "Package": "sqlite3",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Dec 2012] DSA-2577-1 libssh - several",
-    "Line": 9517,
+    "Line": 9520,
     "ID": "DSA-2577-1",
     "Description": "libssh - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-4559 CVE-2012-4561 CVE-2012-4562 CVE-2012-6063}",
-      "Line": 9518,
+      "Line": 9521,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-4559",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[squeeze] - libssh 0.4.5-3+squeeze1",
-      "Line": 9519,
+      "Line": 9522,
       "Type": "package",
       "Release": "squeeze",
       "Package": "libssh",

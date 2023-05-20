@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Aug 2007] DSA-1359-1 dovecot - directory traversal",
-    "Line": 13791,
+    "Line": 13794,
     "ID": "DSA-1359-1",
     "Description": "dovecot - directory traversal"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-2231}",
-      "Line": 13792,
+      "Line": 13795,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-2231"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - dovecot 1.0.rc15-2etch1",
-      "Line": 13793,
+      "Line": 13796,
       "Type": "package",
       "Release": "etch",
       "Package": "dovecot",

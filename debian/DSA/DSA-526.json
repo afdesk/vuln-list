@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Jul 2004] DSA-526 webmin - several vulnerabilities",
-    "Line": 16975,
+    "Line": 16978,
     "ID": "DSA-526",
     "Description": "webmin - several vulnerabilities"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0582 CVE-2004-0583}",
-      "Line": 16976,
+      "Line": 16979,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0582",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[woody] - webmin 0.94-7woody2",
-      "Line": 16977,
+      "Line": 16980,
       "Type": "package",
       "Release": "woody",
       "Package": "webmin",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Jan 2014] DSA-2846-1 libvirt - several",
-    "Line": 8599,
+    "Line": 8602,
     "ID": "DSA-2846-1",
     "Description": "libvirt - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-6458 CVE-2014-1447}",
-      "Line": 8600,
+      "Line": 8603,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-6458",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[wheezy] - libvirt 0.9.12.3-1",
-      "Line": 8601,
+      "Line": 8604,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libvirt",
