@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Feb 2016] DLA-428-1 websvn - security update",
-    "Line": 9137,
+    "Line": 9140,
     "ID": "DLA-428-1",
     "Description": "websvn - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-2511}",
-      "Line": 9138,
+      "Line": 9141,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-2511"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - websvn 2.3.1-1+deb6u2",
-      "Line": 9139,
+      "Line": 9142,
       "Type": "package",
       "Release": "squeeze",
       "Package": "websvn",

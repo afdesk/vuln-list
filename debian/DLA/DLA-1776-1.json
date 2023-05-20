@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 May 2019] DLA-1776-1 librecad - security update",
-    "Line": 5049,
+    "Line": 5052,
     "ID": "DLA-1776-1",
     "Description": "librecad - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-19105}",
-      "Line": 5050,
+      "Line": 5053,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-19105"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - librecad 2.0.4-1+deb8u1",
-      "Line": 5051,
+      "Line": 5054,
       "Type": "package",
       "Release": "jessie",
       "Package": "librecad",

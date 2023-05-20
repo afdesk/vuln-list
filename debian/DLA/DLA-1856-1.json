@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 Jul 2019] DLA-1856-1 patch - security update",
-    "Line": 4796,
+    "Line": 4799,
     "ID": "DLA-1856-1",
     "Description": "patch - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-13636}",
-      "Line": 4797,
+      "Line": 4800,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-13636"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - patch 2.7.5-1+deb8u2",
-      "Line": 4798,
+      "Line": 4801,
       "Type": "package",
       "Release": "jessie",
       "Package": "patch",

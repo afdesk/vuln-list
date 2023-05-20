@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Jan 2023] DLA-3289-1 dojo - security update",
-    "Line": 417,
+    "Line": 420,
     "ID": "DLA-3289-1",
     "Description": "dojo - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-4051 CVE-2021-23450}",
-      "Line": 418,
+      "Line": 421,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-4051",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[buster] - dojo 1.14.2+dfsg1-1+deb10u3",
-      "Line": 419,
+      "Line": 422,
       "Type": "package",
       "Release": "buster",
       "Package": "dojo",

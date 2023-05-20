@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 May 2022] DLA-2990-1 jackson-databind - security update",
-    "Line": 1308,
+    "Line": 1311,
     "ID": "DLA-2990-1",
     "Description": "jackson-databind - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-36518}",
-      "Line": 1309,
+      "Line": 1312,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-36518"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - jackson-databind 2.8.6-1+deb9u10",
-      "Line": 1310,
+      "Line": 1313,
       "Type": "package",
       "Release": "stretch",
       "Package": "jackson-databind",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Jul 2021] DLA-2721-1 drupal7 - security update",
-    "Line": 2130,
+    "Line": 2133,
     "ID": "DLA-2721-1",
     "Description": "drupal7 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-32610}",
-      "Line": 2131,
+      "Line": 2134,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-32610"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - drupal7 7.52-2+deb9u16",
-      "Line": 2132,
+      "Line": 2135,
       "Type": "package",
       "Release": "stretch",
       "Package": "drupal7",

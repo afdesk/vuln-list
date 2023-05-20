@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 Jul 2021] DLA-2718-1 intel-microcode - security update",
-    "Line": 2141,
+    "Line": 2144,
     "ID": "DLA-2718-1",
     "Description": "intel-microcode - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-24489 CVE-2020-24511 CVE-2020-24512 CVE-2020-24513}",
-      "Line": 2142,
+      "Line": 2145,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-24489",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[stretch] - intel-microcode 3.20210608.2~deb9u2",
-      "Line": 2143,
+      "Line": 2146,
       "Type": "package",
       "Release": "stretch",
       "Package": "intel-microcode",
