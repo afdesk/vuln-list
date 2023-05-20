@@ -31924,7 +31924,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "cups-filters-devel is installed",
+      "Comment": "cups-filters is installed",
       "ID": "oval:com.redhat.cve:tst:202324805001",
       "Version": "636",
       "Object": {
@@ -31934,7 +31934,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "cups-filters-devel is signed with Red Hat redhatrelease2 key",
+      "Comment": "cups-filters is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202324805002",
       "Version": "636",
       "Object": {
@@ -31946,7 +31946,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "cups-filters-libs is installed",
+      "Comment": "cups-filters-devel is installed",
       "ID": "oval:com.redhat.cve:tst:202324805003",
       "Version": "636",
       "Object": {
@@ -31956,7 +31956,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "cups-filters-libs is signed with Red Hat redhatrelease2 key",
+      "Comment": "cups-filters-devel is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202324805004",
       "Version": "636",
       "Object": {
@@ -31968,7 +31968,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "cups-filters is installed",
+      "Comment": "cups-filters-libs is installed",
       "ID": "oval:com.redhat.cve:tst:202324805005",
       "Version": "636",
       "Object": {
@@ -31978,7 +31978,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "cups-filters is signed with Red Hat redhatrelease2 key",
+      "Comment": "cups-filters-libs is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202324805006",
       "Version": "636",
       "Object": {
