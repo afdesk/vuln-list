@@ -1283,6 +1283,10 @@
         {
           "URL": "https://bugzilla.suse.com/1203987",
           "Description": "SUSE Bug 1203987"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1211484",
+          "Description": "SUSE Bug 1211484"
         }
       ],
       "ProductStatuses": [
@@ -1353,6 +1357,10 @@
         {
           "URL": "https://bugzilla.suse.com/1205671",
           "Description": "SUSE Bug 1205671"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1211484",
+          "Description": "SUSE Bug 1211484"
         }
       ],
       "ProductStatuses": [
@@ -1439,6 +1447,10 @@
         {
           "URL": "https://bugzilla.suse.com/1204653",
           "Description": "SUSE Bug 1204653"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1211484",
+          "Description": "SUSE Bug 1211484"
         }
       ],
       "ProductStatuses": [

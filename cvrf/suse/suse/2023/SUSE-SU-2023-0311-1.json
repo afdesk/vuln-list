@@ -2780,6 +2780,10 @@
         {
           "URL": "https://bugzilla.suse.com/1207569",
           "Description": "SUSE Bug 1207569"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1211503",
+          "Description": "SUSE Bug 1211503"
         }
       ],
       "ProductStatuses": [

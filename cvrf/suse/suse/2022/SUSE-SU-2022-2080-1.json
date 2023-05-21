@@ -411,6 +411,10 @@
         {
           "URL": "https://bugzilla.suse.com/1173871",
           "Description": "SUSE Bug 1173871"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1211495",
+          "Description": "SUSE Bug 1211495"
         }
       ],
       "ProductStatuses": [

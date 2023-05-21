@@ -31,13 +31,28 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "Container bci/openjdk:11-2023-2222,SUSE-2023-2222,SUSE-SLE-Module-Basesystem-15-SP4-2023-2222,SUSE-SLE-Module-Packagehub-Subpackages-15-SP4-2023-2222,SUSE-SLE-Product-HPC-15-SP1-LTSS-2023-2222,SUSE-SLE-Product-HPC-15-SP2-LTSS-2023-2222,SUSE-SLE-Product-HPC-15-SP3-ESPOS-2023-2222,SUSE-SLE-Product-HPC-15-SP3-LTSS-2023-2222,SUSE-SLE-Product-RT-15-SP3-2023-2222,SUSE-SLE-Product-SLES-15-SP1-LTSS-2023-2222,SUSE-SLE-Product-SLES-15-SP2-LTSS-2023-2222,SUSE-SLE-Product-SLES-15-SP3-LTSS-2023-2222,SUSE-SLE-Product-SLES_SAP-15-SP1-2023-2222,SUSE-SLE-Product-SLES_SAP-15-SP2-2023-2222,SUSE-SLE-Product-SLES_SAP-15-SP3-2023-2222,SUSE-SLE-Product-SUSE-Manager-Proxy-4.2-2023-2222,SUSE-SLE-Product-SUSE-Manager-Server-4.2-2023-2222,SUSE-Storage-7-2023-2222,SUSE-Storage-7.1-2023-2222,openSUSE-SLE-15.4-2023-2222",
+      "Text": "Container bci/openjdk-devel:11-2023-2222,Container bci/openjdk:11-2023-2222,SUSE-2023-2222,SUSE-SLE-Module-Basesystem-15-SP4-2023-2222,SUSE-SLE-Module-Packagehub-Subpackages-15-SP4-2023-2222,SUSE-SLE-Product-HPC-15-SP1-LTSS-2023-2222,SUSE-SLE-Product-HPC-15-SP2-LTSS-2023-2222,SUSE-SLE-Product-HPC-15-SP3-ESPOS-2023-2222,SUSE-SLE-Product-HPC-15-SP3-LTSS-2023-2222,SUSE-SLE-Product-RT-15-SP3-2023-2222,SUSE-SLE-Product-SLES-15-SP1-LTSS-2023-2222,SUSE-SLE-Product-SLES-15-SP2-LTSS-2023-2222,SUSE-SLE-Product-SLES-15-SP3-LTSS-2023-2222,SUSE-SLE-Product-SLES_SAP-15-SP1-2023-2222,SUSE-SLE-Product-SLES_SAP-15-SP2-2023-2222,SUSE-SLE-Product-SLES_SAP-15-SP3-2023-2222,SUSE-SLE-Product-SUSE-Manager-Proxy-4.2-2023-2222,SUSE-SLE-Product-SUSE-Manager-Server-4.2-2023-2222,SUSE-Storage-7-2023-2222,SUSE-Storage-7.1-2023-2222,openSUSE-SLE-15.4-2023-2222",
       "Title": "Patchnames",
       "Type": "Details"
     }
   ],
   "ProductTree": {
     "Relationships": [
+      {
+        "ProductReference": "java-11-openjdk-11.0.19.0-150000.3.96.1",
+        "RelatesToProductReference": "Container bci/openjdk-devel:11",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-11-openjdk-devel-11.0.19.0-150000.3.96.1",
+        "RelatesToProductReference": "Container bci/openjdk-devel:11",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-11-openjdk-headless-11.0.19.0-150000.3.96.1",
+        "RelatesToProductReference": "Container bci/openjdk-devel:11",
+        "RelationType": "Default Component Of"
+      },
       {
         "ProductReference": "java-11-openjdk-11.0.19.0-150000.3.96.1",
         "RelatesToProductReference": "Container bci/openjdk:11",
@@ -504,6 +519,9 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Container bci/openjdk-devel:11:java-11-openjdk-11.0.19.0-150000.3.96.1",
+            "Container bci/openjdk-devel:11:java-11-openjdk-devel-11.0.19.0-150000.3.96.1",
+            "Container bci/openjdk-devel:11:java-11-openjdk-headless-11.0.19.0-150000.3.96.1",
             "Container bci/openjdk:11:java-11-openjdk-11.0.19.0-150000.3.96.1",
             "Container bci/openjdk:11:java-11-openjdk-headless-11.0.19.0-150000.3.96.1",
             "SUSE Enterprise Storage 7.1:java-11-openjdk-11.0.19.0-150000.3.96.1",
@@ -589,7 +607,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "low"
         }
       ],
       "References": [
@@ -606,6 +624,9 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Container bci/openjdk-devel:11:java-11-openjdk-11.0.19.0-150000.3.96.1",
+            "Container bci/openjdk-devel:11:java-11-openjdk-devel-11.0.19.0-150000.3.96.1",
+            "Container bci/openjdk-devel:11:java-11-openjdk-headless-11.0.19.0-150000.3.96.1",
             "Container bci/openjdk:11:java-11-openjdk-11.0.19.0-150000.3.96.1",
             "Container bci/openjdk:11:java-11-openjdk-headless-11.0.19.0-150000.3.96.1",
             "SUSE Enterprise Storage 7.1:java-11-openjdk-11.0.19.0-150000.3.96.1",
@@ -691,7 +712,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "low"
         }
       ],
       "References": [
@@ -708,6 +729,9 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Container bci/openjdk-devel:11:java-11-openjdk-11.0.19.0-150000.3.96.1",
+            "Container bci/openjdk-devel:11:java-11-openjdk-devel-11.0.19.0-150000.3.96.1",
+            "Container bci/openjdk-devel:11:java-11-openjdk-headless-11.0.19.0-150000.3.96.1",
             "Container bci/openjdk:11:java-11-openjdk-11.0.19.0-150000.3.96.1",
             "Container bci/openjdk:11:java-11-openjdk-headless-11.0.19.0-150000.3.96.1",
             "SUSE Enterprise Storage 7.1:java-11-openjdk-11.0.19.0-150000.3.96.1",
@@ -793,7 +817,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -810,6 +834,9 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Container bci/openjdk-devel:11:java-11-openjdk-11.0.19.0-150000.3.96.1",
+            "Container bci/openjdk-devel:11:java-11-openjdk-devel-11.0.19.0-150000.3.96.1",
+            "Container bci/openjdk-devel:11:java-11-openjdk-headless-11.0.19.0-150000.3.96.1",
             "Container bci/openjdk:11:java-11-openjdk-11.0.19.0-150000.3.96.1",
             "Container bci/openjdk:11:java-11-openjdk-headless-11.0.19.0-150000.3.96.1",
             "SUSE Enterprise Storage 7.1:java-11-openjdk-11.0.19.0-150000.3.96.1",
@@ -895,7 +922,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -912,6 +939,9 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Container bci/openjdk-devel:11:java-11-openjdk-11.0.19.0-150000.3.96.1",
+            "Container bci/openjdk-devel:11:java-11-openjdk-devel-11.0.19.0-150000.3.96.1",
+            "Container bci/openjdk-devel:11:java-11-openjdk-headless-11.0.19.0-150000.3.96.1",
             "Container bci/openjdk:11:java-11-openjdk-11.0.19.0-150000.3.96.1",
             "Container bci/openjdk:11:java-11-openjdk-headless-11.0.19.0-150000.3.96.1",
             "SUSE Enterprise Storage 7.1:java-11-openjdk-11.0.19.0-150000.3.96.1",
@@ -997,7 +1027,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -1014,6 +1044,9 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Container bci/openjdk-devel:11:java-11-openjdk-11.0.19.0-150000.3.96.1",
+            "Container bci/openjdk-devel:11:java-11-openjdk-devel-11.0.19.0-150000.3.96.1",
+            "Container bci/openjdk-devel:11:java-11-openjdk-headless-11.0.19.0-150000.3.96.1",
             "Container bci/openjdk:11:java-11-openjdk-11.0.19.0-150000.3.96.1",
             "Container bci/openjdk:11:java-11-openjdk-headless-11.0.19.0-150000.3.96.1",
             "SUSE Enterprise Storage 7.1:java-11-openjdk-11.0.19.0-150000.3.96.1",
@@ -1099,7 +1132,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "low"
         }
       ],
       "References": [
@@ -1116,6 +1149,9 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Container bci/openjdk-devel:11:java-11-openjdk-11.0.19.0-150000.3.96.1",
+            "Container bci/openjdk-devel:11:java-11-openjdk-devel-11.0.19.0-150000.3.96.1",
+            "Container bci/openjdk-devel:11:java-11-openjdk-headless-11.0.19.0-150000.3.96.1",
             "Container bci/openjdk:11:java-11-openjdk-11.0.19.0-150000.3.96.1",
             "Container bci/openjdk:11:java-11-openjdk-headless-11.0.19.0-150000.3.96.1",
             "SUSE Enterprise Storage 7.1:java-11-openjdk-11.0.19.0-150000.3.96.1",

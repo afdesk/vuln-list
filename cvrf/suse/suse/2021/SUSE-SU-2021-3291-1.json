@@ -3599,6 +3599,11 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "glibc-32bit-2.31-9.3.2",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "glibc-i18ndata-2.31-9.3.2",
         "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-BYOS",
         "RelationType": "Default Component Of"
@@ -3624,6 +3629,11 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "glibc-32bit-2.31-9.3.2",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "glibc-i18ndata-2.31-9.3.2",
         "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-BYOS-Azure",
         "RelationType": "Default Component Of"
@@ -3649,6 +3659,11 @@
         "RelationType": "Default Component Of"
       },
       {
+        "ProductReference": "glibc-32bit-2.31-9.3.2",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-BYOS-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
         "ProductReference": "glibc-i18ndata-2.31-9.3.2",
         "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-BYOS-EC2",
         "RelationType": "Default Component Of"
@@ -3670,6 +3685,11 @@
       },
       {
         "ProductReference": "glibc-2.31-9.3.2",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "glibc-32bit-2.31-9.3.2",
         "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-BYOS-GCE",
         "RelationType": "Default Component Of"
       },
@@ -4815,21 +4835,25 @@
             "Image SLES15-SP4-SAP-Hardened-Azure:glibc-locale-base-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-Azure:nscd-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-Azure:glibc-2.31-9.3.2",
+            "Image SLES15-SP4-SAP-Hardened-BYOS-Azure:glibc-32bit-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-Azure:glibc-i18ndata-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-Azure:glibc-locale-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-Azure:glibc-locale-base-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-Azure:nscd-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-EC2:glibc-2.31-9.3.2",
+            "Image SLES15-SP4-SAP-Hardened-BYOS-EC2:glibc-32bit-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-EC2:glibc-i18ndata-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-EC2:glibc-locale-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-EC2:glibc-locale-base-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-EC2:nscd-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-GCE:glibc-2.31-9.3.2",
+            "Image SLES15-SP4-SAP-Hardened-BYOS-GCE:glibc-32bit-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-GCE:glibc-i18ndata-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-GCE:glibc-locale-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-GCE:glibc-locale-base-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-GCE:nscd-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS:glibc-2.31-9.3.2",
+            "Image SLES15-SP4-SAP-Hardened-BYOS:glibc-32bit-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS:glibc-i18ndata-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS:glibc-locale-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS:glibc-locale-base-2.31-9.3.2",
@@ -5650,21 +5674,25 @@
             "Image SLES15-SP4-SAP-Hardened-Azure:glibc-locale-base-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-Azure:nscd-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-Azure:glibc-2.31-9.3.2",
+            "Image SLES15-SP4-SAP-Hardened-BYOS-Azure:glibc-32bit-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-Azure:glibc-i18ndata-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-Azure:glibc-locale-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-Azure:glibc-locale-base-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-Azure:nscd-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-EC2:glibc-2.31-9.3.2",
+            "Image SLES15-SP4-SAP-Hardened-BYOS-EC2:glibc-32bit-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-EC2:glibc-i18ndata-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-EC2:glibc-locale-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-EC2:glibc-locale-base-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-EC2:nscd-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-GCE:glibc-2.31-9.3.2",
+            "Image SLES15-SP4-SAP-Hardened-BYOS-GCE:glibc-32bit-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-GCE:glibc-i18ndata-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-GCE:glibc-locale-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-GCE:glibc-locale-base-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS-GCE:nscd-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS:glibc-2.31-9.3.2",
+            "Image SLES15-SP4-SAP-Hardened-BYOS:glibc-32bit-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS:glibc-i18ndata-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS:glibc-locale-2.31-9.3.2",
             "Image SLES15-SP4-SAP-Hardened-BYOS:glibc-locale-base-2.31-9.3.2",
