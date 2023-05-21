@@ -50,30 +50,6 @@
       {
         "name": "redis-devel",
         "version": "5.0.3",
-        "release": "5.module_el8.4.0+2583+b9845322",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "redis-5.0.3-5.module_el8.4.0+2583+b9845322.src.rpm",
-        "filename": "redis-devel-5.0.3-5.module_el8.4.0+2583+b9845322.x86_64.rpm",
-        "sum": "0c9cdd8f1f2f3eb3d4173c5eddf51663706b346ab7b37cc9c59073b467030eda",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "redis",
-        "version": "5.0.3",
-        "release": "5.module_el8.4.0+2583+b9845322",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "redis-5.0.3-5.module_el8.4.0+2583+b9845322.src.rpm",
-        "filename": "redis-5.0.3-5.module_el8.4.0+2583+b9845322.x86_64.rpm",
-        "sum": "34ddb0964ac9be4bb40026656e6d0bc7ada7ac6bf9efebd79f91c3796581e224",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "redis-devel",
-        "version": "5.0.3",
         "release": "5.module_el8.5.0+66+fc19ec12",
         "epoch": "0",
         "arch": "ppc64le",
@@ -104,6 +80,30 @@
         "src": "redis-5.0.3-5.module_el8.5.0+66+fc19ec12.src.rpm",
         "filename": "redis-doc-5.0.3-5.module_el8.5.0+66+fc19ec12.noarch.rpm",
         "sum": "eecdb919bf03774f10f69f75dd141ea819d9bdfc09240e9a5e74233faea019b6",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "redis-devel",
+        "version": "5.0.3",
+        "release": "5.module_el8.4.0+2583+b9845322",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "redis-5.0.3-5.module_el8.4.0+2583+b9845322.src.rpm",
+        "filename": "redis-devel-5.0.3-5.module_el8.4.0+2583+b9845322.x86_64.rpm",
+        "sum": "0c9cdd8f1f2f3eb3d4173c5eddf51663706b346ab7b37cc9c59073b467030eda",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "redis",
+        "version": "5.0.3",
+        "release": "5.module_el8.4.0+2583+b9845322",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "redis-5.0.3-5.module_el8.4.0+2583+b9845322.src.rpm",
+        "filename": "redis-5.0.3-5.module_el8.4.0+2583+b9845322.x86_64.rpm",
+        "sum": "34ddb0964ac9be4bb40026656e6d0bc7ada7ac6bf9efebd79f91c3796581e224",
         "sum_type": 5,
         "reboot_suggested": 0
       }

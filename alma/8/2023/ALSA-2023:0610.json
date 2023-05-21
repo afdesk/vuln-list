@@ -192,6 +192,66 @@
         "reboot_suggested": 0
       },
       {
+        "name": "git-core",
+        "version": "2.31.1",
+        "release": "3.el8_7",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "git-2.31.1-3.el8_7.src.rpm",
+        "filename": "git-core-2.31.1-3.el8_7.ppc64le.rpm",
+        "sum": "0fadf549383b7a99e0057ac95651ee4e0d609f64a04f93c6711148b0387296c5",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "git",
+        "version": "2.31.1",
+        "release": "3.el8_7",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "git-2.31.1-3.el8_7.src.rpm",
+        "filename": "git-2.31.1-3.el8_7.ppc64le.rpm",
+        "sum": "1b2593f141f10407b8983ec78c88a700beebf750746ea5b2f5437de8aa385413",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "git-subtree",
+        "version": "2.31.1",
+        "release": "3.el8_7",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "git-2.31.1-3.el8_7.src.rpm",
+        "filename": "git-subtree-2.31.1-3.el8_7.ppc64le.rpm",
+        "sum": "964e4e7873e254074408995de2fbf5a8eeda12e5a6508c0b4f2af5301ad40072",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "git-daemon",
+        "version": "2.31.1",
+        "release": "3.el8_7",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "git-2.31.1-3.el8_7.src.rpm",
+        "filename": "git-daemon-2.31.1-3.el8_7.ppc64le.rpm",
+        "sum": "a361847d08622f892d71e23a9ce0aa353db9c811eb6ab140c561ab3a7853e8aa",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "git-credential-libsecret",
+        "version": "2.31.1",
+        "release": "3.el8_7",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "git-2.31.1-3.el8_7.src.rpm",
+        "filename": "git-credential-libsecret-2.31.1-3.el8_7.ppc64le.rpm",
+        "sum": "f465c0a28a3a805d83d1a74e579c779059dc6d169d1a6c06d149adc91301dd23",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "git",
         "version": "2.31.1",
         "release": "3.el8_7",
@@ -308,66 +368,6 @@
         "src": "git-2.31.1-3.el8_7.src.rpm",
         "filename": "git-subtree-2.31.1-3.el8_7.s390x.rpm",
         "sum": "edbadf426f1fee2ee84ebf423a0dbcd0cc8e8dcc72e8a71464e6ad712d216c7f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "git-core",
-        "version": "2.31.1",
-        "release": "3.el8_7",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "git-2.31.1-3.el8_7.src.rpm",
-        "filename": "git-core-2.31.1-3.el8_7.ppc64le.rpm",
-        "sum": "0fadf549383b7a99e0057ac95651ee4e0d609f64a04f93c6711148b0387296c5",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "git",
-        "version": "2.31.1",
-        "release": "3.el8_7",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "git-2.31.1-3.el8_7.src.rpm",
-        "filename": "git-2.31.1-3.el8_7.ppc64le.rpm",
-        "sum": "1b2593f141f10407b8983ec78c88a700beebf750746ea5b2f5437de8aa385413",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "git-subtree",
-        "version": "2.31.1",
-        "release": "3.el8_7",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "git-2.31.1-3.el8_7.src.rpm",
-        "filename": "git-subtree-2.31.1-3.el8_7.ppc64le.rpm",
-        "sum": "964e4e7873e254074408995de2fbf5a8eeda12e5a6508c0b4f2af5301ad40072",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "git-daemon",
-        "version": "2.31.1",
-        "release": "3.el8_7",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "git-2.31.1-3.el8_7.src.rpm",
-        "filename": "git-daemon-2.31.1-3.el8_7.ppc64le.rpm",
-        "sum": "a361847d08622f892d71e23a9ce0aa353db9c811eb6ab140c561ab3a7853e8aa",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "git-credential-libsecret",
-        "version": "2.31.1",
-        "release": "3.el8_7",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "git-2.31.1-3.el8_7.src.rpm",
-        "filename": "git-credential-libsecret-2.31.1-3.el8_7.ppc64le.rpm",
-        "sum": "f465c0a28a3a805d83d1a74e579c779059dc6d169d1a6c06d149adc91301dd23",
         "sum_type": 5,
         "reboot_suggested": 0
       }

@@ -40,30 +40,6 @@
         "version": "0.6.1",
         "release": "2.module_el8.6.0+2868+44838709",
         "epoch": "0",
-        "arch": "x86_64",
-        "src": "cjose-0.6.1-2.module_el8.6.0+2868+44838709.src.rpm",
-        "filename": "cjose-0.6.1-2.module_el8.6.0+2868+44838709.x86_64.rpm",
-        "sum": "455d8b76e53798d4f7bffc9a2ac9b1431087d6e9e45c11bcabdca784053809c9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "cjose-devel",
-        "version": "0.6.1",
-        "release": "2.module_el8.6.0+2868+44838709",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "cjose-0.6.1-2.module_el8.6.0+2868+44838709.src.rpm",
-        "filename": "cjose-devel-0.6.1-2.module_el8.6.0+2868+44838709.x86_64.rpm",
-        "sum": "6d5860007d189cf452f0cd7f520154480c2e65ac40ca5333636efb2c68135bea",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "cjose",
-        "version": "0.6.1",
-        "release": "2.module_el8.6.0+2868+44838709",
-        "epoch": "0",
         "arch": "ppc64le",
         "src": "cjose-0.6.1-2.module_el8.6.0+2868+44838709.src.rpm",
         "filename": "cjose-0.6.1-2.module_el8.6.0+2868+44838709.ppc64le.rpm",
@@ -80,6 +56,30 @@
         "src": "cjose-0.6.1-2.module_el8.6.0+2868+44838709.src.rpm",
         "filename": "cjose-devel-0.6.1-2.module_el8.6.0+2868+44838709.ppc64le.rpm",
         "sum": "83b16fcde70e30fb06e00e472b418dbc8d18ffbb2d31e590d1193adf7e18ff23",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "cjose",
+        "version": "0.6.1",
+        "release": "2.module_el8.6.0+2868+44838709",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "cjose-0.6.1-2.module_el8.6.0+2868+44838709.src.rpm",
+        "filename": "cjose-0.6.1-2.module_el8.6.0+2868+44838709.x86_64.rpm",
+        "sum": "455d8b76e53798d4f7bffc9a2ac9b1431087d6e9e45c11bcabdca784053809c9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "cjose-devel",
+        "version": "0.6.1",
+        "release": "2.module_el8.6.0+2868+44838709",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "cjose-0.6.1-2.module_el8.6.0+2868+44838709.src.rpm",
+        "filename": "cjose-devel-0.6.1-2.module_el8.6.0+2868+44838709.x86_64.rpm",
+        "sum": "6d5860007d189cf452f0cd7f520154480c2e65ac40ca5333636efb2c68135bea",
         "sum_type": 5,
         "reboot_suggested": 0
       }

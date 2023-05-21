@@ -96,6 +96,54 @@
         "reboot_suggested": 0
       },
       {
+        "name": "nodejs-full-i18n",
+        "version": "14.21.3",
+        "release": "1.module_el8.7.0+3551+53700ee8",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "nodejs-14.21.3-1.module_el8.7.0+3551+53700ee8.src.rpm",
+        "filename": "nodejs-full-i18n-14.21.3-1.module_el8.7.0+3551+53700ee8.ppc64le.rpm",
+        "sum": "a09a6dc0dd8b5e96965d824d6933e80deee71fcbfe7305509fbebe7b8e457775",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "nodejs-devel",
+        "version": "14.21.3",
+        "release": "1.module_el8.7.0+3551+53700ee8",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "nodejs-14.21.3-1.module_el8.7.0+3551+53700ee8.src.rpm",
+        "filename": "nodejs-devel-14.21.3-1.module_el8.7.0+3551+53700ee8.ppc64le.rpm",
+        "sum": "b351c2899a471a3c0f41706c60be3cf7fc7e542b6e125dfc711fe40fbd7fca64",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "npm",
+        "version": "6.14.18",
+        "release": "1.14.21.3.1.module_el8.7.0+3551+53700ee8",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "nodejs-14.21.3-1.module_el8.7.0+3551+53700ee8.src.rpm",
+        "filename": "npm-6.14.18-1.14.21.3.1.module_el8.7.0+3551+53700ee8.ppc64le.rpm",
+        "sum": "b710dcc8b0f795dede9071aba8a3ba64bb038c0eea41101eeac7238742a0b856",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "nodejs",
+        "version": "14.21.3",
+        "release": "1.module_el8.7.0+3551+53700ee8",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "nodejs-14.21.3-1.module_el8.7.0+3551+53700ee8.src.rpm",
+        "filename": "nodejs-14.21.3-1.module_el8.7.0+3551+53700ee8.ppc64le.rpm",
+        "sum": "e1d0fd2a82f6f6b38129c467a3431fdf9fe68af3e18802ffec8e6178a45700ca",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "npm",
         "version": "6.14.18",
         "release": "1.14.21.3.1.module_el8.7.0+3551+53700ee8",
@@ -188,54 +236,6 @@
         "src": "nodejs-14.21.3-1.module_el8.7.0+3551+53700ee8.src.rpm",
         "filename": "nodejs-full-i18n-14.21.3-1.module_el8.7.0+3551+53700ee8.s390x.rpm",
         "sum": "ff0ce7f82660e02ea8796d66c94d216a9211037281befad8cf56b8d3be249048",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "nodejs-full-i18n",
-        "version": "14.21.3",
-        "release": "1.module_el8.7.0+3551+53700ee8",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "nodejs-14.21.3-1.module_el8.7.0+3551+53700ee8.src.rpm",
-        "filename": "nodejs-full-i18n-14.21.3-1.module_el8.7.0+3551+53700ee8.ppc64le.rpm",
-        "sum": "a09a6dc0dd8b5e96965d824d6933e80deee71fcbfe7305509fbebe7b8e457775",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "nodejs-devel",
-        "version": "14.21.3",
-        "release": "1.module_el8.7.0+3551+53700ee8",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "nodejs-14.21.3-1.module_el8.7.0+3551+53700ee8.src.rpm",
-        "filename": "nodejs-devel-14.21.3-1.module_el8.7.0+3551+53700ee8.ppc64le.rpm",
-        "sum": "b351c2899a471a3c0f41706c60be3cf7fc7e542b6e125dfc711fe40fbd7fca64",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "npm",
-        "version": "6.14.18",
-        "release": "1.14.21.3.1.module_el8.7.0+3551+53700ee8",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "nodejs-14.21.3-1.module_el8.7.0+3551+53700ee8.src.rpm",
-        "filename": "npm-6.14.18-1.14.21.3.1.module_el8.7.0+3551+53700ee8.ppc64le.rpm",
-        "sum": "b710dcc8b0f795dede9071aba8a3ba64bb038c0eea41101eeac7238742a0b856",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "nodejs",
-        "version": "14.21.3",
-        "release": "1.module_el8.7.0+3551+53700ee8",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "nodejs-14.21.3-1.module_el8.7.0+3551+53700ee8.src.rpm",
-        "filename": "nodejs-14.21.3-1.module_el8.7.0+3551+53700ee8.ppc64le.rpm",
-        "sum": "e1d0fd2a82f6f6b38129c467a3431fdf9fe68af3e18802ffec8e6178a45700ca",
         "sum_type": 5,
         "reboot_suggested": 0
       }

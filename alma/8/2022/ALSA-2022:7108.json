@@ -132,18 +132,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "lemon",
-        "version": "3.26.0",
-        "release": "16.el8_6",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "sqlite-3.26.0-16.el8_6.src.rpm",
-        "filename": "lemon-3.26.0-16.el8_6.aarch64.rpm",
-        "sum": "e79635089ff45f3619803ca81abe5b996d3c785785b6ff4058c402f4af21e467",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "sqlite",
         "version": "3.26.0",
         "release": "16.el8_6",
@@ -184,10 +172,22 @@
         "version": "3.26.0",
         "release": "16.el8_6",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "aarch64",
         "src": "sqlite-3.26.0-16.el8_6.src.rpm",
-        "filename": "lemon-3.26.0-16.el8_6.x86_64.rpm",
-        "sum": "1bb15fb2e1db1df811ff7c24e9f63fb25cad39ec4acfc1e662ce57edeab2b8ef",
+        "filename": "lemon-3.26.0-16.el8_6.aarch64.rpm",
+        "sum": "e79635089ff45f3619803ca81abe5b996d3c785785b6ff4058c402f4af21e467",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "lemon",
+        "version": "3.26.0",
+        "release": "16.el8_6",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "sqlite-3.26.0-16.el8_6.src.rpm",
+        "filename": "lemon-3.26.0-16.el8_6.ppc64le.rpm",
+        "sum": "1a52c917cf0b08049e2cc5fd5dd6983d9bb59e2226096152c85d8ad7dedfc107",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -232,10 +232,10 @@
         "version": "3.26.0",
         "release": "16.el8_6",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "x86_64",
         "src": "sqlite-3.26.0-16.el8_6.src.rpm",
-        "filename": "lemon-3.26.0-16.el8_6.s390x.rpm",
-        "sum": "395c01ee7fc4b13a550c8776beb0f527b63f19c6829bc30c38b7cfd4fcb0dd2f",
+        "filename": "lemon-3.26.0-16.el8_6.x86_64.rpm",
+        "sum": "1bb15fb2e1db1df811ff7c24e9f63fb25cad39ec4acfc1e662ce57edeab2b8ef",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -244,10 +244,10 @@
         "version": "3.26.0",
         "release": "16.el8_6",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "s390x",
         "src": "sqlite-3.26.0-16.el8_6.src.rpm",
-        "filename": "lemon-3.26.0-16.el8_6.ppc64le.rpm",
-        "sum": "1a52c917cf0b08049e2cc5fd5dd6983d9bb59e2226096152c85d8ad7dedfc107",
+        "filename": "lemon-3.26.0-16.el8_6.s390x.rpm",
+        "sum": "395c01ee7fc4b13a550c8776beb0f527b63f19c6829bc30c38b7cfd4fcb0dd2f",
         "sum_type": 5,
         "reboot_suggested": 0
       }

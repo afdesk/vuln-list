@@ -852,6 +852,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "gnome-software-devel",
+        "version": "3.36.1",
+        "release": "10.el8",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "gnome-software-3.36.1-10.el8.src.rpm",
+        "filename": "gnome-software-devel-3.36.1-10.el8.aarch64.rpm",
+        "sum": "9273b479534b2fedc6e525165e98bb31b708d0f1073c9a845368d539e95e3ab0",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "gnome-software",
         "version": "3.36.1",
         "release": "10.el8",
@@ -948,14 +960,50 @@
         "reboot_suggested": 0
       },
       {
-        "name": "gnome-software-devel",
-        "version": "3.36.1",
-        "release": "10.el8",
+        "name": "gnome-autoar",
+        "version": "0.2.3",
+        "release": "2.el8",
         "epoch": "0",
-        "arch": "aarch64",
-        "src": "gnome-software-3.36.1-10.el8.src.rpm",
-        "filename": "gnome-software-devel-3.36.1-10.el8.aarch64.rpm",
-        "sum": "9273b479534b2fedc6e525165e98bb31b708d0f1073c9a845368d539e95e3ab0",
+        "arch": "ppc64le",
+        "src": "gnome-autoar-0.2.3-2.el8.src.rpm",
+        "filename": "gnome-autoar-0.2.3-2.el8.ppc64le.rpm",
+        "sum": "06b8fc157449559ce726ba73f0c743399fb79fe61e5f118a94a231188d911768",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "LibRaw-devel",
+        "version": "0.19.5",
+        "release": "3.el8",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "LibRaw-0.19.5-3.el8.src.rpm",
+        "filename": "LibRaw-devel-0.19.5-3.el8.ppc64le.rpm",
+        "sum": "87550b11b219ffdfd14634f753552acd5c62d5c50540056c4e73885aa99ca149",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gsettings-desktop-schemas",
+        "version": "3.32.0",
+        "release": "6.el8",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "gsettings-desktop-schemas-3.32.0-6.el8.src.rpm",
+        "filename": "gsettings-desktop-schemas-3.32.0-6.el8.ppc64le.rpm",
+        "sum": "e868c2599c92f3c66839bf72edd27a5af97457db7fc95cbeed377b15ecf36af7",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "LibRaw",
+        "version": "0.19.5",
+        "release": "3.el8",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "LibRaw-0.19.5-3.el8.src.rpm",
+        "filename": "LibRaw-0.19.5-3.el8.ppc64le.rpm",
+        "sum": "eb69d47bd4c1f2cd2e5cf3e5ccd107f4f4fb6357b610af7c2819ff408b19dfb2",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -1044,42 +1092,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "gnome-autoar",
-        "version": "0.2.3",
-        "release": "2.el8",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "gnome-autoar-0.2.3-2.el8.src.rpm",
-        "filename": "gnome-autoar-0.2.3-2.el8.ppc64le.rpm",
-        "sum": "06b8fc157449559ce726ba73f0c743399fb79fe61e5f118a94a231188d911768",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "LibRaw-devel",
-        "version": "0.19.5",
-        "release": "3.el8",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "LibRaw-0.19.5-3.el8.src.rpm",
-        "filename": "LibRaw-devel-0.19.5-3.el8.ppc64le.rpm",
-        "sum": "87550b11b219ffdfd14634f753552acd5c62d5c50540056c4e73885aa99ca149",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "LibRaw",
-        "version": "0.19.5",
-        "release": "3.el8",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "LibRaw-0.19.5-3.el8.src.rpm",
-        "filename": "LibRaw-0.19.5-3.el8.ppc64le.rpm",
-        "sum": "eb69d47bd4c1f2cd2e5cf3e5ccd107f4f4fb6357b610af7c2819ff408b19dfb2",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "gnome-software-devel",
         "version": "3.36.1",
         "release": "10.el8",
@@ -1088,18 +1100,6 @@
         "src": "gnome-software-3.36.1-10.el8.src.rpm",
         "filename": "gnome-software-devel-3.36.1-10.el8.ppc64le.rpm",
         "sum": "ebd63361115c81abd120214e63b480beb2737f9b1a98cb233562b6dfcb54787c",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gsettings-desktop-schemas",
-        "version": "3.32.0",
-        "release": "6.el8",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "gsettings-desktop-schemas-3.32.0-6.el8.src.rpm",
-        "filename": "gsettings-desktop-schemas-3.32.0-6.el8.ppc64le.rpm",
-        "sum": "e868c2599c92f3c66839bf72edd27a5af97457db7fc95cbeed377b15ecf36af7",
         "sum_type": 5,
         "reboot_suggested": 0
       },

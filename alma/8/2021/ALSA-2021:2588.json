@@ -156,42 +156,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "rubygem-bson",
-        "version": "4.5.0",
-        "release": "1.module_el8.5.0+2623+08a8ba32",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "rubygem-bson-4.5.0-1.module_el8.5.0+2623+08a8ba32.src.rpm",
-        "filename": "rubygem-bson-4.5.0-1.module_el8.5.0+2623+08a8ba32.x86_64.rpm",
-        "sum": "03d843fb30170ab3dd177f6cbe3f53db3fd30c50b0db7cb69a5696727c509543",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "rubygem-pg",
-        "version": "1.1.4",
-        "release": "1.module_el8.5.0+2623+08a8ba32",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "rubygem-pg-1.1.4-1.module_el8.5.0+2623+08a8ba32.src.rpm",
-        "filename": "rubygem-pg-1.1.4-1.module_el8.5.0+2623+08a8ba32.x86_64.rpm",
-        "sum": "6dc2da0917275a91c99240b6ffb7fbfa93071e4a68e9ded476ed4a3ae4ca1274",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "rubygem-mysql2",
-        "version": "0.5.2",
-        "release": "1.module_el8.5.0+2623+08a8ba32",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "rubygem-mysql2-0.5.2-1.module_el8.5.0+2623+08a8ba32.src.rpm",
-        "filename": "rubygem-mysql2-0.5.2-1.module_el8.5.0+2623+08a8ba32.x86_64.rpm",
-        "sum": "706abca8ccfb91d12ed7b8cb17e86f66ca5a0f8ac0e06c28ea8448ad80c8f442",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "rubygem-abrt-doc",
         "version": "0.3.0",
         "release": "4.module_el8.5.0+259+8cec6917",
@@ -308,6 +272,42 @@
         "src": "rubygem-pg-1.1.4-1.module_el8.5.0+250+ba22dbf7.src.rpm",
         "filename": "rubygem-pg-doc-1.1.4-1.module_el8.5.0+250+ba22dbf7.noarch.rpm",
         "sum": "d0b07adad2015780bc46a5015b3a26d4cd94f98c023fa932a80aca34c663da56",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "rubygem-bson",
+        "version": "4.5.0",
+        "release": "1.module_el8.5.0+2623+08a8ba32",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "rubygem-bson-4.5.0-1.module_el8.5.0+2623+08a8ba32.src.rpm",
+        "filename": "rubygem-bson-4.5.0-1.module_el8.5.0+2623+08a8ba32.x86_64.rpm",
+        "sum": "03d843fb30170ab3dd177f6cbe3f53db3fd30c50b0db7cb69a5696727c509543",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "rubygem-pg",
+        "version": "1.1.4",
+        "release": "1.module_el8.5.0+2623+08a8ba32",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "rubygem-pg-1.1.4-1.module_el8.5.0+2623+08a8ba32.src.rpm",
+        "filename": "rubygem-pg-1.1.4-1.module_el8.5.0+2623+08a8ba32.x86_64.rpm",
+        "sum": "6dc2da0917275a91c99240b6ffb7fbfa93071e4a68e9ded476ed4a3ae4ca1274",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "rubygem-mysql2",
+        "version": "0.5.2",
+        "release": "1.module_el8.5.0+2623+08a8ba32",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "rubygem-mysql2-0.5.2-1.module_el8.5.0+2623+08a8ba32.src.rpm",
+        "filename": "rubygem-mysql2-0.5.2-1.module_el8.5.0+2623+08a8ba32.x86_64.rpm",
+        "sum": "706abca8ccfb91d12ed7b8cb17e86f66ca5a0f8ac0e06c28ea8448ad80c8f442",
         "sum_type": 5,
         "reboot_suggested": 0
       }

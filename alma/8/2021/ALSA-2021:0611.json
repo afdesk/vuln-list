@@ -40,30 +40,6 @@
         "version": "331",
         "release": "1.el8_3.2",
         "epoch": "0",
-        "arch": "x86_64",
-        "src": "xterm-331-1.el8_3.2.src.rpm",
-        "filename": "xterm-resize-331-1.el8_3.2.x86_64.rpm",
-        "sum": "6bee4654246250faec39eb3df9b9ed097aa2bfc4d73aab31f013b600c0897bb3",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "xterm",
-        "version": "331",
-        "release": "1.el8_3.2",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "xterm-331-1.el8_3.2.src.rpm",
-        "filename": "xterm-331-1.el8_3.2.x86_64.rpm",
-        "sum": "857d6a2f974f68f3e3e30dca64d9a342b6013ee0571417c15656f64c10a4bee9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "xterm-resize",
-        "version": "331",
-        "release": "1.el8_3.2",
-        "epoch": "0",
         "arch": "ppc64le",
         "src": "xterm-331-1.el8_3.2.src.rpm",
         "filename": "xterm-resize-331-1.el8_3.2.ppc64le.rpm",
@@ -80,6 +56,30 @@
         "src": "xterm-331-1.el8_3.2.src.rpm",
         "filename": "xterm-331-1.el8_3.2.ppc64le.rpm",
         "sum": "bcf40a3bbd44793432c5260a61e86d1f7c1ac1a646ec8576fc47893a93755d6c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xterm-resize",
+        "version": "331",
+        "release": "1.el8_3.2",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "xterm-331-1.el8_3.2.src.rpm",
+        "filename": "xterm-resize-331-1.el8_3.2.x86_64.rpm",
+        "sum": "6bee4654246250faec39eb3df9b9ed097aa2bfc4d73aab31f013b600c0897bb3",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xterm",
+        "version": "331",
+        "release": "1.el8_3.2",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "xterm-331-1.el8_3.2.src.rpm",
+        "filename": "xterm-331-1.el8_3.2.x86_64.rpm",
+        "sum": "857d6a2f974f68f3e3e30dca64d9a342b6013ee0571417c15656f64c10a4bee9",
         "sum_type": 5,
         "reboot_suggested": 0
       }

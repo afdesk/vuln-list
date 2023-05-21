@@ -28,6 +28,18 @@
         "version": "102.10.0",
         "release": "2.el8_7.alma",
         "epoch": "0",
+        "arch": "ppc64le",
+        "src": "thunderbird-102.10.0-2.el8_7.alma.src.rpm",
+        "filename": "thunderbird-102.10.0-2.el8_7.alma.ppc64le.rpm",
+        "sum": "3cb972db83bdca995441ce8860cf6d1918021df96b116e9354cb0090d6321dd4",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "thunderbird",
+        "version": "102.10.0",
+        "release": "2.el8_7.alma",
+        "epoch": "0",
         "arch": "x86_64",
         "src": "thunderbird-102.10.0-2.el8_7.alma.src.rpm",
         "filename": "thunderbird-102.10.0-2.el8_7.alma.x86_64.rpm",
@@ -44,18 +56,6 @@
         "src": "thunderbird-102.10.0-2.el8_7.alma.src.rpm",
         "filename": "thunderbird-102.10.0-2.el8_7.alma.s390x.rpm",
         "sum": "35010ca2304b60cf4c3fdfcf32bf57cb42f702dc3032afcfd39f4ca8111c05b3",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "thunderbird",
-        "version": "102.10.0",
-        "release": "2.el8_7.alma",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "thunderbird-102.10.0-2.el8_7.alma.src.rpm",
-        "filename": "thunderbird-102.10.0-2.el8_7.alma.ppc64le.rpm",
-        "sum": "3cb972db83bdca995441ce8860cf6d1918021df96b116e9354cb0090d6321dd4",
         "sum_type": 5,
         "reboot_suggested": 0
       }

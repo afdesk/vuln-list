@@ -50,6 +50,30 @@
       {
         "name": "postgres-decoderbufs",
         "version": "0.10.0",
+        "release": "2.module_el8.6.0+2760+1746ec94",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "postgres-decoderbufs-0.10.0-2.module_el8.6.0+2760+1746ec94.src.rpm",
+        "filename": "postgres-decoderbufs-0.10.0-2.module_el8.6.0+2760+1746ec94.ppc64le.rpm",
+        "sum": "13cd44b926f28289bb0a5b01f74460112ef2a7b442da8131cb2586d4227ef755",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "pgaudit",
+        "version": "1.5.0",
+        "release": "1.module_el8.6.0+2760+1746ec94",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "pgaudit-1.5.0-1.module_el8.6.0+2760+1746ec94.src.rpm",
+        "filename": "pgaudit-1.5.0-1.module_el8.6.0+2760+1746ec94.ppc64le.rpm",
+        "sum": "69187c120a179f0153c3110e7c5dd4cd103e1c2bb0c9b4a0da8a16b85c3f3390",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "postgres-decoderbufs",
+        "version": "0.10.0",
         "release": "2.module_el8.5.0+2607+8c0fd184",
         "epoch": "0",
         "arch": "x86_64",
@@ -92,30 +116,6 @@
         "src": "pgaudit-1.5.0-1.module_el8.6.0+2760+1746ec94.src.rpm",
         "filename": "pgaudit-1.5.0-1.module_el8.6.0+2760+1746ec94.x86_64.rpm",
         "sum": "d75cd67116ed5f4af36fdbe2c39536a2de4594a800698c0b041f36122b61843e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "postgres-decoderbufs",
-        "version": "0.10.0",
-        "release": "2.module_el8.6.0+2760+1746ec94",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "postgres-decoderbufs-0.10.0-2.module_el8.6.0+2760+1746ec94.src.rpm",
-        "filename": "postgres-decoderbufs-0.10.0-2.module_el8.6.0+2760+1746ec94.ppc64le.rpm",
-        "sum": "13cd44b926f28289bb0a5b01f74460112ef2a7b442da8131cb2586d4227ef755",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "pgaudit",
-        "version": "1.5.0",
-        "release": "1.module_el8.6.0+2760+1746ec94",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "pgaudit-1.5.0-1.module_el8.6.0+2760+1746ec94.src.rpm",
-        "filename": "pgaudit-1.5.0-1.module_el8.6.0+2760+1746ec94.ppc64le.rpm",
-        "sum": "69187c120a179f0153c3110e7c5dd4cd103e1c2bb0c9b4a0da8a16b85c3f3390",
         "sum_type": 5,
         "reboot_suggested": 0
       }

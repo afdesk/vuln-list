@@ -50,30 +50,6 @@
       {
         "name": "redis",
         "version": "6.0.9",
-        "release": "5.module_el8.4.0+2584+1bb0d2aa",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "redis-6.0.9-5.module_el8.4.0+2584+1bb0d2aa.src.rpm",
-        "filename": "redis-6.0.9-5.module_el8.4.0+2584+1bb0d2aa.x86_64.rpm",
-        "sum": "6ddb14ed99da80933665008be57b151ed938c78a5abba7d757aefff923d27226",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "redis-devel",
-        "version": "6.0.9",
-        "release": "5.module_el8.4.0+2584+1bb0d2aa",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "redis-6.0.9-5.module_el8.4.0+2584+1bb0d2aa.src.rpm",
-        "filename": "redis-devel-6.0.9-5.module_el8.4.0+2584+1bb0d2aa.x86_64.rpm",
-        "sum": "d3ca202e231f4b9cbe67d0ca96ad8a62876b5a3d9ef94da8d3d4101fbc05f941",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "redis",
-        "version": "6.0.9",
         "release": "5.module_el8.5.0+67+a3c431d9",
         "epoch": "0",
         "arch": "ppc64le",
@@ -104,6 +80,30 @@
         "src": "redis-6.0.9-5.module_el8.5.0+67+a3c431d9.src.rpm",
         "filename": "redis-devel-6.0.9-5.module_el8.5.0+67+a3c431d9.ppc64le.rpm",
         "sum": "64ca6f14611a52a4f022bfea39f6f953e45fe18bcb091f283b23324d8e3fa962",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "redis",
+        "version": "6.0.9",
+        "release": "5.module_el8.4.0+2584+1bb0d2aa",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "redis-6.0.9-5.module_el8.4.0+2584+1bb0d2aa.src.rpm",
+        "filename": "redis-6.0.9-5.module_el8.4.0+2584+1bb0d2aa.x86_64.rpm",
+        "sum": "6ddb14ed99da80933665008be57b151ed938c78a5abba7d757aefff923d27226",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "redis-devel",
+        "version": "6.0.9",
+        "release": "5.module_el8.4.0+2584+1bb0d2aa",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "redis-6.0.9-5.module_el8.4.0+2584+1bb0d2aa.src.rpm",
+        "filename": "redis-devel-6.0.9-5.module_el8.4.0+2584+1bb0d2aa.x86_64.rpm",
+        "sum": "d3ca202e231f4b9cbe67d0ca96ad8a62876b5a3d9ef94da8d3d4101fbc05f941",
         "sum_type": 5,
         "reboot_suggested": 0
       }

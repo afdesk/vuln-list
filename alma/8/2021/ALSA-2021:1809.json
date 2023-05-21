@@ -26,6 +26,18 @@
       {
         "name": "mod_md",
         "version": "2.0.8",
+        "release": "8.module_el8.6.0+2872+fe0ff7aa",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "mod_md-2.0.8-8.module_el8.6.0+2872+fe0ff7aa.src.rpm",
+        "filename": "mod_md-2.0.8-8.module_el8.6.0+2872+fe0ff7aa.ppc64le.rpm",
+        "sum": "1a26f7d2af339e6769c26359dbdc9aa33083ab2b7d43c69c006dfafb57b05ac6",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "mod_md",
+        "version": "2.0.8",
         "release": "8.module_el8.5.0+2609+b30d9eec",
         "epoch": "1",
         "arch": "x86_64",
@@ -56,18 +68,6 @@
         "src": "mod_http2-1.15.7-3.module_el8.5.0+2609+b30d9eec.src.rpm",
         "filename": "mod_http2-1.15.7-3.module_el8.5.0+2609+b30d9eec.x86_64.rpm",
         "sum": "c16a208d28b94379ef5ed155d05b5308b38606b16b9f669c1c27006738cab489",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "mod_md",
-        "version": "2.0.8",
-        "release": "8.module_el8.6.0+2872+fe0ff7aa",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "mod_md-2.0.8-8.module_el8.6.0+2872+fe0ff7aa.src.rpm",
-        "filename": "mod_md-2.0.8-8.module_el8.6.0+2872+fe0ff7aa.ppc64le.rpm",
-        "sum": "1a26f7d2af339e6769c26359dbdc9aa33083ab2b7d43c69c006dfafb57b05ac6",
         "sum_type": 5,
         "reboot_suggested": 0
       }

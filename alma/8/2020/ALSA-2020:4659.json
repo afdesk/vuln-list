@@ -40,6 +40,30 @@
         "version": "2.2.5",
         "release": "7.el8",
         "epoch": "0",
+        "arch": "ppc64le",
+        "src": "gd-2.2.5-7.el8.src.rpm",
+        "filename": "gd-devel-2.2.5-7.el8.ppc64le.rpm",
+        "sum": "2bdabf0efae2d133eb0313f08188e71af2acb0131d68bc741e259169205ea401",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gd",
+        "version": "2.2.5",
+        "release": "7.el8",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "gd-2.2.5-7.el8.src.rpm",
+        "filename": "gd-2.2.5-7.el8.ppc64le.rpm",
+        "sum": "ce27e20da08d5dfe18ded15d62662becf4d7f33053dab4ceca9ba68f20569e4a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gd-devel",
+        "version": "2.2.5",
+        "release": "7.el8",
+        "epoch": "0",
         "arch": "i686",
         "src": "gd-2.2.5-7.el8.src.rpm",
         "filename": "gd-devel-2.2.5-7.el8.i686.rpm",
@@ -80,30 +104,6 @@
         "src": "gd-2.2.5-7.el8.src.rpm",
         "filename": "gd-2.2.5-7.el8.i686.rpm",
         "sum": "da6b77f0140a9c2d8b2a835954c1d50a7a7017a6ccf68d75ee056835cbb611dc",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gd-devel",
-        "version": "2.2.5",
-        "release": "7.el8",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "gd-2.2.5-7.el8.src.rpm",
-        "filename": "gd-devel-2.2.5-7.el8.ppc64le.rpm",
-        "sum": "2bdabf0efae2d133eb0313f08188e71af2acb0131d68bc741e259169205ea401",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gd",
-        "version": "2.2.5",
-        "release": "7.el8",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "gd-2.2.5-7.el8.src.rpm",
-        "filename": "gd-2.2.5-7.el8.ppc64le.rpm",
-        "sum": "ce27e20da08d5dfe18ded15d62662becf4d7f33053dab4ceca9ba68f20569e4a",
         "sum_type": 5,
         "reboot_suggested": 0
       }

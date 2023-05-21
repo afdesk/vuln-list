@@ -108,54 +108,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "nodejs-devel",
-        "version": "16.13.1",
-        "release": "3.module_el8.5.0+2605+45d748af",
-        "epoch": "1",
-        "arch": "x86_64",
-        "src": "nodejs-16.13.1-3.module_el8.5.0+2605+45d748af.src.rpm",
-        "filename": "nodejs-devel-16.13.1-3.module_el8.5.0+2605+45d748af.x86_64.rpm",
-        "sum": "3dae171abbddadfbac97b73bc3829af67465c48fbb77c45bf5741339eb1b75e5",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "npm",
-        "version": "8.1.2",
-        "release": "1.16.13.1.3.module_el8.5.0+2605+45d748af",
-        "epoch": "1",
-        "arch": "x86_64",
-        "src": "nodejs-16.13.1-3.module_el8.5.0+2605+45d748af.src.rpm",
-        "filename": "npm-8.1.2-1.16.13.1.3.module_el8.5.0+2605+45d748af.x86_64.rpm",
-        "sum": "50ede779edd134459634432330a96b1412632b0bfd3ab63b2736accf409e66b9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "nodejs-full-i18n",
-        "version": "16.13.1",
-        "release": "3.module_el8.5.0+2605+45d748af",
-        "epoch": "1",
-        "arch": "x86_64",
-        "src": "nodejs-16.13.1-3.module_el8.5.0+2605+45d748af.src.rpm",
-        "filename": "nodejs-full-i18n-16.13.1-3.module_el8.5.0+2605+45d748af.x86_64.rpm",
-        "sum": "868dfffb9f8ac2082a307262c883dc7a07ff246f91de107b3fb0914637862f7e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "nodejs",
-        "version": "16.13.1",
-        "release": "3.module_el8.5.0+2605+45d748af",
-        "epoch": "1",
-        "arch": "x86_64",
-        "src": "nodejs-16.13.1-3.module_el8.5.0+2605+45d748af.src.rpm",
-        "filename": "nodejs-16.13.1-3.module_el8.5.0+2605+45d748af.x86_64.rpm",
-        "sum": "ac324b7991189b776b4d2caafa796ac608a2b58f67701a941203bb5c938e80eb",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "npm",
         "version": "8.1.2",
         "release": "1.16.13.1.3.module_el8.5.0+246+05401605",
@@ -224,6 +176,54 @@
         "src": "nodejs-16.13.1-3.module_el8.5.0+246+05401605.src.rpm",
         "filename": "nodejs-devel-16.13.1-3.module_el8.5.0+246+05401605.ppc64le.rpm",
         "sum": "ee2595af67769ee8bb2654f182a76dce515f6cf9f26025445372aa05c53d88e4",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "nodejs-devel",
+        "version": "16.13.1",
+        "release": "3.module_el8.5.0+2605+45d748af",
+        "epoch": "1",
+        "arch": "x86_64",
+        "src": "nodejs-16.13.1-3.module_el8.5.0+2605+45d748af.src.rpm",
+        "filename": "nodejs-devel-16.13.1-3.module_el8.5.0+2605+45d748af.x86_64.rpm",
+        "sum": "3dae171abbddadfbac97b73bc3829af67465c48fbb77c45bf5741339eb1b75e5",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "npm",
+        "version": "8.1.2",
+        "release": "1.16.13.1.3.module_el8.5.0+2605+45d748af",
+        "epoch": "1",
+        "arch": "x86_64",
+        "src": "nodejs-16.13.1-3.module_el8.5.0+2605+45d748af.src.rpm",
+        "filename": "npm-8.1.2-1.16.13.1.3.module_el8.5.0+2605+45d748af.x86_64.rpm",
+        "sum": "50ede779edd134459634432330a96b1412632b0bfd3ab63b2736accf409e66b9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "nodejs-full-i18n",
+        "version": "16.13.1",
+        "release": "3.module_el8.5.0+2605+45d748af",
+        "epoch": "1",
+        "arch": "x86_64",
+        "src": "nodejs-16.13.1-3.module_el8.5.0+2605+45d748af.src.rpm",
+        "filename": "nodejs-full-i18n-16.13.1-3.module_el8.5.0+2605+45d748af.x86_64.rpm",
+        "sum": "868dfffb9f8ac2082a307262c883dc7a07ff246f91de107b3fb0914637862f7e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "nodejs",
+        "version": "16.13.1",
+        "release": "3.module_el8.5.0+2605+45d748af",
+        "epoch": "1",
+        "arch": "x86_64",
+        "src": "nodejs-16.13.1-3.module_el8.5.0+2605+45d748af.src.rpm",
+        "filename": "nodejs-16.13.1-3.module_el8.5.0+2605+45d748af.x86_64.rpm",
+        "sum": "ac324b7991189b776b4d2caafa796ac608a2b58f67701a941203bb5c938e80eb",
         "sum_type": 5,
         "reboot_suggested": 0
       }

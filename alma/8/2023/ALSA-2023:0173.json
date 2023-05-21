@@ -84,18 +84,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libxml2-devel",
-        "version": "2.9.7",
-        "release": "15.el8_7.1",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "libxml2-2.9.7-15.el8_7.1.src.rpm",
-        "filename": "libxml2-devel-2.9.7-15.el8_7.1.aarch64.rpm",
-        "sum": "15defb22325157b3926128551071185df6d118ab49a9b5378077740d9f3f3668",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libxml2",
         "version": "2.9.7",
         "release": "15.el8_7.1",
@@ -124,10 +112,22 @@
         "version": "2.9.7",
         "release": "15.el8_7.1",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "aarch64",
         "src": "libxml2-2.9.7-15.el8_7.1.src.rpm",
-        "filename": "libxml2-devel-2.9.7-15.el8_7.1.x86_64.rpm",
-        "sum": "fde09b25c0d2ea0941288617ec28633b91a16f88502443edd10c8c28891b4755",
+        "filename": "libxml2-devel-2.9.7-15.el8_7.1.aarch64.rpm",
+        "sum": "15defb22325157b3926128551071185df6d118ab49a9b5378077740d9f3f3668",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libxml2-devel",
+        "version": "2.9.7",
+        "release": "15.el8_7.1",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "libxml2-2.9.7-15.el8_7.1.src.rpm",
+        "filename": "libxml2-devel-2.9.7-15.el8_7.1.ppc64le.rpm",
+        "sum": "4bef3549b4e5f7603dc79556a678f41faa211e254b5247e29380de2f02c4493d",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -160,10 +160,10 @@
         "version": "2.9.7",
         "release": "15.el8_7.1",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "x86_64",
         "src": "libxml2-2.9.7-15.el8_7.1.src.rpm",
-        "filename": "libxml2-devel-2.9.7-15.el8_7.1.s390x.rpm",
-        "sum": "aeeff1f757486864e8284b38cc700d3ad57d6a3277d5eff4241f842afbab9fab",
+        "filename": "libxml2-devel-2.9.7-15.el8_7.1.x86_64.rpm",
+        "sum": "fde09b25c0d2ea0941288617ec28633b91a16f88502443edd10c8c28891b4755",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -172,10 +172,10 @@
         "version": "2.9.7",
         "release": "15.el8_7.1",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "s390x",
         "src": "libxml2-2.9.7-15.el8_7.1.src.rpm",
-        "filename": "libxml2-devel-2.9.7-15.el8_7.1.ppc64le.rpm",
-        "sum": "4bef3549b4e5f7603dc79556a678f41faa211e254b5247e29380de2f02c4493d",
+        "filename": "libxml2-devel-2.9.7-15.el8_7.1.s390x.rpm",
+        "sum": "aeeff1f757486864e8284b38cc700d3ad57d6a3277d5eff4241f842afbab9fab",
         "sum_type": 5,
         "reboot_suggested": 0
       }

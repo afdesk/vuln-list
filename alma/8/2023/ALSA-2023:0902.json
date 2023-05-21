@@ -108,6 +108,54 @@
         "reboot_suggested": 0
       },
       {
+        "name": "webkit2gtk3-jsc-devel",
+        "version": "2.36.7",
+        "release": "1.el8_7.2",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "webkit2gtk3-2.36.7-1.el8_7.2.src.rpm",
+        "filename": "webkit2gtk3-jsc-devel-2.36.7-1.el8_7.2.ppc64le.rpm",
+        "sum": "4e02078d38c42a6b4d6c0fbefda10311eadd7e4b1b16a7caa764f81749d81766",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3-jsc",
+        "version": "2.36.7",
+        "release": "1.el8_7.2",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "webkit2gtk3-2.36.7-1.el8_7.2.src.rpm",
+        "filename": "webkit2gtk3-jsc-2.36.7-1.el8_7.2.ppc64le.rpm",
+        "sum": "68420679fbea4932661ab54a32ab664c7131eb724fd768afcfd71bdf783733d9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3-devel",
+        "version": "2.36.7",
+        "release": "1.el8_7.2",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "webkit2gtk3-2.36.7-1.el8_7.2.src.rpm",
+        "filename": "webkit2gtk3-devel-2.36.7-1.el8_7.2.ppc64le.rpm",
+        "sum": "c6682d16fa01535f6d69a76fdec4417d2741ab86a6d6859ae056de99fbce24c6",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3",
+        "version": "2.36.7",
+        "release": "1.el8_7.2",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "webkit2gtk3-2.36.7-1.el8_7.2.src.rpm",
+        "filename": "webkit2gtk3-2.36.7-1.el8_7.2.ppc64le.rpm",
+        "sum": "d763dfdaa90fab0894a7444cca2c29eae28a74a167b11f57d0d6551991df54bd",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "webkit2gtk3-jsc",
         "version": "2.36.7",
         "release": "1.el8_7.2",
@@ -200,54 +248,6 @@
         "src": "webkit2gtk3-2.36.7-1.el8_7.2.src.rpm",
         "filename": "webkit2gtk3-devel-2.36.7-1.el8_7.2.s390x.rpm",
         "sum": "d1b4aab511de528917b84960281206b1034dc0975f68f7c8c9d5bf0da1b67809",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3-jsc-devel",
-        "version": "2.36.7",
-        "release": "1.el8_7.2",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "webkit2gtk3-2.36.7-1.el8_7.2.src.rpm",
-        "filename": "webkit2gtk3-jsc-devel-2.36.7-1.el8_7.2.ppc64le.rpm",
-        "sum": "4e02078d38c42a6b4d6c0fbefda10311eadd7e4b1b16a7caa764f81749d81766",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3-jsc",
-        "version": "2.36.7",
-        "release": "1.el8_7.2",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "webkit2gtk3-2.36.7-1.el8_7.2.src.rpm",
-        "filename": "webkit2gtk3-jsc-2.36.7-1.el8_7.2.ppc64le.rpm",
-        "sum": "68420679fbea4932661ab54a32ab664c7131eb724fd768afcfd71bdf783733d9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3-devel",
-        "version": "2.36.7",
-        "release": "1.el8_7.2",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "webkit2gtk3-2.36.7-1.el8_7.2.src.rpm",
-        "filename": "webkit2gtk3-devel-2.36.7-1.el8_7.2.ppc64le.rpm",
-        "sum": "c6682d16fa01535f6d69a76fdec4417d2741ab86a6d6859ae056de99fbce24c6",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3",
-        "version": "2.36.7",
-        "release": "1.el8_7.2",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "webkit2gtk3-2.36.7-1.el8_7.2.src.rpm",
-        "filename": "webkit2gtk3-2.36.7-1.el8_7.2.ppc64le.rpm",
-        "sum": "d763dfdaa90fab0894a7444cca2c29eae28a74a167b11f57d0d6551991df54bd",
         "sum_type": 5,
         "reboot_suggested": 0
       }

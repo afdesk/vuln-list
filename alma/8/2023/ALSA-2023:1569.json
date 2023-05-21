@@ -84,6 +84,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "gnutls",
+        "version": "3.6.16",
+        "release": "6.el8_7",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
+        "filename": "gnutls-3.6.16-6.el8_7.ppc64le.rpm",
+        "sum": "6f8a6fbacd0086cef2657dec0953764469aca65fef253b4955bc1d944c09187f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "gnutls-utils",
         "version": "3.6.16",
         "release": "6.el8_7",
@@ -132,14 +144,62 @@
         "reboot_suggested": 0
       },
       {
-        "name": "gnutls",
+        "name": "gnutls-c++",
         "version": "3.6.16",
         "release": "6.el8_7",
         "epoch": "0",
         "arch": "ppc64le",
         "src": "gnutls-3.6.16-6.el8_7.src.rpm",
-        "filename": "gnutls-3.6.16-6.el8_7.ppc64le.rpm",
-        "sum": "6f8a6fbacd0086cef2657dec0953764469aca65fef253b4955bc1d944c09187f",
+        "filename": "gnutls-c++-3.6.16-6.el8_7.ppc64le.rpm",
+        "sum": "271059ab33578c338bd77b3b4bdedbdd82aef1c978abfe8a1d3e24b604c12b2f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gnutls-utils",
+        "version": "3.6.16",
+        "release": "6.el8_7",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
+        "filename": "gnutls-utils-3.6.16-6.el8_7.ppc64le.rpm",
+        "sum": "4085eeae9af862c19949208110c94dbbc96bb934634da3c412849e2d67956744",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gnutls-devel",
+        "version": "3.6.16",
+        "release": "6.el8_7",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
+        "filename": "gnutls-devel-3.6.16-6.el8_7.ppc64le.rpm",
+        "sum": "b23851afdaf3fa30f7c79418a1101c173e434a507d789d4de9d4c34854b5bd02",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gnutls-dane",
+        "version": "3.6.16",
+        "release": "6.el8_7",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
+        "filename": "gnutls-dane-3.6.16-6.el8_7.ppc64le.rpm",
+        "sum": "da9a79365e4902198c6426b950381d15c646bf22f99f1184e15500c7ba93673a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gnutls",
+        "version": "3.6.16",
+        "release": "6.el8_7",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
+        "filename": "gnutls-3.6.16-6.el8_7.s390x.rpm",
+        "sum": "f1dcefbf10358dfa12d9533df7ab0ef2ff52ea9b2b945df5bd3f4ca45a9bfb8e",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -192,18 +252,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "gnutls",
-        "version": "3.6.16",
-        "release": "6.el8_7",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
-        "filename": "gnutls-3.6.16-6.el8_7.s390x.rpm",
-        "sum": "f1dcefbf10358dfa12d9533df7ab0ef2ff52ea9b2b945df5bd3f4ca45a9bfb8e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "gnutls-dane",
         "version": "3.6.16",
         "release": "6.el8_7",
@@ -248,54 +296,6 @@
         "src": "gnutls-3.6.16-6.el8_7.src.rpm",
         "filename": "gnutls-c++-3.6.16-6.el8_7.s390x.rpm",
         "sum": "f47e5805372bfa0569333dcc48497c5e49b00717c134dd358883808a1aabe565",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gnutls-c++",
-        "version": "3.6.16",
-        "release": "6.el8_7",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
-        "filename": "gnutls-c++-3.6.16-6.el8_7.ppc64le.rpm",
-        "sum": "271059ab33578c338bd77b3b4bdedbdd82aef1c978abfe8a1d3e24b604c12b2f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gnutls-utils",
-        "version": "3.6.16",
-        "release": "6.el8_7",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
-        "filename": "gnutls-utils-3.6.16-6.el8_7.ppc64le.rpm",
-        "sum": "4085eeae9af862c19949208110c94dbbc96bb934634da3c412849e2d67956744",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gnutls-devel",
-        "version": "3.6.16",
-        "release": "6.el8_7",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
-        "filename": "gnutls-devel-3.6.16-6.el8_7.ppc64le.rpm",
-        "sum": "b23851afdaf3fa30f7c79418a1101c173e434a507d789d4de9d4c34854b5bd02",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gnutls-dane",
-        "version": "3.6.16",
-        "release": "6.el8_7",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
-        "filename": "gnutls-dane-3.6.16-6.el8_7.ppc64le.rpm",
-        "sum": "da9a79365e4902198c6426b950381d15c646bf22f99f1184e15500c7ba93673a",
         "sum_type": 5,
         "reboot_suggested": 0
       }

@@ -28,6 +28,18 @@
         "version": "2.13.3",
         "release": "3.el8_6",
         "epoch": "0",
+        "arch": "ppc64le",
+        "src": "git-lfs-2.13.3-3.el8_6.src.rpm",
+        "filename": "git-lfs-2.13.3-3.el8_6.ppc64le.rpm",
+        "sum": "c531aabc40795dd30108a0e1d96aac965580108eac6e684ea4f0d840a1c3c630",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "git-lfs",
+        "version": "2.13.3",
+        "release": "3.el8_6",
+        "epoch": "0",
         "arch": "x86_64",
         "src": "git-lfs-2.13.3-3.el8_6.src.rpm",
         "filename": "git-lfs-2.13.3-3.el8_6.x86_64.rpm",
@@ -44,18 +56,6 @@
         "src": "git-lfs-2.13.3-3.el8_6.src.rpm",
         "filename": "git-lfs-2.13.3-3.el8_6.s390x.rpm",
         "sum": "185e2f9820f03b424874b79ea390ddc542aaa8c36dfb2c4716ec7bc4da76d126",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "git-lfs",
-        "version": "2.13.3",
-        "release": "3.el8_6",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "git-lfs-2.13.3-3.el8_6.src.rpm",
-        "filename": "git-lfs-2.13.3-3.el8_6.ppc64le.rpm",
-        "sum": "c531aabc40795dd30108a0e1d96aac965580108eac6e684ea4f0d840a1c3c630",
         "sum_type": 5,
         "reboot_suggested": 0
       }
