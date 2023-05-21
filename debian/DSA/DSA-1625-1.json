@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Aug 2008] DSA-1625-1 cupsys - arbitrary code execution",
-    "Line": 12820,
+    "Line": 12826,
     "ID": "DSA-1625-1",
     "Description": "cupsys - arbitrary code execution"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-0053 CVE-2008-1373 CVE-2008-1722}",
-      "Line": 12821,
+      "Line": 12827,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-0053",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[etch] - cupsys 1.2.7-4etch4",
-      "Line": 12822,
+      "Line": 12828,
       "Type": "package",
       "Release": "etch",
       "Package": "cupsys",

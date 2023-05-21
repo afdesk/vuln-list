@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 Mar 2009] DSA-1752-1 webcit - potential remote code execution",
-    "Line": 12418,
+    "Line": 12424,
     "ID": "DSA-1752-1",
     "Description": "webcit - potential remote code execution"
   },
   "Annotations": [
     {
       "Original": "{CVE-2009-0364}",
-      "Line": 12419,
+      "Line": 12425,
       "Type": "xref",
       "Bugs": [
         "CVE-2009-0364"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - webcit 7.37-dfsg-7",
-      "Line": 12420,
+      "Line": 12426,
       "Type": "package",
       "Release": "lenny",
       "Package": "webcit",

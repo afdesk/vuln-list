@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Jun 2015] DSA-3278-1 libapache-mod-jk - security update",
-    "Line": 7192,
+    "Line": 7198,
     "ID": "DSA-3278-1",
     "Description": "libapache-mod-jk - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-8111}",
-      "Line": 7193,
+      "Line": 7199,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-8111"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - libapache-mod-jk 1:1.2.37-1+deb7u1",
-      "Line": 7194,
+      "Line": 7200,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libapache-mod-jk",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[jessie] - libapache-mod-jk 1:1.2.37-4+deb8u1",
-      "Line": 7195,
+      "Line": 7201,
       "Type": "package",
       "Release": "jessie",
       "Package": "libapache-mod-jk",

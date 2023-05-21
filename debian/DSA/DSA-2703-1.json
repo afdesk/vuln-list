@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Jun 2013] DSA-2703-1 subversion - several",
-    "Line": 9114,
+    "Line": 9120,
     "ID": "DSA-2703-1",
     "Description": "subversion - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-1968 CVE-2013-2112}",
-      "Line": 9115,
+      "Line": 9121,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-1968",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[squeeze] - subversion 1.6.12dfsg-7",
-      "Line": 9116,
+      "Line": 9122,
       "Type": "package",
       "Release": "squeeze",
       "Package": "subversion",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[wheezy] - subversion 1.6.17dfsg-4+deb7u3",
-      "Line": 9117,
+      "Line": 9123,
       "Type": "package",
       "Release": "wheezy",
       "Package": "subversion",

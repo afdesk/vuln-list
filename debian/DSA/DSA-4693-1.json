@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 May 2020] DSA-4693-1 drupal7 - security update",
-    "Line": 2316,
+    "Line": 2322,
     "ID": "DSA-4693-1",
     "Description": "drupal7 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-11022 CVE-2020-11023 CVE-2020-13662}",
-      "Line": 2317,
+      "Line": 2323,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-11022",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[stretch] - drupal7 7.52-2+deb9u10",
-      "Line": 2318,
+      "Line": 2324,
       "Type": "package",
       "Release": "stretch",
       "Package": "drupal7",

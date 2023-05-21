@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Nov 2005] DSA-906-1 sylpheed - several",
-    "Line": 15399,
+    "Line": 15405,
     "ID": "DSA-906-1",
     "Description": "sylpheed - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-3354}",
-      "Line": 15400,
+      "Line": 15406,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-3354"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - sylpheed 0.7.4-4woody1",
-      "Line": 15401,
+      "Line": 15407,
       "Type": "package",
       "Release": "woody",
       "Package": "sylpheed",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[sarge] - sylpheed 1.0.4-1sarge1",
-      "Line": 15402,
+      "Line": 15408,
       "Type": "package",
       "Release": "sarge",
       "Package": "sylpheed",
@@ -34,7 +34,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA (too young 7/10, RC bugs)",
-      "Line": 15403,
+      "Line": 15409,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA (too young 7/10, RC bugs)"
     }

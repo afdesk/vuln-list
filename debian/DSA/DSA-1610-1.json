@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Jul 2008] DSA-1610-1 gaim - execution of arbitrary code",
-    "Line": 12868,
+    "Line": 12874,
     "ID": "DSA-1610-1",
     "Description": "gaim - execution of arbitrary code"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-2927}",
-      "Line": 12869,
+      "Line": 12875,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-2927"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - gaim 1:2.0.0+beta5-10etch1",
-      "Line": 12870,
+      "Line": 12876,
       "Type": "package",
       "Release": "etch",
       "Package": "gaim",

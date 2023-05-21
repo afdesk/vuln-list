@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Jun 2021] DSA-4933-1 nettle - security update",
-    "Line": 1570,
+    "Line": 1576,
     "ID": "DSA-4933-1",
     "Description": "nettle - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-3580 CVE-2021-20305}",
-      "Line": 1571,
+      "Line": 1577,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-3580",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[buster] - nettle 3.4.1-1+deb10u1",
-      "Line": 1572,
+      "Line": 1578,
       "Type": "package",
       "Release": "buster",
       "Package": "nettle",
