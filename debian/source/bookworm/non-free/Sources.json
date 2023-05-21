@@ -3175,13 +3175,13 @@
       "bash-completion, debhelper-compat (= 13), po-debconf"
     ],
     "Checksums-Sha256": [
-      "6f5b44d80f95309df781ef4b2fe9368519220a7e6bd94658a601dd1d62515d58 16257 google-android-installers_1675172737.dsc 8348db79d9a643bb481d43ff6589d62bc0e97205b55f6e8fc457a21259050ed7 57860 google-android-installers_1675172737.tar.xz"
+      "88167cfeef9adcfade731ce3b428abbad08ff31f192f76aad82d550c3bb5f42c 16257 google-android-installers_1675172738.dsc a19c5a14943e36f6f0ef7f426ad515f9443c21310335f7070f5e1ad7a618db42 58212 google-android-installers_1675172738.tar.xz"
     ],
     "Directory": [
       "pool/non-free/g/google-android-installers"
     ],
     "Files": [
-      "2986064f7b6262e022febe9e2daf85f0 16257 google-android-installers_1675172737.dsc 288330e2845db00a935e45f8def518e0 57860 google-android-installers_1675172737.tar.xz"
+      "f5f3bf83e1441486a3b2e7943ec8ff74 16257 google-android-installers_1675172738.dsc 446689f9f27c2c2c2f6749368e6a2528 58212 google-android-installers_1675172738.tar.xz"
     ],
     "Format": [
       "3.0 (native)"
@@ -3220,7 +3220,7 @@
       "https://salsa.debian.org/google-android-tools-team/google-android-installers.git"
     ],
     "Version": [
-      "1675172737"
+      "1675172738"
     ]
   },
   {
