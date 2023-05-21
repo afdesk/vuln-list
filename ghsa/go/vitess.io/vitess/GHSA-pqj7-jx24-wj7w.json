@@ -29,6 +29,9 @@
         "Url": "https://pkg.go.dev/vitess.io/vitess@v0.16.2"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2023-29195"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-pqj7-jx24-wj7w"
       }
     ],
@@ -47,7 +50,7 @@
     "PublishedAt": "2023-05-11T19:40:49Z",
     "Severity": "MODERATE",
     "Summary": "VTAdmin users that can create shards can deny access to other functions",
-    "UpdatedAt": "2023-05-11T19:40:51Z",
+    "UpdatedAt": "2023-05-21T05:00:57Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.1,
