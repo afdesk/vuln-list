@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Jul 2019] DLA-1730-4 libssh2 - regression update",
-    "Line": 4764,
+    "Line": 4767,
     "ID": "DLA-1730-4",
     "Description": "libssh2 - regression update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-3860}",
-      "Line": 4765,
+      "Line": 4768,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-3860"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - libssh2 1.4.3-4.1+deb8u5",
-      "Line": 4766,
+      "Line": 4769,
       "Type": "package",
       "Release": "jessie",
       "Package": "libssh2",

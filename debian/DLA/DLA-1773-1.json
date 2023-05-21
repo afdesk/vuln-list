@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 May 2019] DLA-1773-1 signing-party - security update",
-    "Line": 5061,
+    "Line": 5064,
     "ID": "DLA-1773-1",
     "Description": "signing-party - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-11627}",
-      "Line": 5062,
+      "Line": 5065,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-11627"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - signing-party 1.1.10-3+deb8u1",
-      "Line": 5063,
+      "Line": 5066,
       "Type": "package",
       "Release": "jessie",
       "Package": "signing-party",

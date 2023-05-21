@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Oct 2014] DLA-73-1 tzdata - update",
-    "Line": 10220,
+    "Line": 10223,
     "ID": "DLA-73-1",
     "Description": "tzdata - update"
   },
   "Annotations": [
     {
       "Original": "[squeeze] - tzdata 2014h-0squeeze1",
-      "Line": 10221,
+      "Line": 10224,
       "Type": "package",
       "Release": "squeeze",
       "Package": "tzdata",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[25 Feb 2019] DLA-1688-1 waagent - update",
-    "Line": 5320,
+    "Line": 5323,
     "ID": "DLA-1688-1",
     "Description": "waagent - update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - waagent 2.2.18-3~deb8u1",
-      "Line": 5321,
+      "Line": 5324,
       "Type": "package",
       "Release": "jessie",
       "Package": "waagent",

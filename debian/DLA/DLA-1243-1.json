@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Jan 2018] DLA-1243-1 xbmc - security update",
-    "Line": 6661,
+    "Line": 6664,
     "ID": "DLA-1243-1",
     "Description": "xbmc - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-8314}",
-      "Line": 6662,
+      "Line": 6665,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-8314"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - xbmc 2:11.0~git20120510.82388d5-1+deb7u1",
-      "Line": 6663,
+      "Line": 6666,
       "Type": "package",
       "Release": "wheezy",
       "Package": "xbmc",

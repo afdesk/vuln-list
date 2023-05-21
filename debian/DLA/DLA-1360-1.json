@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Apr 2018] DLA-1360-1 lucene-solr - security update",
-    "Line": 6313,
+    "Line": 6316,
     "ID": "DLA-1360-1",
     "Description": "lucene-solr - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-1308}",
-      "Line": 6314,
+      "Line": 6317,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-1308"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - lucene-solr 3.6.0+dfsg-1+deb7u4",
-      "Line": 6315,
+      "Line": 6318,
       "Type": "package",
       "Release": "wheezy",
       "Package": "lucene-solr",

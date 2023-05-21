@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Apr 2015] DLA-186-1 mailman - security update",
-    "Line": 9881,
+    "Line": 9884,
     "ID": "DLA-186-1",
     "Description": "mailman - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-2775}",
-      "Line": 9882,
+      "Line": 9885,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-2775"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - mailman 1:2.1.13-6",
-      "Line": 9883,
+      "Line": 9886,
       "Type": "package",
       "Release": "squeeze",
       "Package": "mailman",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Oct 2014] DLA-72-2 rsyslog - regression update",
-    "Line": 10222,
+    "Line": 10225,
     "ID": "DLA-72-2",
     "Description": "rsyslog - regression update"
   },
   "Annotations": [
     {
       "Original": "[squeeze] - rsyslog 4.6.4-2+deb6u2",
-      "Line": 10223,
+      "Line": 10226,
       "Type": "package",
       "Release": "squeeze",
       "Package": "rsyslog",
