@@ -21746,6 +21746,186 @@
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20233149001"
       }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "git is earlier than 0:2.31.1-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20233248001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20230627001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233248001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "git-all is earlier than 0:2.31.1-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20233248003",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20230627002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233248003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "git-core is earlier than 0:2.31.1-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20233248005",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20230627003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233248001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "git-core-doc is earlier than 0:2.31.1-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20233248007",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20230627004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233248003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "git-credential-libsecret is earlier than 0:2.31.1-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20233248009",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20230627005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233248001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "git-daemon is earlier than 0:2.31.1-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20233248011",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20230627006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233248001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "git-email is earlier than 0:2.31.1-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20233248013",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20230627007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233248003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "git-gui is earlier than 0:2.31.1-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20233248015",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20230627008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233248003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "git-instaweb is earlier than 0:2.31.1-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20233248017",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20230627009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233248003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "git-subtree is earlier than 0:2.31.1-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20233248019",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20230627010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233248001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "git-svn is earlier than 0:2.31.1-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20233248021",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20230627011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233248003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "gitk is earlier than 0:2.31.1-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20233248023",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20230627012"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233248003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "gitweb is earlier than 0:2.31.1-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20233248025",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20230627013"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233248003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "perl-Git is earlier than 0:2.31.1-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20233248027",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20230627014"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233248003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "perl-Git-SVN is earlier than 0:2.31.1-5.el9_0",
+      "ID": "oval:com.redhat.rhsa:tst:20233248029",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20230627015"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233248003"
+      }
     }
   ],
   "RpmverifyfileTests": [
