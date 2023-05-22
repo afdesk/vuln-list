@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Nov 2014] DLA-85-1 libxml-security-java - security update",
-    "Line": 10194,
+    "Line": 10197,
     "ID": "DLA-85-1",
     "Description": "libxml-security-java - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-2172}",
-      "Line": 10195,
+      "Line": 10198,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-2172"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - libxml-security-java 1.4.3-2+deb6u1",
-      "Line": 10196,
+      "Line": 10199,
       "Type": "package",
       "Release": "squeeze",
       "Package": "libxml-security-java",
