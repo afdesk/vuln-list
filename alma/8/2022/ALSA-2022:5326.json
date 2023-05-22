@@ -28,6 +28,18 @@
         "version": "1.0.2o",
         "release": "4.el8_6",
         "epoch": "1",
+        "arch": "x86_64",
+        "src": "compat-openssl10-1.0.2o-4.el8_6.src.rpm",
+        "filename": "compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm",
+        "sum": "8e678f0977630f6f29b24c0d5729d85a9602874a7d93037d9b96d1a894008f46",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "compat-openssl10",
+        "version": "1.0.2o",
+        "release": "4.el8_6",
+        "epoch": "1",
         "arch": "aarch64",
         "src": "compat-openssl10-1.0.2o-4.el8_6.src.rpm",
         "filename": "compat-openssl10-1.0.2o-4.el8_6.aarch64.rpm",
@@ -44,18 +56,6 @@
         "src": "compat-openssl10-1.0.2o-4.el8_6.src.rpm",
         "filename": "compat-openssl10-1.0.2o-4.el8_6.ppc64le.rpm",
         "sum": "0fa345dc427b778580d6dc0e195bef404bc005b1e56119fd4490bbee0869a074",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "compat-openssl10",
-        "version": "1.0.2o",
-        "release": "4.el8_6",
-        "epoch": "1",
-        "arch": "x86_64",
-        "src": "compat-openssl10-1.0.2o-4.el8_6.src.rpm",
-        "filename": "compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm",
-        "sum": "8e678f0977630f6f29b24c0d5729d85a9602874a7d93037d9b96d1a894008f46",
         "sum_type": 5,
         "reboot_suggested": 0
       }

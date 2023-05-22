@@ -8,9 +8,141 @@
     "$date": 1621317526000
   },
   "pkglist": {
-    "name": "almalinux-8-for-aarch64-appstream-rpms__8_0_default",
-    "shortname": "almalinux-8-for-aarch64-appstream-rpms__8_0_default",
+    "name": "almalinux-8-for-x86_64-appstream-rpms__8_0_default",
+    "shortname": "almalinux-8-for-x86_64-appstream-rpms__8_0_default",
     "packages": [
+      {
+        "name": "sane-backends-libs",
+        "version": "1.0.27",
+        "release": "22.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "sane-backends-1.0.27-22.el8.src.rpm",
+        "filename": "sane-backends-libs-1.0.27-22.el8.i686.rpm",
+        "sum": "10fae734c99f230ac94b5b3d51d0e7bd154a6b658abc156322096bae82884d3b",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "sane-backends-drivers-scanners",
+        "version": "1.0.27",
+        "release": "22.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "sane-backends-1.0.27-22.el8.src.rpm",
+        "filename": "sane-backends-drivers-scanners-1.0.27-22.el8.x86_64.rpm",
+        "sum": "5b580ce7e5104ab417e0ecd011466a0832c5a39f572e1b3d336971f651126c65",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "sane-backends-daemon",
+        "version": "1.0.27",
+        "release": "22.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "sane-backends-1.0.27-22.el8.src.rpm",
+        "filename": "sane-backends-daemon-1.0.27-22.el8.x86_64.rpm",
+        "sum": "5b8fead36b9c9256a1c57fb90575806b6d9ad95ab59a9da0aa38b44cf8403f47",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "sane-backends-devel",
+        "version": "1.0.27",
+        "release": "22.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "sane-backends-1.0.27-22.el8.src.rpm",
+        "filename": "sane-backends-devel-1.0.27-22.el8.i686.rpm",
+        "sum": "74b99ea8aa574b89506f1e7edf869af7e4170b55e073ffb269008cea5eb14808",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "sane-backends-drivers-cameras",
+        "version": "1.0.27",
+        "release": "22.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "sane-backends-1.0.27-22.el8.src.rpm",
+        "filename": "sane-backends-drivers-cameras-1.0.27-22.el8.x86_64.rpm",
+        "sum": "7b199c233c0e7f743e014ea77acb0a97e4fdd2df55f05f70bd11667c9f0b0940",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "sane-backends-libs",
+        "version": "1.0.27",
+        "release": "22.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "sane-backends-1.0.27-22.el8.src.rpm",
+        "filename": "sane-backends-libs-1.0.27-22.el8.x86_64.rpm",
+        "sum": "8816923d1b1474c61a04205a5fd9a4809afb64dfa3bd5b0d11d25e58e0e81163",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "sane-backends-doc",
+        "version": "1.0.27",
+        "release": "22.el8",
+        "epoch": "0",
+        "arch": "noarch",
+        "src": "sane-backends-1.0.27-22.el8.src.rpm",
+        "filename": "sane-backends-doc-1.0.27-22.el8.noarch.rpm",
+        "sum": "88e12afdc2e45ff4dff68abd5c61f57e3afd530330893499f7e54b9fc79582fd",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "sane-backends-devel",
+        "version": "1.0.27",
+        "release": "22.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "sane-backends-1.0.27-22.el8.src.rpm",
+        "filename": "sane-backends-devel-1.0.27-22.el8.x86_64.rpm",
+        "sum": "8f88c9dfa44b4f0b4e142db8de77777df5aae5cdc4497043c2fd6afa5ce9eb93",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "sane-backends-drivers-scanners",
+        "version": "1.0.27",
+        "release": "22.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "sane-backends-1.0.27-22.el8.src.rpm",
+        "filename": "sane-backends-drivers-scanners-1.0.27-22.el8.i686.rpm",
+        "sum": "9e997032cfb9828487749c8edf31ff86564a4c2e71d5f78578ac50665f2e21e3",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "sane-backends",
+        "version": "1.0.27",
+        "release": "22.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "sane-backends-1.0.27-22.el8.src.rpm",
+        "filename": "sane-backends-1.0.27-22.el8.x86_64.rpm",
+        "sum": "a82974892b9aef9adb60538033530966b536fb35dff86a0bc6c9b58cceacee1d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "sane-backends-drivers-cameras",
+        "version": "1.0.27",
+        "release": "22.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "sane-backends-1.0.27-22.el8.src.rpm",
+        "filename": "sane-backends-drivers-cameras-1.0.27-22.el8.i686.rpm",
+        "sum": "c87c357944c4e6ba205ad1036d79654290c6e3821dd45b3fb92ad077ffb29986",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "sane-backends-drivers-scanners",
         "version": "1.0.27",
@@ -44,18 +176,6 @@
         "src": "sane-backends-1.0.27-22.el8.src.rpm",
         "filename": "sane-backends-drivers-cameras-1.0.27-22.el8.aarch64.rpm",
         "sum": "8667bc42a1c8f6403b50302db9102d5bd85a5f882180579c4568f2ddcd98c865",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "sane-backends-doc",
-        "version": "1.0.27",
-        "release": "22.el8",
-        "epoch": "0",
-        "arch": "noarch",
-        "src": "sane-backends-1.0.27-22.el8.src.rpm",
-        "filename": "sane-backends-doc-1.0.27-22.el8.noarch.rpm",
-        "sum": "88e12afdc2e45ff4dff68abd5c61f57e3afd530330893499f7e54b9fc79582fd",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -166,138 +286,12 @@
         "sum": "f269100adccb33efce24c7b41a095678f08b52816eb5abbe5d716d0733556723",
         "sum_type": 5,
         "reboot_suggested": 0
-      },
-      {
-        "name": "sane-backends-libs",
-        "version": "1.0.27",
-        "release": "22.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "sane-backends-1.0.27-22.el8.src.rpm",
-        "filename": "sane-backends-libs-1.0.27-22.el8.i686.rpm",
-        "sum": "10fae734c99f230ac94b5b3d51d0e7bd154a6b658abc156322096bae82884d3b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "sane-backends-drivers-scanners",
-        "version": "1.0.27",
-        "release": "22.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "sane-backends-1.0.27-22.el8.src.rpm",
-        "filename": "sane-backends-drivers-scanners-1.0.27-22.el8.x86_64.rpm",
-        "sum": "5b580ce7e5104ab417e0ecd011466a0832c5a39f572e1b3d336971f651126c65",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "sane-backends-daemon",
-        "version": "1.0.27",
-        "release": "22.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "sane-backends-1.0.27-22.el8.src.rpm",
-        "filename": "sane-backends-daemon-1.0.27-22.el8.x86_64.rpm",
-        "sum": "5b8fead36b9c9256a1c57fb90575806b6d9ad95ab59a9da0aa38b44cf8403f47",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "sane-backends-devel",
-        "version": "1.0.27",
-        "release": "22.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "sane-backends-1.0.27-22.el8.src.rpm",
-        "filename": "sane-backends-devel-1.0.27-22.el8.i686.rpm",
-        "sum": "74b99ea8aa574b89506f1e7edf869af7e4170b55e073ffb269008cea5eb14808",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "sane-backends-drivers-cameras",
-        "version": "1.0.27",
-        "release": "22.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "sane-backends-1.0.27-22.el8.src.rpm",
-        "filename": "sane-backends-drivers-cameras-1.0.27-22.el8.x86_64.rpm",
-        "sum": "7b199c233c0e7f743e014ea77acb0a97e4fdd2df55f05f70bd11667c9f0b0940",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "sane-backends-libs",
-        "version": "1.0.27",
-        "release": "22.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "sane-backends-1.0.27-22.el8.src.rpm",
-        "filename": "sane-backends-libs-1.0.27-22.el8.x86_64.rpm",
-        "sum": "8816923d1b1474c61a04205a5fd9a4809afb64dfa3bd5b0d11d25e58e0e81163",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "sane-backends-devel",
-        "version": "1.0.27",
-        "release": "22.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "sane-backends-1.0.27-22.el8.src.rpm",
-        "filename": "sane-backends-devel-1.0.27-22.el8.x86_64.rpm",
-        "sum": "8f88c9dfa44b4f0b4e142db8de77777df5aae5cdc4497043c2fd6afa5ce9eb93",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "sane-backends-drivers-scanners",
-        "version": "1.0.27",
-        "release": "22.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "sane-backends-1.0.27-22.el8.src.rpm",
-        "filename": "sane-backends-drivers-scanners-1.0.27-22.el8.i686.rpm",
-        "sum": "9e997032cfb9828487749c8edf31ff86564a4c2e71d5f78578ac50665f2e21e3",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "sane-backends",
-        "version": "1.0.27",
-        "release": "22.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "sane-backends-1.0.27-22.el8.src.rpm",
-        "filename": "sane-backends-1.0.27-22.el8.x86_64.rpm",
-        "sum": "a82974892b9aef9adb60538033530966b536fb35dff86a0bc6c9b58cceacee1d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "sane-backends-drivers-cameras",
-        "version": "1.0.27",
-        "release": "22.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "sane-backends-1.0.27-22.el8.src.rpm",
-        "filename": "sane-backends-drivers-cameras-1.0.27-22.el8.i686.rpm",
-        "sum": "c87c357944c4e6ba205ad1036d79654290c6e3821dd45b3fb92ad077ffb29986",
-        "sum_type": 5,
-        "reboot_suggested": 0
       }
     ],
     "module": {}
   },
   "pushcount": "3",
   "references": [
-    {
-      "href": "https://errata.almalinux.org/8/ALSA-2021-1744.html",
-      "type": "self",
-      "id": "ALSA-2021-1744",
-      "title": "ALSA-2021-1744"
-    },
     {
       "href": "https://vulners.com/cve/CVE-2020-12867",
       "type": "cve",
@@ -306,7 +300,7 @@
     }
   ],
   "release": "0",
-  "rights": "Copyright 2022 AlmaLinux OS",
+  "rights": "Copyright 2021 AlmaLinux OS",
   "severity": "Moderate",
   "solution": "",
   "status": "final",
@@ -314,7 +308,7 @@
   "title": "Moderate: sane-backends security update",
   "type": "security",
   "updated_date": {
-    "$date": 1621317513000
+    "$date": 1636712456000
   },
   "version": "1"
 }

@@ -8,9 +8,69 @@
     "$date": 1604406549000
   },
   "pkglist": {
-    "name": "almalinux-8-for-aarch64-appstream-rpms__8_0_default",
-    "shortname": "almalinux-8-for-aarch64-appstream-rpms__8_0_default",
+    "name": "almalinux-8-for-x86_64-appstream-rpms__8_0_default",
+    "shortname": "almalinux-8-for-x86_64-appstream-rpms__8_0_default",
     "packages": [
+      {
+        "name": "librsvg2-tools",
+        "version": "2.42.7",
+        "release": "4.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "librsvg2-2.42.7-4.el8.src.rpm",
+        "filename": "librsvg2-tools-2.42.7-4.el8.x86_64.rpm",
+        "sum": "27b1e8f811c009051024b7bd88b436e7c94c5adfc882a792820dbd93b5e9ff5d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "librsvg2",
+        "version": "2.42.7",
+        "release": "4.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "librsvg2-2.42.7-4.el8.src.rpm",
+        "filename": "librsvg2-2.42.7-4.el8.x86_64.rpm",
+        "sum": "5360efeeaee4899c1cd704d4712c7ea4e39c24591283a546e76560920dbc2a77",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "librsvg2-devel",
+        "version": "2.42.7",
+        "release": "4.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "librsvg2-2.42.7-4.el8.src.rpm",
+        "filename": "librsvg2-devel-2.42.7-4.el8.i686.rpm",
+        "sum": "7495fe48cc43665f10dd95933047cfafe06349ba7c340053ee1ad7453b442cb9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "librsvg2",
+        "version": "2.42.7",
+        "release": "4.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "librsvg2-2.42.7-4.el8.src.rpm",
+        "filename": "librsvg2-2.42.7-4.el8.i686.rpm",
+        "sum": "b42a3281f870c4f7543f40dd1eb2778a1d970474e4492a084d984b08f869006c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "librsvg2-devel",
+        "version": "2.42.7",
+        "release": "4.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "librsvg2-2.42.7-4.el8.src.rpm",
+        "filename": "librsvg2-devel-2.42.7-4.el8.x86_64.rpm",
+        "sum": "b6421b647dae82fae37998c2bf395d1eb4f3434025d5817e5270f524917f2089",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "librsvg2",
         "version": "2.42.7",
@@ -82,78 +142,12 @@
         "sum": "c10fff387da6bd110e64fea364f4b331e543a8a705bc4ac59b5b50546538f43f",
         "sum_type": 5,
         "reboot_suggested": 0
-      },
-      {
-        "name": "librsvg2-tools",
-        "version": "2.42.7",
-        "release": "4.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "librsvg2-2.42.7-4.el8.src.rpm",
-        "filename": "librsvg2-tools-2.42.7-4.el8.x86_64.rpm",
-        "sum": "27b1e8f811c009051024b7bd88b436e7c94c5adfc882a792820dbd93b5e9ff5d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "librsvg2",
-        "version": "2.42.7",
-        "release": "4.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "librsvg2-2.42.7-4.el8.src.rpm",
-        "filename": "librsvg2-2.42.7-4.el8.x86_64.rpm",
-        "sum": "5360efeeaee4899c1cd704d4712c7ea4e39c24591283a546e76560920dbc2a77",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "librsvg2-devel",
-        "version": "2.42.7",
-        "release": "4.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "librsvg2-2.42.7-4.el8.src.rpm",
-        "filename": "librsvg2-devel-2.42.7-4.el8.i686.rpm",
-        "sum": "7495fe48cc43665f10dd95933047cfafe06349ba7c340053ee1ad7453b442cb9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "librsvg2",
-        "version": "2.42.7",
-        "release": "4.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "librsvg2-2.42.7-4.el8.src.rpm",
-        "filename": "librsvg2-2.42.7-4.el8.i686.rpm",
-        "sum": "b42a3281f870c4f7543f40dd1eb2778a1d970474e4492a084d984b08f869006c",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "librsvg2-devel",
-        "version": "2.42.7",
-        "release": "4.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "librsvg2-2.42.7-4.el8.src.rpm",
-        "filename": "librsvg2-devel-2.42.7-4.el8.x86_64.rpm",
-        "sum": "b6421b647dae82fae37998c2bf395d1eb4f3434025d5817e5270f524917f2089",
-        "sum_type": 5,
-        "reboot_suggested": 0
       }
     ],
     "module": {}
   },
   "pushcount": "3",
   "references": [
-    {
-      "href": "https://errata.almalinux.org/8/ALSA-2020-4709.html",
-      "type": "self",
-      "id": "ALSA-2020-4709",
-      "title": "ALSA-2020-4709"
-    },
     {
       "href": "https://vulners.com/cve/CVE-2019-20446",
       "type": "cve",
@@ -162,7 +156,7 @@
     }
   ],
   "release": "0",
-  "rights": "Copyright 2022 AlmaLinux OS",
+  "rights": "Copyright 2021 AlmaLinux OS",
   "severity": "Moderate",
   "solution": "",
   "status": "final",
@@ -170,7 +164,7 @@
   "title": "Moderate: librsvg2 security update",
   "type": "security",
   "updated_date": {
-    "$date": 1604433099000
+    "$date": 1636712456000
   },
   "version": "2"
 }

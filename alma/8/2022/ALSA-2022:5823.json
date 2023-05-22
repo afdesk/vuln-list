@@ -24,6 +24,66 @@
         "reboot_suggested": 0
       },
       {
+        "name": "389-ds-base-devel",
+        "version": "1.4.3.28",
+        "release": "7.module_el8.6.0+3071+d20b1d7c",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "389-ds-base-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.src.rpm",
+        "filename": "389-ds-base-devel-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.x86_64.rpm",
+        "sum": "32dc898729df54cc4c11951162ee5f7bfaa1847374c5f6f78a3c2b389ec86b46",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "389-ds-base",
+        "version": "1.4.3.28",
+        "release": "7.module_el8.6.0+3071+d20b1d7c",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "389-ds-base-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.src.rpm",
+        "filename": "389-ds-base-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.x86_64.rpm",
+        "sum": "36dfeb5b6d79211348be3c7586d7985549f40167d1755b3055d121ccfb172c62",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "389-ds-base-snmp",
+        "version": "1.4.3.28",
+        "release": "7.module_el8.6.0+3071+d20b1d7c",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "389-ds-base-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.src.rpm",
+        "filename": "389-ds-base-snmp-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.x86_64.rpm",
+        "sum": "4b7f083179ea47d2a7fe4886605c644852de1e7af6400ede4ac53b26338dffc7",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "389-ds-base-libs",
+        "version": "1.4.3.28",
+        "release": "7.module_el8.6.0+3071+d20b1d7c",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "389-ds-base-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.src.rpm",
+        "filename": "389-ds-base-libs-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.x86_64.rpm",
+        "sum": "5dae35a499b5bd3a6e95c50dc14d4d6aeb0c9c1a5a5c6a8061dad04ccf91f888",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "389-ds-base-legacy-tools",
+        "version": "1.4.3.28",
+        "release": "7.module_el8.6.0+3071+d20b1d7c",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "389-ds-base-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.src.rpm",
+        "filename": "389-ds-base-legacy-tools-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.x86_64.rpm",
+        "sum": "97a4adff3e1c9d23b7646c4decbc6182006d7a134d072bc8eacc0f1e87882739",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "389-ds-base-legacy-tools",
         "version": "1.4.3.28",
         "release": "7.module_el8.6.0+3071+d20b1d7c",
@@ -140,66 +200,6 @@
         "src": "389-ds-base-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.src.rpm",
         "filename": "389-ds-base-devel-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.ppc64le.rpm",
         "sum": "ed7c9a8309ba254b2efc090b3baaf8f9f48b41fd0ab9597f4fa71a998313b329",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "389-ds-base-devel",
-        "version": "1.4.3.28",
-        "release": "7.module_el8.6.0+3071+d20b1d7c",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "389-ds-base-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.src.rpm",
-        "filename": "389-ds-base-devel-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.x86_64.rpm",
-        "sum": "32dc898729df54cc4c11951162ee5f7bfaa1847374c5f6f78a3c2b389ec86b46",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "389-ds-base",
-        "version": "1.4.3.28",
-        "release": "7.module_el8.6.0+3071+d20b1d7c",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "389-ds-base-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.src.rpm",
-        "filename": "389-ds-base-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.x86_64.rpm",
-        "sum": "36dfeb5b6d79211348be3c7586d7985549f40167d1755b3055d121ccfb172c62",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "389-ds-base-snmp",
-        "version": "1.4.3.28",
-        "release": "7.module_el8.6.0+3071+d20b1d7c",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "389-ds-base-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.src.rpm",
-        "filename": "389-ds-base-snmp-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.x86_64.rpm",
-        "sum": "4b7f083179ea47d2a7fe4886605c644852de1e7af6400ede4ac53b26338dffc7",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "389-ds-base-libs",
-        "version": "1.4.3.28",
-        "release": "7.module_el8.6.0+3071+d20b1d7c",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "389-ds-base-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.src.rpm",
-        "filename": "389-ds-base-libs-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.x86_64.rpm",
-        "sum": "5dae35a499b5bd3a6e95c50dc14d4d6aeb0c9c1a5a5c6a8061dad04ccf91f888",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "389-ds-base-legacy-tools",
-        "version": "1.4.3.28",
-        "release": "7.module_el8.6.0+3071+d20b1d7c",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "389-ds-base-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.src.rpm",
-        "filename": "389-ds-base-legacy-tools-1.4.3.28-7.module_el8.6.0+3071+d20b1d7c.x86_64.rpm",
-        "sum": "97a4adff3e1c9d23b7646c4decbc6182006d7a134d072bc8eacc0f1e87882739",
         "sum_type": 5,
         "reboot_suggested": 0
       }
