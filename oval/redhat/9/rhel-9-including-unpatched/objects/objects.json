@@ -6966,14 +6966,14 @@
       "Name": "libtiff-debugsource"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232004017",
-      "Version": "636",
-      "Name": "freetype-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232004025",
+      "ID": "oval:com.redhat.cve:obj:20232004037",
       "Version": "636",
       "Name": "freetype"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232004038",
+      "Version": "636",
+      "Name": "freetype-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202321911001",

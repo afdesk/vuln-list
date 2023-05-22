@@ -10211,14 +10211,14 @@
       "Name": "cloud-init"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232004016",
-      "Version": "636",
-      "Name": "freetype-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232004024",
+      "ID": "oval:com.redhat.cve:obj:20232004036",
       "Version": "636",
       "Name": "freetype"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232004038",
+      "Version": "636",
+      "Name": "freetype-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202321911001",
@@ -10423,42 +10423,42 @@
     {
       "ID": "oval:com.redhat.cve:obj:202326464002",
       "Version": "636",
-      "Name": "slf4j-jcl"
+      "Name": "slf4j-ext"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464003",
       "Version": "636",
-      "Name": "slf4j-javadoc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202326464005",
-      "Version": "636",
-      "Name": "slf4j-ext"
+      "Name": "slf4j-log4j12"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464006",
       "Version": "636",
-      "Name": "log4j-over-slf4j"
+      "Name": "slf4j-jdk14"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464007",
       "Version": "636",
-      "Name": "slf4j-sources"
+      "Name": "jul-to-slf4j"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464008",
       "Version": "636",
-      "Name": "jul-to-slf4j"
+      "Name": "slf4j-jcl"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202326464009",
+      "Version": "636",
+      "Name": "slf4j-javadoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464010",
       "Version": "636",
-      "Name": "slf4j-jdk14"
+      "Name": "slf4j-sources"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464011",
       "Version": "636",
-      "Name": "slf4j-log4j12"
+      "Name": "log4j-over-slf4j"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700001",

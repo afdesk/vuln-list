@@ -30648,21 +30648,21 @@
     },
     {
       "Check": "at least one",
-      "Comment": "freetype-devel is installed",
-      "ID": "oval:com.redhat.cve:tst:20232004033",
+      "Comment": "freetype is installed",
+      "ID": "oval:com.redhat.cve:tst:20232004073",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232004017"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232004037"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "freetype-devel is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20232004034",
+      "Comment": "freetype is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232004074",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232004017"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232004037"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -30670,21 +30670,21 @@
     },
     {
       "Check": "at least one",
-      "Comment": "freetype is installed",
-      "ID": "oval:com.redhat.cve:tst:20232004049",
+      "Comment": "freetype-devel is installed",
+      "ID": "oval:com.redhat.cve:tst:20232004075",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232004025"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232004038"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "freetype is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20232004050",
+      "Comment": "freetype-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232004076",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232004025"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232004038"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -47616,7 +47616,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228340001",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232004025"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232004037"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228340001"
@@ -47628,7 +47628,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228340003",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20232004017"
+        "ObjectRef": "oval:com.redhat.cve:obj:20232004038"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228340001"
