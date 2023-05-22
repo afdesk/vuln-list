@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Aug 2019] DLA-1882-1 atril - security update",
-    "Line": 4713,
+    "Line": 4719,
     "ID": "DLA-1882-1",
     "Description": "atril - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-1000159 CVE-2019-11459 CVE-2019-1010006}",
-      "Line": 4714,
+      "Line": 4720,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-1000159",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[jessie] - atril 1.8.1+dfsg1-4+deb8u2",
-      "Line": 4715,
+      "Line": 4721,
       "Type": "package",
       "Release": "jessie",
       "Package": "atril",

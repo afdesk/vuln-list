@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Jul 2017] DLA-1014-1 libclamunrar - security update",
-    "Line": 7362,
+    "Line": 7368,
     "ID": "DLA-1014-1",
     "Description": "libclamunrar - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-6706}",
-      "Line": 7363,
+      "Line": 7369,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-6706"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - libclamunrar 0.99-0+deb7u2",
-      "Line": 7364,
+      "Line": 7370,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libclamunrar",
