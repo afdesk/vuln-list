@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Nov 2016] DSA-3722-1 vim - security update",
-    "Line": 5648,
+    "Line": 5651,
     "ID": "DSA-3722-1",
     "Description": "vim - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-1248}",
-      "Line": 5649,
+      "Line": 5652,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-1248"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - vim 2:7.4.488-7+deb8u1",
-      "Line": 5650,
+      "Line": 5653,
       "Type": "package",
       "Release": "jessie",
       "Package": "vim",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Dec 2014] DSA-3097-1 unbound - security update",
-    "Line": 7794,
+    "Line": 7797,
     "ID": "DSA-3097-1",
     "Description": "unbound - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-8602}",
-      "Line": 7795,
+      "Line": 7798,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-8602"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - unbound 1.4.17-3+deb7u2",
-      "Line": 7796,
+      "Line": 7799,
       "Type": "package",
       "Release": "wheezy",
       "Package": "unbound",

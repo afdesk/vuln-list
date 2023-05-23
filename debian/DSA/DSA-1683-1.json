@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Dec 2008] DSA-1683-1 streamripper - potential code execution",
-    "Line": 12645,
+    "Line": 12648,
     "ID": "DSA-1683-1",
     "Description": "streamripper - potential code execution"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-4337 CVE-2008-4829}",
-      "Line": 12646,
+      "Line": 12649,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-4337",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[etch] - streamripper 1.61.27-1+etch1",
-      "Line": 12647,
+      "Line": 12650,
       "Type": "package",
       "Release": "etch",
       "Package": "streamripper",

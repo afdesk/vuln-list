@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Jun 2019] DSA-4454-2 qemu - regression update",
-    "Line": 3173,
+    "Line": 3176,
     "ID": "DSA-4454-2",
     "Description": "qemu - regression update"
   },
   "Annotations": [
     {
       "Original": "[stretch] - qemu 1:2.8+dfsg-6+deb9u7",
-      "Line": 3174,
+      "Line": 3177,
       "Type": "package",
       "Release": "stretch",
       "Package": "qemu",

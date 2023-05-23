@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Jan 2010] DSA-1975-1 etch - end of life",
-    "Line": 11543,
+    "Line": 11546,
     "ID": "DSA-1975-1",
     "Description": "etch - end of life"
   },
   "Annotations": [
     {
       "Original": "NOTE: End of life of etch is on Feb 15th",
-      "Line": 11544,
+      "Line": 11547,
       "Type": "NOTE",
       "Description": "End of life of etch is on Feb 15th"
     }

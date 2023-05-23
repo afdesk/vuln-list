@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Sep 2002] DSA-163 mhonarc - cross site scripting",
-    "Line": 18137,
+    "Line": 18140,
     "ID": "DSA-163",
     "Description": "mhonarc - cross site scripting"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-0738}",
-      "Line": 18138,
+      "Line": 18141,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-0738"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - mhonarc 2.5.2-1.1",
-      "Line": 18139,
+      "Line": 18142,
       "Type": "package",
       "Release": "woody",
       "Package": "mhonarc",

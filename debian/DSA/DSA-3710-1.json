@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Nov 2016] DSA-3710-1 pillow - security update",
-    "Line": 5685,
+    "Line": 5688,
     "ID": "DSA-3710-1",
     "Description": "pillow - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-9189 CVE-2016-9190}",
-      "Line": 5686,
+      "Line": 5689,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-9189",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - pillow 2.6.1-2+deb8u3",
-      "Line": 5687,
+      "Line": 5690,
       "Type": "package",
       "Release": "jessie",
       "Package": "pillow",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Nov 2015] DSA-3355-2 libvdpau - regression update",
-    "Line": 6786,
+    "Line": 6789,
     "ID": "DSA-3355-2",
     "Description": "libvdpau - regression update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - libvdpau 0.8-3+deb8u2",
-      "Line": 6787,
+      "Line": 6790,
       "Type": "package",
       "Release": "jessie",
       "Package": "libvdpau",

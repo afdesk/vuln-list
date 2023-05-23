@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Apr 2016] DSA-3559-1 iceweasel - security update",
-    "Line": 6149,
+    "Line": 6152,
     "ID": "DSA-3559-1",
     "Description": "iceweasel - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-2805 CVE-2016-2807 CVE-2016-2808 CVE-2016-2814}",
-      "Line": 6150,
+      "Line": 6153,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-2805",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[jessie] - iceweasel 38.8.0esr-1~deb8u1",
-      "Line": 6151,
+      "Line": 6154,
       "Type": "package",
       "Release": "jessie",
       "Package": "iceweasel",
@@ -28,7 +28,7 @@
     },
     {
       "Original": "[wheezy] - iceweasel 38.8.0esr-1~deb7u1",
-      "Line": 6152,
+      "Line": 6155,
       "Type": "package",
       "Release": "wheezy",
       "Package": "iceweasel",
