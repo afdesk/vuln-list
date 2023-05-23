@@ -35,7 +35,7 @@
     "PublishedAt": "2023-05-22T20:36:32Z",
     "Severity": "MODERATE",
     "Summary": "Unintended leak of Proxy-Authorization header in requests",
-    "UpdatedAt": "2023-05-22T20:36:33Z",
+    "UpdatedAt": "2023-05-23T09:42:10Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.1,
