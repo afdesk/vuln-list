@@ -8,21 +8,9 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-x86_64-nfv-rpms__9_2_default",
-    "shortname": "almalinux-9-for-x86_64-nfv-rpms__9_2_default",
+    "name": "almalinux-9-for-x86_64-rt-rpms__9_2_default",
+    "shortname": "almalinux-9-for-x86_64-rt-rpms__9_2_default",
     "packages": [
-      {
-        "name": "kernel-rt-debug-kvm",
-        "version": "5.14.0",
-        "release": "284.11.1.rt14.296.el9_2",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "kernel-rt-5.14.0-284.11.1.rt14.296.el9_2.src.rpm",
-        "filename": "kernel-rt-debug-kvm-5.14.0-284.11.1.rt14.296.el9_2.x86_64.rpm",
-        "sum": "02ff96e74d98eebde04d83daa1a930c8a17fcdf2cbbee93141ad417bc6ade229",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "kernel-rt-debug-modules-core",
         "version": "5.14.0",
@@ -132,18 +120,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "kernel-rt-kvm",
-        "version": "5.14.0",
-        "release": "284.11.1.rt14.296.el9_2",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "kernel-rt-5.14.0-284.11.1.rt14.296.el9_2.src.rpm",
-        "filename": "kernel-rt-kvm-5.14.0-284.11.1.rt14.296.el9_2.x86_64.rpm",
-        "sum": "c6c6830eda923622814e8b97ee0f1cb842fa2b5aec88e030c6c165e5b2613f48",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "kernel-rt",
         "version": "5.14.0",
         "release": "284.11.1.rt14.296.el9_2",
@@ -176,6 +152,30 @@
         "src": "kernel-rt-5.14.0-284.11.1.rt14.296.el9_2.src.rpm",
         "filename": "kernel-rt-devel-5.14.0-284.11.1.rt14.296.el9_2.x86_64.rpm",
         "sum": "fadb325483c93043e5a3e16c310b13e554e27cd957f926d815a8eed25e42bd9d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "kernel-rt-debug-kvm",
+        "version": "5.14.0",
+        "release": "284.11.1.rt14.296.el9_2",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "kernel-rt-5.14.0-284.11.1.rt14.296.el9_2.src.rpm",
+        "filename": "kernel-rt-debug-kvm-5.14.0-284.11.1.rt14.296.el9_2.x86_64.rpm",
+        "sum": "02ff96e74d98eebde04d83daa1a930c8a17fcdf2cbbee93141ad417bc6ade229",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "kernel-rt-kvm",
+        "version": "5.14.0",
+        "release": "284.11.1.rt14.296.el9_2",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "kernel-rt-5.14.0-284.11.1.rt14.296.el9_2.src.rpm",
+        "filename": "kernel-rt-kvm-5.14.0-284.11.1.rt14.296.el9_2.x86_64.rpm",
+        "sum": "c6c6830eda923622814e8b97ee0f1cb842fa2b5aec88e030c6c165e5b2613f48",
         "sum_type": 5,
         "reboot_suggested": 0
       }
@@ -686,7 +686,7 @@
   "title": "Important: kernel-rt security and bug fix update",
   "type": "security",
   "updated_date": {
-    "$date": 1683815495000
+    "$date": 1683815494000
   },
   "version": "1"
 }

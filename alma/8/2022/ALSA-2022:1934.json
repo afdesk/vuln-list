@@ -8,30 +8,30 @@
     "$date": 1652170105000
   },
   "pkglist": {
-    "name": "almalinux-8-for-x86_64-appstream-rpms__8_0_default",
-    "shortname": "almalinux-8-for-x86_64-appstream-rpms__8_0_default",
+    "name": "almalinux-8-for-ppc64le-appstream-rpms__8_0_default",
+    "shortname": "almalinux-8-for-ppc64le-appstream-rpms__8_0_default",
     "packages": [
-      {
-        "name": "mod_auth_mellon-diagnostics",
-        "version": "0.14.0",
-        "release": "12.el8.1",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "mod_auth_mellon-0.14.0-12.el8.1.src.rpm",
-        "filename": "mod_auth_mellon-diagnostics-0.14.0-12.el8.1.x86_64.rpm",
-        "sum": "3d95a54fe5c58812edf4d57c35a45bc14c2d7aa2211dd4423c97e9be588532ea",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "mod_auth_mellon",
         "version": "0.14.0",
         "release": "12.el8.1",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "ppc64le",
         "src": "mod_auth_mellon-0.14.0-12.el8.1.src.rpm",
-        "filename": "mod_auth_mellon-0.14.0-12.el8.1.x86_64.rpm",
-        "sum": "9f126e7a92bbf31c8c35f2cf9ecd5a2894a081492b04ad6d6991a98d13608c51",
+        "filename": "mod_auth_mellon-0.14.0-12.el8.1.ppc64le.rpm",
+        "sum": "2aa0fa11a35775fcad6cf769eb1acb1c08259c6b16d3c80539f553644e407f2a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "mod_auth_mellon-diagnostics",
+        "version": "0.14.0",
+        "release": "12.el8.1",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "mod_auth_mellon-0.14.0-12.el8.1.src.rpm",
+        "filename": "mod_auth_mellon-diagnostics-0.14.0-12.el8.1.ppc64le.rpm",
+        "sum": "6ba3690dc8d5b967b2f939c2b0785ef76e5f37b8fb383a8c02d992b00bb82892",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -60,26 +60,26 @@
         "reboot_suggested": 0
       },
       {
-        "name": "mod_auth_mellon",
-        "version": "0.14.0",
-        "release": "12.el8.1",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "mod_auth_mellon-0.14.0-12.el8.1.src.rpm",
-        "filename": "mod_auth_mellon-0.14.0-12.el8.1.ppc64le.rpm",
-        "sum": "2aa0fa11a35775fcad6cf769eb1acb1c08259c6b16d3c80539f553644e407f2a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "mod_auth_mellon-diagnostics",
         "version": "0.14.0",
         "release": "12.el8.1",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "x86_64",
         "src": "mod_auth_mellon-0.14.0-12.el8.1.src.rpm",
-        "filename": "mod_auth_mellon-diagnostics-0.14.0-12.el8.1.ppc64le.rpm",
-        "sum": "6ba3690dc8d5b967b2f939c2b0785ef76e5f37b8fb383a8c02d992b00bb82892",
+        "filename": "mod_auth_mellon-diagnostics-0.14.0-12.el8.1.x86_64.rpm",
+        "sum": "3d95a54fe5c58812edf4d57c35a45bc14c2d7aa2211dd4423c97e9be588532ea",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "mod_auth_mellon",
+        "version": "0.14.0",
+        "release": "12.el8.1",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "mod_auth_mellon-0.14.0-12.el8.1.src.rpm",
+        "filename": "mod_auth_mellon-0.14.0-12.el8.1.x86_64.rpm",
+        "sum": "9f126e7a92bbf31c8c35f2cf9ecd5a2894a081492b04ad6d6991a98d13608c51",
         "sum_type": 5,
         "reboot_suggested": 0
       }

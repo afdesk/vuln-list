@@ -8,30 +8,18 @@
     "$date": 1684195200000
   },
   "pkglist": {
-    "name": "almalinux-8-for-x86_64-appstream-rpms__8_8_default",
-    "shortname": "almalinux-8-for-x86_64-appstream-rpms__8_8_default",
+    "name": "almalinux-8-for-ppc64le-appstream-rpms__8_8_default",
+    "shortname": "almalinux-8-for-ppc64le-appstream-rpms__8_8_default",
     "packages": [
       {
         "name": "grafana",
         "version": "7.5.15",
         "release": "4.el8",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "ppc64le",
         "src": "grafana-7.5.15-4.el8.src.rpm",
-        "filename": "grafana-7.5.15-4.el8.x86_64.rpm",
-        "sum": "1a3651fd3a7bdb252af218a34bd7906e3aa1c886c692433071b585131a89e8cf",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "grafana",
-        "version": "7.5.15",
-        "release": "4.el8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "grafana-7.5.15-4.el8.src.rpm",
-        "filename": "grafana-7.5.15-4.el8.s390x.rpm",
-        "sum": "e8151cd3199d241ef2f1d4be520baa86cbc6edd9d778f6ec810ccbf3277c19ed",
+        "filename": "grafana-7.5.15-4.el8.ppc64le.rpm",
+        "sum": "5665f081014768b95f5ae923607a4ae4544e87bdc1289c91e1a2fed40c669cf2",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +40,22 @@
         "version": "7.5.15",
         "release": "4.el8",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "s390x",
         "src": "grafana-7.5.15-4.el8.src.rpm",
-        "filename": "grafana-7.5.15-4.el8.ppc64le.rpm",
-        "sum": "5665f081014768b95f5ae923607a4ae4544e87bdc1289c91e1a2fed40c669cf2",
+        "filename": "grafana-7.5.15-4.el8.s390x.rpm",
+        "sum": "e8151cd3199d241ef2f1d4be520baa86cbc6edd9d778f6ec810ccbf3277c19ed",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "grafana",
+        "version": "7.5.15",
+        "release": "4.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "grafana-7.5.15-4.el8.src.rpm",
+        "filename": "grafana-7.5.15-4.el8.x86_64.rpm",
+        "sum": "1a3651fd3a7bdb252af218a34bd7906e3aa1c886c692433071b585131a89e8cf",
         "sum_type": 5,
         "reboot_suggested": 0
       }

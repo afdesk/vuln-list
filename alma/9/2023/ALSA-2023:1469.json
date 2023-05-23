@@ -8,21 +8,9 @@
     "$date": 1679875200000
   },
   "pkglist": {
-    "name": "almalinux-9-for-x86_64-nfv-rpms__9_1_default",
-    "shortname": "almalinux-9-for-x86_64-nfv-rpms__9_1_default",
+    "name": "almalinux-9-for-x86_64-rt-rpms__9_1_default",
+    "shortname": "almalinux-9-for-x86_64-rt-rpms__9_1_default",
     "packages": [
-      {
-        "name": "kernel-rt-kvm",
-        "version": "5.14.0",
-        "release": "162.22.2.rt21.186.el9_1",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "kernel-rt-5.14.0-162.22.2.rt21.186.el9_1.src.rpm",
-        "filename": "kernel-rt-kvm-5.14.0-162.22.2.rt21.186.el9_1.x86_64.rpm",
-        "sum": "0b0ff07458a86e73a1bed6d6e04f891c0aa48466fd8bf594ea53458564d16548",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "kernel-rt-devel",
         "version": "5.14.0",
@@ -144,6 +132,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "kernel-rt-kvm",
+        "version": "5.14.0",
+        "release": "162.22.2.rt21.186.el9_1",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "kernel-rt-5.14.0-162.22.2.rt21.186.el9_1.src.rpm",
+        "filename": "kernel-rt-kvm-5.14.0-162.22.2.rt21.186.el9_1.x86_64.rpm",
+        "sum": "0b0ff07458a86e73a1bed6d6e04f891c0aa48466fd8bf594ea53458564d16548",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "kernel-rt-debug-kvm",
         "version": "5.14.0",
         "release": "162.22.2.rt21.186.el9_1",
@@ -218,7 +218,7 @@
   "title": "Important: kernel-rt security and bug fix update",
   "type": "security",
   "updated_date": {
-    "$date": 1679956059000
+    "$date": 1679956058000
   },
   "version": "1"
 }

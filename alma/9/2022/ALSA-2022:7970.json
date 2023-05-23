@@ -48,26 +48,26 @@
         "reboot_suggested": 0
       },
       {
-        "name": "protobuf-lite",
-        "version": "3.14.0",
-        "release": "13.el9",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "protobuf-3.14.0-13.el9.src.rpm",
-        "filename": "protobuf-lite-3.14.0-13.el9.x86_64.rpm",
-        "sum": "3f3fc2c59d1f239d1f51aca792c51b739c94ce18f64910d6fdace883d910b0e8",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "protobuf",
         "version": "3.14.0",
         "release": "13.el9",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "s390x",
         "src": "protobuf-3.14.0-13.el9.src.rpm",
-        "filename": "protobuf-3.14.0-13.el9.x86_64.rpm",
-        "sum": "7a14afb2856a3e311811502057e5dcdfaaa0a933ae834e2d5f1a4247ec2811a9",
+        "filename": "protobuf-3.14.0-13.el9.s390x.rpm",
+        "sum": "38f9248700e0b80246ec9a206a0b0a07246fb622879568f1cc86cde316ab2b2b",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "protobuf-lite",
+        "version": "3.14.0",
+        "release": "13.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "protobuf-3.14.0-13.el9.src.rpm",
+        "filename": "protobuf-lite-3.14.0-13.el9.s390x.rpm",
+        "sum": "70baac52b4b6a54fc8889eff07e3de02691f8f36100f5bd6fa8a81dc36421a98",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -96,26 +96,26 @@
         "reboot_suggested": 0
       },
       {
-        "name": "protobuf",
-        "version": "3.14.0",
-        "release": "13.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "protobuf-3.14.0-13.el9.src.rpm",
-        "filename": "protobuf-3.14.0-13.el9.s390x.rpm",
-        "sum": "38f9248700e0b80246ec9a206a0b0a07246fb622879568f1cc86cde316ab2b2b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "protobuf-lite",
         "version": "3.14.0",
         "release": "13.el9",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "x86_64",
         "src": "protobuf-3.14.0-13.el9.src.rpm",
-        "filename": "protobuf-lite-3.14.0-13.el9.s390x.rpm",
-        "sum": "70baac52b4b6a54fc8889eff07e3de02691f8f36100f5bd6fa8a81dc36421a98",
+        "filename": "protobuf-lite-3.14.0-13.el9.x86_64.rpm",
+        "sum": "3f3fc2c59d1f239d1f51aca792c51b739c94ce18f64910d6fdace883d910b0e8",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "protobuf",
+        "version": "3.14.0",
+        "release": "13.el9",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "protobuf-3.14.0-13.el9.src.rpm",
+        "filename": "protobuf-3.14.0-13.el9.x86_64.rpm",
+        "sum": "7a14afb2856a3e311811502057e5dcdfaaa0a933ae834e2d5f1a4247ec2811a9",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -252,42 +252,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "protobuf-devel",
-        "version": "3.14.0",
-        "release": "13.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "protobuf-3.14.0-13.el9.src.rpm",
-        "filename": "protobuf-devel-3.14.0-13.el9.ppc64le.rpm",
-        "sum": "06a2918685dafa2b92f9e1caf31e7ade5d266d0b43c1983bc09eef5f08b7aa36",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "protobuf-compiler",
-        "version": "3.14.0",
-        "release": "13.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "protobuf-3.14.0-13.el9.src.rpm",
-        "filename": "protobuf-compiler-3.14.0-13.el9.ppc64le.rpm",
-        "sum": "0d7397c3998427cfad1bbc3737ae7b96fa1d79cb8e60dddedddd16463fed128e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "protobuf-lite-devel",
-        "version": "3.14.0",
-        "release": "13.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "protobuf-3.14.0-13.el9.src.rpm",
-        "filename": "protobuf-lite-devel-3.14.0-13.el9.ppc64le.rpm",
-        "sum": "6b8d09bfc1056bd581f7b7e7e05e169097e1962034299696b76a9733487754f7",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "protobuf-lite-devel",
         "version": "3.14.0",
         "release": "13.el9",
@@ -320,6 +284,42 @@
         "src": "protobuf-3.14.0-13.el9.src.rpm",
         "filename": "protobuf-compiler-3.14.0-13.el9.s390x.rpm",
         "sum": "f242f56c97f46b3a2e4022c55e24eed0cebcdd72275eeea709aa2242c1094070",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "protobuf-devel",
+        "version": "3.14.0",
+        "release": "13.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "protobuf-3.14.0-13.el9.src.rpm",
+        "filename": "protobuf-devel-3.14.0-13.el9.ppc64le.rpm",
+        "sum": "06a2918685dafa2b92f9e1caf31e7ade5d266d0b43c1983bc09eef5f08b7aa36",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "protobuf-compiler",
+        "version": "3.14.0",
+        "release": "13.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "protobuf-3.14.0-13.el9.src.rpm",
+        "filename": "protobuf-compiler-3.14.0-13.el9.ppc64le.rpm",
+        "sum": "0d7397c3998427cfad1bbc3737ae7b96fa1d79cb8e60dddedddd16463fed128e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "protobuf-lite-devel",
+        "version": "3.14.0",
+        "release": "13.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "protobuf-3.14.0-13.el9.src.rpm",
+        "filename": "protobuf-lite-devel-3.14.0-13.el9.ppc64le.rpm",
+        "sum": "6b8d09bfc1056bd581f7b7e7e05e169097e1962034299696b76a9733487754f7",
         "sum_type": 5,
         "reboot_suggested": 0
       }

@@ -8,30 +8,18 @@
     "$date": 1681689600000
   },
   "pkglist": {
-    "name": "almalinux-8-for-x86_64-appstream-rpms__8_7_default",
-    "shortname": "almalinux-8-for-x86_64-appstream-rpms__8_7_default",
+    "name": "almalinux-8-for-ppc64le-appstream-rpms__8_7_default",
+    "shortname": "almalinux-8-for-ppc64le-appstream-rpms__8_7_default",
     "packages": [
       {
         "name": "thunderbird",
         "version": "102.10.0",
         "release": "2.el8_7.alma",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "ppc64le",
         "src": "thunderbird-102.10.0-2.el8_7.alma.src.rpm",
-        "filename": "thunderbird-102.10.0-2.el8_7.alma.x86_64.rpm",
-        "sum": "42621c5908046b1486aeac0da5ba757fff7d3b01bdb0ecb0e6a9edb703d90113",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "thunderbird",
-        "version": "102.10.0",
-        "release": "2.el8_7.alma",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "thunderbird-102.10.0-2.el8_7.alma.src.rpm",
-        "filename": "thunderbird-102.10.0-2.el8_7.alma.s390x.rpm",
-        "sum": "35010ca2304b60cf4c3fdfcf32bf57cb42f702dc3032afcfd39f4ca8111c05b3",
+        "filename": "thunderbird-102.10.0-2.el8_7.alma.ppc64le.rpm",
+        "sum": "3cb972db83bdca995441ce8860cf6d1918021df96b116e9354cb0090d6321dd4",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +40,22 @@
         "version": "102.10.0",
         "release": "2.el8_7.alma",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "s390x",
         "src": "thunderbird-102.10.0-2.el8_7.alma.src.rpm",
-        "filename": "thunderbird-102.10.0-2.el8_7.alma.ppc64le.rpm",
-        "sum": "3cb972db83bdca995441ce8860cf6d1918021df96b116e9354cb0090d6321dd4",
+        "filename": "thunderbird-102.10.0-2.el8_7.alma.s390x.rpm",
+        "sum": "35010ca2304b60cf4c3fdfcf32bf57cb42f702dc3032afcfd39f4ca8111c05b3",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "thunderbird",
+        "version": "102.10.0",
+        "release": "2.el8_7.alma",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "thunderbird-102.10.0-2.el8_7.alma.src.rpm",
+        "filename": "thunderbird-102.10.0-2.el8_7.alma.x86_64.rpm",
+        "sum": "42621c5908046b1486aeac0da5ba757fff7d3b01bdb0ecb0e6a9edb703d90113",
         "sum_type": 5,
         "reboot_suggested": 0
       }

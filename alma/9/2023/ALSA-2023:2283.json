@@ -8,30 +8,30 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-x86_64-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-x86_64-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
     "packages": [
-      {
-        "name": "skopeo-tests",
-        "version": "1.11.2",
-        "release": "0.1.el9",
-        "epoch": "2",
-        "arch": "x86_64",
-        "src": "skopeo-1.11.2-0.1.el9.src.rpm",
-        "filename": "skopeo-tests-1.11.2-0.1.el9.x86_64.rpm",
-        "sum": "836ae8578d5a93c18f7aa2bae383270264912ca9deb9178bcccd6894a9398c47",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "skopeo",
         "version": "1.11.2",
         "release": "0.1.el9",
         "epoch": "2",
-        "arch": "x86_64",
+        "arch": "s390x",
         "src": "skopeo-1.11.2-0.1.el9.src.rpm",
-        "filename": "skopeo-1.11.2-0.1.el9.x86_64.rpm",
-        "sum": "903687d6856e66f4c6783db831bef213171f6af945f7f0e06450f954eba652ff",
+        "filename": "skopeo-1.11.2-0.1.el9.s390x.rpm",
+        "sum": "91bb9b7bc7a6f9a0200a7a0dd9fd833f11c955584db6d26ec9a30048a7045dba",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "skopeo-tests",
+        "version": "1.11.2",
+        "release": "0.1.el9",
+        "epoch": "2",
+        "arch": "s390x",
+        "src": "skopeo-1.11.2-0.1.el9.src.rpm",
+        "filename": "skopeo-tests-1.11.2-0.1.el9.s390x.rpm",
+        "sum": "e38efdc7abc3a47e40102d42c0fb7cac86008fcf7b7eae215f68664d68b8ba22",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -60,26 +60,26 @@
         "reboot_suggested": 0
       },
       {
-        "name": "skopeo",
-        "version": "1.11.2",
-        "release": "0.1.el9",
-        "epoch": "2",
-        "arch": "s390x",
-        "src": "skopeo-1.11.2-0.1.el9.src.rpm",
-        "filename": "skopeo-1.11.2-0.1.el9.s390x.rpm",
-        "sum": "91bb9b7bc7a6f9a0200a7a0dd9fd833f11c955584db6d26ec9a30048a7045dba",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "skopeo-tests",
         "version": "1.11.2",
         "release": "0.1.el9",
         "epoch": "2",
-        "arch": "s390x",
+        "arch": "x86_64",
         "src": "skopeo-1.11.2-0.1.el9.src.rpm",
-        "filename": "skopeo-tests-1.11.2-0.1.el9.s390x.rpm",
-        "sum": "e38efdc7abc3a47e40102d42c0fb7cac86008fcf7b7eae215f68664d68b8ba22",
+        "filename": "skopeo-tests-1.11.2-0.1.el9.x86_64.rpm",
+        "sum": "836ae8578d5a93c18f7aa2bae383270264912ca9deb9178bcccd6894a9398c47",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "skopeo",
+        "version": "1.11.2",
+        "release": "0.1.el9",
+        "epoch": "2",
+        "arch": "x86_64",
+        "src": "skopeo-1.11.2-0.1.el9.src.rpm",
+        "filename": "skopeo-1.11.2-0.1.el9.x86_64.rpm",
+        "sum": "903687d6856e66f4c6783db831bef213171f6af945f7f0e06450f954eba652ff",
         "sum_type": 5,
         "reboot_suggested": 0
       },

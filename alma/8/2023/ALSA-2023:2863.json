@@ -36,18 +36,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "ctags",
-        "version": "5.8",
-        "release": "23.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "ctags-5.8-23.el8.src.rpm",
-        "filename": "ctags-5.8-23.el8.x86_64.rpm",
-        "sum": "4867499ecc7cdf0656dd6b2abaf8e615a0bd233b419311a86a4fe1781b2e738a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "ctags-etags",
         "version": "5.8",
         "release": "23.el8",
@@ -64,10 +52,10 @@
         "version": "5.8",
         "release": "23.el8",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "ppc64le",
         "src": "ctags-5.8-23.el8.src.rpm",
-        "filename": "ctags-5.8-23.el8.s390x.rpm",
-        "sum": "526ba7bc9e23a012d513647149b43afce1ccb899c98594bc24197ded30b6ef4c",
+        "filename": "ctags-5.8-23.el8.ppc64le.rpm",
+        "sum": "494080883ab98ad93a67d2bec0c5847e5add8490b2122889e795bac5b1c23c54",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -100,10 +88,22 @@
         "version": "5.8",
         "release": "23.el8",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "s390x",
         "src": "ctags-5.8-23.el8.src.rpm",
-        "filename": "ctags-5.8-23.el8.ppc64le.rpm",
-        "sum": "494080883ab98ad93a67d2bec0c5847e5add8490b2122889e795bac5b1c23c54",
+        "filename": "ctags-5.8-23.el8.s390x.rpm",
+        "sum": "526ba7bc9e23a012d513647149b43afce1ccb899c98594bc24197ded30b6ef4c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "ctags",
+        "version": "5.8",
+        "release": "23.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "ctags-5.8-23.el8.src.rpm",
+        "filename": "ctags-5.8-23.el8.x86_64.rpm",
+        "sum": "4867499ecc7cdf0656dd6b2abaf8e615a0bd233b419311a86a4fe1781b2e738a",
         "sum_type": 5,
         "reboot_suggested": 0
       }

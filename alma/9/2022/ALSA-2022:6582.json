@@ -8,8 +8,8 @@
     "$date": 1663632000000
   },
   "pkglist": {
-    "name": "almalinux-9-for-x86_64-nfv-rpms__9_default",
-    "shortname": "almalinux-9-for-x86_64-nfv-rpms__9_default",
+    "name": "almalinux-9-for-x86_64-rt-rpms__9_default",
+    "shortname": "almalinux-9-for-x86_64-rt-rpms__9_default",
     "packages": [
       {
         "name": "kernel-rt-devel",
@@ -56,30 +56,6 @@
         "src": "kernel-rt-5.14.0-70.26.1.rt21.98.el9_0.src.rpm",
         "filename": "kernel-rt-5.14.0-70.26.1.rt21.98.el9_0.x86_64.rpm",
         "sum": "561a7c0a1918a46726749136e46693ed760454bd2fc9ee21082d33450e31dbac",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "kernel-rt-kvm",
-        "version": "5.14.0",
-        "release": "70.26.1.rt21.98.el9_0",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "kernel-rt-5.14.0-70.26.1.rt21.98.el9_0.src.rpm",
-        "filename": "kernel-rt-kvm-5.14.0-70.26.1.rt21.98.el9_0.x86_64.rpm",
-        "sum": "64ea295870d1525130c76deafde7be36513a612442a69ecaa974113b560b22ce",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "kernel-rt-debug-kvm",
-        "version": "5.14.0",
-        "release": "70.26.1.rt21.98.el9_0",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "kernel-rt-5.14.0-70.26.1.rt21.98.el9_0.src.rpm",
-        "filename": "kernel-rt-debug-kvm-5.14.0-70.26.1.rt21.98.el9_0.x86_64.rpm",
-        "sum": "6a54547da40ffd1074f19e6130f1f80d8241a318c8a2899078a758cafc88a39c",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -154,6 +130,30 @@
         "sum": "f5942ea6b980be844435fc6116e0a70e68d74201eceb953c46de91732f54a5c3",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "kernel-rt-kvm",
+        "version": "5.14.0",
+        "release": "70.26.1.rt21.98.el9_0",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "kernel-rt-5.14.0-70.26.1.rt21.98.el9_0.src.rpm",
+        "filename": "kernel-rt-kvm-5.14.0-70.26.1.rt21.98.el9_0.x86_64.rpm",
+        "sum": "64ea295870d1525130c76deafde7be36513a612442a69ecaa974113b560b22ce",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "kernel-rt-debug-kvm",
+        "version": "5.14.0",
+        "release": "70.26.1.rt21.98.el9_0",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "kernel-rt-5.14.0-70.26.1.rt21.98.el9_0.src.rpm",
+        "filename": "kernel-rt-debug-kvm-5.14.0-70.26.1.rt21.98.el9_0.x86_64.rpm",
+        "sum": "6a54547da40ffd1074f19e6130f1f80d8241a318c8a2899078a758cafc88a39c",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {}
@@ -206,7 +206,7 @@
   "title": "Important: kernel-rt security and bug fix update",
   "type": "security",
   "updated_date": {
-    "$date": 1666162699000
+    "$date": 1666162698000
   },
   "version": "1"
 }

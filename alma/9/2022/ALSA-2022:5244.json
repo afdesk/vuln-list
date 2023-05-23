@@ -36,26 +36,26 @@
         "reboot_suggested": 0
       },
       {
-        "name": "expat-devel",
-        "version": "2.2.10",
-        "release": "12.el9_0.2",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "expat-2.2.10-12.el9_0.2.src.rpm",
-        "filename": "expat-devel-2.2.10-12.el9_0.2.x86_64.rpm",
-        "sum": "95937f9587edacf6f55004b6784329e43a62e5b3daaebd0103aa7b1540174d4d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "expat",
         "version": "2.2.10",
         "release": "12.el9_0.2",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "s390x",
         "src": "expat-2.2.10-12.el9_0.2.src.rpm",
-        "filename": "expat-2.2.10-12.el9_0.2.x86_64.rpm",
-        "sum": "dbd74a9af798bb28a849bbf0ce4efbcc72505c7800bb2baf82cdd325b7b364c5",
+        "filename": "expat-2.2.10-12.el9_0.2.s390x.rpm",
+        "sum": "4ace1782eef776177825151bd82580cd2ceb4861364078c3f52bd4ad3dbe012e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "expat-devel",
+        "version": "2.2.10",
+        "release": "12.el9_0.2",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "expat-2.2.10-12.el9_0.2.src.rpm",
+        "filename": "expat-devel-2.2.10-12.el9_0.2.s390x.rpm",
+        "sum": "97d12027bc9d361dad2d06d6ec8cd7609711d85cf3f32b87dfc448f5c028cb56",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -84,26 +84,26 @@
         "reboot_suggested": 0
       },
       {
-        "name": "expat",
-        "version": "2.2.10",
-        "release": "12.el9_0.2",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "expat-2.2.10-12.el9_0.2.src.rpm",
-        "filename": "expat-2.2.10-12.el9_0.2.s390x.rpm",
-        "sum": "4ace1782eef776177825151bd82580cd2ceb4861364078c3f52bd4ad3dbe012e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "expat-devel",
         "version": "2.2.10",
         "release": "12.el9_0.2",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "x86_64",
         "src": "expat-2.2.10-12.el9_0.2.src.rpm",
-        "filename": "expat-devel-2.2.10-12.el9_0.2.s390x.rpm",
-        "sum": "97d12027bc9d361dad2d06d6ec8cd7609711d85cf3f32b87dfc448f5c028cb56",
+        "filename": "expat-devel-2.2.10-12.el9_0.2.x86_64.rpm",
+        "sum": "95937f9587edacf6f55004b6784329e43a62e5b3daaebd0103aa7b1540174d4d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "expat",
+        "version": "2.2.10",
+        "release": "12.el9_0.2",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "expat-2.2.10-12.el9_0.2.src.rpm",
+        "filename": "expat-2.2.10-12.el9_0.2.x86_64.rpm",
+        "sum": "dbd74a9af798bb28a849bbf0ce4efbcc72505c7800bb2baf82cdd325b7b364c5",
         "sum_type": 5,
         "reboot_suggested": 0
       },
