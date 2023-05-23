@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "CRITICAL",
   "UpdatedAt": "2023-05-12T15:21:07Z",
   "Package": {
     "Ecosystem": "COMPOSER",
@@ -36,13 +36,13 @@
     "Description": "LavaLite CMS v 9.0.0 was discovered to be vulnerable to web cache poisoning.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-12T12:30:18Z",
-    "Severity": "MODERATE",
+    "Severity": "CRITICAL",
     "Summary": "LavaLite vulnerable to web cache poisoning ",
-    "UpdatedAt": "2023-05-12T15:21:07Z",
+    "UpdatedAt": "2023-05-22T21:30:25Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 9.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [

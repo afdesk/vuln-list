@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-05-12T20:18:25Z",
   "Package": {
     "Ecosystem": "MAVEN",
@@ -45,13 +45,13 @@
     "Description": "An attacker who has gained access to an admin account can perform RCE via null-byte injection\n\nVendor: The Apache Software Foundation\n\nVersions Affected: Apache OpenMeetings from 2.0.0 before 7.1.0",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-12T09:30:14Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "Apache OpenMeetings vulnerable to remote code execution via null-bye injection",
-    "UpdatedAt": "2023-05-12T20:18:25Z",
+    "UpdatedAt": "2023-05-22T21:30:44Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 7.2,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [

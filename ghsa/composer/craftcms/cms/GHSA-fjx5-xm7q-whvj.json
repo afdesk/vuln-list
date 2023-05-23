@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-05-12T20:14:09Z",
   "Package": {
     "Ecosystem": "COMPOSER",
@@ -36,13 +36,13 @@
     "Description": "An issue found in CraftCMS v.3.8.1 allows a remote attacker to execute arbitrary code via a crafted script to the Section parameter.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-12T12:30:19Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "CraftCMS allows remote attacker to execute arbitrary code via crafted script to Section parameter",
-    "UpdatedAt": "2023-05-12T20:14:09Z",
+    "UpdatedAt": "2023-05-22T21:30:15Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 8.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [

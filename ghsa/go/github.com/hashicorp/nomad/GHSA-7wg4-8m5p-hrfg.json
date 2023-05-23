@@ -17,6 +17,9 @@
         "Url": "https://discuss.hashicorp.com/t/hcsec-2022-25-nomad-s-workload-identity-token-can-list-non-sensitive-metadata-for-nomad-paths/46167"
       },
       {
+        "Url": "https://github.com/hashicorp/nomad/commit/3b24f26603e2b116ba324101afa8a7e3a7a769a5"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-7wg4-8m5p-hrfg"
       }
     ],
@@ -35,7 +38,7 @@
     "PublishedAt": "2022-11-10T12:01:03Z",
     "Severity": "MODERATE",
     "Summary": "HashiCorp Nomad vulnerable to non-sensitive metadata exposure",
-    "UpdatedAt": "2023-01-30T05:07:49Z",
+    "UpdatedAt": "2023-05-22T18:33:42Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5,
