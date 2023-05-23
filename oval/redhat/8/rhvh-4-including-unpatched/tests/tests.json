@@ -2642,7 +2642,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libgcc is installed",
+      "Comment": "cpp is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213826001",
       "Version": "635",
       "Object": {
@@ -2652,7 +2652,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libgcc is not installed",
+      "Comment": "cpp is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213826002",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -2663,7 +2663,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "cpp is installed",
+      "Comment": "gcc is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213826003",
       "Version": "635",
       "Object": {
@@ -2673,7 +2673,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "cpp is not installed",
+      "Comment": "gcc is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213826004",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -2684,7 +2684,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "gcc is installed",
+      "Comment": "libgcc is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213826005",
       "Version": "635",
       "Object": {
@@ -2694,7 +2694,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "gcc is not installed",
+      "Comment": "libgcc is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213826006",
       "Version": "635",
       "CheckExistence": "none_exist",

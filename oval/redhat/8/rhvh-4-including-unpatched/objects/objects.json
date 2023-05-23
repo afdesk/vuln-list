@@ -463,17 +463,17 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:20213826001",
       "Version": "635",
-      "Name": "libgcc"
+      "Name": "cpp"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213826002",
       "Version": "635",
-      "Name": "cpp"
+      "Name": "gcc"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213826003",
       "Version": "635",
-      "Name": "gcc"
+      "Name": "libgcc"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213826004",

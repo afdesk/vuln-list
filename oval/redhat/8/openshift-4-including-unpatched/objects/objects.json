@@ -156,7 +156,7 @@
       "Name": "python-oslo-utils"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221996005",
+      "ID": "oval:com.redhat.cve:obj:20221996004",
       "Version": "636",
       "Name": "atomic-openshift-service-idler"
     },

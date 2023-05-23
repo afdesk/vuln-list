@@ -616,6 +616,11 @@
       "Name": "rubygem-git"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20231664001",
+      "Version": "636",
+      "Name": "keycloak-core"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202322796001",
       "Version": "636",
       "Name": "rubygem-activesupport"

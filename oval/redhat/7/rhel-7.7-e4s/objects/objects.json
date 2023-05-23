@@ -12259,6 +12259,11 @@
       "ID": "oval:com.redhat.rhsa:obj:20230945006",
       "Version": "636",
       "Name": "kpatch-patch-3_10_0-1062_70_1"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233278002",
+      "Version": "636",
+      "Name": "kpatch-patch-3_10_0-1062_71_1"
     }
   ],
   "RpmverifyfileObjects": [
@@ -14860,6 +14865,38 @@
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20230945005",
+      "Version": "636",
+      "Filepath": {
+        "Text": "/boot/grub2/grub.cfg",
+        "Datatype": "string"
+      },
+      "Pattern": {
+        "Text": "^menuentry.*",
+        "Operation": "pattern match"
+      },
+      "Instance": {
+        "Datatype": "int",
+        "VarRef": "oval:com.redhat.rhsa:var:20140678001"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233277016",
+      "Version": "636",
+      "Filepath": {
+        "Text": "/boot/grub2/grub.cfg",
+        "Datatype": "string"
+      },
+      "Pattern": {
+        "Text": "^menuentry.*",
+        "Operation": "pattern match"
+      },
+      "Instance": {
+        "Datatype": "int",
+        "VarRef": "oval:com.redhat.rhsa:var:20140678001"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233278005",
       "Version": "636",
       "Filepath": {
         "Text": "/boot/grub2/grub.cfg",

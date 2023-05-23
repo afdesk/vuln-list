@@ -9938,22 +9938,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:20224285001",
       "Version": "636",
-      "Name": "gcc-toolset-11-gdb-gdbserver"
+      "Name": "gcc-toolset-11-gdb-doc"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20224285004",
+      "ID": "oval:com.redhat.cve:obj:20224285002",
       "Version": "636",
-      "Name": "gcc-toolset-11-gdb"
+      "Name": "gcc-toolset-12-gdb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20224285005",
       "Version": "636",
-      "Name": "gcc-toolset-11-gdb-doc"
+      "Name": "gcc-toolset-11-gdb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20224285008",
       "Version": "636",
-      "Name": "gcc-toolset-12-gdb"
+      "Name": "gcc-toolset-11-gdb-gdbserver"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20224304001",
@@ -10103,12 +10103,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20224904001",
       "Version": "636",
-      "Name": "c-ares"
+      "Name": "c-ares-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20224904002",
       "Version": "636",
-      "Name": "c-ares-devel"
+      "Name": "c-ares"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230056001",
@@ -20346,19 +20346,19 @@
       "Name": "perl-encoding"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:20213826032",
+      "ID": "oval:com.redhat.unaffected:obj:20213826015",
+      "Version": "635",
+      "Name": "gcc-toolset-10-gdb"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20213826019",
       "Version": "635",
       "Name": "gcc-toolset-10-gdb-doc"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:20213826066",
+      "ID": "oval:com.redhat.unaffected:obj:20213826069",
       "Version": "635",
       "Name": "gcc-toolset-10-gdb-gdbserver"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:20213826070",
-      "Version": "635",
-      "Name": "gcc-toolset-10-gdb"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202138297002",

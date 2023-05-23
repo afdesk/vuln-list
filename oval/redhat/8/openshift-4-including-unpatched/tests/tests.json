@@ -685,20 +685,20 @@
     {
       "Check": "at least one",
       "Comment": "atomic-openshift-service-idler is installed",
-      "ID": "oval:com.redhat.cve:tst:20221996009",
+      "ID": "oval:com.redhat.cve:tst:20221996007",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221996005"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221996004"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "atomic-openshift-service-idler is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20221996010",
+      "ID": "oval:com.redhat.cve:tst:20221996008",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221996005"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221996004"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:201714623001"
@@ -1478,7 +1478,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20221996005"
+        "ObjectRef": "oval:com.redhat.cve:obj:20221996004"
       },
       "State": {}
     },

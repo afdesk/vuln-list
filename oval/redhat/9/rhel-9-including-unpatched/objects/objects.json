@@ -4683,17 +4683,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20213826002",
       "Version": "636",
-      "Name": "gdb-minimal"
+      "Name": "gdb-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213826003",
       "Version": "636",
-      "Name": "gdb-doc"
+      "Name": "gdb-minimal"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213826004",
       "Version": "636",
-      "Name": "gdb-gdbserver"
+      "Name": "gdb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213826006",
@@ -4701,9 +4701,9 @@
       "Name": "gdb-headless"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20213826008",
+      "ID": "oval:com.redhat.cve:obj:20213826007",
       "Version": "636",
-      "Name": "gdb"
+      "Name": "gdb-gdbserver"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561001",
@@ -6626,7 +6626,7 @@
       "Name": "tomcat-docs-webapp"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20224285003",
+      "ID": "oval:com.redhat.cve:obj:20224285004",
       "Version": "636",
       "Name": "gcc-toolset-12-gdb"
     },
