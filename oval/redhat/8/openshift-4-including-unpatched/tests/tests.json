@@ -1942,6 +1942,27 @@
         "ObjectRef": "oval:com.redhat.unaffected:obj:20231668001"
       },
       "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "haproxy22 is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202325950001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231325008"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "haproxy22 is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202325950002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231325008"
+      },
+      "State": {}
     }
   ],
   "RpmverifyfileTests": [

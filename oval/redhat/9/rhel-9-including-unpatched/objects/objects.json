@@ -6966,16 +6966,6 @@
       "Name": "libtiff-debugsource"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232004037",
-      "Version": "636",
-      "Name": "freetype"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232004038",
-      "Version": "636",
-      "Name": "freetype-devel"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202321911001",
       "Version": "636",
       "Name": "mysql"
@@ -7591,6 +7581,26 @@
       "Name": "dmidecode"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202332409001",
+      "Version": "636",
+      "Name": "webkit2gtk3"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202332409002",
+      "Version": "636",
+      "Name": "webkit2gtk3-jsc-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202332409003",
+      "Version": "636",
+      "Name": "webkit2gtk3-jsc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202332409004",
+      "Version": "636",
+      "Name": "webkit2gtk3-devel"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202333204001",
       "Version": "636",
       "Name": "sysstat"
@@ -7869,26 +7879,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20226608001",
       "Version": "636",
       "Name": "dbus-broker"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20226634001",
-      "Version": "636",
-      "Name": "webkit2gtk3"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20226634002",
-      "Version": "636",
-      "Name": "webkit2gtk3-devel"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20226634003",
-      "Version": "636",
-      "Name": "webkit2gtk3-jsc"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20226634004",
-      "Version": "636",
-      "Name": "webkit2gtk3-jsc-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20226763001",
@@ -8319,6 +8309,16 @@
       "ID": "oval:com.redhat.rhsa:obj:20228318004",
       "Version": "636",
       "Name": "python3-ldb"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20228340001",
+      "Version": "635",
+      "Name": "freetype"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20228340002",
+      "Version": "635",
+      "Name": "freetype-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20228361001",

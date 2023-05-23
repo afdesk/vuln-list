@@ -10211,16 +10211,6 @@
       "Name": "cloud-init"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232004036",
-      "Version": "636",
-      "Name": "freetype"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20232004038",
-      "Version": "636",
-      "Name": "freetype-devel"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202321911001",
       "Version": "636",
       "Name": "mysql"
@@ -17109,6 +17099,16 @@
       "ID": "oval:com.redhat.rhsa:obj:20204807001",
       "Version": "635",
       "Name": "prometheus-jmx-exporter"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20204952001",
+      "Version": "635",
+      "Name": "freetype"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20204952002",
+      "Version": "635",
+      "Name": "freetype-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20205503001",
