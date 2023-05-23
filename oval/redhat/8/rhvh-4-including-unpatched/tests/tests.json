@@ -2642,7 +2642,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libgomp is installed",
+      "Comment": "libgcc is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213826001",
       "Version": "635",
       "Object": {
@@ -2652,7 +2652,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libgomp is not installed",
+      "Comment": "libgcc is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213826002",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -2705,7 +2705,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "gcc-debugsource is installed",
+      "Comment": "libgomp is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213826007",
       "Version": "635",
       "Object": {
@@ -2715,33 +2715,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "gcc-debugsource is not installed",
+      "Comment": "libgomp is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213826008",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.unaffected:obj:20213826004"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "libgcc is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20213826009",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:20213826005"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "libgcc is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20213826010",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:20213826005"
       },
       "State": {}
     },
@@ -3094,6 +3073,27 @@
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20222078005"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "gcc-debugsource is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202227943003",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202227943002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "gcc-debugsource is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202227943004",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202227943002"
       },
       "State": {}
     },

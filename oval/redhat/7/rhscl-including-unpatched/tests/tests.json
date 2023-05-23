@@ -85055,21 +85055,21 @@
     {
       "Check": "at least one",
       "Comment": "rh-nodejs6-nodejs-tar is installed",
-      "ID": "oval:com.redhat.unaffected:tst:201820834001",
+      "ID": "oval:com.redhat.unaffected:tst:201820834009",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:201820834001"
+        "ObjectRef": "oval:com.redhat.unaffected:obj:201820834005"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "rh-nodejs6-nodejs-tar is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:201820834002",
+      "ID": "oval:com.redhat.unaffected:tst:201820834010",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:201820834001"
+        "ObjectRef": "oval:com.redhat.unaffected:obj:201820834005"
       },
       "State": {}
     },

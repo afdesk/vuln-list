@@ -4681,29 +4681,29 @@
       "Name": "nodejs-debugsource"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20213826001",
-      "Version": "636",
-      "Name": "gdb-gdbserver"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213826003",
-      "Version": "636",
-      "Name": "gdb"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213826005",
-      "Version": "636",
-      "Name": "gdb-doc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20213826007",
+      "ID": "oval:com.redhat.cve:obj:20213826002",
       "Version": "636",
       "Name": "gdb-minimal"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20213826008",
+      "ID": "oval:com.redhat.cve:obj:20213826003",
+      "Version": "636",
+      "Name": "gdb-doc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213826004",
+      "Version": "636",
+      "Name": "gdb-gdbserver"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213826006",
       "Version": "636",
       "Name": "gdb-headless"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20213826008",
+      "Version": "636",
+      "Name": "gdb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561001",
@@ -7446,6 +7446,26 @@
       "Name": "flatpak-selinux"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202328204001",
+      "Version": "636",
+      "Name": "webkit2gtk3"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202328204002",
+      "Version": "636",
+      "Name": "webkit2gtk3-jsc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202328204003",
+      "Version": "636",
+      "Name": "webkit2gtk3-jsc-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202328204004",
+      "Version": "636",
+      "Name": "webkit2gtk3-devel"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202328450001",
       "Version": "636",
       "Name": "dnsmasq"
@@ -7579,26 +7599,6 @@
       "ID": "oval:com.redhat.cve:obj:202330630001",
       "Version": "636",
       "Name": "dmidecode"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332409001",
-      "Version": "636",
-      "Name": "webkit2gtk3"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332409002",
-      "Version": "636",
-      "Name": "webkit2gtk3-jsc-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332409003",
-      "Version": "636",
-      "Name": "webkit2gtk3-jsc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332409004",
-      "Version": "636",
-      "Name": "webkit2gtk3-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202333204001",
@@ -13491,14 +13491,14 @@
       "Name": "toolbox-debugsource"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202231129008",
-      "Version": "635",
-      "Name": "rhsm-icons"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202231129009",
+      "ID": "oval:com.redhat.unaffected:obj:202231129003",
       "Version": "635",
       "Name": "subscription-manager-cockpit"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202231129011",
+      "Version": "635",
+      "Name": "rhsm-icons"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20223358002",

@@ -8356,7 +8356,7 @@
       "Name": "rh-java-common-apache-commons-compress"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:201820834001",
+      "ID": "oval:com.redhat.unaffected:obj:201820834005",
       "Version": "635",
       "Name": "rh-nodejs6-nodejs-tar"
     },

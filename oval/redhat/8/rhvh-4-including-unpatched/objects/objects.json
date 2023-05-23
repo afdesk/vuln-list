@@ -463,7 +463,7 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:20213826001",
       "Version": "635",
-      "Name": "libgomp"
+      "Name": "libgcc"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213826002",
@@ -478,12 +478,12 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:20213826004",
       "Version": "635",
-      "Name": "gcc-debugsource"
+      "Name": "libgomp"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:20213826005",
+      "ID": "oval:com.redhat.unaffected:obj:202227943002",
       "Version": "635",
-      "Name": "libgcc"
+      "Name": "gcc-debugsource"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20231667001",
