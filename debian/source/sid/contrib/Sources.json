@@ -6048,6 +6048,112 @@
       "all"
     ],
     "Binary": [
+      "openrct2-openmsx"
+    ],
+    "Build-Depends": [
+      "debhelper-compat (= 13), ffmpeg, nodejs, zip"
+    ],
+    "Checksums-Sha256": [
+      "bbb3208a1025083d97be577f186dcf0b985ecb902a6088ddfd2641addd4cb04d 1961 openrct2-openmsx_1.3.1-1.dsc be9edae077bf8b37a89f347701ed18ccaf26b25fd80f0d4815f623828a7ef63d 625387477 openrct2-openmsx_1.3.1.orig.tar.gz 361d32318e9ed23cfad41acf4ba8fc8549bf8da8435b90165a2708a00d455879 7516 openrct2-openmsx_1.3.1-1.debian.tar.xz"
+    ],
+    "Directory": [
+      "pool/contrib/o/openrct2-openmsx"
+    ],
+    "Files": [
+      "ca5dd349ad13e8f602f553b861eda1d7 1961 openrct2-openmsx_1.3.1-1.dsc 42aa752b60360f46a8b30c95f51c5b49 625387477 openrct2-openmsx_1.3.1.orig.tar.gz dd5b93a5fa29fe0c270a8c741e5da6ca 7516 openrct2-openmsx_1.3.1-1.debian.tar.xz"
+    ],
+    "Format": [
+      "3.0 (quilt)"
+    ],
+    "Homepage": [
+      "https://openrct2.io/"
+    ],
+    "Maintainer": [
+      "Mathias Gibbens \u003cgibmat@debian.org\u003e"
+    ],
+    "Package": [
+      "openrct2-openmsx"
+    ],
+    "Package-List": [
+      "openrct2-openmsx deb contrib/games optional arch=all"
+    ],
+    "Priority": [
+      "optional"
+    ],
+    "Section": [
+      "contrib/misc"
+    ],
+    "Standards-Version": [
+      "4.6.2"
+    ],
+    "Vcs-Browser": [
+      "https://salsa.debian.org/gibmat/openrct2-openmsx"
+    ],
+    "Vcs-Git": [
+      "https://salsa.debian.org/gibmat/openrct2-openmsx.git"
+    ],
+    "Version": [
+      "1.3.1-1"
+    ]
+  },
+  {
+    "Architecture": [
+      "all"
+    ],
+    "Binary": [
+      "openrct2-opensfx"
+    ],
+    "Build-Depends": [
+      "debhelper-compat (= 13), ffmpeg, nodejs, zip"
+    ],
+    "Checksums-Sha256": [
+      "4c4046f2414ca9832398a33794f0f37ec2d8b82338e9425ea75366ccd4eefcbf 1955 openrct2-opensfx_1.0.3-1.dsc 19b734bf91397323d1e214239e80018d7d1f434094b1875ee1af8904ed7edcb3 8909032 openrct2-opensfx_1.0.3.orig.tar.gz cc5a3342f7b53493749fae5bc6a4b76e2d2406bfbd099de73877348b3853ab67 7572 openrct2-opensfx_1.0.3-1.debian.tar.xz"
+    ],
+    "Directory": [
+      "pool/contrib/o/openrct2-opensfx"
+    ],
+    "Files": [
+      "3694a5a2a890f6cf1a2e91a9d1fab9b5 1955 openrct2-opensfx_1.0.3-1.dsc 272e910e0bfbdee98972ea0ad50823f1 8909032 openrct2-opensfx_1.0.3.orig.tar.gz f93f9586dcc9d4acee5ce5695e7a65f6 7572 openrct2-opensfx_1.0.3-1.debian.tar.xz"
+    ],
+    "Format": [
+      "3.0 (quilt)"
+    ],
+    "Homepage": [
+      "https://openrct2.io/"
+    ],
+    "Maintainer": [
+      "Mathias Gibbens \u003cgibmat@debian.org\u003e"
+    ],
+    "Package": [
+      "openrct2-opensfx"
+    ],
+    "Package-List": [
+      "openrct2-opensfx deb contrib/games optional arch=all"
+    ],
+    "Priority": [
+      "optional"
+    ],
+    "Section": [
+      "contrib/misc"
+    ],
+    "Standards-Version": [
+      "4.6.2"
+    ],
+    "Vcs-Browser": [
+      "https://salsa.debian.org/gibmat/openrct2-opensfx"
+    ],
+    "Vcs-Git": [
+      "https://salsa.debian.org/gibmat/openrct2-opensfx.git"
+    ],
+    "Version": [
+      "1.0.3-1"
+    ]
+  },
+  {
+    "Architecture": [
+      "all"
+    ],
+    "Binary": [
       "openrct2-title-sequences"
     ],
     "Build-Depends": [
@@ -6275,13 +6381,13 @@
       "debhelper-compat (= 13), dh-di, po-debconf"
     ],
     "Checksums-Sha256": [
-      "1be3a176c33853ab9002db7f13d6b91deacad10689509deeab788f0b396fe368 1663 partman-hfs_9.dsc 514b9735ccffd7c3da77067d83b4a5e2612b4aa3467beb2a8bcb020f1439c34e 66468 partman-hfs_9.tar.xz"
+      "75e027f79ec25192b2d32ac70ceb801ccc50bd2c51616620997f11413fb2a638 1671 partman-hfs_10.dsc 707e8fc25522aaeeaff5a7c681af4144b140e60e3338e277cfd20c31cbeb8d04 66520 partman-hfs_10.tar.xz"
     ],
     "Directory": [
       "pool/contrib/p/partman-hfs"
     ],
     "Files": [
-      "c3688dff1e0bf30e0f730d437453f189 1663 partman-hfs_9.dsc 2b0d08fb990e772fd6fdfbbbad62eda6 66468 partman-hfs_9.tar.xz"
+      "c095560bb2513120625ee375f9b50050 1671 partman-hfs_10.dsc c4c85acdc8c83bc4f72d26335a5fdf0a 66520 partman-hfs_10.tar.xz"
     ],
     "Format": [
       "3.0 (native)"
@@ -6311,7 +6417,7 @@
       "https://salsa.debian.org/installer-team/partman-hfs.git"
     ],
     "Version": [
-      "9"
+      "10"
     ]
   },
   {
