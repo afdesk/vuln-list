@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 Mar 2003] DSA-264 lxr - missing filename sanitizing",
-    "Line": 17832,
+    "Line": 17835,
     "ID": "DSA-264",
     "Description": "lxr - missing filename sanitizing"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0156}",
-      "Line": 17833,
+      "Line": 17836,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0156"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - lxr 0.3-3",
-      "Line": 17834,
+      "Line": 17837,
       "Type": "package",
       "Release": "woody",
       "Package": "lxr",
