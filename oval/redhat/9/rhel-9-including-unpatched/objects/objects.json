@@ -4223,32 +4223,32 @@
     {
       "ID": "oval:com.redhat.cve:obj:202133621001",
       "Version": "636",
-      "Name": "rubygem-rss"
+      "Name": "rubygem-io-console"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621002",
       "Version": "636",
-      "Name": "ruby-doc"
+      "Name": "rubygem-minitest"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621003",
       "Version": "636",
-      "Name": "rubygem-json"
+      "Name": "ruby"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621004",
       "Version": "636",
-      "Name": "rubygem-io-console"
+      "Name": "ruby-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621005",
       "Version": "636",
-      "Name": "rubygem-bundler"
+      "Name": "rubygem-json"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621006",
       "Version": "636",
-      "Name": "rubygems"
+      "Name": "rubygem-rexml"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621007",
@@ -4258,77 +4258,77 @@
     {
       "ID": "oval:com.redhat.cve:obj:202133621008",
       "Version": "636",
-      "Name": "rubygems-devel"
+      "Name": "rubygem-rdoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621009",
       "Version": "636",
-      "Name": "rubygem-rake"
+      "Name": "rubygem-rss"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621010",
       "Version": "636",
-      "Name": "rubygem-typeprof"
+      "Name": "ruby-default-gems"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621011",
       "Version": "636",
-      "Name": "ruby-default-gems"
+      "Name": "rubygems"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621012",
       "Version": "636",
-      "Name": "ruby-libs"
+      "Name": "rubygem-psych"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621013",
       "Version": "636",
-      "Name": "ruby-devel"
+      "Name": "rubygem-irb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621014",
       "Version": "636",
-      "Name": "rubygem-irb"
+      "Name": "rubygem-bigdecimal"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621015",
       "Version": "636",
-      "Name": "rubygem-power_assert"
+      "Name": "ruby-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621016",
       "Version": "636",
-      "Name": "rubygem-bigdecimal"
+      "Name": "rubygem-test-unit"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621017",
       "Version": "636",
-      "Name": "rubygem-rexml"
+      "Name": "rubygem-typeprof"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621018",
       "Version": "636",
-      "Name": "rubygem-psych"
+      "Name": "rubygem-rake"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621019",
       "Version": "636",
-      "Name": "rubygem-rdoc"
+      "Name": "ruby-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621020",
       "Version": "636",
-      "Name": "rubygem-minitest"
+      "Name": "rubygem-power_assert"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621021",
       "Version": "636",
-      "Name": "rubygem-test-unit"
+      "Name": "rubygem-bundler"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621022",
       "Version": "636",
-      "Name": "ruby"
+      "Name": "rubygems-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202134558001",
@@ -7078,27 +7078,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:20232454001",
       "Version": "636",
-      "Name": "postgresql-pltcl"
+      "Name": "postgresql-plperl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454002",
       "Version": "636",
-      "Name": "postgresql-private-libs"
+      "Name": "postgresql-plpython3"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454003",
       "Version": "636",
-      "Name": "postgresql-upgrade"
+      "Name": "postgresql-static"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454004",
       "Version": "636",
-      "Name": "postgresql-test"
+      "Name": "postgresql-upgrade"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454005",
       "Version": "636",
-      "Name": "postgresql"
+      "Name": "postgresql-private-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454006",
@@ -7108,22 +7108,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:20232454007",
       "Version": "636",
-      "Name": "postgresql-plperl"
+      "Name": "postgresql-pltcl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454008",
       "Version": "636",
-      "Name": "postgresql-docs"
+      "Name": "postgresql-contrib"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454009",
       "Version": "636",
-      "Name": "postgresql-contrib"
+      "Name": "postgresql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454010",
       "Version": "636",
-      "Name": "postgresql-server"
+      "Name": "postgresql-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454011",
@@ -7133,17 +7133,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20232454012",
       "Version": "636",
-      "Name": "postgresql-static"
+      "Name": "postgresql-private-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454013",
       "Version": "636",
-      "Name": "postgresql-private-devel"
+      "Name": "postgresql-server"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454014",
       "Version": "636",
-      "Name": "postgresql-plpython3"
+      "Name": "postgresql-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202324593001",
@@ -13436,11 +13436,6 @@
       "Name": "cyrus-sasl-md5"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:20222447051",
-      "Version": "635",
-      "Name": "ha-openstack-support"
-    },
-    {
       "ID": "oval:com.redhat.unaffected:obj:202224785008",
       "Version": "635",
       "Name": "cockpit-session-recording"
@@ -13599,6 +13594,11 @@
       "ID": "oval:com.redhat.unaffected:obj:20224244001",
       "Version": "635",
       "Name": "plexus-utils"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20224318045",
+      "Version": "635",
+      "Name": "ha-openstack-support"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202245063005",

@@ -4728,102 +4728,102 @@
     {
       "ID": "oval:com.redhat.cve:obj:202133621001",
       "Version": "636",
-      "Name": "rh-ruby27-rubygem-psych"
+      "Name": "rh-ruby27-rubygem-irb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621002",
       "Version": "636",
-      "Name": "rh-ruby30-rubygem-power_assert"
+      "Name": "rh-ruby27-rubygems-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621003",
       "Version": "636",
-      "Name": "rh-ruby27-ruby-devel"
+      "Name": "rh-ruby27-ruby-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621004",
       "Version": "636",
-      "Name": "rh-ruby30-ruby-devel"
+      "Name": "rh-ruby27-rubygem-xmlrpc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621005",
       "Version": "636",
-      "Name": "rh-ruby30-rubygem-psych"
+      "Name": "rh-ruby30-rubygem-rbs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621006",
       "Version": "636",
-      "Name": "rh-ruby30-rubygem-typeprof"
+      "Name": "rh-ruby30-ruby-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621007",
       "Version": "636",
-      "Name": "rh-ruby27-rubygem-json"
+      "Name": "rh-ruby27-ruby-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621008",
       "Version": "636",
-      "Name": "rh-ruby30-rubygem-rbs"
+      "Name": "rh-ruby27-rubygem-rdoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621009",
       "Version": "636",
-      "Name": "rh-ruby27-ruby"
+      "Name": "rh-ruby30-rubygem-rake"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621010",
       "Version": "636",
-      "Name": "rh-ruby27-rubygem-test-unit"
+      "Name": "rh-ruby30-rubygem-psych"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621011",
       "Version": "636",
-      "Name": "rh-ruby30-ruby"
+      "Name": "rh-ruby27-rubygem-json"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621012",
       "Version": "636",
-      "Name": "rh-ruby30-rubygem-io-console"
+      "Name": "rh-ruby30-ruby-doc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621013",
       "Version": "636",
-      "Name": "rh-ruby27-rubygem-io-console"
+      "Name": "rh-ruby27-rubygem-minitest"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621014",
       "Version": "636",
-      "Name": "rh-ruby27-rubygem-irb"
+      "Name": "rh-ruby27-ruby"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621015",
       "Version": "636",
-      "Name": "rh-ruby30-rubygem-json"
+      "Name": "rh-ruby30-ruby-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621016",
       "Version": "636",
-      "Name": "rh-ruby27-rubygem-racc"
+      "Name": "rh-ruby27-ruby-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621017",
       "Version": "636",
-      "Name": "rh-ruby30-rubygems-devel"
+      "Name": "rh-ruby27-rubygem-power_assert"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621018",
       "Version": "636",
-      "Name": "rh-ruby30-rubygem-test-unit"
+      "Name": "rh-ruby30-rubygem-json"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621019",
       "Version": "636",
-      "Name": "rh-ruby30-ruby-default-gems"
+      "Name": "rh-ruby27-rubygem-did_you_mean"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621020",
       "Version": "636",
-      "Name": "rh-ruby30-ruby-doc"
+      "Name": "rh-ruby30-rubygem-bundler"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621021",
@@ -4833,112 +4833,112 @@
     {
       "ID": "oval:com.redhat.cve:obj:202133621022",
       "Version": "636",
-      "Name": "rh-ruby27-rubygem-rake"
+      "Name": "rh-ruby27-rubygem-net-telnet"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621023",
       "Version": "636",
-      "Name": "rh-ruby27-ruby-libs"
+      "Name": "rh-ruby27-rubygem-psych"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621024",
       "Version": "636",
-      "Name": "rh-ruby27-rubygem-openssl"
+      "Name": "rh-ruby30-rubygem-rss"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621025",
       "Version": "636",
-      "Name": "rh-ruby30-rubygem-rss"
+      "Name": "rh-ruby30-rubygems"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621026",
       "Version": "636",
-      "Name": "rh-ruby30-rubygems"
+      "Name": "rh-ruby30-rubygem-irb"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621027",
       "Version": "636",
-      "Name": "rh-ruby30-rubygem-bundler"
+      "Name": "rh-ruby30-ruby"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621028",
       "Version": "636",
-      "Name": "rh-ruby27-rubygem-did_you_mean"
+      "Name": "rh-ruby30-rubygem-power_assert"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621029",
       "Version": "636",
-      "Name": "rh-ruby27-rubygems-devel"
+      "Name": "rh-ruby27-rubygem-test-unit"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621030",
       "Version": "636",
-      "Name": "rh-ruby27-rubygems"
+      "Name": "rh-ruby30-rubygem-io-console"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621031",
       "Version": "636",
-      "Name": "rh-ruby27-rubygem-net-telnet"
+      "Name": "rh-ruby30-ruby-default-gems"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621032",
       "Version": "636",
-      "Name": "rh-ruby30-ruby-libs"
+      "Name": "rh-ruby30-rubygem-bigdecimal"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621033",
       "Version": "636",
-      "Name": "rh-ruby27-rubygem-xmlrpc"
+      "Name": "rh-ruby30-rubygem-test-unit"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621034",
       "Version": "636",
-      "Name": "rh-ruby27-rubygem-bigdecimal"
+      "Name": "rh-ruby27-rubygem-bundler"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621035",
       "Version": "636",
-      "Name": "rh-ruby30-rubygem-irb"
+      "Name": "rh-ruby27-rubygem-rake"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621036",
       "Version": "636",
-      "Name": "rh-ruby30-rubygem-rake"
+      "Name": "rh-ruby27-rubygem-io-console"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621037",
       "Version": "636",
-      "Name": "rh-ruby30-rubygem-rexml"
+      "Name": "rh-ruby30-rubygems-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621038",
       "Version": "636",
-      "Name": "rh-ruby27-ruby-doc"
+      "Name": "rh-ruby27-rubygem-bigdecimal"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621039",
       "Version": "636",
-      "Name": "rh-ruby27-rubygem-minitest"
+      "Name": "rh-ruby30-rubygem-typeprof"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621040",
       "Version": "636",
-      "Name": "rh-ruby27-rubygem-rdoc"
+      "Name": "rh-ruby30-rubygem-rexml"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621041",
       "Version": "636",
-      "Name": "rh-ruby27-rubygem-power_assert"
+      "Name": "rh-ruby27-rubygem-racc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621042",
       "Version": "636",
-      "Name": "rh-ruby27-rubygem-bundler"
+      "Name": "rh-ruby27-rubygems"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621043",
       "Version": "636",
-      "Name": "rh-ruby30-rubygem-bigdecimal"
+      "Name": "rh-ruby27-rubygem-openssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133813001",
@@ -5678,7 +5678,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20232454001",
       "Version": "636",
-      "Name": "rh-postgresql12-postgresql-docs"
+      "Name": "rh-postgresql12-postgresql-plperl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454002",
@@ -5688,137 +5688,137 @@
     {
       "ID": "oval:com.redhat.cve:obj:20232454003",
       "Version": "636",
-      "Name": "rh-postgresql13-postgresql-plperl"
+      "Name": "rh-postgresql12-postgresql-contrib-syspaths"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454004",
       "Version": "636",
-      "Name": "rh-postgresql13-postgresql-static"
+      "Name": "rh-postgresql12-postgresql-syspaths"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454005",
       "Version": "636",
-      "Name": "rh-postgresql13-postgresql-devel"
+      "Name": "rh-postgresql13-postgresql-server"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454006",
       "Version": "636",
-      "Name": "rh-postgresql12-postgresql-syspaths"
+      "Name": "rh-postgresql12-postgresql-pltcl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454007",
       "Version": "636",
-      "Name": "rh-postgresql12-postgresql-contrib-syspaths"
+      "Name": "rh-postgresql13-postgresql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454008",
       "Version": "636",
-      "Name": "rh-postgresql13-postgresql-docs"
+      "Name": "rh-postgresql13-postgresql-plpython"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454009",
       "Version": "636",
-      "Name": "rh-postgresql12-postgresql-plperl"
+      "Name": "rh-postgresql13-postgresql-plperl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454010",
       "Version": "636",
-      "Name": "rh-postgresql13-postgresql-contrib"
+      "Name": "rh-postgresql13-postgresql-plpython3"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454011",
       "Version": "636",
-      "Name": "rh-postgresql12-postgresql-libs"
+      "Name": "rh-postgresql13-postgresql-contrib-syspaths"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454012",
       "Version": "636",
-      "Name": "rh-postgresql13-postgresql"
+      "Name": "rh-postgresql13-postgresql-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454013",
       "Version": "636",
-      "Name": "rh-postgresql13-postgresql-libs"
+      "Name": "rh-postgresql12-postgresql-server-syspaths"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454014",
       "Version": "636",
-      "Name": "rh-postgresql13-postgresql-plpython3"
+      "Name": "rh-postgresql13-postgresql-contrib"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454015",
       "Version": "636",
-      "Name": "rh-postgresql12-postgresql"
+      "Name": "rh-postgresql13-postgresql-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454016",
       "Version": "636",
-      "Name": "rh-postgresql12-postgresql-pltcl"
+      "Name": "rh-postgresql13-postgresql-syspaths"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454017",
       "Version": "636",
-      "Name": "rh-postgresql12-postgresql-static"
+      "Name": "rh-postgresql12-postgresql-server"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454018",
       "Version": "636",
-      "Name": "rh-postgresql13-postgresql-test"
+      "Name": "rh-postgresql12-postgresql-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454019",
       "Version": "636",
-      "Name": "rh-postgresql13-postgresql-pltcl"
+      "Name": "rh-postgresql12-postgresql-contrib"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454020",
       "Version": "636",
-      "Name": "rh-postgresql12-postgresql-server-syspaths"
+      "Name": "rh-postgresql12-postgresql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454021",
       "Version": "636",
-      "Name": "rh-postgresql12-postgresql-test"
+      "Name": "rh-postgresql13-postgresql-static"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454022",
       "Version": "636",
-      "Name": "rh-postgresql13-postgresql-contrib-syspaths"
+      "Name": "rh-postgresql13-postgresql-server-syspaths"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454023",
       "Version": "636",
-      "Name": "rh-postgresql13-postgresql-plpython"
+      "Name": "rh-postgresql13-postgresql-pltcl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454024",
       "Version": "636",
-      "Name": "rh-postgresql13-postgresql-syspaths"
+      "Name": "rh-postgresql13-postgresql-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454025",
       "Version": "636",
-      "Name": "rh-postgresql12-postgresql-contrib"
+      "Name": "rh-postgresql12-postgresql-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454026",
       "Version": "636",
-      "Name": "rh-postgresql12-postgresql-server"
+      "Name": "rh-postgresql12-postgresql-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454027",
       "Version": "636",
-      "Name": "rh-postgresql13-postgresql-server"
+      "Name": "rh-postgresql13-postgresql-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454028",
       "Version": "636",
-      "Name": "rh-postgresql12-postgresql-devel"
+      "Name": "rh-postgresql12-postgresql-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454029",
       "Version": "636",
-      "Name": "rh-postgresql13-postgresql-server-syspaths"
+      "Name": "rh-postgresql12-postgresql-static"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202332681001",

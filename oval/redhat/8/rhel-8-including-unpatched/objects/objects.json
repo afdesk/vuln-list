@@ -7716,24 +7716,24 @@
       "Name": "evolution-data-server-tests"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202133621001",
+      "ID": "oval:com.redhat.cve:obj:202133621008",
       "Version": "636",
-      "Name": "rubygem-rss"
+      "Name": "rubygem-rexml"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202133621013",
+      "ID": "oval:com.redhat.cve:obj:202133621012",
       "Version": "636",
       "Name": "rubygem-rbs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202133621017",
       "Version": "636",
-      "Name": "rubygem-typeprof"
+      "Name": "rubygem-rss"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202133621029",
+      "ID": "oval:com.redhat.cve:obj:202133621028",
       "Version": "636",
-      "Name": "rubygem-rexml"
+      "Name": "rubygem-typeprof"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20213498001",

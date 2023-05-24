@@ -1848,7 +1848,7 @@
     {
       "Check": "at least one",
       "Comment": "podman-plugins is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20223064004",
+      "ID": "oval:com.redhat.unaffected:tst:20223064002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -1858,8 +1858,19 @@
     },
     {
       "Check": "at least one",
+      "Comment": "podman-catatonit is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20223064004",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "podman-remote is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20223064006",
+      "ID": "oval:com.redhat.unaffected:tst:20223064008",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -1869,19 +1880,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-gvproxy is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20223064010",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561010"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "podman-tests is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20223064018",
+      "ID": "oval:com.redhat.unaffected:tst:20223064010",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -1892,7 +1892,7 @@
     {
       "Check": "at least one",
       "Comment": "podman-docker is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20223064020",
+      "ID": "oval:com.redhat.unaffected:tst:20223064016",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -1902,12 +1902,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-catatonit is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20223064022",
+      "Comment": "podman-gvproxy is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20223064020",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561010"
       },
       "State": {}
     },

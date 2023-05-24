@@ -616,11 +616,6 @@
       "Name": "rubygem-git"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20231664001",
-      "Version": "636",
-      "Name": "keycloak-core"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202322796001",
       "Version": "636",
       "Name": "rubygem-activesupport"
@@ -959,6 +954,16 @@
       "ID": "oval:com.redhat.unaffected:obj:202245935001",
       "Version": "635",
       "Name": "apache-james"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20231664001",
+      "Version": "635",
+      "Name": "keycloak-httpd-client-install"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20231664002",
+      "Version": "635",
+      "Name": "python2-keycloak-httpd-client-install"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20231892001",

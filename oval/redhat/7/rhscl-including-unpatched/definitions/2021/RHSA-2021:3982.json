@@ -146,7 +146,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-ruby is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621022"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621054"
                   }
                 ]
               },
@@ -159,7 +159,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-ruby-default-gems is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621038"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621062"
                   }
                 ]
               },
@@ -172,7 +172,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-ruby-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621008"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621030"
                   }
                 ]
               },
@@ -185,7 +185,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-ruby-doc is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621040"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621024"
                   }
                 ]
               },
@@ -198,7 +198,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-ruby-libs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621064"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621012"
                   }
                 ]
               },
@@ -211,7 +211,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-bigdecimal is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621086"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621064"
                   }
                 ]
               },
@@ -224,7 +224,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-bundler is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621054"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621040"
                   }
                 ]
               },
@@ -237,7 +237,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-io-console is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621024"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621060"
                   }
                 ]
               },
@@ -250,7 +250,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-irb is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621070"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621052"
                   }
                 ]
               },
@@ -263,7 +263,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-json is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621030"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621036"
                   }
                 ]
               },
@@ -289,7 +289,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-power_assert is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621004"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621056"
                   }
                 ]
               },
@@ -302,7 +302,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-psych is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621010"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621020"
                   }
                 ]
               },
@@ -315,7 +315,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-rake is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621072"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621018"
                   }
                 ]
               },
@@ -328,7 +328,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-rbs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621016"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621010"
                   }
                 ]
               },
@@ -341,7 +341,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-rexml is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621074"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621080"
                   }
                 ]
               },
@@ -354,7 +354,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-rss is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621050"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621048"
                   }
                 ]
               },
@@ -367,7 +367,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-test-unit is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621036"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621066"
                   }
                 ]
               },
@@ -380,7 +380,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-typeprof is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621012"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621078"
                   }
                 ]
               },
@@ -393,7 +393,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygems is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621052"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621050"
                   }
                 ]
               },
@@ -406,7 +406,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygems-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621034"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621074"
                   }
                 ]
               }
@@ -435,7 +435,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-ruby is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621022"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621054"
                   }
                 ]
               },
@@ -448,7 +448,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-ruby-default-gems is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621038"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621062"
                   }
                 ]
               },
@@ -461,7 +461,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-ruby-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621008"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621030"
                   }
                 ]
               },
@@ -474,7 +474,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-ruby-doc is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621040"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621024"
                   }
                 ]
               },
@@ -487,7 +487,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-ruby-libs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621064"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621012"
                   }
                 ]
               },
@@ -500,7 +500,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-bigdecimal is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621086"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621064"
                   }
                 ]
               },
@@ -513,7 +513,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-bundler is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621054"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621040"
                   }
                 ]
               },
@@ -526,7 +526,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-io-console is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621024"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621060"
                   }
                 ]
               },
@@ -539,7 +539,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-irb is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621070"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621052"
                   }
                 ]
               },
@@ -552,7 +552,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-json is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621030"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621036"
                   }
                 ]
               },
@@ -578,7 +578,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-power_assert is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621004"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621056"
                   }
                 ]
               },
@@ -591,7 +591,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-psych is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621010"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621020"
                   }
                 ]
               },
@@ -604,7 +604,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-rake is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621072"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621018"
                   }
                 ]
               },
@@ -617,7 +617,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-rbs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621016"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621010"
                   }
                 ]
               },
@@ -630,7 +630,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-rexml is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621074"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621080"
                   }
                 ]
               },
@@ -643,7 +643,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-rss is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621050"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621048"
                   }
                 ]
               },
@@ -656,7 +656,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-test-unit is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621036"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621066"
                   }
                 ]
               },
@@ -669,7 +669,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygem-typeprof is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621012"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621078"
                   }
                 ]
               },
@@ -682,7 +682,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygems is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621052"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621050"
                   }
                 ]
               },
@@ -695,7 +695,7 @@
                   },
                   {
                     "Comment": "rh-ruby30-rubygems-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202133621034"
+                    "TestRef": "oval:com.redhat.cve:tst:202133621074"
                   }
                 ]
               }
