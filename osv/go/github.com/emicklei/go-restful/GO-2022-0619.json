@@ -1,6 +1,6 @@
 {
   "id": "GO-2022-0619",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-05-23T21:03:09Z",
   "published": "2022-08-15T18:05:29Z",
   "aliases": [
     "CVE-2022-1996",
@@ -22,7 +22,7 @@
               "introduced": "0"
             },
             {
-              "fixed": "2.16.0"
+              "fixed": "2.16.0+incompatible"
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
   "id": "GO-2022-0755",
-  "modified": "2023-05-18T20:38:56Z",
+  "modified": "2023-05-23T21:03:09Z",
   "published": "2021-05-18T15:42:40Z",
   "aliases": [
     "CVE-2019-13209",
@@ -22,7 +22,7 @@
               "introduced": "0"
             },
             {
-              "fixed": "2.2.5-rc6.0.20190621200032-0ddffe484adc"
+              "fixed": "2.2.5-rc6.0.20190621200032-0ddffe484adc+incompatible"
             }
           ]
         }
