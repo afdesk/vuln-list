@@ -3269,6 +3269,33 @@
   "network-observability-1-for-rhel-8-x86_64-source-rpms": [
     "cpe:/a:redhat:network_observ_optr:1.1.0::el8"
   ],
+  "network-observability-1-for-rhel-9-aarch64-debug-rpms": [
+    "cpe:/a:redhat:network_observ_optr:1.3.0::el9"
+  ],
+  "network-observability-1-for-rhel-9-aarch64-rpms": [
+    "cpe:/a:redhat:network_observ_optr:1.3.0::el9"
+  ],
+  "network-observability-1-for-rhel-9-aarch64-source-rpms": [
+    "cpe:/a:redhat:network_observ_optr:1.3.0::el9"
+  ],
+  "network-observability-1-for-rhel-9-ppc64le-debug-rpms": [
+    "cpe:/a:redhat:network_observ_optr:1.3.0::el9"
+  ],
+  "network-observability-1-for-rhel-9-ppc64le-rpms": [
+    "cpe:/a:redhat:network_observ_optr:1.3.0::el9"
+  ],
+  "network-observability-1-for-rhel-9-ppc64le-source-rpms": [
+    "cpe:/a:redhat:network_observ_optr:1.3.0::el9"
+  ],
+  "network-observability-1-for-rhel-9-s390x-debug-rpms": [
+    "cpe:/a:redhat:network_observ_optr:1.3.0::el9"
+  ],
+  "network-observability-1-for-rhel-9-s390x-rpms": [
+    "cpe:/a:redhat:network_observ_optr:1.3.0::el9"
+  ],
+  "network-observability-1-for-rhel-9-s390x-source-rpms": [
+    "cpe:/a:redhat:network_observ_optr:1.3.0::el9"
+  ],
   "network-observability-1-for-rhel-9-x86_64-debug-rpms": [
     "cpe:/a:redhat:network_observ_optr:1.2.0::el9",
     "cpe:/a:redhat:network_observ_optr:1.3.0::el9"
@@ -27107,6 +27134,42 @@
     "cpe:/a:redhat:logging:5.5::el8",
     "cpe:/a:redhat:logging:5.6::el8",
     "cpe:/a:redhat:logging:5.7::el8"
+  ],
+  "rhol-5-for-rhel-9-aarch64-debug-rpms": [
+    "cpe:/a:redhat:logging:5.8::el9"
+  ],
+  "rhol-5-for-rhel-9-aarch64-rpms": [
+    "cpe:/a:redhat:logging:5.8::el9"
+  ],
+  "rhol-5-for-rhel-9-aarch64-source-rpms": [
+    "cpe:/a:redhat:logging:5.8::el9"
+  ],
+  "rhol-5-for-rhel-9-ppc64le-debug-rpms": [
+    "cpe:/a:redhat:logging:5.8::el9"
+  ],
+  "rhol-5-for-rhel-9-ppc64le-rpms": [
+    "cpe:/a:redhat:logging:5.8::el9"
+  ],
+  "rhol-5-for-rhel-9-ppc64le-source-rpms": [
+    "cpe:/a:redhat:logging:5.8::el9"
+  ],
+  "rhol-5-for-rhel-9-s390x-debug-rpms": [
+    "cpe:/a:redhat:logging:5.8::el9"
+  ],
+  "rhol-5-for-rhel-9-s390x-rpms": [
+    "cpe:/a:redhat:logging:5.8::el9"
+  ],
+  "rhol-5-for-rhel-9-s390x-source-rpms": [
+    "cpe:/a:redhat:logging:5.8::el9"
+  ],
+  "rhol-5-for-rhel-9-x86_64-debug-rpms": [
+    "cpe:/a:redhat:logging:5.8::el9"
+  ],
+  "rhol-5-for-rhel-9-x86_64-rpms": [
+    "cpe:/a:redhat:logging:5.8::el9"
+  ],
+  "rhol-5-for-rhel-9-x86_64-source-rpms": [
+    "cpe:/a:redhat:logging:5.8::el9"
   ],
   "rhosds-textonly-3-for-middleware-rpms": [
     "cpe:/a:redhat:openshift_devspaces:3::el8"

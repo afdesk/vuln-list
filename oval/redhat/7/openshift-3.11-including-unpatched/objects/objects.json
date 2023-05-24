@@ -561,6 +561,16 @@
       "Name": "python-futures"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202332681001",
+      "Version": "636",
+      "Name": "python2-requests"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202332681002",
+      "Version": "636",
+      "Name": "python-requests"
+    },
+    {
       "ID": "oval:com.redhat.rhba:obj:20183743035",
       "Version": "636",
       "Name": "openshift-ansible"

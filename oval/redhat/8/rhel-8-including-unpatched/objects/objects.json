@@ -7916,14 +7916,19 @@
       "Name": "log4j-slf4j"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202137533005",
+      "ID": "oval:com.redhat.cve:obj:202137533004",
       "Version": "636",
-      "Name": "apache-commons-net-javadoc"
+      "Name": "log4j-web"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137533006",
       "Version": "636",
       "Name": "apache-commons-net"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202137533007",
+      "Version": "636",
+      "Name": "apache-commons-net-javadoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137714002",
@@ -10161,11 +10166,6 @@
       "Name": "libtpms"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20231436004",
-      "Version": "636",
-      "Name": "log4j-web"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20231667001",
       "Version": "636",
       "Name": "libssh-devel"
@@ -10401,24 +10401,29 @@
       "Name": "python3-configobj"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202326464001",
-      "Version": "636",
-      "Name": "slf4j-manual"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202326464002",
       "Version": "636",
-      "Name": "slf4j-ext"
+      "Name": "slf4j-javadoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464003",
       "Version": "636",
+      "Name": "slf4j-manual"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202326464004",
+      "Version": "636",
       "Name": "slf4j-log4j12"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202326464005",
+      "Version": "636",
+      "Name": "slf4j-jdk14"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464006",
       "Version": "636",
-      "Name": "slf4j-jdk14"
+      "Name": "slf4j-jcl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464007",
@@ -10428,12 +10433,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202326464008",
       "Version": "636",
-      "Name": "slf4j-jcl"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202326464009",
-      "Version": "636",
-      "Name": "slf4j-javadoc"
+      "Name": "log4j-over-slf4j"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464010",
@@ -10443,7 +10443,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202326464011",
       "Version": "636",
-      "Name": "log4j-over-slf4j"
+      "Name": "slf4j-ext"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700001",
@@ -10769,6 +10769,11 @@
       "ID": "oval:com.redhat.cve:obj:202330861001",
       "Version": "636",
       "Name": "python3-flask"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202332681001",
+      "Version": "636",
+      "Name": "python2-requests"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202332700001",
@@ -13399,11 +13404,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20190981045",
       "Version": "637",
       "Name": "python2-pytz"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20190981047",
-      "Version": "637",
-      "Name": "python2-requests"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20190981048",
@@ -21109,7 +21109,7 @@
       }
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202137533004",
+      "ID": "oval:com.redhat.cve:obj:202137533005",
       "Version": "636",
       "Filepath": {
         "Text": "/etc/dnf/modules.d/log4j.module",

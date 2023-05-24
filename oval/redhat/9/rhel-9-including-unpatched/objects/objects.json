@@ -4623,22 +4623,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:202137533001",
       "Version": "636",
-      "Name": "log4j-slf4j"
+      "Name": "apache-commons-net"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137533002",
       "Version": "636",
-      "Name": "log4j"
+      "Name": "log4j-slf4j"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137533003",
       "Version": "636",
-      "Name": "apache-commons-net"
+      "Name": "log4j-jcl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137533004",
       "Version": "636",
-      "Name": "log4j-jcl"
+      "Name": "log4j"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137714001",
@@ -7599,6 +7599,31 @@
       "ID": "oval:com.redhat.cve:obj:202330630001",
       "Version": "636",
       "Name": "dmidecode"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202331124002",
+      "Version": "636",
+      "Name": "c-ares"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202331124004",
+      "Version": "636",
+      "Name": "c-ares-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202332681001",
+      "Version": "636",
+      "Name": "python3-requests"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202332681002",
+      "Version": "636",
+      "Name": "python3-requests+security"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202332681003",
+      "Version": "636",
+      "Name": "python3-requests+socks"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202333204001",
@@ -12854,16 +12879,6 @@
       "ID": "oval:com.redhat.unaffected:obj:20213667018",
       "Version": "635",
       "Name": "libvirt-debugsource"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:20213672001",
-      "Version": "635",
-      "Name": "c-ares-devel"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:20213672002",
-      "Version": "635",
-      "Name": "c-ares"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202136770001",

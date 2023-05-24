@@ -5413,17 +5413,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:202238749001",
       "Version": "636",
-      "Name": "rh-maven36-byte-buddy-agent"
+      "Name": "rh-maven36-byte-buddy-maven-plugin"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202238749002",
       "Version": "636",
-      "Name": "rh-maven36-byte-buddy-javadoc"
+      "Name": "rh-maven36-byte-buddy-agent"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202238749003",
       "Version": "636",
-      "Name": "rh-maven36-byte-buddy-maven-plugin"
+      "Name": "rh-maven36-byte-buddy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202238749004",
@@ -5433,7 +5433,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202238749005",
       "Version": "636",
-      "Name": "rh-maven36-byte-buddy"
+      "Name": "rh-maven36-byte-buddy-javadoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20224065001",
@@ -5819,6 +5819,11 @@
       "ID": "oval:com.redhat.cve:obj:20232454029",
       "Version": "636",
       "Name": "rh-postgresql13-postgresql-server-syspaths"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202332681001",
+      "Version": "636",
+      "Name": "rh-python38-python-requests"
     },
     {
       "ID": "oval:com.redhat.rhba:obj:20190772001",

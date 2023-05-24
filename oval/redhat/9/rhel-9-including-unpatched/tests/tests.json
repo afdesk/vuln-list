@@ -20330,7 +20330,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "log4j-slf4j is installed",
+      "Comment": "apache-commons-net is installed",
       "ID": "oval:com.redhat.cve:tst:202137533001",
       "Version": "636",
       "Object": {
@@ -20340,7 +20340,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "log4j-slf4j is signed with Red Hat redhatrelease2 key",
+      "Comment": "apache-commons-net is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202137533002",
       "Version": "636",
       "Object": {
@@ -20352,7 +20352,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "log4j is installed",
+      "Comment": "log4j-slf4j is installed",
       "ID": "oval:com.redhat.cve:tst:202137533003",
       "Version": "636",
       "Object": {
@@ -20362,7 +20362,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "log4j is signed with Red Hat redhatrelease2 key",
+      "Comment": "log4j-slf4j is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202137533004",
       "Version": "636",
       "Object": {
@@ -20374,7 +20374,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apache-commons-net is installed",
+      "Comment": "log4j-jcl is installed",
       "ID": "oval:com.redhat.cve:tst:202137533005",
       "Version": "636",
       "Object": {
@@ -20384,7 +20384,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apache-commons-net is signed with Red Hat redhatrelease2 key",
+      "Comment": "log4j-jcl is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202137533006",
       "Version": "636",
       "Object": {
@@ -20396,7 +20396,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "log4j-jcl is installed",
+      "Comment": "log4j is installed",
       "ID": "oval:com.redhat.cve:tst:202137533007",
       "Version": "636",
       "Object": {
@@ -20406,7 +20406,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "log4j-jcl is signed with Red Hat redhatrelease2 key",
+      "Comment": "log4j is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202137533008",
       "Version": "636",
       "Object": {
@@ -33435,6 +33435,116 @@
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202330630001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "c-ares is installed",
+      "ID": "oval:com.redhat.cve:tst:202331124003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202331124002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "c-ares is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202331124004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202331124002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "c-ares-devel is installed",
+      "ID": "oval:com.redhat.cve:tst:202331124007",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202331124004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "c-ares-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202331124008",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202331124004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-requests is installed",
+      "ID": "oval:com.redhat.cve:tst:202332681001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202332681001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-requests is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202332681002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202332681001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-requests+security is installed",
+      "ID": "oval:com.redhat.cve:tst:202332681003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202332681002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-requests+security is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202332681004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202332681002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-requests+socks is installed",
+      "ID": "oval:com.redhat.cve:tst:202332681005",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202332681003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-requests+socks is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202332681006",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202332681003"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -85341,7 +85451,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202137533002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202137533004"
       },
       "State": {}
     },
@@ -85352,7 +85462,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202137533001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202137533002"
       },
       "State": {}
     },
@@ -85363,7 +85473,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202137533004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202137533003"
       },
       "State": {}
     },
@@ -90993,32 +91103,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "c-ares-devel is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20213672001",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:20213672001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "c-ares-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213672002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:20213672001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "c-ares is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20213672003",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:20213672002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202331124004"
       },
       "State": {}
     },
@@ -91029,7 +91119,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:20213672002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202331124002"
       },
       "State": {}
     },
