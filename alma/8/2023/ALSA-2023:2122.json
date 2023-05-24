@@ -8,21 +8,9 @@
     "$date": 1683158400000
   },
   "pkglist": {
-    "name": "almalinux-8-for-ppc64le-appstream-rpms__8_7_default",
-    "shortname": "almalinux-8-for-ppc64le-appstream-rpms__8_7_default",
+    "name": "almalinux-8-for-aarch64-appstream-rpms__8_7_default",
+    "shortname": "almalinux-8-for-aarch64-appstream-rpms__8_7_default",
     "packages": [
-      {
-        "name": "libreswan",
-        "version": "4.5",
-        "release": "1.el8_7.1",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "libreswan-4.5-1.el8_7.1.src.rpm",
-        "filename": "libreswan-4.5-1.el8_7.1.ppc64le.rpm",
-        "sum": "5f5009f54e32ec9a2a3b7b8ed0e6ee35adca1b8946a0ea0bd4b5582eb90a23e6",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "libreswan",
         "version": "4.5",
@@ -32,6 +20,18 @@
         "src": "libreswan-4.5-1.el8_7.1.src.rpm",
         "filename": "libreswan-4.5-1.el8_7.1.aarch64.rpm",
         "sum": "5da0212cb0b8c9f267f47f1d84b0cc2e0e80cb11f644deb1ff062d71ff2e9c6d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libreswan",
+        "version": "4.5",
+        "release": "1.el8_7.1",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "libreswan-4.5-1.el8_7.1.src.rpm",
+        "filename": "libreswan-4.5-1.el8_7.1.x86_64.rpm",
+        "sum": "d66a00bfa3897ea79712e280bc20acd7e5a31d8c150e1bb0ac58be05b0f54ef4",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +52,10 @@
         "version": "4.5",
         "release": "1.el8_7.1",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "ppc64le",
         "src": "libreswan-4.5-1.el8_7.1.src.rpm",
-        "filename": "libreswan-4.5-1.el8_7.1.x86_64.rpm",
-        "sum": "d66a00bfa3897ea79712e280bc20acd7e5a31d8c150e1bb0ac58be05b0f54ef4",
+        "filename": "libreswan-4.5-1.el8_7.1.ppc64le.rpm",
+        "sum": "5f5009f54e32ec9a2a3b7b8ed0e6ee35adca1b8946a0ea0bd4b5582eb90a23e6",
         "sum_type": 5,
         "reboot_suggested": 0
       }

@@ -8,21 +8,9 @@
     "$date": 1681430400000
   },
   "pkglist": {
-    "name": "almalinux-8-for-ppc64le-appstream-rpms__8_7_default",
-    "shortname": "almalinux-8-for-ppc64le-appstream-rpms__8_7_default",
+    "name": "almalinux-8-for-aarch64-appstream-rpms__8_7_default",
+    "shortname": "almalinux-8-for-aarch64-appstream-rpms__8_7_default",
     "packages": [
-      {
-        "name": "firefox",
-        "version": "102.10.0",
-        "release": "1.el8_7.alma",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "firefox-102.10.0-1.el8_7.alma.src.rpm",
-        "filename": "firefox-102.10.0-1.el8_7.alma.ppc64le.rpm",
-        "sum": "1f88acaa244d363a1b55df1e4749312db4e98b42311eed72cfe57d06db6caffb",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "firefox",
         "version": "102.10.0",
@@ -32,6 +20,18 @@
         "src": "firefox-102.10.0-1.el8_7.alma.src.rpm",
         "filename": "firefox-102.10.0-1.el8_7.alma.aarch64.rpm",
         "sum": "d7a80e3bf55dcc651cf40d81d7edc34abb12bb04778297c2a5458923970e366e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "firefox",
+        "version": "102.10.0",
+        "release": "1.el8_7.alma",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "firefox-102.10.0-1.el8_7.alma.src.rpm",
+        "filename": "firefox-102.10.0-1.el8_7.alma.x86_64.rpm",
+        "sum": "dffe57dce948a9886666d2387633865dd52f229956c0ad5c975e0622585fd6d1",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +52,10 @@
         "version": "102.10.0",
         "release": "1.el8_7.alma",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "ppc64le",
         "src": "firefox-102.10.0-1.el8_7.alma.src.rpm",
-        "filename": "firefox-102.10.0-1.el8_7.alma.x86_64.rpm",
-        "sum": "dffe57dce948a9886666d2387633865dd52f229956c0ad5c975e0622585fd6d1",
+        "filename": "firefox-102.10.0-1.el8_7.alma.ppc64le.rpm",
+        "sum": "1f88acaa244d363a1b55df1e4749312db4e98b42311eed72cfe57d06db6caffb",
         "sum_type": 5,
         "reboot_suggested": 0
       }
@@ -182,7 +182,7 @@
   "title": "Important: firefox security update",
   "type": "security",
   "updated_date": {
-    "$date": 1681996313000
+    "$date": 1681996314000
   },
   "version": "1"
 }

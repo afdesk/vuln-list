@@ -8,45 +8,9 @@
     "$date": 1640077835000
   },
   "pkglist": {
-    "name": "almalinux-8-for-ppc64le-appstream-rpms__8_1_postgresql",
-    "shortname": "almalinux-8-for-ppc64le-appstream-rpms__8_1_postgresql",
+    "name": "almalinux-8-for-aarch64-appstream-rpms__8_1_postgresql",
+    "shortname": "almalinux-8-for-aarch64-appstream-rpms__8_1_postgresql",
     "packages": [
-      {
-        "name": "postgres-decoderbufs",
-        "version": "0.10.0",
-        "release": "2.module_el8.6.0+2760+1746ec94",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "postgres-decoderbufs-0.10.0-2.module_el8.6.0+2760+1746ec94.src.rpm",
-        "filename": "postgres-decoderbufs-0.10.0-2.module_el8.6.0+2760+1746ec94.ppc64le.rpm",
-        "sum": "13cd44b926f28289bb0a5b01f74460112ef2a7b442da8131cb2586d4227ef755",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "pgaudit",
-        "version": "1.5.0",
-        "release": "1.module_el8.6.0+2760+1746ec94",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "pgaudit-1.5.0-1.module_el8.6.0+2760+1746ec94.src.rpm",
-        "filename": "pgaudit-1.5.0-1.module_el8.6.0+2760+1746ec94.ppc64le.rpm",
-        "sum": "69187c120a179f0153c3110e7c5dd4cd103e1c2bb0c9b4a0da8a16b85c3f3390",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "pg_repack",
-        "version": "1.4.6",
-        "release": "3.module_el8.6.0+2760+1746ec94",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "pg_repack-1.4.6-3.module_el8.6.0+2760+1746ec94.src.rpm",
-        "filename": "pg_repack-1.4.6-3.module_el8.6.0+2760+1746ec94.ppc64le.rpm",
-        "sum": "9a907ca1b9082a2da428045283c26d15f54bd5ed2179c1de36a53ae6b52c08bb",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "pg_repack",
         "version": "1.4.6",
@@ -334,18 +298,60 @@
         "sum": "de86dd911ca555a317334c234d22122da37a1c8d9bb8fbc17f63867d9ca077c5",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "postgres-decoderbufs",
+        "version": "0.10.0",
+        "release": "2.module_el8.6.0+2760+1746ec94",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "postgres-decoderbufs-0.10.0-2.module_el8.6.0+2760+1746ec94.src.rpm",
+        "filename": "postgres-decoderbufs-0.10.0-2.module_el8.6.0+2760+1746ec94.ppc64le.rpm",
+        "sum": "13cd44b926f28289bb0a5b01f74460112ef2a7b442da8131cb2586d4227ef755",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "pgaudit",
+        "version": "1.5.0",
+        "release": "1.module_el8.6.0+2760+1746ec94",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "pgaudit-1.5.0-1.module_el8.6.0+2760+1746ec94.src.rpm",
+        "filename": "pgaudit-1.5.0-1.module_el8.6.0+2760+1746ec94.ppc64le.rpm",
+        "sum": "69187c120a179f0153c3110e7c5dd4cd103e1c2bb0c9b4a0da8a16b85c3f3390",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "pg_repack",
+        "version": "1.4.6",
+        "release": "3.module_el8.6.0+2760+1746ec94",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "pg_repack-1.4.6-3.module_el8.6.0+2760+1746ec94.src.rpm",
+        "filename": "pg_repack-1.4.6-3.module_el8.6.0+2760+1746ec94.ppc64le.rpm",
+        "sum": "9a907ca1b9082a2da428045283c26d15f54bd5ed2179c1de36a53ae6b52c08bb",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {
-      "stream": "13",
+      "stream": "12",
       "name": "postgresql",
-      "version": 8060020220601105339,
-      "arch": "ppc64le",
+      "version": 8060020220531080156,
+      "arch": "aarch64",
       "context": "9edba152"
     }
   },
   "pushcount": "2",
   "references": [
+    {
+      "href": "https://errata.almalinux.org/8/ALSA-2021-5236.html",
+      "type": "self",
+      "id": "ALSA-2021-5236",
+      "title": "ALSA-2021-5236"
+    },
     {
       "href": "https://vulners.com/cve/CVE-2021-23214",
       "type": "cve",
@@ -360,7 +366,7 @@
     }
   ],
   "release": "0",
-  "rights": "Copyright 2021 AlmaLinux OS",
+  "rights": "Copyright 2022 AlmaLinux OS",
   "severity": "Moderate",
   "solution": "",
   "status": "final",
@@ -368,7 +374,7 @@
   "title": "Moderate: postgresql:13 security update",
   "type": "security",
   "updated_date": {
-    "$date": 1640161398000
+    "$date": 1640077831000
   },
   "version": "1"
 }

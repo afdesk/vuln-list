@@ -8,21 +8,9 @@
     "$date": 1679443200000
   },
   "pkglist": {
-    "name": "almalinux-8-for-ppc64le-appstream-rpms__8_7_default",
-    "shortname": "almalinux-8-for-ppc64le-appstream-rpms__8_7_default",
+    "name": "almalinux-8-for-aarch64-appstream-rpms__8_7_default",
+    "shortname": "almalinux-8-for-aarch64-appstream-rpms__8_7_default",
     "packages": [
-      {
-        "name": "thunderbird",
-        "version": "102.9.0",
-        "release": "1.el8_7.alma",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "thunderbird-102.9.0-1.el8_7.alma.src.rpm",
-        "filename": "thunderbird-102.9.0-1.el8_7.alma.ppc64le.rpm",
-        "sum": "7ec72333fa9c357a41d74587363432790aec5d1274e49480d26018c314ed774c",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "thunderbird",
         "version": "102.9.0",
@@ -32,6 +20,18 @@
         "src": "thunderbird-102.9.0-1.el8_7.alma.src.rpm",
         "filename": "thunderbird-102.9.0-1.el8_7.alma.aarch64.rpm",
         "sum": "3c2dd1024b17ed88321310ebc4e9f1197b7fe7e54b1b77b5456402fd0097715a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "thunderbird",
+        "version": "102.9.0",
+        "release": "1.el8_7.alma",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "thunderbird-102.9.0-1.el8_7.alma.src.rpm",
+        "filename": "thunderbird-102.9.0-1.el8_7.alma.x86_64.rpm",
+        "sum": "6a932bc987e654ab3e7508e89df3a557d32affa3a44b65ecbe3d9672a0a13824",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +52,10 @@
         "version": "102.9.0",
         "release": "1.el8_7.alma",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "ppc64le",
         "src": "thunderbird-102.9.0-1.el8_7.alma.src.rpm",
-        "filename": "thunderbird-102.9.0-1.el8_7.alma.x86_64.rpm",
-        "sum": "6a932bc987e654ab3e7508e89df3a557d32affa3a44b65ecbe3d9672a0a13824",
+        "filename": "thunderbird-102.9.0-1.el8_7.alma.ppc64le.rpm",
+        "sum": "7ec72333fa9c357a41d74587363432790aec5d1274e49480d26018c314ed774c",
         "sum_type": 5,
         "reboot_suggested": 0
       }

@@ -8,21 +8,9 @@
     "$date": 1604406782000
   },
   "pkglist": {
-    "name": "almalinux-8-for-ppc64le-appstream-rpms__8_1_httpd",
-    "shortname": "almalinux-8-for-ppc64le-appstream-rpms__8_1_httpd",
+    "name": "almalinux-8-for-aarch64-appstream-rpms__8_1_httpd",
+    "shortname": "almalinux-8-for-aarch64-appstream-rpms__8_1_httpd",
     "packages": [
-      {
-        "name": "mod_md",
-        "version": "2.0.8",
-        "release": "8.module_el8.6.0+2872+fe0ff7aa",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "mod_md-2.0.8-8.module_el8.6.0+2872+fe0ff7aa.src.rpm",
-        "filename": "mod_md-2.0.8-8.module_el8.6.0+2872+fe0ff7aa.ppc64le.rpm",
-        "sum": "1a26f7d2af339e6769c26359dbdc9aa33083ab2b7d43c69c006dfafb57b05ac6",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "mod_md",
         "version": "2.0.8",
@@ -58,18 +46,36 @@
         "sum": "3b1e101e6a9192ff94ee4d007aff494cf5631948586568da7a1c6ac1255c8a68",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "mod_md",
+        "version": "2.0.8",
+        "release": "8.module_el8.6.0+2872+fe0ff7aa",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "mod_md-2.0.8-8.module_el8.6.0+2872+fe0ff7aa.src.rpm",
+        "filename": "mod_md-2.0.8-8.module_el8.6.0+2872+fe0ff7aa.ppc64le.rpm",
+        "sum": "1a26f7d2af339e6769c26359dbdc9aa33083ab2b7d43c69c006dfafb57b05ac6",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {
       "stream": "2.4",
       "name": "httpd",
       "version": 8060020220622110449,
-      "arch": "ppc64le",
+      "arch": "aarch64",
       "context": "9edba152"
     }
   },
   "pushcount": "3",
   "references": [
+    {
+      "href": "https://errata.almalinux.org/8/ALSA-2020-4751.html",
+      "type": "self",
+      "id": "ALSA-2020-4751",
+      "title": "ALSA-2020-4751"
+    },
     {
       "href": "https://vulners.com/cve/CVE-2018-17189",
       "type": "cve",
@@ -140,7 +146,7 @@
   "title": "Moderate: httpd:2.4 security, bug fix, and enhancement update",
   "type": "security",
   "updated_date": {
-    "$date": 1643182043000
+    "$date": 1604433291000
   },
   "version": "2"
 }

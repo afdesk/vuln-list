@@ -8,9 +8,33 @@
     "$date": 1667347200000
   },
   "pkglist": {
-    "name": "almalinux-9-for-x86_64-rt-rpms__9_default",
-    "shortname": "almalinux-9-for-x86_64-rt-rpms__9_default",
+    "name": "almalinux-9-for-x86_64-nfv-rpms__9_default",
+    "shortname": "almalinux-9-for-x86_64-nfv-rpms__9_default",
     "packages": [
+      {
+        "name": "kernel-rt-kvm",
+        "version": "5.14.0",
+        "release": "70.30.1.rt21.102.el9_0",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "kernel-rt-5.14.0-70.30.1.rt21.102.el9_0.src.rpm",
+        "filename": "kernel-rt-kvm-5.14.0-70.30.1.rt21.102.el9_0.x86_64.rpm",
+        "sum": "30c96183bac63af2dc7e2a55f32ed0842971883b990d4347b55ec3090a0e1d94",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "kernel-rt-debug-kvm",
+        "version": "5.14.0",
+        "release": "70.30.1.rt21.102.el9_0",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "kernel-rt-5.14.0-70.30.1.rt21.102.el9_0.src.rpm",
+        "filename": "kernel-rt-debug-kvm-5.14.0-70.30.1.rt21.102.el9_0.x86_64.rpm",
+        "sum": "40533dcce831261d58318726c1244083f285e46add17cb161c1bbedbaedd266e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "kernel-rt-debug",
         "version": "5.14.0",
@@ -128,30 +152,6 @@
         "src": "kernel-rt-5.14.0-70.30.1.rt21.102.el9_0.src.rpm",
         "filename": "kernel-rt-modules-5.14.0-70.30.1.rt21.102.el9_0.x86_64.rpm",
         "sum": "efeb5eec080b517ffc49c5000802fc719cc351b1a5d45eb8ce8f61bf351b6f6f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "kernel-rt-kvm",
-        "version": "5.14.0",
-        "release": "70.30.1.rt21.102.el9_0",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "kernel-rt-5.14.0-70.30.1.rt21.102.el9_0.src.rpm",
-        "filename": "kernel-rt-kvm-5.14.0-70.30.1.rt21.102.el9_0.x86_64.rpm",
-        "sum": "30c96183bac63af2dc7e2a55f32ed0842971883b990d4347b55ec3090a0e1d94",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "kernel-rt-debug-kvm",
-        "version": "5.14.0",
-        "release": "70.30.1.rt21.102.el9_0",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "kernel-rt-5.14.0-70.30.1.rt21.102.el9_0.src.rpm",
-        "filename": "kernel-rt-debug-kvm-5.14.0-70.30.1.rt21.102.el9_0.x86_64.rpm",
-        "sum": "40533dcce831261d58318726c1244083f285e46add17cb161c1bbedbaedd266e",
         "sum_type": 5,
         "reboot_suggested": 0
       }

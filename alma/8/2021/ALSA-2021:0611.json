@@ -8,33 +8,9 @@
     "$date": 1613658735000
   },
   "pkglist": {
-    "name": "almalinux-8-for-ppc64le-appstream-rpms__8_0_default",
-    "shortname": "almalinux-8-for-ppc64le-appstream-rpms__8_0_default",
+    "name": "almalinux-8-for-aarch64-appstream-rpms__8_0_default",
+    "shortname": "almalinux-8-for-aarch64-appstream-rpms__8_0_default",
     "packages": [
-      {
-        "name": "xterm-resize",
-        "version": "331",
-        "release": "1.el8_3.2",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "xterm-331-1.el8_3.2.src.rpm",
-        "filename": "xterm-resize-331-1.el8_3.2.ppc64le.rpm",
-        "sum": "bc1c2e60d8532a1931806b26b19d39251596622b29010f1bfe2537a5f5645ab2",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "xterm",
-        "version": "331",
-        "release": "1.el8_3.2",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "xterm-331-1.el8_3.2.src.rpm",
-        "filename": "xterm-331-1.el8_3.2.ppc64le.rpm",
-        "sum": "bcf40a3bbd44793432c5260a61e86d1f7c1ac1a646ec8576fc47893a93755d6c",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "xterm",
         "version": "331",
@@ -82,12 +58,42 @@
         "sum": "857d6a2f974f68f3e3e30dca64d9a342b6013ee0571417c15656f64c10a4bee9",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "xterm-resize",
+        "version": "331",
+        "release": "1.el8_3.2",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "xterm-331-1.el8_3.2.src.rpm",
+        "filename": "xterm-resize-331-1.el8_3.2.ppc64le.rpm",
+        "sum": "bc1c2e60d8532a1931806b26b19d39251596622b29010f1bfe2537a5f5645ab2",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xterm",
+        "version": "331",
+        "release": "1.el8_3.2",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "xterm-331-1.el8_3.2.src.rpm",
+        "filename": "xterm-331-1.el8_3.2.ppc64le.rpm",
+        "sum": "bcf40a3bbd44793432c5260a61e86d1f7c1ac1a646ec8576fc47893a93755d6c",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {}
   },
   "pushcount": "2",
   "references": [
+    {
+      "href": "https://errata.almalinux.org/8/ALSA-2021-0611.html",
+      "type": "self",
+      "id": "ALSA-2021-0611",
+      "title": "ALSA-2021-0611"
+    },
     {
       "href": "https://vulners.com/cve/CVE-2021-27135",
       "type": "cve",
@@ -96,7 +102,7 @@
     }
   ],
   "release": "0",
-  "rights": "Copyright 2021 AlmaLinux OS",
+  "rights": "Copyright 2022 AlmaLinux OS",
   "severity": "Important",
   "solution": "",
   "status": "final",
@@ -104,7 +110,7 @@
   "title": "Important: xterm security update",
   "type": "security",
   "updated_date": {
-    "$date": 1636712456000
+    "$date": 1613658735000
   },
   "version": "1"
 }

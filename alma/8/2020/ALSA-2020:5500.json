@@ -8,33 +8,9 @@
     "$date": 1608048223000
   },
   "pkglist": {
-    "name": "almalinux-8-for-ppc64le-appstream-rpms__8_1_mariadb",
-    "shortname": "almalinux-8-for-ppc64le-appstream-rpms__8_1_mariadb",
+    "name": "almalinux-8-for-aarch64-appstream-rpms__8_1_mariadb",
+    "shortname": "almalinux-8-for-aarch64-appstream-rpms__8_1_mariadb",
     "packages": [
-      {
-        "name": "Judy",
-        "version": "1.0.5",
-        "release": "18.module_el8.6.0+2867+72759d2f",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "Judy-1.0.5-18.module_el8.6.0+2867+72759d2f.src.rpm",
-        "filename": "Judy-1.0.5-18.module_el8.6.0+2867+72759d2f.ppc64le.rpm",
-        "sum": "42f8c8f57ae6c40142f826e44310a4fe8b0a5e996c2251190b01c9ea7112babe",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "Judy",
-        "version": "1.0.5",
-        "release": "18.module_el8.6.0+3072+3c630e87",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "Judy-1.0.5-18.module_el8.6.0+3072+3c630e87.src.rpm",
-        "filename": "Judy-1.0.5-18.module_el8.6.0+3072+3c630e87.ppc64le.rpm",
-        "sum": "61e33a89b0b98fba1a137266b47690afb7d6d11b650734648c0855994c5ea423",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "Judy",
         "version": "1.0.5",
@@ -106,18 +82,48 @@
         "sum": "d02fc1640496c6b160680668c7082350371dc946b267813ab6d5de6615c738f1",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "Judy",
+        "version": "1.0.5",
+        "release": "18.module_el8.6.0+2867+72759d2f",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "Judy-1.0.5-18.module_el8.6.0+2867+72759d2f.src.rpm",
+        "filename": "Judy-1.0.5-18.module_el8.6.0+2867+72759d2f.ppc64le.rpm",
+        "sum": "42f8c8f57ae6c40142f826e44310a4fe8b0a5e996c2251190b01c9ea7112babe",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "Judy",
+        "version": "1.0.5",
+        "release": "18.module_el8.6.0+3072+3c630e87",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "Judy-1.0.5-18.module_el8.6.0+3072+3c630e87.src.rpm",
+        "filename": "Judy-1.0.5-18.module_el8.6.0+3072+3c630e87.ppc64le.rpm",
+        "sum": "61e33a89b0b98fba1a137266b47690afb7d6d11b650734648c0855994c5ea423",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {
-      "stream": "10.3",
+      "stream": "10.5",
       "name": "mariadb",
-      "version": 8060020220503130727,
-      "arch": "ppc64le",
+      "version": 8060020220420124706,
+      "arch": "aarch64",
       "context": "9edba152"
     }
   },
   "pushcount": "3",
   "references": [
+    {
+      "href": "https://errata.almalinux.org/8/ALSA-2020-5500.html",
+      "type": "self",
+      "id": "ALSA-2020-5500",
+      "title": "ALSA-2020-5500"
+    },
     {
       "href": "https://vulners.com/cve/CVE-2019-2938",
       "type": "cve",
@@ -230,7 +236,7 @@
   "title": "Important: mariadb:10.3 security, bug fix, and enhancement update",
   "type": "security",
   "updated_date": {
-    "$date": 1651150022000
+    "$date": 1608048201000
   },
   "version": "3"
 }

@@ -8,21 +8,9 @@
     "$date": 1613460882000
   },
   "pkglist": {
-    "name": "almalinux-8-for-ppc64le-appstream-rpms__8_1_nodejs",
-    "shortname": "almalinux-8-for-ppc64le-appstream-rpms__8_1_nodejs",
+    "name": "almalinux-8-for-aarch64-appstream-rpms__8_1_nodejs",
+    "shortname": "almalinux-8-for-aarch64-appstream-rpms__8_1_nodejs",
     "packages": [
-      {
-        "name": "nodejs-packaging",
-        "version": "23",
-        "release": "3.module_el8.5.0+254+b4526b16",
-        "epoch": "0",
-        "arch": "noarch",
-        "src": "nodejs-packaging-23-3.module_el8.5.0+254+b4526b16.src.rpm",
-        "filename": "nodejs-packaging-23-3.module_el8.5.0+254+b4526b16.noarch.rpm",
-        "sum": "46efea0b245114ef59fb19785c77620fd338becc1d36c6c3ecf7e67d916cd8ed",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "nodejs-packaging",
         "version": "23",
@@ -32,6 +20,18 @@
         "src": "nodejs-packaging-23-3.module_el8.5.0+2618+8d46dafd.src.rpm",
         "filename": "nodejs-packaging-23-3.module_el8.5.0+2618+8d46dafd.noarch.rpm",
         "sum": "4eaf7a47bcf25d9511b9d22e4d927a284d4256b063d7ef611908e8475f9d6646",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "nodejs-packaging",
+        "version": "23",
+        "release": "3.module_el8.4.0+2522+3bd42762",
+        "epoch": "0",
+        "arch": "noarch",
+        "src": "nodejs-packaging-23-3.module_el8.4.0+2522+3bd42762.src.rpm",
+        "filename": "nodejs-packaging-23-3.module_el8.4.0+2522+3bd42762.noarch.rpm",
+        "sum": "5ec709f70c833b784601552cba74067eb2a98aecaf8403431e26580abb8601b5",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -48,6 +48,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "nodejs-packaging",
+        "version": "23",
+        "release": "3.module_el8.5.0+254+b4526b16",
+        "epoch": "0",
+        "arch": "noarch",
+        "src": "nodejs-packaging-23-3.module_el8.5.0+254+b4526b16.src.rpm",
+        "filename": "nodejs-packaging-23-3.module_el8.5.0+254+b4526b16.noarch.rpm",
+        "sum": "46efea0b245114ef59fb19785c77620fd338becc1d36c6c3ecf7e67d916cd8ed",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "nodejs-nodemon",
         "version": "2.0.3",
         "release": "1.module_el8.5.0+85+79a7b441",
@@ -58,25 +70,13 @@
         "sum": "f007362d3a814144816c79a4f06b01839221933ecc1e86427df673020715162f",
         "sum_type": 5,
         "reboot_suggested": 0
-      },
-      {
-        "name": "nodejs-packaging",
-        "version": "23",
-        "release": "3.module_el8.4.0+2522+3bd42762",
-        "epoch": "0",
-        "arch": "noarch",
-        "src": "nodejs-packaging-23-3.module_el8.4.0+2522+3bd42762.src.rpm",
-        "filename": "nodejs-packaging-23-3.module_el8.4.0+2522+3bd42762.noarch.rpm",
-        "sum": "5ec709f70c833b784601552cba74067eb2a98aecaf8403431e26580abb8601b5",
-        "sum_type": 5,
-        "reboot_suggested": 0
       }
     ],
     "module": {
       "stream": "12",
       "name": "nodejs",
       "version": 8060020220621120033,
-      "arch": "ppc64le",
+      "arch": "aarch64",
       "context": "9edba152"
     }
   },

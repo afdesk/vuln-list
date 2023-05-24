@@ -8,33 +8,9 @@
     "$date": 1565890450000
   },
   "pkglist": {
-    "name": "almalinux-8-for-ppc64le-appstream-rpms__8_1_subversion",
-    "shortname": "almalinux-8-for-ppc64le-appstream-rpms__8_1_subversion",
+    "name": "almalinux-8-for-aarch64-appstream-rpms__8_1_subversion",
+    "shortname": "almalinux-8-for-aarch64-appstream-rpms__8_1_subversion",
     "packages": [
-      {
-        "name": "libserf",
-        "version": "1.3.9",
-        "release": "9.module_el8.6.0+2912+eb1cdf5a",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "libserf-1.3.9-9.module_el8.6.0+2912+eb1cdf5a.src.rpm",
-        "filename": "libserf-1.3.9-9.module_el8.6.0+2912+eb1cdf5a.ppc64le.rpm",
-        "sum": "228cf984212917fe15e7a26ebba378cf100f2cd5236f4cb00599774fb45a6004",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "utf8proc",
-        "version": "2.1.1",
-        "release": "5.module_el8.6.0+2912+eb1cdf5a",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "utf8proc-2.1.1-5.module_el8.6.0+2912+eb1cdf5a.src.rpm",
-        "filename": "utf8proc-2.1.1-5.module_el8.6.0+2912+eb1cdf5a.ppc64le.rpm",
-        "sum": "eba92002a9b5dbcdd15afa1d99ee1da305bcefee2e702f5d9b81fc76b4ad076d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "utf8proc",
         "version": "2.1.1",
@@ -130,14 +106,38 @@
         "sum": "a07af611dd0acf0010421740fbd3ea62e563ec1f288ab5c56175ef64ea641b72",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "libserf",
+        "version": "1.3.9",
+        "release": "9.module_el8.6.0+2912+eb1cdf5a",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "libserf-1.3.9-9.module_el8.6.0+2912+eb1cdf5a.src.rpm",
+        "filename": "libserf-1.3.9-9.module_el8.6.0+2912+eb1cdf5a.ppc64le.rpm",
+        "sum": "228cf984212917fe15e7a26ebba378cf100f2cd5236f4cb00599774fb45a6004",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "utf8proc",
+        "version": "2.1.1",
+        "release": "5.module_el8.6.0+2912+eb1cdf5a",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "utf8proc-2.1.1-5.module_el8.6.0+2912+eb1cdf5a.src.rpm",
+        "filename": "utf8proc-2.1.1-5.module_el8.6.0+2912+eb1cdf5a.ppc64le.rpm",
+        "sum": "eba92002a9b5dbcdd15afa1d99ee1da305bcefee2e702f5d9b81fc76b4ad076d",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {
       "stream": "1.10",
       "name": "subversion",
-      "version": 8060020220519171127,
-      "arch": "ppc64le",
-      "context": "a51370e3"
+      "version": 8040020210504171021,
+      "arch": "aarch64",
+      "context": "4035eae3"
     }
   },
   "pushcount": "3",

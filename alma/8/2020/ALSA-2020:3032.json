@@ -8,33 +8,9 @@
     "$date": 1595340747000
   },
   "pkglist": {
-    "name": "almalinux-8-for-ppc64le-appstream-rpms__8_1_mod_auth_openidc",
-    "shortname": "almalinux-8-for-ppc64le-appstream-rpms__8_1_mod_auth_openidc",
+    "name": "almalinux-8-for-aarch64-appstream-rpms__8_1_mod_auth_openidc",
+    "shortname": "almalinux-8-for-aarch64-appstream-rpms__8_1_mod_auth_openidc",
     "packages": [
-      {
-        "name": "cjose",
-        "version": "0.6.1",
-        "release": "2.module_el8.6.0+2868+44838709",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "cjose-0.6.1-2.module_el8.6.0+2868+44838709.src.rpm",
-        "filename": "cjose-0.6.1-2.module_el8.6.0+2868+44838709.ppc64le.rpm",
-        "sum": "50f9f0edf053f773e0afd8aaa44a95335d0b46cd887cfaba84036c926a7f9e6f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "cjose-devel",
-        "version": "0.6.1",
-        "release": "2.module_el8.6.0+2868+44838709",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "cjose-0.6.1-2.module_el8.6.0+2868+44838709.src.rpm",
-        "filename": "cjose-devel-0.6.1-2.module_el8.6.0+2868+44838709.ppc64le.rpm",
-        "sum": "83b16fcde70e30fb06e00e472b418dbc8d18ffbb2d31e590d1193adf7e18ff23",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "cjose-devel",
         "version": "0.6.1",
@@ -82,13 +58,37 @@
         "sum": "6d5860007d189cf452f0cd7f520154480c2e65ac40ca5333636efb2c68135bea",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "cjose",
+        "version": "0.6.1",
+        "release": "2.module_el8.6.0+2868+44838709",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "cjose-0.6.1-2.module_el8.6.0+2868+44838709.src.rpm",
+        "filename": "cjose-0.6.1-2.module_el8.6.0+2868+44838709.ppc64le.rpm",
+        "sum": "50f9f0edf053f773e0afd8aaa44a95335d0b46cd887cfaba84036c926a7f9e6f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "cjose-devel",
+        "version": "0.6.1",
+        "release": "2.module_el8.6.0+2868+44838709",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "cjose-0.6.1-2.module_el8.6.0+2868+44838709.src.rpm",
+        "filename": "cjose-devel-0.6.1-2.module_el8.6.0+2868+44838709.ppc64le.rpm",
+        "sum": "83b16fcde70e30fb06e00e472b418dbc8d18ffbb2d31e590d1193adf7e18ff23",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {
       "stream": "2.3",
       "name": "mod_auth_openidc",
       "version": 8060020220503131215,
-      "arch": "ppc64le",
+      "arch": "aarch64",
       "context": "9edba152"
     }
   },

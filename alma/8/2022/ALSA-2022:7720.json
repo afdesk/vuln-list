@@ -156,30 +156,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libss-devel",
-        "version": "1.45.6",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "e2fsprogs-1.45.6-5.el8.src.rpm",
-        "filename": "libss-devel-1.45.6-5.el8.x86_64.rpm",
-        "sum": "67dbb958a2167069958760e093a9c4cb48a532bfad58339de6fdec5adcbc3649",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libss-devel",
-        "version": "1.45.6",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "e2fsprogs-1.45.6-5.el8.src.rpm",
-        "filename": "libss-devel-1.45.6-5.el8.aarch64.rpm",
-        "sum": "30a0e8c526024e0b39fad2e31955369031805705f0d5d0397c992e5d7bfbee46",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libcom_err-devel",
         "version": "1.45.6",
         "release": "5.el8",
@@ -248,6 +224,30 @@
         "src": "e2fsprogs-1.45.6-5.el8.src.rpm",
         "filename": "e2fsprogs-libs-1.45.6-5.el8.aarch64.rpm",
         "sum": "a56babe34b54edba2d02d93f01fb1249713ac1b6ceb0425856b61a6dcae0a1f3",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libss-devel",
+        "version": "1.45.6",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "e2fsprogs-1.45.6-5.el8.src.rpm",
+        "filename": "libss-devel-1.45.6-5.el8.aarch64.rpm",
+        "sum": "30a0e8c526024e0b39fad2e31955369031805705f0d5d0397c992e5d7bfbee46",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libss-devel",
+        "version": "1.45.6",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "e2fsprogs-1.45.6-5.el8.src.rpm",
+        "filename": "libss-devel-1.45.6-5.el8.x86_64.rpm",
+        "sum": "67dbb958a2167069958760e093a9c4cb48a532bfad58339de6fdec5adcbc3649",
         "sum_type": 5,
         "reboot_suggested": 0
       },

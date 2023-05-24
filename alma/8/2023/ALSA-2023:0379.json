@@ -40,30 +40,6 @@
         "version": "3.5.12",
         "release": "9.el8_7",
         "epoch": "0",
-        "arch": "ppc64le",
-        "src": "libXpm-3.5.12-9.el8_7.src.rpm",
-        "filename": "libXpm-devel-3.5.12-9.el8_7.ppc64le.rpm",
-        "sum": "4ecf78b20300ef0b41a69e45325b6ce8c1f49f91efd9847179234df18d811a1f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libXpm",
-        "version": "3.5.12",
-        "release": "9.el8_7",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "libXpm-3.5.12-9.el8_7.src.rpm",
-        "filename": "libXpm-3.5.12-9.el8_7.ppc64le.rpm",
-        "sum": "bb8dce370874a8adedff68b6f0b2a4f60a9f7192c40393f81a0c653096394ab8",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libXpm-devel",
-        "version": "3.5.12",
-        "release": "9.el8_7",
-        "epoch": "0",
         "arch": "aarch64",
         "src": "libXpm-3.5.12-9.el8_7.src.rpm",
         "filename": "libXpm-devel-3.5.12-9.el8_7.aarch64.rpm",
@@ -80,6 +56,30 @@
         "src": "libXpm-3.5.12-9.el8_7.src.rpm",
         "filename": "libXpm-3.5.12-9.el8_7.aarch64.rpm",
         "sum": "466bbc6a6f6ec8a117a83462626740799afe150379a44ff94ed60fd34cb6e571",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libXpm",
+        "version": "3.5.12",
+        "release": "9.el8_7",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "libXpm-3.5.12-9.el8_7.src.rpm",
+        "filename": "libXpm-3.5.12-9.el8_7.x86_64.rpm",
+        "sum": "63faf3357a9a2cb89517c936435e5131f98b9435180a645ede31636472c71d3e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libXpm-devel",
+        "version": "3.5.12",
+        "release": "9.el8_7",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "libXpm-3.5.12-9.el8_7.src.rpm",
+        "filename": "libXpm-devel-3.5.12-9.el8_7.x86_64.rpm",
+        "sum": "a96ee992c5678780a5997b318c9649c8723ee318c4076d04a53ae4ebcca2b859",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -108,26 +108,26 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libXpm",
-        "version": "3.5.12",
-        "release": "9.el8_7",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "libXpm-3.5.12-9.el8_7.src.rpm",
-        "filename": "libXpm-3.5.12-9.el8_7.x86_64.rpm",
-        "sum": "63faf3357a9a2cb89517c936435e5131f98b9435180a645ede31636472c71d3e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libXpm-devel",
         "version": "3.5.12",
         "release": "9.el8_7",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "ppc64le",
         "src": "libXpm-3.5.12-9.el8_7.src.rpm",
-        "filename": "libXpm-devel-3.5.12-9.el8_7.x86_64.rpm",
-        "sum": "a96ee992c5678780a5997b318c9649c8723ee318c4076d04a53ae4ebcca2b859",
+        "filename": "libXpm-devel-3.5.12-9.el8_7.ppc64le.rpm",
+        "sum": "4ecf78b20300ef0b41a69e45325b6ce8c1f49f91efd9847179234df18d811a1f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libXpm",
+        "version": "3.5.12",
+        "release": "9.el8_7",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "libXpm-3.5.12-9.el8_7.src.rpm",
+        "filename": "libXpm-3.5.12-9.el8_7.ppc64le.rpm",
+        "sum": "bb8dce370874a8adedff68b6f0b2a4f60a9f7192c40393f81a0c653096394ab8",
         "sum_type": 5,
         "reboot_suggested": 0
       }

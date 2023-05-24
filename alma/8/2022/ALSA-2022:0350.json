@@ -8,8 +8,8 @@
     "$date": 1643746119000
   },
   "pkglist": {
-    "name": "almalinux-8-for-ppc64le-appstream-rpms__8_1_nodejs",
-    "shortname": "almalinux-8-for-ppc64le-appstream-rpms__8_1_nodejs",
+    "name": "almalinux-8-for-aarch64-appstream-rpms__8_1_nodejs",
+    "shortname": "almalinux-8-for-aarch64-appstream-rpms__8_1_nodejs",
     "packages": [
       {
         "name": "nodejs-nodemon",
@@ -24,18 +24,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "nodejs-full-i18n",
-        "version": "14.18.2",
-        "release": "2.module_el8.5.0+254+b4526b16",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "nodejs-14.18.2-2.module_el8.5.0+254+b4526b16.src.rpm",
-        "filename": "nodejs-full-i18n-14.18.2-2.module_el8.5.0+254+b4526b16.ppc64le.rpm",
-        "sum": "4c638cc892acdd19641523c0fc0b8af9fb7103f939ac6f5d69bf88387a6007c6",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "nodejs-packaging",
         "version": "23",
         "release": "3.module_el8.5.0+2618+8d46dafd",
@@ -44,66 +32,6 @@
         "src": "nodejs-packaging-23-3.module_el8.5.0+2618+8d46dafd.src.rpm",
         "filename": "nodejs-packaging-23-3.module_el8.5.0+2618+8d46dafd.noarch.rpm",
         "sum": "4eaf7a47bcf25d9511b9d22e4d927a284d4256b063d7ef611908e8475f9d6646",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "nodejs-docs",
-        "version": "14.18.2",
-        "release": "2.module_el8.5.0+2618+8d46dafd",
-        "epoch": "1",
-        "arch": "noarch",
-        "src": "nodejs-14.18.2-2.module_el8.5.0+2618+8d46dafd.src.rpm",
-        "filename": "nodejs-docs-14.18.2-2.module_el8.5.0+2618+8d46dafd.noarch.rpm",
-        "sum": "99139122b205766ac12289d6ea0290c93a564fa35e26ca14792a3e274fec23ed",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "nodejs-docs",
-        "version": "14.18.2",
-        "release": "2.module_el8.5.0+254+b4526b16",
-        "epoch": "1",
-        "arch": "noarch",
-        "src": "nodejs-14.18.2-2.module_el8.5.0+254+b4526b16.src.rpm",
-        "filename": "nodejs-docs-14.18.2-2.module_el8.5.0+254+b4526b16.noarch.rpm",
-        "sum": "9e2e37d3ff8b12a13d5e6f1b3cd31c90c5cdcea8b1d7457d66203830c95e0655",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "nodejs-devel",
-        "version": "14.18.2",
-        "release": "2.module_el8.5.0+254+b4526b16",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "nodejs-14.18.2-2.module_el8.5.0+254+b4526b16.src.rpm",
-        "filename": "nodejs-devel-14.18.2-2.module_el8.5.0+254+b4526b16.ppc64le.rpm",
-        "sum": "c76dcb5920fe415fb1ec21e753724c197d312e334ee65ed2e30fd0f2abe4c5ef",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "npm",
-        "version": "6.14.15",
-        "release": "1.14.18.2.2.module_el8.5.0+254+b4526b16",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "nodejs-14.18.2-2.module_el8.5.0+254+b4526b16.src.rpm",
-        "filename": "npm-6.14.15-1.14.18.2.2.module_el8.5.0+254+b4526b16.ppc64le.rpm",
-        "sum": "ea6916e80d1b3ca9983e36522948a34cb15c46493d9fd476adeca1e19674d883",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "nodejs",
-        "version": "14.18.2",
-        "release": "2.module_el8.5.0+254+b4526b16",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "nodejs-14.18.2-2.module_el8.5.0+254+b4526b16.src.rpm",
-        "filename": "nodejs-14.18.2-2.module_el8.5.0+254+b4526b16.ppc64le.rpm",
-        "sum": "f44ba88e8e0e8fd321f3ccad103f715294110bd61ae761a03671a59bf5c737f3",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -152,6 +80,18 @@
         "src": "nodejs-14.18.2-2.module_el8.5.0+2618+8d46dafd.src.rpm",
         "filename": "npm-6.14.15-1.14.18.2.2.module_el8.5.0+2618+8d46dafd.aarch64.rpm",
         "sum": "8dd35d1de1dec79599fba56706f82c7171b22eab565fb10a1d1b5c7a91c48cfb",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "nodejs-docs",
+        "version": "14.18.2",
+        "release": "2.module_el8.5.0+2618+8d46dafd",
+        "epoch": "1",
+        "arch": "noarch",
+        "src": "nodejs-14.18.2-2.module_el8.5.0+2618+8d46dafd.src.rpm",
+        "filename": "nodejs-docs-14.18.2-2.module_el8.5.0+2618+8d46dafd.noarch.rpm",
+        "sum": "99139122b205766ac12289d6ea0290c93a564fa35e26ca14792a3e274fec23ed",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -238,18 +178,84 @@
         "sum": "ee89a92d91e36429ea0536b8de9f36f97ee96a36a5e669125ad8c4834e687f46",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "nodejs-full-i18n",
+        "version": "14.18.2",
+        "release": "2.module_el8.5.0+254+b4526b16",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "nodejs-14.18.2-2.module_el8.5.0+254+b4526b16.src.rpm",
+        "filename": "nodejs-full-i18n-14.18.2-2.module_el8.5.0+254+b4526b16.ppc64le.rpm",
+        "sum": "4c638cc892acdd19641523c0fc0b8af9fb7103f939ac6f5d69bf88387a6007c6",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "nodejs-docs",
+        "version": "14.18.2",
+        "release": "2.module_el8.5.0+254+b4526b16",
+        "epoch": "1",
+        "arch": "noarch",
+        "src": "nodejs-14.18.2-2.module_el8.5.0+254+b4526b16.src.rpm",
+        "filename": "nodejs-docs-14.18.2-2.module_el8.5.0+254+b4526b16.noarch.rpm",
+        "sum": "9e2e37d3ff8b12a13d5e6f1b3cd31c90c5cdcea8b1d7457d66203830c95e0655",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "nodejs-devel",
+        "version": "14.18.2",
+        "release": "2.module_el8.5.0+254+b4526b16",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "nodejs-14.18.2-2.module_el8.5.0+254+b4526b16.src.rpm",
+        "filename": "nodejs-devel-14.18.2-2.module_el8.5.0+254+b4526b16.ppc64le.rpm",
+        "sum": "c76dcb5920fe415fb1ec21e753724c197d312e334ee65ed2e30fd0f2abe4c5ef",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "npm",
+        "version": "6.14.15",
+        "release": "1.14.18.2.2.module_el8.5.0+254+b4526b16",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "nodejs-14.18.2-2.module_el8.5.0+254+b4526b16.src.rpm",
+        "filename": "npm-6.14.15-1.14.18.2.2.module_el8.5.0+254+b4526b16.ppc64le.rpm",
+        "sum": "ea6916e80d1b3ca9983e36522948a34cb15c46493d9fd476adeca1e19674d883",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "nodejs",
+        "version": "14.18.2",
+        "release": "2.module_el8.5.0+254+b4526b16",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "nodejs-14.18.2-2.module_el8.5.0+254+b4526b16.src.rpm",
+        "filename": "nodejs-14.18.2-2.module_el8.5.0+254+b4526b16.ppc64le.rpm",
+        "sum": "f44ba88e8e0e8fd321f3ccad103f715294110bd61ae761a03671a59bf5c737f3",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {
       "stream": "14",
       "name": "nodejs",
-      "version": 8050020220224062516,
-      "arch": "ppc64le",
-      "context": "9edba152"
+      "version": 8050020220203082713,
+      "arch": "aarch64",
+      "context": "c5368500"
     }
   },
   "pushcount": "4",
   "references": [
+    {
+      "href": "https://errata.almalinux.org/8/ALSA-2022-0350.html",
+      "type": "self",
+      "id": "ALSA-2022-0350",
+      "title": "ALSA-2022-0350"
+    },
     {
       "href": "https://vulners.com/cve/CVE-2020-28469",
       "type": "cve",
@@ -314,7 +320,7 @@
   "title": "Moderate: nodejs:14 security, bug fix, and enhancement update",
   "type": "security",
   "updated_date": {
-    "$date": 1643991222000
+    "$date": 1643746054000
   },
   "version": "1"
 }
