@@ -93760,41 +93760,52 @@
     },
     {
       "Check": "at least one",
-      "Comment": "nss-tools is not installed",
+      "Comment": "nss-util is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202143527002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202012413001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202012413012"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "nss-util-devel is not installed",
+      "Comment": "nss-softokn is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202143527004",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202012413002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202012413011"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "nss-softokn-freebl-devel is not installed",
+      "Comment": "nspr is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202143527006",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202012413003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202012413010"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nss-sysinit is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202143527008",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202012413009"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "nss-softokn-devel is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202143527008",
+      "ID": "oval:com.redhat.unaffected:tst:202143527012",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -93804,23 +93815,23 @@
     },
     {
       "Check": "at least one",
-      "Comment": "nss is not installed",
+      "Comment": "nss-util-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202143527014",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202012413005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202012413002"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "nspr-devel is not installed",
+      "Comment": "nss is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202143527016",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202012413006"
+        "ObjectRef": "oval:com.redhat.cve:obj:202012413005"
       },
       "State": {}
     },
@@ -93837,8 +93848,30 @@
     },
     {
       "Check": "at least one",
-      "Comment": "nss-softokn-freebl is not installed",
+      "Comment": "nss-softokn-freebl-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202143527020",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202012413003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nss-tools is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202143527024",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202012413001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nss-softokn-freebl is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202143527026",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -93848,45 +93881,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "nss-sysinit is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202143527022",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202012413009"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "nspr is not installed",
+      "Comment": "nspr-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202143527028",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202012413010"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "nss-softokn is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202143527030",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202012413011"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "nss-util is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202143527032",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202012413012"
+        "ObjectRef": "oval:com.redhat.cve:obj:202012413006"
       },
       "State": {}
     },
