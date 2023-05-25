@@ -8,9 +8,69 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-i686-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-i686-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-ppc64le-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-ppc64le-appstream-rpms__9_2_default",
     "packages": [
+      {
+        "name": "poppler",
+        "version": "21.01.0",
+        "release": "14.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "poppler-21.01.0-14.el9.src.rpm",
+        "filename": "poppler-21.01.0-14.el9.ppc64le.rpm",
+        "sum": "88ed46c04240e8c7cc24ead0e6e710f26555563dce843eedbfe7a2895f09028d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "poppler-qt5",
+        "version": "21.01.0",
+        "release": "14.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "poppler-21.01.0-14.el9.src.rpm",
+        "filename": "poppler-qt5-21.01.0-14.el9.ppc64le.rpm",
+        "sum": "9386af180fc87c347d4f010c27b7b7a4b6d6ab5f26e0c68f8634058f0bf72dbd",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "poppler-cpp",
+        "version": "21.01.0",
+        "release": "14.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "poppler-21.01.0-14.el9.src.rpm",
+        "filename": "poppler-cpp-21.01.0-14.el9.ppc64le.rpm",
+        "sum": "d796a40800e015e834b49c81f8bdd3eb6db56a31e2c71c9dc3ddc83cd231f767",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "poppler-glib",
+        "version": "21.01.0",
+        "release": "14.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "poppler-21.01.0-14.el9.src.rpm",
+        "filename": "poppler-glib-21.01.0-14.el9.ppc64le.rpm",
+        "sum": "d81dd95fea50c56c4ee6825eaaa7a4095f42e5cb8ebfd40b8201c8d128521142",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "poppler-utils",
+        "version": "21.01.0",
+        "release": "14.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "poppler-21.01.0-14.el9.src.rpm",
+        "filename": "poppler-utils-21.01.0-14.el9.ppc64le.rpm",
+        "sum": "ff5cc0a2038e62fdc5cdf89a61d2853962a8de3de50073b896e81020607b0bfa",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "poppler",
         "version": "21.01.0",
@@ -120,14 +180,14 @@
         "reboot_suggested": 0
       },
       {
-        "name": "poppler",
+        "name": "poppler-cpp",
         "version": "21.01.0",
         "release": "14.el9",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "aarch64",
         "src": "poppler-21.01.0-14.el9.src.rpm",
-        "filename": "poppler-21.01.0-14.el9.ppc64le.rpm",
-        "sum": "88ed46c04240e8c7cc24ead0e6e710f26555563dce843eedbfe7a2895f09028d",
+        "filename": "poppler-cpp-21.01.0-14.el9.aarch64.rpm",
+        "sum": "0374f37e355852132b1dc50589d3a79962055b22df6d930319c145ce5505bcbf",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -136,22 +196,10 @@
         "version": "21.01.0",
         "release": "14.el9",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "aarch64",
         "src": "poppler-21.01.0-14.el9.src.rpm",
-        "filename": "poppler-qt5-21.01.0-14.el9.ppc64le.rpm",
-        "sum": "9386af180fc87c347d4f010c27b7b7a4b6d6ab5f26e0c68f8634058f0bf72dbd",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "poppler-cpp",
-        "version": "21.01.0",
-        "release": "14.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "poppler-21.01.0-14.el9.src.rpm",
-        "filename": "poppler-cpp-21.01.0-14.el9.ppc64le.rpm",
-        "sum": "d796a40800e015e834b49c81f8bdd3eb6db56a31e2c71c9dc3ddc83cd231f767",
+        "filename": "poppler-qt5-21.01.0-14.el9.aarch64.rpm",
+        "sum": "715edd724514e80f7556c99008b55ef7dac3f0f5460b0b62e0fee48a766c7f20",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -160,10 +208,10 @@
         "version": "21.01.0",
         "release": "14.el9",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "aarch64",
         "src": "poppler-21.01.0-14.el9.src.rpm",
-        "filename": "poppler-glib-21.01.0-14.el9.ppc64le.rpm",
-        "sum": "d81dd95fea50c56c4ee6825eaaa7a4095f42e5cb8ebfd40b8201c8d128521142",
+        "filename": "poppler-glib-21.01.0-14.el9.aarch64.rpm",
+        "sum": "a1cfa785fb281dffb9c5f961edb720674545b1493638c51022a2bff8aba7f5a0",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -172,10 +220,22 @@
         "version": "21.01.0",
         "release": "14.el9",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "aarch64",
         "src": "poppler-21.01.0-14.el9.src.rpm",
-        "filename": "poppler-utils-21.01.0-14.el9.ppc64le.rpm",
-        "sum": "ff5cc0a2038e62fdc5cdf89a61d2853962a8de3de50073b896e81020607b0bfa",
+        "filename": "poppler-utils-21.01.0-14.el9.aarch64.rpm",
+        "sum": "a4e306cddcfe6a6b3fc478366760af45587010fa1f3c3029e400dc9951b6b432",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "poppler",
+        "version": "21.01.0",
+        "release": "14.el9",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "poppler-21.01.0-14.el9.src.rpm",
+        "filename": "poppler-21.01.0-14.el9.aarch64.rpm",
+        "sum": "ac506923f3e60b28dd66f48134f798ba8f9a50c210152b555c493a8a258874df",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -236,66 +296,6 @@
         "src": "poppler-21.01.0-14.el9.src.rpm",
         "filename": "poppler-qt5-21.01.0-14.el9.s390x.rpm",
         "sum": "e3b7908957e9ac6fb3f5d5f556141bc56b2ffb69766a747cfaba2a1ceaba6d61",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "poppler-cpp",
-        "version": "21.01.0",
-        "release": "14.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "poppler-21.01.0-14.el9.src.rpm",
-        "filename": "poppler-cpp-21.01.0-14.el9.aarch64.rpm",
-        "sum": "0374f37e355852132b1dc50589d3a79962055b22df6d930319c145ce5505bcbf",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "poppler-qt5",
-        "version": "21.01.0",
-        "release": "14.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "poppler-21.01.0-14.el9.src.rpm",
-        "filename": "poppler-qt5-21.01.0-14.el9.aarch64.rpm",
-        "sum": "715edd724514e80f7556c99008b55ef7dac3f0f5460b0b62e0fee48a766c7f20",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "poppler-glib",
-        "version": "21.01.0",
-        "release": "14.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "poppler-21.01.0-14.el9.src.rpm",
-        "filename": "poppler-glib-21.01.0-14.el9.aarch64.rpm",
-        "sum": "a1cfa785fb281dffb9c5f961edb720674545b1493638c51022a2bff8aba7f5a0",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "poppler-utils",
-        "version": "21.01.0",
-        "release": "14.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "poppler-21.01.0-14.el9.src.rpm",
-        "filename": "poppler-utils-21.01.0-14.el9.aarch64.rpm",
-        "sum": "a4e306cddcfe6a6b3fc478366760af45587010fa1f3c3029e400dc9951b6b432",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "poppler",
-        "version": "21.01.0",
-        "release": "14.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "poppler-21.01.0-14.el9.src.rpm",
-        "filename": "poppler-21.01.0-14.el9.aarch64.rpm",
-        "sum": "ac506923f3e60b28dd66f48134f798ba8f9a50c210152b555c493a8a258874df",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -396,54 +396,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "poppler-cpp-devel",
-        "version": "21.01.0",
-        "release": "14.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "poppler-21.01.0-14.el9.src.rpm",
-        "filename": "poppler-cpp-devel-21.01.0-14.el9.ppc64le.rpm",
-        "sum": "69a3d256cab8e80e6e10ca275224bbbf66183217cc5e016468d018fe890bdcf4",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "poppler-qt5-devel",
-        "version": "21.01.0",
-        "release": "14.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "poppler-21.01.0-14.el9.src.rpm",
-        "filename": "poppler-qt5-devel-21.01.0-14.el9.ppc64le.rpm",
-        "sum": "97fddc350dc0447b977d11767943eb157cd11f63a8068f4cc6b7caa763d52337",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "poppler-glib-devel",
-        "version": "21.01.0",
-        "release": "14.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "poppler-21.01.0-14.el9.src.rpm",
-        "filename": "poppler-glib-devel-21.01.0-14.el9.ppc64le.rpm",
-        "sum": "9e163c13b960e96cdfb6351a0adf286bcb1d64c4b8488a4ef5b443f172eee4c6",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "poppler-devel",
-        "version": "21.01.0",
-        "release": "14.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "poppler-21.01.0-14.el9.src.rpm",
-        "filename": "poppler-devel-21.01.0-14.el9.ppc64le.rpm",
-        "sum": "d4159db57ce1c2c81337d95f73a1edaa5140e969f327d7f34ab1989f76219977",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "poppler-glib-devel",
         "version": "21.01.0",
         "release": "14.el9",
@@ -538,6 +490,54 @@
         "sum": "b96fd7fa83ef584859396b3a2fe51dbf0e1cb2154ceda91096c4013cd36bf0ed",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "poppler-cpp-devel",
+        "version": "21.01.0",
+        "release": "14.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "poppler-21.01.0-14.el9.src.rpm",
+        "filename": "poppler-cpp-devel-21.01.0-14.el9.ppc64le.rpm",
+        "sum": "69a3d256cab8e80e6e10ca275224bbbf66183217cc5e016468d018fe890bdcf4",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "poppler-qt5-devel",
+        "version": "21.01.0",
+        "release": "14.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "poppler-21.01.0-14.el9.src.rpm",
+        "filename": "poppler-qt5-devel-21.01.0-14.el9.ppc64le.rpm",
+        "sum": "97fddc350dc0447b977d11767943eb157cd11f63a8068f4cc6b7caa763d52337",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "poppler-glib-devel",
+        "version": "21.01.0",
+        "release": "14.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "poppler-21.01.0-14.el9.src.rpm",
+        "filename": "poppler-glib-devel-21.01.0-14.el9.ppc64le.rpm",
+        "sum": "9e163c13b960e96cdfb6351a0adf286bcb1d64c4b8488a4ef5b443f172eee4c6",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "poppler-devel",
+        "version": "21.01.0",
+        "release": "14.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "poppler-21.01.0-14.el9.src.rpm",
+        "filename": "poppler-devel-21.01.0-14.el9.ppc64le.rpm",
+        "sum": "d4159db57ce1c2c81337d95f73a1edaa5140e969f327d7f34ab1989f76219977",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {}
@@ -578,7 +578,7 @@
   "title": "Moderate: poppler security and bug fix update",
   "type": "security",
   "updated_date": {
-    "$date": 1683880146000
+    "$date": 1683880145000
   },
   "version": "1"
 }

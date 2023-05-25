@@ -60,42 +60,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "dhcp-server",
-        "version": "4.4.2",
-        "release": "18.b1.el9",
-        "epoch": "12",
-        "arch": "s390x",
-        "src": "dhcp-4.4.2-18.b1.el9.src.rpm",
-        "filename": "dhcp-server-4.4.2-18.b1.el9.s390x.rpm",
-        "sum": "3def6b89d94bb9d2d3afc42cc4ddd4a36968830d7f789533c9e9ca24582c69b8",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dhcp-client",
-        "version": "4.4.2",
-        "release": "18.b1.el9",
-        "epoch": "12",
-        "arch": "s390x",
-        "src": "dhcp-4.4.2-18.b1.el9.src.rpm",
-        "filename": "dhcp-client-4.4.2-18.b1.el9.s390x.rpm",
-        "sum": "5c0d907b6fa4efb5f13f6d9ba631cd196a4145ecc5373d0fb42100eed8ef758e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dhcp-relay",
-        "version": "4.4.2",
-        "release": "18.b1.el9",
-        "epoch": "12",
-        "arch": "s390x",
-        "src": "dhcp-4.4.2-18.b1.el9.src.rpm",
-        "filename": "dhcp-relay-4.4.2-18.b1.el9.s390x.rpm",
-        "sum": "bf63e3c7ade9b1bcd168700ecd2fcaa32c3459aca8e33c2dd07982716aa8a692",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "dhcp-client",
         "version": "4.4.2",
         "release": "18.b1.el9",
@@ -164,6 +128,42 @@
         "src": "dhcp-4.4.2-18.b1.el9.src.rpm",
         "filename": "dhcp-server-4.4.2-18.b1.el9.x86_64.rpm",
         "sum": "c50fb7826bcebb70237d1928c1de995b8b83b630b7f2376fea9d71692045b419",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dhcp-server",
+        "version": "4.4.2",
+        "release": "18.b1.el9",
+        "epoch": "12",
+        "arch": "s390x",
+        "src": "dhcp-4.4.2-18.b1.el9.src.rpm",
+        "filename": "dhcp-server-4.4.2-18.b1.el9.s390x.rpm",
+        "sum": "3def6b89d94bb9d2d3afc42cc4ddd4a36968830d7f789533c9e9ca24582c69b8",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dhcp-client",
+        "version": "4.4.2",
+        "release": "18.b1.el9",
+        "epoch": "12",
+        "arch": "s390x",
+        "src": "dhcp-4.4.2-18.b1.el9.src.rpm",
+        "filename": "dhcp-client-4.4.2-18.b1.el9.s390x.rpm",
+        "sum": "5c0d907b6fa4efb5f13f6d9ba631cd196a4145ecc5373d0fb42100eed8ef758e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dhcp-relay",
+        "version": "4.4.2",
+        "release": "18.b1.el9",
+        "epoch": "12",
+        "arch": "s390x",
+        "src": "dhcp-4.4.2-18.b1.el9.src.rpm",
+        "filename": "dhcp-relay-4.4.2-18.b1.el9.s390x.rpm",
+        "sum": "bf63e3c7ade9b1bcd168700ecd2fcaa32c3459aca8e33c2dd07982716aa8a692",
         "sum_type": 5,
         "reboot_suggested": 0
       }

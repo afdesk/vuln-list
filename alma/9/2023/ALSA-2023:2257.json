@@ -8,9 +8,33 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-i686-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-i686-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-ppc64le-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-ppc64le-appstream-rpms__9_2_default",
     "packages": [
+      {
+        "name": "tigervnc-server-minimal",
+        "version": "1.12.0",
+        "release": "13.el9_2",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "tigervnc-1.12.0-13.el9_2.src.rpm",
+        "filename": "tigervnc-server-minimal-1.12.0-13.el9_2.ppc64le.rpm",
+        "sum": "3b4a90df80a195d2addbaaab8ab0bc093ca204cb41b03d999900e727c6a9d9c0",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "tigervnc-server",
+        "version": "1.12.0",
+        "release": "13.el9_2",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "tigervnc-1.12.0-13.el9_2.src.rpm",
+        "filename": "tigervnc-server-1.12.0-13.el9_2.ppc64le.rpm",
+        "sum": "46cce31da2e08fc0f2f9f751d71930aded6aa2c0a4601cfd5b7fc7aa4bf408c0",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "tigervnc-icons",
         "version": "1.12.0",
@@ -36,6 +60,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "tigervnc",
+        "version": "1.12.0",
+        "release": "13.el9_2",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "tigervnc-1.12.0-13.el9_2.src.rpm",
+        "filename": "tigervnc-1.12.0-13.el9_2.ppc64le.rpm",
+        "sum": "83729cfa29b1ca878404833cd7a8a59ce07ef9de082e22e60b143b48cf9e4ce8",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "tigervnc-selinux",
         "version": "1.12.0",
         "release": "13.el9_2",
@@ -44,6 +80,18 @@
         "src": "tigervnc-1.12.0-13.el9_2.src.rpm",
         "filename": "tigervnc-selinux-1.12.0-13.el9_2.noarch.rpm",
         "sum": "e9b0a7560481052f404e85eabcea26f8ddb5bf6c776c00da92545c70f2dfd578",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "tigervnc-server-module",
+        "version": "1.12.0",
+        "release": "13.el9_2",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "tigervnc-1.12.0-13.el9_2.src.rpm",
+        "filename": "tigervnc-server-module-1.12.0-13.el9_2.ppc64le.rpm",
+        "sum": "fb382aa30520216a43f656a5296f196fa1d7bdeeadf924669cec89c48289869b",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -96,26 +144,14 @@
         "reboot_suggested": 0
       },
       {
-        "name": "tigervnc-server-minimal",
-        "version": "1.12.0",
-        "release": "13.el9_2",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "tigervnc-1.12.0-13.el9_2.src.rpm",
-        "filename": "tigervnc-server-minimal-1.12.0-13.el9_2.ppc64le.rpm",
-        "sum": "3b4a90df80a195d2addbaaab8ab0bc093ca204cb41b03d999900e727c6a9d9c0",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "tigervnc-server",
         "version": "1.12.0",
         "release": "13.el9_2",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "aarch64",
         "src": "tigervnc-1.12.0-13.el9_2.src.rpm",
-        "filename": "tigervnc-server-1.12.0-13.el9_2.ppc64le.rpm",
-        "sum": "46cce31da2e08fc0f2f9f751d71930aded6aa2c0a4601cfd5b7fc7aa4bf408c0",
+        "filename": "tigervnc-server-1.12.0-13.el9_2.aarch64.rpm",
+        "sum": "0720225e6193c04d5534779aa23984fbf6579aa117280d8ab6dd92a0b64ddaf2",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -124,10 +160,22 @@
         "version": "1.12.0",
         "release": "13.el9_2",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "aarch64",
         "src": "tigervnc-1.12.0-13.el9_2.src.rpm",
-        "filename": "tigervnc-1.12.0-13.el9_2.ppc64le.rpm",
-        "sum": "83729cfa29b1ca878404833cd7a8a59ce07ef9de082e22e60b143b48cf9e4ce8",
+        "filename": "tigervnc-1.12.0-13.el9_2.aarch64.rpm",
+        "sum": "5a35674103b0afe28e897ac7eb73172262c4eb16017facb6783b8aeec47ddcc0",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "tigervnc-server-minimal",
+        "version": "1.12.0",
+        "release": "13.el9_2",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "tigervnc-1.12.0-13.el9_2.src.rpm",
+        "filename": "tigervnc-server-minimal-1.12.0-13.el9_2.aarch64.rpm",
+        "sum": "7b50c51b48ae753fdb98539e8235f963a057db4d83e03b26c54bda3615bc2ce0",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -136,10 +184,10 @@
         "version": "1.12.0",
         "release": "13.el9_2",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "aarch64",
         "src": "tigervnc-1.12.0-13.el9_2.src.rpm",
-        "filename": "tigervnc-server-module-1.12.0-13.el9_2.ppc64le.rpm",
-        "sum": "fb382aa30520216a43f656a5296f196fa1d7bdeeadf924669cec89c48289869b",
+        "filename": "tigervnc-server-module-1.12.0-13.el9_2.aarch64.rpm",
+        "sum": "acefe82602a32786205f281fddefffeb63ea5fe8fd77dd76ff6f4d82b2518ffe",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -188,54 +236,6 @@
         "src": "tigervnc-1.12.0-13.el9_2.src.rpm",
         "filename": "tigervnc-server-1.12.0-13.el9_2.s390x.rpm",
         "sum": "a9990f4401a3ff0d6a27fb2bd36938327882b01baf8b7533a8b886c8cb1f81b1",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "tigervnc-server",
-        "version": "1.12.0",
-        "release": "13.el9_2",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "tigervnc-1.12.0-13.el9_2.src.rpm",
-        "filename": "tigervnc-server-1.12.0-13.el9_2.aarch64.rpm",
-        "sum": "0720225e6193c04d5534779aa23984fbf6579aa117280d8ab6dd92a0b64ddaf2",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "tigervnc",
-        "version": "1.12.0",
-        "release": "13.el9_2",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "tigervnc-1.12.0-13.el9_2.src.rpm",
-        "filename": "tigervnc-1.12.0-13.el9_2.aarch64.rpm",
-        "sum": "5a35674103b0afe28e897ac7eb73172262c4eb16017facb6783b8aeec47ddcc0",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "tigervnc-server-minimal",
-        "version": "1.12.0",
-        "release": "13.el9_2",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "tigervnc-1.12.0-13.el9_2.src.rpm",
-        "filename": "tigervnc-server-minimal-1.12.0-13.el9_2.aarch64.rpm",
-        "sum": "7b50c51b48ae753fdb98539e8235f963a057db4d83e03b26c54bda3615bc2ce0",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "tigervnc-server-module",
-        "version": "1.12.0",
-        "release": "13.el9_2",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "tigervnc-1.12.0-13.el9_2.src.rpm",
-        "filename": "tigervnc-server-module-1.12.0-13.el9_2.aarch64.rpm",
-        "sum": "acefe82602a32786205f281fddefffeb63ea5fe8fd77dd76ff6f4d82b2518ffe",
         "sum_type": 5,
         "reboot_suggested": 0
       }

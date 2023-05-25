@@ -8,9 +8,21 @@
     "$date": 1668470400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-i686-appstream-rpms__9_1_default",
-    "shortname": "almalinux-9-for-i686-appstream-rpms__9_1_default",
+    "name": "almalinux-9-for-ppc64le-appstream-rpms__9_1_default",
+    "shortname": "almalinux-9-for-ppc64le-appstream-rpms__9_1_default",
     "packages": [
+      {
+        "name": "yajl",
+        "version": "2.1.0",
+        "release": "21.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "yajl-2.1.0-21.el9.src.rpm",
+        "filename": "yajl-2.1.0-21.el9.ppc64le.rpm",
+        "sum": "74b71a14e6c2a92fa1017c1161f525848caffff2f98db8911072dca4fa663c11",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "yajl",
         "version": "2.1.0",
@@ -40,10 +52,10 @@
         "version": "2.1.0",
         "release": "21.el9",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "aarch64",
         "src": "yajl-2.1.0-21.el9.src.rpm",
-        "filename": "yajl-2.1.0-21.el9.ppc64le.rpm",
-        "sum": "74b71a14e6c2a92fa1017c1161f525848caffff2f98db8911072dca4fa663c11",
+        "filename": "yajl-2.1.0-21.el9.aarch64.rpm",
+        "sum": "cbf3d8477e48def168d4e8d52b56c395da9301accfa20a72f41ef4c6e06f3c91",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -56,18 +68,6 @@
         "src": "yajl-2.1.0-21.el9.src.rpm",
         "filename": "yajl-2.1.0-21.el9.s390x.rpm",
         "sum": "abb1f940d171238b3d165c8818b677c36cff267d3e154fbc10080e41badd6a6a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "yajl",
-        "version": "2.1.0",
-        "release": "21.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "yajl-2.1.0-21.el9.src.rpm",
-        "filename": "yajl-2.1.0-21.el9.aarch64.rpm",
-        "sum": "cbf3d8477e48def168d4e8d52b56c395da9301accfa20a72f41ef4c6e06f3c91",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -100,18 +100,6 @@
         "version": "2.1.0",
         "release": "21.el9",
         "epoch": "0",
-        "arch": "ppc64le",
-        "src": "yajl-2.1.0-21.el9.src.rpm",
-        "filename": "yajl-devel-2.1.0-21.el9.ppc64le.rpm",
-        "sum": "a9d6343b6519c7a47f470397e8cac7fbf6b6bb6bbfa34353e4b622f68971328a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "yajl-devel",
-        "version": "2.1.0",
-        "release": "21.el9",
-        "epoch": "0",
         "arch": "aarch64",
         "src": "yajl-2.1.0-21.el9.src.rpm",
         "filename": "yajl-devel-2.1.0-21.el9.aarch64.rpm",
@@ -128,6 +116,18 @@
         "src": "yajl-2.1.0-21.el9.src.rpm",
         "filename": "yajl-devel-2.1.0-21.el9.s390x.rpm",
         "sum": "4824643d9d415ef368b5a9501ade5510dd10223c8248793d2af79650a2072e25",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "yajl-devel",
+        "version": "2.1.0",
+        "release": "21.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "yajl-2.1.0-21.el9.src.rpm",
+        "filename": "yajl-devel-2.1.0-21.el9.ppc64le.rpm",
+        "sum": "a9d6343b6519c7a47f470397e8cac7fbf6b6bb6bbfa34353e4b622f68971328a",
         "sum_type": 5,
         "reboot_suggested": 0
       }
