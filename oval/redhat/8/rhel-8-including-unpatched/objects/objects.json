@@ -10006,11 +10006,6 @@
       "Name": "xterm-resize"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202245063003",
-      "Version": "636",
-      "Name": "xterm-debugsource"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202247016001",
       "Version": "636",
       "Name": "tmux"
@@ -20424,6 +20419,11 @@
       "ID": "oval:com.redhat.unaffected:obj:20221955001",
       "Version": "635",
       "Name": "perl-SNMP_Session"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202224130001",
+      "Version": "635",
+      "Name": "xterm-debugsource"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202224785009",
