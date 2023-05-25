@@ -1999,12 +1999,45 @@
     },
     {
       "Check": "at least one",
-      "Comment": "microshift is not installed",
+      "Comment": "microshift-networking is not installed",
       "ID": "oval:com.redhat.unaffected:tst:201817419002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202324534010"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201817419004",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20223294001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-selinux is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201817419006",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202324534013"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-release-info is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201817419008",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202324534014"
       },
       "State": {}
     },
@@ -2476,45 +2509,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "microshift-networking is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202228948012",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324534010"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "openshift-clients-redistributable is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202228948014",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202138561001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "microshift-release-info is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202228948016",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324534014"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "microshift-selinux is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202228948020",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324534013"
       },
       "State": {}
     },
