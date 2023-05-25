@@ -36,54 +36,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "gstreamer1-plugins-good-gtk",
-        "version": "1.18.4",
-        "release": "6.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
-        "filename": "gstreamer1-plugins-good-gtk-1.18.4-6.el9.aarch64.rpm",
-        "sum": "49c835d13d1f46547afa69033e0e80b9280793c0007da9181a1ac9fa69ba0e32",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gstreamer1-plugins-good",
-        "version": "1.18.4",
-        "release": "6.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
-        "filename": "gstreamer1-plugins-good-1.18.4-6.el9.aarch64.rpm",
-        "sum": "fa8c1dce749679546e818d36b5666c74f4a06de40a2a0533bafefeccd42739b4",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gstreamer1-plugins-good-gtk",
-        "version": "1.18.4",
-        "release": "6.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
-        "filename": "gstreamer1-plugins-good-gtk-1.18.4-6.el9.s390x.rpm",
-        "sum": "7e003330072f1b390a597ea7dba37121dcb57c6c285d223e934da036c493d363",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gstreamer1-plugins-good",
-        "version": "1.18.4",
-        "release": "6.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
-        "filename": "gstreamer1-plugins-good-1.18.4-6.el9.s390x.rpm",
-        "sum": "d959fb3d2b3c7df6cfb10855d02200b8bd358b6d4c1bddba11caa4fba4a0ef81",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "gstreamer1-plugins-good",
         "version": "1.18.4",
         "release": "6.el9",
@@ -128,6 +80,54 @@
         "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
         "filename": "gstreamer1-plugins-good-1.18.4-6.el9.ppc64le.rpm",
         "sum": "f11251a3ee383170c26f982caf4c7f3d8efc1a818cedbf85ad15d4e260cce480",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gstreamer1-plugins-good-gtk",
+        "version": "1.18.4",
+        "release": "6.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
+        "filename": "gstreamer1-plugins-good-gtk-1.18.4-6.el9.s390x.rpm",
+        "sum": "7e003330072f1b390a597ea7dba37121dcb57c6c285d223e934da036c493d363",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gstreamer1-plugins-good",
+        "version": "1.18.4",
+        "release": "6.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
+        "filename": "gstreamer1-plugins-good-1.18.4-6.el9.s390x.rpm",
+        "sum": "d959fb3d2b3c7df6cfb10855d02200b8bd358b6d4c1bddba11caa4fba4a0ef81",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gstreamer1-plugins-good-gtk",
+        "version": "1.18.4",
+        "release": "6.el9",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
+        "filename": "gstreamer1-plugins-good-gtk-1.18.4-6.el9.aarch64.rpm",
+        "sum": "49c835d13d1f46547afa69033e0e80b9280793c0007da9181a1ac9fa69ba0e32",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gstreamer1-plugins-good",
+        "version": "1.18.4",
+        "release": "6.el9",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
+        "filename": "gstreamer1-plugins-good-1.18.4-6.el9.aarch64.rpm",
+        "sum": "fa8c1dce749679546e818d36b5666c74f4a06de40a2a0533bafefeccd42739b4",
         "sum_type": 5,
         "reboot_suggested": 0
       }

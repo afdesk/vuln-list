@@ -36,30 +36,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libXpm-devel",
-        "version": "3.5.12",
-        "release": "9.el8_7",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "libXpm-3.5.12-9.el8_7.src.rpm",
-        "filename": "libXpm-devel-3.5.12-9.el8_7.aarch64.rpm",
-        "sum": "2f0543bbdf0a6790c878019d175e637b8b53ce6f75d065298cd9ae3af7f36c8c",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libXpm",
-        "version": "3.5.12",
-        "release": "9.el8_7",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "libXpm-3.5.12-9.el8_7.src.rpm",
-        "filename": "libXpm-3.5.12-9.el8_7.aarch64.rpm",
-        "sum": "466bbc6a6f6ec8a117a83462626740799afe150379a44ff94ed60fd34cb6e571",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libXpm",
         "version": "3.5.12",
         "release": "9.el8_7",
@@ -80,6 +56,30 @@
         "src": "libXpm-3.5.12-9.el8_7.src.rpm",
         "filename": "libXpm-devel-3.5.12-9.el8_7.x86_64.rpm",
         "sum": "a96ee992c5678780a5997b318c9649c8723ee318c4076d04a53ae4ebcca2b859",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libXpm-devel",
+        "version": "3.5.12",
+        "release": "9.el8_7",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "libXpm-3.5.12-9.el8_7.src.rpm",
+        "filename": "libXpm-devel-3.5.12-9.el8_7.aarch64.rpm",
+        "sum": "2f0543bbdf0a6790c878019d175e637b8b53ce6f75d065298cd9ae3af7f36c8c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libXpm",
+        "version": "3.5.12",
+        "release": "9.el8_7",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "libXpm-3.5.12-9.el8_7.src.rpm",
+        "filename": "libXpm-3.5.12-9.el8_7.aarch64.rpm",
+        "sum": "466bbc6a6f6ec8a117a83462626740799afe150379a44ff94ed60fd34cb6e571",
         "sum_type": 5,
         "reboot_suggested": 0
       },

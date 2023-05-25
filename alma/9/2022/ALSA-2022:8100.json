@@ -8,30 +8,18 @@
     "$date": 1668470400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_1_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_1_default",
+    "name": "almalinux-9-for-x86_64-appstream-rpms__9_1_default",
+    "shortname": "almalinux-9-for-x86_64-appstream-rpms__9_1_default",
     "packages": [
-      {
-        "name": "swtpm",
-        "version": "0.7.0",
-        "release": "3.20211109gitb79fd91.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "swtpm-0.7.0-3.20211109gitb79fd91.el9.src.rpm",
-        "filename": "swtpm-0.7.0-3.20211109gitb79fd91.el9.aarch64.rpm",
-        "sum": "17c5dc45ed25a16d3570737cd97b8d9561d095716549c11e3e47b22cff7610e2",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "swtpm-tools",
         "version": "0.7.0",
         "release": "3.20211109gitb79fd91.el9",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "x86_64",
         "src": "swtpm-0.7.0-3.20211109gitb79fd91.el9.src.rpm",
-        "filename": "swtpm-tools-0.7.0-3.20211109gitb79fd91.el9.aarch64.rpm",
-        "sum": "4d65451972d8bddf0a02b077d028f9de734a047c8b05e968b95ef40b39183cea",
+        "filename": "swtpm-tools-0.7.0-3.20211109gitb79fd91.el9.x86_64.rpm",
+        "sum": "6208371bb6f46047ec02f39ef890f088752ad6fa425f32fe4c2913571052db98",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -40,10 +28,22 @@
         "version": "0.7.0",
         "release": "3.20211109gitb79fd91.el9",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "x86_64",
         "src": "swtpm-0.7.0-3.20211109gitb79fd91.el9.src.rpm",
-        "filename": "swtpm-libs-0.7.0-3.20211109gitb79fd91.el9.aarch64.rpm",
-        "sum": "520ad2a0bad7484c1a78c759eb68f7fa9016ded501cb34f630c8ba1223b700d5",
+        "filename": "swtpm-libs-0.7.0-3.20211109gitb79fd91.el9.x86_64.rpm",
+        "sum": "94ad1db90b60a3fc16c95c5d17ab8a384e9d3498436f3ede3f8ad892e64eefff",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "swtpm",
+        "version": "0.7.0",
+        "release": "3.20211109gitb79fd91.el9",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "swtpm-0.7.0-3.20211109gitb79fd91.el9.src.rpm",
+        "filename": "swtpm-0.7.0-3.20211109gitb79fd91.el9.x86_64.rpm",
+        "sum": "b5aa5e41ebf345c2c5991d6d00de5a6313f8ebf4dd6f6d7264fa979a779d6df0",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -84,14 +84,26 @@
         "reboot_suggested": 0
       },
       {
+        "name": "swtpm",
+        "version": "0.7.0",
+        "release": "3.20211109gitb79fd91.el9",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "swtpm-0.7.0-3.20211109gitb79fd91.el9.src.rpm",
+        "filename": "swtpm-0.7.0-3.20211109gitb79fd91.el9.aarch64.rpm",
+        "sum": "17c5dc45ed25a16d3570737cd97b8d9561d095716549c11e3e47b22cff7610e2",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "swtpm-tools",
         "version": "0.7.0",
         "release": "3.20211109gitb79fd91.el9",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "aarch64",
         "src": "swtpm-0.7.0-3.20211109gitb79fd91.el9.src.rpm",
-        "filename": "swtpm-tools-0.7.0-3.20211109gitb79fd91.el9.x86_64.rpm",
-        "sum": "6208371bb6f46047ec02f39ef890f088752ad6fa425f32fe4c2913571052db98",
+        "filename": "swtpm-tools-0.7.0-3.20211109gitb79fd91.el9.aarch64.rpm",
+        "sum": "4d65451972d8bddf0a02b077d028f9de734a047c8b05e968b95ef40b39183cea",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -100,22 +112,10 @@
         "version": "0.7.0",
         "release": "3.20211109gitb79fd91.el9",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "aarch64",
         "src": "swtpm-0.7.0-3.20211109gitb79fd91.el9.src.rpm",
-        "filename": "swtpm-libs-0.7.0-3.20211109gitb79fd91.el9.x86_64.rpm",
-        "sum": "94ad1db90b60a3fc16c95c5d17ab8a384e9d3498436f3ede3f8ad892e64eefff",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "swtpm",
-        "version": "0.7.0",
-        "release": "3.20211109gitb79fd91.el9",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "swtpm-0.7.0-3.20211109gitb79fd91.el9.src.rpm",
-        "filename": "swtpm-0.7.0-3.20211109gitb79fd91.el9.x86_64.rpm",
-        "sum": "b5aa5e41ebf345c2c5991d6d00de5a6313f8ebf4dd6f6d7264fa979a779d6df0",
+        "filename": "swtpm-libs-0.7.0-3.20211109gitb79fd91.el9.aarch64.rpm",
+        "sum": "520ad2a0bad7484c1a78c759eb68f7fa9016ded501cb34f630c8ba1223b700d5",
         "sum_type": 5,
         "reboot_suggested": 0
       }

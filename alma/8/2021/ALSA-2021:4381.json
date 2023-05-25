@@ -852,18 +852,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "gnome-software-devel",
-        "version": "3.36.1",
-        "release": "10.el8",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "gnome-software-3.36.1-10.el8.src.rpm",
-        "filename": "gnome-software-devel-3.36.1-10.el8.aarch64.rpm",
-        "sum": "9273b479534b2fedc6e525165e98bb31b708d0f1073c9a845368d539e95e3ab0",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "gnome-software",
         "version": "3.36.1",
         "release": "10.el8",
@@ -956,6 +944,18 @@
         "src": "accountsservice-0.6.55-2.el8.src.rpm",
         "filename": "accountsservice-devel-0.6.55-2.el8.i686.rpm",
         "sum": "ec06bb263abcfff3781cb1da669f17ebb19c8f35278a36c09d28b822cef5f163",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gnome-software-devel",
+        "version": "3.36.1",
+        "release": "10.el8",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "gnome-software-3.36.1-10.el8.src.rpm",
+        "filename": "gnome-software-devel-3.36.1-10.el8.aarch64.rpm",
+        "sum": "9273b479534b2fedc6e525165e98bb31b708d0f1073c9a845368d539e95e3ab0",
         "sum_type": 5,
         "reboot_suggested": 0
       },

@@ -8,33 +8,9 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-x86_64-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-x86_64-appstream-rpms__9_2_default",
     "packages": [
-      {
-        "name": "xorg-x11-server-Xwayland",
-        "version": "21.1.3",
-        "release": "7.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "xorg-x11-server-Xwayland-21.1.3-7.el9.src.rpm",
-        "filename": "xorg-x11-server-Xwayland-21.1.3-7.el9.aarch64.rpm",
-        "sum": "ba61e1963df36dcb958f61962ef134f7d9ef2aca3a46957a1a44bff041234cc5",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "xorg-x11-server-Xwayland",
-        "version": "21.1.3",
-        "release": "7.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "xorg-x11-server-Xwayland-21.1.3-7.el9.src.rpm",
-        "filename": "xorg-x11-server-Xwayland-21.1.3-7.el9.s390x.rpm",
-        "sum": "0de9fadda6bc1d4c64e49f3d9b8b6cc813867779cc4d69f1034a2bb191a7f334",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "xorg-x11-server-Xwayland",
         "version": "21.1.3",
@@ -56,6 +32,30 @@
         "src": "xorg-x11-server-Xwayland-21.1.3-7.el9.src.rpm",
         "filename": "xorg-x11-server-Xwayland-21.1.3-7.el9.ppc64le.rpm",
         "sum": "5e5c6d79c383733873dd6132fe349801794ef5547989254398b9143d1ac22865",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xorg-x11-server-Xwayland",
+        "version": "21.1.3",
+        "release": "7.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "xorg-x11-server-Xwayland-21.1.3-7.el9.src.rpm",
+        "filename": "xorg-x11-server-Xwayland-21.1.3-7.el9.s390x.rpm",
+        "sum": "0de9fadda6bc1d4c64e49f3d9b8b6cc813867779cc4d69f1034a2bb191a7f334",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xorg-x11-server-Xwayland",
+        "version": "21.1.3",
+        "release": "7.el9",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "xorg-x11-server-Xwayland-21.1.3-7.el9.src.rpm",
+        "filename": "xorg-x11-server-Xwayland-21.1.3-7.el9.aarch64.rpm",
+        "sum": "ba61e1963df36dcb958f61962ef134f7d9ef2aca3a46957a1a44bff041234cc5",
         "sum_type": 5,
         "reboot_suggested": 0
       }

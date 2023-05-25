@@ -60,30 +60,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "fence-agents-kubevirt",
-        "version": "4.10.0",
-        "release": "43.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "fence-agents-4.10.0-43.el9.src.rpm",
-        "filename": "fence-agents-kubevirt-4.10.0-43.el9.aarch64.rpm",
-        "sum": "46bc2c6ccd35a7bd209f6a61c8be610893da3697dca10b2a036ef9a588e478c2",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "fence-agents-kubevirt",
-        "version": "4.10.0",
-        "release": "43.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "fence-agents-4.10.0-43.el9.src.rpm",
-        "filename": "fence-agents-kubevirt-4.10.0-43.el9.s390x.rpm",
-        "sum": "eae1582175ef8f4afbd1b8381cb0d3dad2f5958df5f32d8483633747950aa7fd",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "fence-virt",
         "version": "4.10.0",
         "release": "43.el9",
@@ -212,6 +188,30 @@
         "src": "fence-agents-4.10.0-43.el9.src.rpm",
         "filename": "fence-agents-kubevirt-4.10.0-43.el9.ppc64le.rpm",
         "sum": "d582c44cc06129687bd25afac34e64bc602df1a546c1397847d884b9aced3072",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "fence-agents-kubevirt",
+        "version": "4.10.0",
+        "release": "43.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "fence-agents-4.10.0-43.el9.src.rpm",
+        "filename": "fence-agents-kubevirt-4.10.0-43.el9.s390x.rpm",
+        "sum": "eae1582175ef8f4afbd1b8381cb0d3dad2f5958df5f32d8483633747950aa7fd",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "fence-agents-kubevirt",
+        "version": "4.10.0",
+        "release": "43.el9",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "fence-agents-4.10.0-43.el9.src.rpm",
+        "filename": "fence-agents-kubevirt-4.10.0-43.el9.aarch64.rpm",
+        "sum": "46bc2c6ccd35a7bd209f6a61c8be610893da3697dca10b2a036ef9a588e478c2",
         "sum_type": 5,
         "reboot_suggested": 0
       },
