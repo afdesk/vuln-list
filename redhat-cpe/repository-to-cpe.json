@@ -845,7 +845,9 @@
     "cpe:/a:redhat:ansible_automation_platform_cloud_billing:2.3::el8",
     "cpe:/a:redhat:ansible_automation_platform_cloud_billing:2.4::el8",
     "cpe:/a:redhat:ansible_on_clouds_azure:1.0::el9",
-    "cpe:/a:redhat:ansible_on_clouds_self_managed:1.0::el8"
+    "cpe:/a:redhat:ansible_on_clouds_self_managed:1.0::el8",
+    "cpe:/a:redhat:ansible_on_clouds_self_managed:2.2::el8",
+    "cpe:/a:redhat:ansible_on_clouds_self_managed:2.3::el8"
   ],
   "ansible-automation-platform-azure-billing-for-rhel-8-x86_64-rpms": [
     "cpe:/a:redhat:ansible_automation_platform_azure_billing:2.1::el8",
@@ -853,7 +855,9 @@
     "cpe:/a:redhat:ansible_automation_platform_cloud_billing:2.3::el8",
     "cpe:/a:redhat:ansible_automation_platform_cloud_billing:2.4::el8",
     "cpe:/a:redhat:ansible_on_clouds_azure:1.0::el9",
-    "cpe:/a:redhat:ansible_on_clouds_self_managed:1.0::el8"
+    "cpe:/a:redhat:ansible_on_clouds_self_managed:1.0::el8",
+    "cpe:/a:redhat:ansible_on_clouds_self_managed:2.2::el8",
+    "cpe:/a:redhat:ansible_on_clouds_self_managed:2.3::el8"
   ],
   "ansible-automation-platform-azure-billing-for-rhel-8-x86_64-source-rpms": [
     "cpe:/a:redhat:ansible_automation_platform_azure_billing:2.1::el8",
@@ -861,7 +865,9 @@
     "cpe:/a:redhat:ansible_automation_platform_cloud_billing:2.3::el8",
     "cpe:/a:redhat:ansible_automation_platform_cloud_billing:2.4::el8",
     "cpe:/a:redhat:ansible_on_clouds_azure:1.0::el9",
-    "cpe:/a:redhat:ansible_on_clouds_self_managed:1.0::el8"
+    "cpe:/a:redhat:ansible_on_clouds_self_managed:1.0::el8",
+    "cpe:/a:redhat:ansible_on_clouds_self_managed:2.2::el8",
+    "cpe:/a:redhat:ansible_on_clouds_self_managed:2.3::el8"
   ],
   "ansible-automation-platform-ee-textonly-rpms": [
     "cpe:/a:redhat:ansible_automation_platform:ee::el8"
