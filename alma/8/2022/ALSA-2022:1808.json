@@ -76,6 +76,18 @@
         "version": "0.60.6.1",
         "release": "22.el8",
         "epoch": "12",
+        "arch": "i686",
+        "src": "aspell-0.60.6.1-22.el8.src.rpm",
+        "filename": "aspell-0.60.6.1-22.el8.i686.rpm",
+        "sum": "b2e8b73c18a834ecb60355eabfe353a1a7bb6f432d8429e6432dc2e467f100f2",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "aspell",
+        "version": "0.60.6.1",
+        "release": "22.el8",
+        "epoch": "12",
         "arch": "ppc64le",
         "src": "aspell-0.60.6.1-22.el8.src.rpm",
         "filename": "aspell-0.60.6.1-22.el8.ppc64le.rpm",
@@ -92,18 +104,6 @@
         "src": "aspell-0.60.6.1-22.el8.src.rpm",
         "filename": "aspell-devel-0.60.6.1-22.el8.ppc64le.rpm",
         "sum": "cb730fc917d43c3e528ce7d0c6b4e6d61f9de45d466745d4dcfca78c38dee335",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "aspell",
-        "version": "0.60.6.1",
-        "release": "22.el8",
-        "epoch": "12",
-        "arch": "i686",
-        "src": "aspell-0.60.6.1-22.el8.src.rpm",
-        "filename": "aspell-0.60.6.1-22.el8.i686.rpm",
-        "sum": "b2e8b73c18a834ecb60355eabfe353a1a7bb6f432d8429e6432dc2e467f100f2",
         "sum_type": 5,
         "reboot_suggested": 0
       }

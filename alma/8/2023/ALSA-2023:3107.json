@@ -40,10 +40,10 @@
         "version": "4.9",
         "release": "3.el8_8",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "ppc64le",
         "src": "libreswan-4.9-3.el8_8.src.rpm",
-        "filename": "libreswan-4.9-3.el8_8.s390x.rpm",
-        "sum": "f52dd92560cb99c0412870a0a34b908b3daa3987b3088adaf2344871f2147cbb",
+        "filename": "libreswan-4.9-3.el8_8.ppc64le.rpm",
+        "sum": "b243f099d839bc234911f63b5e4161b270f0116dd9c95a1984cde58dbc72a653",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +52,10 @@
         "version": "4.9",
         "release": "3.el8_8",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "s390x",
         "src": "libreswan-4.9-3.el8_8.src.rpm",
-        "filename": "libreswan-4.9-3.el8_8.ppc64le.rpm",
-        "sum": "b243f099d839bc234911f63b5e4161b270f0116dd9c95a1984cde58dbc72a653",
+        "filename": "libreswan-4.9-3.el8_8.s390x.rpm",
+        "sum": "f52dd92560cb99c0412870a0a34b908b3daa3987b3088adaf2344871f2147cbb",
         "sum_type": 5,
         "reboot_suggested": 0
       }

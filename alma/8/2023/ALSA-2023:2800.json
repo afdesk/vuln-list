@@ -40,10 +40,10 @@
         "version": "11.7.3",
         "release": "9.el8",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "ppc64le",
         "src": "sysstat-11.7.3-9.el8.src.rpm",
-        "filename": "sysstat-11.7.3-9.el8.s390x.rpm",
-        "sum": "f030bf6c8ce5fa4f8750055fa875a0014d23996ded4ee31d0e9bbf6b3174045e",
+        "filename": "sysstat-11.7.3-9.el8.ppc64le.rpm",
+        "sum": "16b6d9856cf53e23a0963579a7fb6272411b352ea2518ab283667e6084a32ee6",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +52,10 @@
         "version": "11.7.3",
         "release": "9.el8",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "s390x",
         "src": "sysstat-11.7.3-9.el8.src.rpm",
-        "filename": "sysstat-11.7.3-9.el8.ppc64le.rpm",
-        "sum": "16b6d9856cf53e23a0963579a7fb6272411b352ea2518ab283667e6084a32ee6",
+        "filename": "sysstat-11.7.3-9.el8.s390x.rpm",
+        "sum": "f030bf6c8ce5fa4f8750055fa875a0014d23996ded4ee31d0e9bbf6b3174045e",
         "sum_type": 5,
         "reboot_suggested": 0
       }

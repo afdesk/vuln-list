@@ -60,30 +60,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "dnsmasq-utils",
-        "version": "2.79",
-        "release": "24.el8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "dnsmasq-2.79-24.el8.src.rpm",
-        "filename": "dnsmasq-utils-2.79-24.el8.s390x.rpm",
-        "sum": "58407a692d5db06f92f9e9667855783c6a9ee66c2f63b6f5e7409aeb97d83c2f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dnsmasq",
-        "version": "2.79",
-        "release": "24.el8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "dnsmasq-2.79-24.el8.src.rpm",
-        "filename": "dnsmasq-2.79-24.el8.s390x.rpm",
-        "sum": "7ab6c0405df447b1cbe38aa24d306b8c74443e5ffb8c36020153c698a663264b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "dnsmasq",
         "version": "2.79",
         "release": "24.el8",
@@ -104,6 +80,30 @@
         "src": "dnsmasq-2.79-24.el8.src.rpm",
         "filename": "dnsmasq-utils-2.79-24.el8.ppc64le.rpm",
         "sum": "7fd77afa059978aeb0d634407e4c17c147b8f57fdbfaa8130fd4340ce29514ca",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dnsmasq-utils",
+        "version": "2.79",
+        "release": "24.el8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "dnsmasq-2.79-24.el8.src.rpm",
+        "filename": "dnsmasq-utils-2.79-24.el8.s390x.rpm",
+        "sum": "58407a692d5db06f92f9e9667855783c6a9ee66c2f63b6f5e7409aeb97d83c2f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dnsmasq",
+        "version": "2.79",
+        "release": "24.el8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "dnsmasq-2.79-24.el8.src.rpm",
+        "filename": "dnsmasq-2.79-24.el8.s390x.rpm",
+        "sum": "7ab6c0405df447b1cbe38aa24d306b8c74443e5ffb8c36020153c698a663264b",
         "sum_type": 5,
         "reboot_suggested": 0
       }

@@ -252,66 +252,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "git-subtree",
-        "version": "2.39.3",
-        "release": "1.el8_8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "git-2.39.3-1.el8_8.src.rpm",
-        "filename": "git-subtree-2.39.3-1.el8_8.s390x.rpm",
-        "sum": "34e7a4fe381f50995c315f28c3519a8ad657b54f4744c0652519e32c20db1025",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "git-credential-libsecret",
-        "version": "2.39.3",
-        "release": "1.el8_8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "git-2.39.3-1.el8_8.src.rpm",
-        "filename": "git-credential-libsecret-2.39.3-1.el8_8.s390x.rpm",
-        "sum": "37877ed3415c3933b2928cffbf4b3badf494dac70767725e7dfa06b05a25233a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "git-daemon",
-        "version": "2.39.3",
-        "release": "1.el8_8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "git-2.39.3-1.el8_8.src.rpm",
-        "filename": "git-daemon-2.39.3-1.el8_8.s390x.rpm",
-        "sum": "3828574613fd06198215ec1ce1e17560e56a94ea714acb6a7543302e4b537793",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "git",
-        "version": "2.39.3",
-        "release": "1.el8_8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "git-2.39.3-1.el8_8.src.rpm",
-        "filename": "git-2.39.3-1.el8_8.s390x.rpm",
-        "sum": "5a60f5bcdd93903016b16c77ce2b3af135033bfd6191b5d66c5b90858fc8dae2",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "git-core",
-        "version": "2.39.3",
-        "release": "1.el8_8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "git-2.39.3-1.el8_8.src.rpm",
-        "filename": "git-core-2.39.3-1.el8_8.s390x.rpm",
-        "sum": "60fc99721e3e7c5db9cca35ad5ab96b07b8fb9728170ab6a56fbeb035eff7851",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "git-credential-libsecret",
         "version": "2.39.3",
         "release": "1.el8_8",
@@ -368,6 +308,66 @@
         "src": "git-2.39.3-1.el8_8.src.rpm",
         "filename": "git-subtree-2.39.3-1.el8_8.ppc64le.rpm",
         "sum": "f2fd900d63de2f6db77958e09f4e574827ac9a2e026e2ed22eddfee29fad0733",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "git-subtree",
+        "version": "2.39.3",
+        "release": "1.el8_8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "git-2.39.3-1.el8_8.src.rpm",
+        "filename": "git-subtree-2.39.3-1.el8_8.s390x.rpm",
+        "sum": "34e7a4fe381f50995c315f28c3519a8ad657b54f4744c0652519e32c20db1025",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "git-credential-libsecret",
+        "version": "2.39.3",
+        "release": "1.el8_8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "git-2.39.3-1.el8_8.src.rpm",
+        "filename": "git-credential-libsecret-2.39.3-1.el8_8.s390x.rpm",
+        "sum": "37877ed3415c3933b2928cffbf4b3badf494dac70767725e7dfa06b05a25233a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "git-daemon",
+        "version": "2.39.3",
+        "release": "1.el8_8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "git-2.39.3-1.el8_8.src.rpm",
+        "filename": "git-daemon-2.39.3-1.el8_8.s390x.rpm",
+        "sum": "3828574613fd06198215ec1ce1e17560e56a94ea714acb6a7543302e4b537793",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "git",
+        "version": "2.39.3",
+        "release": "1.el8_8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "git-2.39.3-1.el8_8.src.rpm",
+        "filename": "git-2.39.3-1.el8_8.s390x.rpm",
+        "sum": "5a60f5bcdd93903016b16c77ce2b3af135033bfd6191b5d66c5b90858fc8dae2",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "git-core",
+        "version": "2.39.3",
+        "release": "1.el8_8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "git-2.39.3-1.el8_8.src.rpm",
+        "filename": "git-core-2.39.3-1.el8_8.s390x.rpm",
+        "sum": "60fc99721e3e7c5db9cca35ad5ab96b07b8fb9728170ab6a56fbeb035eff7851",
         "sum_type": 5,
         "reboot_suggested": 0
       }

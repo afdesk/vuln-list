@@ -156,54 +156,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "webkit2gtk3-jsc",
-        "version": "2.36.7",
-        "release": "1.el8_7.1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "webkit2gtk3-2.36.7-1.el8_7.1.src.rpm",
-        "filename": "webkit2gtk3-jsc-2.36.7-1.el8_7.1.s390x.rpm",
-        "sum": "39266d36aeea88b2b57281f30bee6c8ef5c9fc32e4e78499436c201e1a7feffb",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3-jsc-devel",
-        "version": "2.36.7",
-        "release": "1.el8_7.1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "webkit2gtk3-2.36.7-1.el8_7.1.src.rpm",
-        "filename": "webkit2gtk3-jsc-devel-2.36.7-1.el8_7.1.s390x.rpm",
-        "sum": "3b3ddf777969e722d35b76643bd932475dd373583fb3d0a213f9ee718b701174",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3",
-        "version": "2.36.7",
-        "release": "1.el8_7.1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "webkit2gtk3-2.36.7-1.el8_7.1.src.rpm",
-        "filename": "webkit2gtk3-2.36.7-1.el8_7.1.s390x.rpm",
-        "sum": "ae268b11f7583044bee7cc154e686c711ff8fbe7d223bea6a9fbd07353111b20",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3-devel",
-        "version": "2.36.7",
-        "release": "1.el8_7.1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "webkit2gtk3-2.36.7-1.el8_7.1.src.rpm",
-        "filename": "webkit2gtk3-devel-2.36.7-1.el8_7.1.s390x.rpm",
-        "sum": "d9eabcf9f03e3346d714ee51ae0086d5dcb31b437b916d3f2079766ec9685fa1",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "webkit2gtk3",
         "version": "2.36.7",
         "release": "1.el8_7.1",
@@ -248,6 +200,54 @@
         "src": "webkit2gtk3-2.36.7-1.el8_7.1.src.rpm",
         "filename": "webkit2gtk3-jsc-2.36.7-1.el8_7.1.ppc64le.rpm",
         "sum": "a9b4051c98260b1480668705eeb7674f2391372e1aa1a16584f95629fa4acfd7",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3-jsc",
+        "version": "2.36.7",
+        "release": "1.el8_7.1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "webkit2gtk3-2.36.7-1.el8_7.1.src.rpm",
+        "filename": "webkit2gtk3-jsc-2.36.7-1.el8_7.1.s390x.rpm",
+        "sum": "39266d36aeea88b2b57281f30bee6c8ef5c9fc32e4e78499436c201e1a7feffb",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3-jsc-devel",
+        "version": "2.36.7",
+        "release": "1.el8_7.1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "webkit2gtk3-2.36.7-1.el8_7.1.src.rpm",
+        "filename": "webkit2gtk3-jsc-devel-2.36.7-1.el8_7.1.s390x.rpm",
+        "sum": "3b3ddf777969e722d35b76643bd932475dd373583fb3d0a213f9ee718b701174",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3",
+        "version": "2.36.7",
+        "release": "1.el8_7.1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "webkit2gtk3-2.36.7-1.el8_7.1.src.rpm",
+        "filename": "webkit2gtk3-2.36.7-1.el8_7.1.s390x.rpm",
+        "sum": "ae268b11f7583044bee7cc154e686c711ff8fbe7d223bea6a9fbd07353111b20",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3-devel",
+        "version": "2.36.7",
+        "release": "1.el8_7.1",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "webkit2gtk3-2.36.7-1.el8_7.1.src.rpm",
+        "filename": "webkit2gtk3-devel-2.36.7-1.el8_7.1.s390x.rpm",
+        "sum": "d9eabcf9f03e3346d714ee51ae0086d5dcb31b437b916d3f2079766ec9685fa1",
         "sum_type": 5,
         "reboot_suggested": 0
       }

@@ -84,30 +84,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "fribidi",
-        "version": "1.0.4",
-        "release": "9.el8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "fribidi-1.0.4-9.el8.src.rpm",
-        "filename": "fribidi-1.0.4-9.el8.s390x.rpm",
-        "sum": "78aae8072d9000df17b5376ce5d2da70474566b704f05feb3e9578a7b1ae5609",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "fribidi-devel",
-        "version": "1.0.4",
-        "release": "9.el8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "fribidi-1.0.4-9.el8.src.rpm",
-        "filename": "fribidi-devel-1.0.4-9.el8.s390x.rpm",
-        "sum": "e5791ed5eca53582b6ff9492c4dd7652f1e7507eec8ad644c0dff84ac4634e2b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "fribidi-devel",
         "version": "1.0.4",
         "release": "9.el8",
@@ -128,6 +104,30 @@
         "src": "fribidi-1.0.4-9.el8.src.rpm",
         "filename": "fribidi-1.0.4-9.el8.ppc64le.rpm",
         "sum": "9a5a5db6cc51b493c7dc51892f23fbee18d98d4f595a6ae9273b0a8d3e6c7e6c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "fribidi",
+        "version": "1.0.4",
+        "release": "9.el8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "fribidi-1.0.4-9.el8.src.rpm",
+        "filename": "fribidi-1.0.4-9.el8.s390x.rpm",
+        "sum": "78aae8072d9000df17b5376ce5d2da70474566b704f05feb3e9578a7b1ae5609",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "fribidi-devel",
+        "version": "1.0.4",
+        "release": "9.el8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "fribidi-1.0.4-9.el8.src.rpm",
+        "filename": "fribidi-devel-1.0.4-9.el8.s390x.rpm",
+        "sum": "e5791ed5eca53582b6ff9492c4dd7652f1e7507eec8ad644c0dff84ac4634e2b",
         "sum_type": 5,
         "reboot_suggested": 0
       }

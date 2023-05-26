@@ -40,10 +40,10 @@
         "version": "102.6.0",
         "release": "1.el8_7.alma",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "ppc64le",
         "src": "firefox-102.6.0-1.el8_7.alma.src.rpm",
-        "filename": "firefox-102.6.0-1.el8_7.alma.s390x.rpm",
-        "sum": "d175ccb80abf17aaa4683f98b20244464322125b023d088caba605c064f98827",
+        "filename": "firefox-102.6.0-1.el8_7.alma.ppc64le.rpm",
+        "sum": "ff4649297e1376419f434ab922fe1f5d33e8911b4acf3e463b6d809716c6af5e",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +52,10 @@
         "version": "102.6.0",
         "release": "1.el8_7.alma",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "s390x",
         "src": "firefox-102.6.0-1.el8_7.alma.src.rpm",
-        "filename": "firefox-102.6.0-1.el8_7.alma.ppc64le.rpm",
-        "sum": "ff4649297e1376419f434ab922fe1f5d33e8911b4acf3e463b6d809716c6af5e",
+        "filename": "firefox-102.6.0-1.el8_7.alma.s390x.rpm",
+        "sum": "d175ccb80abf17aaa4683f98b20244464322125b023d088caba605c064f98827",
         "sum_type": 5,
         "reboot_suggested": 0
       }

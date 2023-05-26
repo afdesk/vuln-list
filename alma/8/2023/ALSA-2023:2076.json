@@ -84,30 +84,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libwebp-devel",
-        "version": "1.0.0",
-        "release": "8.el8_7",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "libwebp-1.0.0-8.el8_7.src.rpm",
-        "filename": "libwebp-devel-1.0.0-8.el8_7.s390x.rpm",
-        "sum": "2d74139588799de3854971e376bb595cbe0250147e6b1b0aed1f6e54967b60b4",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libwebp",
-        "version": "1.0.0",
-        "release": "8.el8_7",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "libwebp-1.0.0-8.el8_7.src.rpm",
-        "filename": "libwebp-1.0.0-8.el8_7.s390x.rpm",
-        "sum": "a23566d5c5e6d29f3b9d5dcfeb03d6b7e46eee81109a7d5b35179780bdd50241",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libwebp",
         "version": "1.0.0",
         "release": "8.el8_7",
@@ -128,6 +104,30 @@
         "src": "libwebp-1.0.0-8.el8_7.src.rpm",
         "filename": "libwebp-devel-1.0.0-8.el8_7.ppc64le.rpm",
         "sum": "e6d12d40226e3cb5190f0fbb57e256bff94fbfc3d91bc17b004cdd82b6901631",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libwebp-devel",
+        "version": "1.0.0",
+        "release": "8.el8_7",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "libwebp-1.0.0-8.el8_7.src.rpm",
+        "filename": "libwebp-devel-1.0.0-8.el8_7.s390x.rpm",
+        "sum": "2d74139588799de3854971e376bb595cbe0250147e6b1b0aed1f6e54967b60b4",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libwebp",
+        "version": "1.0.0",
+        "release": "8.el8_7",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "libwebp-1.0.0-8.el8_7.src.rpm",
+        "filename": "libwebp-1.0.0-8.el8_7.s390x.rpm",
+        "sum": "a23566d5c5e6d29f3b9d5dcfeb03d6b7e46eee81109a7d5b35179780bdd50241",
         "sum_type": 5,
         "reboot_suggested": 0
       }

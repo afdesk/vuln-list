@@ -132,54 +132,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "unbound",
-        "version": "1.16.2",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "unbound-1.16.2-5.el8.src.rpm",
-        "filename": "unbound-1.16.2-5.el8.s390x.rpm",
-        "sum": "3689980badc0f75da59469ac3cd767c489eaa42f4225336769a32fe056dbc884",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "python3-unbound",
-        "version": "1.16.2",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "unbound-1.16.2-5.el8.src.rpm",
-        "filename": "python3-unbound-1.16.2-5.el8.s390x.rpm",
-        "sum": "a83f9415a7b0283a10a5e659f6149cba5112108a282b43cd09d5fb90f463d4a8",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "unbound-libs",
-        "version": "1.16.2",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "unbound-1.16.2-5.el8.src.rpm",
-        "filename": "unbound-libs-1.16.2-5.el8.s390x.rpm",
-        "sum": "e5a10b0d761c3927dbeea10c2aeab5426039d2108c2931ddc6ec091e24728f98",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "unbound-devel",
-        "version": "1.16.2",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "unbound-1.16.2-5.el8.src.rpm",
-        "filename": "unbound-devel-1.16.2-5.el8.s390x.rpm",
-        "sum": "e8a18ea7fdff28bda87d5f2c0b2cc17ebb068b6b9c29a330841f3ad67cf38381",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "unbound-devel",
         "version": "1.16.2",
         "release": "5.el8",
@@ -224,6 +176,54 @@
         "src": "unbound-1.16.2-5.el8.src.rpm",
         "filename": "python3-unbound-1.16.2-5.el8.ppc64le.rpm",
         "sum": "baa3e99f6269b7202e4b7ed28b19d4812fa6b2ebeced0d0129868c802d88ff57",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "unbound",
+        "version": "1.16.2",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "unbound-1.16.2-5.el8.src.rpm",
+        "filename": "unbound-1.16.2-5.el8.s390x.rpm",
+        "sum": "3689980badc0f75da59469ac3cd767c489eaa42f4225336769a32fe056dbc884",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "python3-unbound",
+        "version": "1.16.2",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "unbound-1.16.2-5.el8.src.rpm",
+        "filename": "python3-unbound-1.16.2-5.el8.s390x.rpm",
+        "sum": "a83f9415a7b0283a10a5e659f6149cba5112108a282b43cd09d5fb90f463d4a8",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "unbound-libs",
+        "version": "1.16.2",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "unbound-1.16.2-5.el8.src.rpm",
+        "filename": "unbound-libs-1.16.2-5.el8.s390x.rpm",
+        "sum": "e5a10b0d761c3927dbeea10c2aeab5426039d2108c2931ddc6ec091e24728f98",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "unbound-devel",
+        "version": "1.16.2",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "unbound-1.16.2-5.el8.src.rpm",
+        "filename": "unbound-devel-1.16.2-5.el8.s390x.rpm",
+        "sum": "e8a18ea7fdff28bda87d5f2c0b2cc17ebb068b6b9c29a330841f3ad67cf38381",
         "sum_type": 5,
         "reboot_suggested": 0
       }

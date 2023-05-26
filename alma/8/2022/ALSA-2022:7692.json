@@ -72,30 +72,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "xmlrpc-c-client",
-        "version": "1.51.0",
-        "release": "8.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "xmlrpc-c-1.51.0-8.el8.src.rpm",
-        "filename": "xmlrpc-c-client-1.51.0-8.el8.x86_64.rpm",
-        "sum": "1397c25c2c1e5cb44abbb42248597d3a52508d21039687aef2b18ba7ae9fde9d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "xmlrpc-c",
-        "version": "1.51.0",
-        "release": "8.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "xmlrpc-c-1.51.0-8.el8.src.rpm",
-        "filename": "xmlrpc-c-1.51.0-8.el8.x86_64.rpm",
-        "sum": "97dc86143c5183f7eb6b7217956ace697ed83a322cec98cf0d51e2261519e325",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "xmlrpc-c",
         "version": "1.51.0",
         "release": "8.el8",
@@ -152,6 +128,30 @@
         "src": "xmlrpc-c-1.51.0-8.el8.src.rpm",
         "filename": "xmlrpc-c-devel-1.51.0-8.el8.x86_64.rpm",
         "sum": "f832ca0dfcc7247bead94a379d4e73b1e368e1fe07818bdea06b70d1b9a9e0af",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xmlrpc-c-client",
+        "version": "1.51.0",
+        "release": "8.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "xmlrpc-c-1.51.0-8.el8.src.rpm",
+        "filename": "xmlrpc-c-client-1.51.0-8.el8.x86_64.rpm",
+        "sum": "1397c25c2c1e5cb44abbb42248597d3a52508d21039687aef2b18ba7ae9fde9d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xmlrpc-c",
+        "version": "1.51.0",
+        "release": "8.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "xmlrpc-c-1.51.0-8.el8.src.rpm",
+        "filename": "xmlrpc-c-1.51.0-8.el8.x86_64.rpm",
+        "sum": "97dc86143c5183f7eb6b7217956ace697ed83a322cec98cf0d51e2261519e325",
         "sum_type": 5,
         "reboot_suggested": 0
       },

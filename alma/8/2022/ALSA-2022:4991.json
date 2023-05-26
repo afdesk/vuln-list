@@ -36,42 +36,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "xz-devel",
-        "version": "5.2.4",
-        "release": "4.el8_6",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "xz-5.2.4-4.el8_6.src.rpm",
-        "filename": "xz-devel-5.2.4-4.el8_6.x86_64.rpm",
-        "sum": "609dff705f5eb3f00aa157396adb3edf76c57562640a37ec7512ee9b8f35b360",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "xz",
-        "version": "5.2.4",
-        "release": "4.el8_6",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "xz-5.2.4-4.el8_6.src.rpm",
-        "filename": "xz-5.2.4-4.el8_6.x86_64.rpm",
-        "sum": "660d66d1a96f4d7bf21486883272dcea33bdbff49bf83dc4296ba6b948552d55",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "xz-libs",
-        "version": "5.2.4",
-        "release": "4.el8_6",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "xz-5.2.4-4.el8_6.src.rpm",
-        "filename": "xz-libs-5.2.4-4.el8_6.x86_64.rpm",
-        "sum": "eab633cd7e81de007792509bfbea6cbd48dec90e4c0f18a4c1c337cb9c06ee51",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "xz",
         "version": "5.2.4",
         "release": "4.el8_6",
@@ -116,6 +80,42 @@
         "src": "xz-5.2.4-4.el8_6.src.rpm",
         "filename": "xz-lzma-compat-5.2.4-4.el8_6.x86_64.rpm",
         "sum": "bc2cd3adfd82ecfc1efda8aa75e566ca7ab7d0e10cda91d9e68e8bd37f310844",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xz-devel",
+        "version": "5.2.4",
+        "release": "4.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "xz-5.2.4-4.el8_6.src.rpm",
+        "filename": "xz-devel-5.2.4-4.el8_6.x86_64.rpm",
+        "sum": "609dff705f5eb3f00aa157396adb3edf76c57562640a37ec7512ee9b8f35b360",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xz",
+        "version": "5.2.4",
+        "release": "4.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "xz-5.2.4-4.el8_6.src.rpm",
+        "filename": "xz-5.2.4-4.el8_6.x86_64.rpm",
+        "sum": "660d66d1a96f4d7bf21486883272dcea33bdbff49bf83dc4296ba6b948552d55",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xz-libs",
+        "version": "5.2.4",
+        "release": "4.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "xz-5.2.4-4.el8_6.src.rpm",
+        "filename": "xz-libs-5.2.4-4.el8_6.x86_64.rpm",
+        "sum": "eab633cd7e81de007792509bfbea6cbd48dec90e4c0f18a4c1c337cb9c06ee51",
         "sum_type": 5,
         "reboot_suggested": 0
       },

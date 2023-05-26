@@ -40,10 +40,10 @@
         "version": "7.5.15",
         "release": "4.el8",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "ppc64le",
         "src": "grafana-7.5.15-4.el8.src.rpm",
-        "filename": "grafana-7.5.15-4.el8.s390x.rpm",
-        "sum": "e8151cd3199d241ef2f1d4be520baa86cbc6edd9d778f6ec810ccbf3277c19ed",
+        "filename": "grafana-7.5.15-4.el8.ppc64le.rpm",
+        "sum": "5665f081014768b95f5ae923607a4ae4544e87bdc1289c91e1a2fed40c669cf2",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +52,10 @@
         "version": "7.5.15",
         "release": "4.el8",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "s390x",
         "src": "grafana-7.5.15-4.el8.src.rpm",
-        "filename": "grafana-7.5.15-4.el8.ppc64le.rpm",
-        "sum": "5665f081014768b95f5ae923607a4ae4544e87bdc1289c91e1a2fed40c669cf2",
+        "filename": "grafana-7.5.15-4.el8.s390x.rpm",
+        "sum": "e8151cd3199d241ef2f1d4be520baa86cbc6edd9d778f6ec810ccbf3277c19ed",
         "sum_type": 5,
         "reboot_suggested": 0
       }
