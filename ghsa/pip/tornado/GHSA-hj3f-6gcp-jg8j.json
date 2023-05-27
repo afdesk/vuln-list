@@ -1,5 +1,5 @@
 {
-  "Severity": "HIGH",
+  "Severity": "MODERATE",
   "UpdatedAt": "2023-05-25T17:00:25Z",
   "Package": {
     "Ecosystem": "PIP",
@@ -39,13 +39,13 @@
     "Description": "Open redirect vulnerability in Tornado versions 6.3.1 and earlier allows a remote unauthenticated attacker to redirect a user to an arbitrary web site and conduct a phishing attack by having user access a specially crafted URL.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-25T12:30:16Z",
-    "Severity": "HIGH",
+    "Severity": "MODERATE",
     "Summary": "Open redirect in Tornado",
-    "UpdatedAt": "2023-05-25T17:00:25Z",
+    "UpdatedAt": "2023-05-26T21:17:00Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 6.1,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [

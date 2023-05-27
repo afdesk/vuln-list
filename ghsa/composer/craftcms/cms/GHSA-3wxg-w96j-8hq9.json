@@ -17,6 +17,12 @@
         "Url": "https://github.com/craftcms/cms/releases/tag/4.4.6"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2023-33194"
+      },
+      {
+        "Url": "https://github.com/craftcms/cms/commit/9d0cd0bda7c8a830a3373f8c0f06943e519ac888"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-3wxg-w96j-8hq9"
       }
     ],
@@ -35,11 +41,11 @@
     "PublishedAt": "2023-05-26T13:54:11Z",
     "Severity": "LOW",
     "Summary": "CraftCMS stored XSS in Quick Post widget error message",
-    "UpdatedAt": "2023-05-26T13:54:12Z",
+    "UpdatedAt": "2023-05-26T21:50:41Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 3.7,
+      "VectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:U/C:L/I:N/A:L"
     }
   },
   "Versions": [
