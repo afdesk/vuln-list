@@ -41,11 +41,6 @@
       "Name": "kernel"
     },
     {
-      "ID": "oval:com.microsoft.cbl-mariner:obj:26361001",
-      "Version": "1",
-      "Name": "git"
-    },
-    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26309001",
       "Version": "1",
       "Name": "kernel"

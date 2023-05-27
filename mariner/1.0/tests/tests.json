@@ -98,18 +98,6 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package git is earlier than 2.33.8-1, affected by CVE-2023-25815",
-      "ID": "oval:com.microsoft.cbl-mariner:tst:26361000",
-      "Version": "1",
-      "Object": {
-        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:26361001"
-      },
-      "State": {
-        "StateRef": "oval:com.microsoft.cbl-mariner:ste:26361002"
-      }
-    },
-    {
-      "Check": "at least one",
       "Comment": "Package kernel is earlier than 5.10.179.1-1, affected by CVE-2023-30772",
       "ID": "oval:com.microsoft.cbl-mariner:tst:26309000",
       "Version": "1",
@@ -266,7 +254,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package python2 is earlier than  2.7.18-13, affected by CVE-2018-25032",
+      "Comment": "Package python2 is earlier than 2.7.18-13, affected by CVE-2018-25032",
       "ID": "oval:com.microsoft.cbl-mariner:tst:26116000",
       "Version": "0",
       "Object": {
