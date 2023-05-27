@@ -35,7 +35,7 @@
     "PublishedAt": "2023-05-26T22:00:39Z",
     "Severity": "CRITICAL",
     "Summary": "Pomerium vulnerable to Incorrect Authorization with specially crafted requests",
-    "UpdatedAt": "2023-05-26T22:00:45Z",
+    "UpdatedAt": "2023-05-27T13:16:32Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 10,
