@@ -1097,6 +1097,15 @@
   "cert-manager-1.10-for-rhel-9-x86_64-source-rpms": [
     "cpe:/a:redhat:cert_manager:1.10::el9"
   ],
+  "cert-manager-1.11-for-rhel-9-x86_64-debug-rpms": [
+    "cpe:/a:redhat:cert_manager:1.11::el9"
+  ],
+  "cert-manager-1.11-for-rhel-9-x86_64-rpms": [
+    "cpe:/a:redhat:cert_manager:1.11::el9"
+  ],
+  "cert-manager-1.11-for-rhel-9-x86_64-source-rpms": [
+    "cpe:/a:redhat:cert_manager:1.11::el9"
+  ],
   "cert-manager-1.5-for-rhel-8-x86_64-debug-rpms": [
     "cpe:/a:redhat:cert_manager:1.5::el8"
   ],
@@ -27398,6 +27407,15 @@
   ],
   "rhosj-2.0-for-rhel-8-x86_64-source-rpms": [
     "cpe:/a:redhat:jaeger:2.0::el8"
+  ],
+  "rhpib-1-for-rhel-9-x86_64-debug-rpms": [
+    "cpe:/a:redhat:plugin_backstage:1.0::el9"
+  ],
+  "rhpib-1-for-rhel-9-x86_64-rpms": [
+    "cpe:/a:redhat:plugin_backstage:1.0::el9"
+  ],
+  "rhpib-1-for-rhel-9-x86_64-source-rpms": [
+    "cpe:/a:redhat:plugin_backstage:1.0::el9"
   ],
   "rhs-2.0-for-rhel-6-server-debug-rpms": [
     "cpe:/a:redhat:storage:2.0:server:el6"
