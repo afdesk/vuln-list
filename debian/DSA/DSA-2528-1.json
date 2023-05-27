@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Aug 2012] DSA-2528-1 icedove - several",
-    "Line": 9689,
+    "Line": 9692,
     "ID": "DSA-2528-1",
     "Description": "icedove - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-1948 CVE-2012-1950 CVE-2012-1954 CVE-2012-1967}",
-      "Line": 9690,
+      "Line": 9693,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-1948",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[squeeze] - icedove 3.0.11-1+squeeze12",
-      "Line": 9691,
+      "Line": 9694,
       "Type": "package",
       "Release": "squeeze",
       "Package": "icedove",

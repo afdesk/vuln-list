@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Apr 2022] DSA-5114-1 chromium - security update",
-    "Line": 946,
+    "Line": 949,
     "ID": "DSA-5114-1",
     "Description": "chromium - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-1232 CVE-2022-3863}",
-      "Line": 947,
+      "Line": 950,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-1232",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[bullseye] - chromium 100.0.4896.75-1~deb11u1",
-      "Line": 948,
+      "Line": 951,
       "Type": "package",
       "Release": "bullseye",
       "Package": "chromium",

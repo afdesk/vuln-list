@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Feb 2005] DSA-674-3 mailman - cross-site scripting, directory traversal",
-    "Line": 16424,
+    "Line": 16427,
     "ID": "DSA-674-3",
     "Description": "mailman - cross-site scripting, directory traversal"
   },
   "Annotations": [
     {
       "Original": "NOTE: only fixed bug in DSA",
-      "Line": 16425,
+      "Line": 16428,
       "Type": "NOTE",
       "Description": "only fixed bug in DSA"
     }

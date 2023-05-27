@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Oct 2016] DSA-3697-1 kdepimlibs - security update",
-    "Line": 5738,
+    "Line": 5741,
     "ID": "DSA-3697-1",
     "Description": "kdepimlibs - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-7966}",
-      "Line": 5739,
+      "Line": 5742,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-7966"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - kdepimlibs 4:4.14.2-2+deb8u2",
-      "Line": 5740,
+      "Line": 5743,
       "Type": "package",
       "Release": "jessie",
       "Package": "kdepimlibs",

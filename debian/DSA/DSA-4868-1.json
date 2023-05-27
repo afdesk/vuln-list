@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Mar 2021] DSA-4868-1 flatpak - security update",
-    "Line": 1782,
+    "Line": 1785,
     "ID": "DSA-4868-1",
     "Description": "flatpak - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-21381}",
-      "Line": 1783,
+      "Line": 1786,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-21381"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - flatpak 1.2.5-0+deb10u4",
-      "Line": 1784,
+      "Line": 1787,
       "Type": "package",
       "Release": "buster",
       "Package": "flatpak",

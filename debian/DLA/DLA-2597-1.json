@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Mar 2021] DLA-2597-1 velocity-tools - security update",
-    "Line": 2528,
+    "Line": 2531,
     "ID": "DLA-2597-1",
     "Description": "velocity-tools - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-13959}",
-      "Line": 2529,
+      "Line": 2532,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-13959"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - velocity-tools 2.0-6+deb9u1",
-      "Line": 2530,
+      "Line": 2533,
       "Type": "package",
       "Release": "stretch",
       "Package": "velocity-tools",

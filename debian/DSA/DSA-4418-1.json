@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Mar 2019] DSA-4418-1 dovecot - security update",
-    "Line": 3303,
+    "Line": 3306,
     "ID": "DSA-4418-1",
     "Description": "dovecot - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-7524}",
-      "Line": 3304,
+      "Line": 3307,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-7524"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - dovecot 1:2.2.27-3+deb9u4",
-      "Line": 3305,
+      "Line": 3308,
       "Type": "package",
       "Release": "stretch",
       "Package": "dovecot",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Aug 2002] DSA-155 kdelibs - privacy escalation with Konqueror",
-    "Line": 18175,
+    "Line": 18178,
     "ID": "DSA-155",
     "Description": "kdelibs - privacy escalation with Konqueror"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-0970}",
-      "Line": 18176,
+      "Line": 18179,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-0970"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - kdelibs 2.2.2-13.woody.2",
-      "Line": 18177,
+      "Line": 18180,
       "Type": "package",
       "Release": "woody",
       "Package": "kdelibs",

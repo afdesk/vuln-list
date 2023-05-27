@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Sep 2002] DSA-161 mantis - privilege escalation",
-    "Line": 18155,
+    "Line": 18158,
     "ID": "DSA-161",
     "Description": "mantis - privilege escalation"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-1115 CVE-2002-1116}",
-      "Line": 18156,
+      "Line": 18159,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-1115",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[woody] - mantis 0.17.1-2.5",
-      "Line": 18157,
+      "Line": 18160,
       "Type": "package",
       "Release": "woody",
       "Package": "mantis",
