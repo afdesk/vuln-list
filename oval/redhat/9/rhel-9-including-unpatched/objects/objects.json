@@ -7466,6 +7466,11 @@
       "Name": "webkit2gtk3-jsc"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202328370001",
+      "Version": "636",
+      "Name": "python3-tornado"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202328450001",
       "Version": "636",
       "Name": "dnsmasq"
