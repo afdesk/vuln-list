@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Feb 2006] DSA-981-1 bmv - integer overflow",
-    "Line": 15062,
+    "Line": 15065,
     "ID": "DSA-981-1",
     "Description": "bmv - integer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-3278}",
-      "Line": 15063,
+      "Line": 15066,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-3278"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - bmv 1.2-14.3",
-      "Line": 15064,
+      "Line": 15067,
       "Type": "package",
       "Release": "woody",
       "Package": "bmv",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[sarge] - bmv 1.2-17sarge1",
-      "Line": 15065,
+      "Line": 15068,
       "Type": "package",
       "Release": "sarge",
       "Package": "bmv",
@@ -34,7 +34,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at the time of DSA",
-      "Line": 15066,
+      "Line": 15069,
       "Type": "NOTE",
       "Description": "fixed in testing at the time of DSA"
     }

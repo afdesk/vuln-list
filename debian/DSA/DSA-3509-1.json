@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Mar 2016] DSA-3509-1 rails - security update",
-    "Line": 6350,
+    "Line": 6353,
     "ID": "DSA-3509-1",
     "Description": "rails - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-2097 CVE-2016-2098}",
-      "Line": 6351,
+      "Line": 6354,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-2097",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - rails 2:4.1.8-1+deb8u2",
-      "Line": 6352,
+      "Line": 6355,
       "Type": "package",
       "Release": "jessie",
       "Package": "rails",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Mar 2010] DSA-2023-1 curl - arbitrary code execution",
-    "Line": 11386,
+    "Line": 11389,
     "ID": "DSA-2023-1",
     "Description": "curl - arbitrary code execution"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-0734}",
-      "Line": 11387,
+      "Line": 11390,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-0734"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - curl 7.18.2-8lenny4",
-      "Line": 11388,
+      "Line": 11391,
       "Type": "package",
       "Release": "lenny",
       "Package": "curl",

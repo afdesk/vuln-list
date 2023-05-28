@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[25 Aug 2016] DSA-3653-1 flex - security update",
-    "Line": 5883,
+    "Line": 5886,
     "ID": "DSA-3653-1",
     "Description": "flex - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-6354}",
-      "Line": 5884,
+      "Line": 5887,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-6354"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - flex 2.5.39-8+deb8u1",
-      "Line": 5885,
+      "Line": 5888,
       "Type": "package",
       "Release": "jessie",
       "Package": "flex",
