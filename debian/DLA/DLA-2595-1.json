@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Mar 2021] DLA-2595-1 velocity - security update",
-    "Line": 2537,
+    "Line": 2540,
     "ID": "DLA-2595-1",
     "Description": "velocity - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-13936}",
-      "Line": 2538,
+      "Line": 2541,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-13936"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - velocity 1.7-5+deb9u1",
-      "Line": 2539,
+      "Line": 2542,
       "Type": "package",
       "Release": "stretch",
       "Package": "velocity",

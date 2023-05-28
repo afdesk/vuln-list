@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Oct 2014] DSA-3056-1 libtasn1-3 - security update",
-    "Line": 7934,
+    "Line": 7937,
     "ID": "DSA-3056-1",
     "Description": "libtasn1-3 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-3467 CVE-2014-3468 CVE-2014-3469}",
-      "Line": 7935,
+      "Line": 7938,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-3467",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[wheezy] - libtasn1-3 2.13-2+deb7u1",
-      "Line": 7936,
+      "Line": 7939,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libtasn1-3",

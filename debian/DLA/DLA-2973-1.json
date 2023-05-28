@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Apr 2022] DLA-2973-1 minidlna - security update",
-    "Line": 1383,
+    "Line": 1386,
     "ID": "DLA-2973-1",
     "Description": "minidlna - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-26505}",
-      "Line": 1384,
+      "Line": 1387,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-26505"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - minidlna 1.1.6+dfsg-1+deb9u2",
-      "Line": 1385,
+      "Line": 1388,
       "Type": "package",
       "Release": "stretch",
       "Package": "minidlna",

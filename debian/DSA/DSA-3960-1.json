@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Sep 2017] DSA-3960-1 gnupg - security update",
-    "Line": 4873,
+    "Line": 4876,
     "ID": "DSA-3960-1",
     "Description": "gnupg - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-7526}",
-      "Line": 4874,
+      "Line": 4877,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-7526"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - gnupg 1.4.18-7+deb8u4",
-      "Line": 4875,
+      "Line": 4878,
       "Type": "package",
       "Release": "jessie",
       "Package": "gnupg",

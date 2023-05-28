@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Jan 2012] DSA-2387-1 simplesamlphp - cross site scripting",
-    "Line": 10152,
+    "Line": 10155,
     "ID": "DSA-2387-1",
     "Description": "simplesamlphp - cross site scripting"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-0040 CVE-2012-0908}",
-      "Line": 10153,
+      "Line": 10156,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-0040",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[squeeze] - simplesamlphp 1.6.3-3",
-      "Line": 10154,
+      "Line": 10157,
       "Type": "package",
       "Release": "squeeze",
       "Package": "simplesamlphp",

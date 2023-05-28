@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Mar 2017] DSA-3801-1 ruby-zip - security update",
-    "Line": 5412,
+    "Line": 5415,
     "ID": "DSA-3801-1",
     "Description": "ruby-zip - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-5946}",
-      "Line": 5413,
+      "Line": 5416,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-5946"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - ruby-zip 1.1.6-1+deb8u1",
-      "Line": 5414,
+      "Line": 5417,
       "Type": "package",
       "Release": "jessie",
       "Package": "ruby-zip",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 Oct 2020] DSA-4775-1 python-flask-cors - security update",
-    "Line": 2075,
+    "Line": 2078,
     "ID": "DSA-4775-1",
     "Description": "python-flask-cors - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-25032}",
-      "Line": 2076,
+      "Line": 2079,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-25032"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - python-flask-cors 3.0.7-1+deb10u1",
-      "Line": 2077,
+      "Line": 2080,
       "Type": "package",
       "Release": "buster",
       "Package": "python-flask-cors",
