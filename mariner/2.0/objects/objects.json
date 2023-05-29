@@ -6,6 +6,11 @@
       "Name": "qt5-qtbase"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26758001",
+      "Version": "1",
+      "Name": "qt5-qtbase"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26757001",
       "Version": "1",
       "Name": "qt5-qtbase"
