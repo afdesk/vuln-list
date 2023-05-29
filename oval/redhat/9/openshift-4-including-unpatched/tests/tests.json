@@ -2665,7 +2665,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "openvswitch3.1 is installed",
+      "Comment": "openvswitch3.1-test is installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668001",
       "Version": "635",
       "Object": {
@@ -2675,7 +2675,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "openvswitch3.1 is not installed",
+      "Comment": "openvswitch3.1-test is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668002",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -2707,7 +2707,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "openvswitch3.1-test is installed",
+      "Comment": "openvswitch3.1 is installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668005",
       "Version": "635",
       "Object": {
@@ -2717,7 +2717,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "openvswitch3.1-test is not installed",
+      "Comment": "openvswitch3.1 is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668006",
       "Version": "635",
       "CheckExistence": "none_exist",

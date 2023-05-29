@@ -7443,12 +7443,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202328204003",
       "Version": "636",
-      "Name": "webkit2gtk3-devel"
+      "Name": "webkit2gtk3-jsc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202328204004",
       "Version": "636",
-      "Name": "webkit2gtk3-jsc"
+      "Name": "webkit2gtk3-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202328370001",
@@ -7478,12 +7478,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202328484002",
       "Version": "636",
-      "Name": "libxml2-devel"
+      "Name": "python3-libxml2"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202328484003",
       "Version": "636",
-      "Name": "python3-libxml2"
+      "Name": "libxml2-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202328486001",
