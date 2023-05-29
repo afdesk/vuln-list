@@ -7146,31 +7146,6 @@
       "Name": "postgresql-static"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324593001",
-      "Version": "636",
-      "Name": "glib2-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324593002",
-      "Version": "636",
-      "Name": "glib2-tests"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324593003",
-      "Version": "636",
-      "Name": "glib2-static"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324593004",
-      "Version": "636",
-      "Name": "glib2"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324593005",
-      "Version": "636",
-      "Name": "glib2-doc"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202324805001",
       "Version": "636",
       "Name": "cups-filters-devel"
@@ -7204,6 +7179,16 @@
       "ID": "oval:com.redhat.cve:obj:202325193004",
       "Version": "636",
       "Name": "harfbuzz-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232602001",
+      "Version": "636",
+      "Name": "libcap-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232602002",
+      "Version": "636",
+      "Name": "libcap"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326112001",
@@ -10641,14 +10626,39 @@
       "Name": "glibc-langpack-st"
     },
     {
+      "ID": "oval:com.redhat.unaffected:obj:201925085001",
+      "Version": "635",
+      "Name": "glib2"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:201925085002",
+      "Version": "635",
+      "Name": "glib2-devel"
+    },
+    {
       "ID": "oval:com.redhat.unaffected:obj:201925085003",
       "Version": "635",
       "Name": "dconf"
     },
     {
+      "ID": "oval:com.redhat.unaffected:obj:201925085004",
+      "Version": "635",
+      "Name": "glib2-tests"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:201925085005",
+      "Version": "635",
+      "Name": "glib2-doc"
+    },
+    {
       "ID": "oval:com.redhat.unaffected:obj:201925085006",
       "Version": "635",
       "Name": "dconf-editor"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:201925085007",
+      "Version": "635",
+      "Name": "glib2-static"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:201925085008",

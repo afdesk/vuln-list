@@ -1886,8 +1886,32 @@
     },
     {
       "Check": "at least one",
-      "Comment": "microshift-networking is earlier than 0:4.13.0-202305161335.p0.g17cae44.assembly.4.13.0.el9",
+      "Comment": "microshift-greenboot is earlier than 0:4.13.0-202305161335.p0.g17cae44.assembly.4.13.0.el9",
       "ID": "oval:com.redhat.rhsa:tst:20231329003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231329002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20231329003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-greenboot is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20231329004",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231329002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20143577001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-networking is earlier than 0:4.13.0-202305161335.p0.g17cae44.assembly.4.13.0.el9",
+      "ID": "oval:com.redhat.rhsa:tst:20231329005",
       "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202324534010"
@@ -1899,7 +1923,7 @@
     {
       "Check": "at least one",
       "Comment": "microshift-release-info is earlier than 0:4.13.0-202305161335.p0.g17cae44.assembly.4.13.0.el9",
-      "ID": "oval:com.redhat.rhsa:tst:20231329005",
+      "ID": "oval:com.redhat.rhsa:tst:20231329007",
       "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202324534014"
@@ -1911,7 +1935,7 @@
     {
       "Check": "at least one",
       "Comment": "microshift-selinux is earlier than 0:4.13.0-202305161335.p0.g17cae44.assembly.4.13.0.el9",
-      "ID": "oval:com.redhat.rhsa:tst:20231329007",
+      "ID": "oval:com.redhat.rhsa:tst:20231329009",
       "Version": "637",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202324534013"

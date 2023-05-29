@@ -31440,116 +31440,6 @@
     },
     {
       "Check": "at least one",
-      "Comment": "glib2-devel is installed",
-      "ID": "oval:com.redhat.cve:tst:202324593001",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324593001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "glib2-devel is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324593002",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324593001"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "glib2-tests is installed",
-      "ID": "oval:com.redhat.cve:tst:202324593003",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324593002"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "glib2-tests is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324593004",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324593002"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "glib2-static is installed",
-      "ID": "oval:com.redhat.cve:tst:202324593005",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324593003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "glib2-static is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324593006",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324593003"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "glib2 is installed",
-      "ID": "oval:com.redhat.cve:tst:202324593007",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324593004"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "glib2 is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324593008",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324593004"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "glib2-doc is installed",
-      "ID": "oval:com.redhat.cve:tst:202324593009",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324593005"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "glib2-doc is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324593010",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324593005"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
       "Comment": "cups-filters-devel is installed",
       "ID": "oval:com.redhat.cve:tst:202324805001",
       "Version": "636",
@@ -31697,6 +31587,50 @@
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202325193004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libcap-devel is installed",
+      "ID": "oval:com.redhat.cve:tst:20232602001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232602001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libcap-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232602002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232602001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libcap is installed",
+      "ID": "oval:com.redhat.cve:tst:20232602003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232602002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libcap is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20232602004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20232602002"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -74224,12 +74158,32 @@
     },
     {
       "Check": "at least one",
+      "Comment": "glib2 is installed",
+      "ID": "oval:com.redhat.unaffected:tst:201925085001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:201925085001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "glib2 is not installed",
       "ID": "oval:com.redhat.unaffected:tst:201925085002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324593004"
+        "ObjectRef": "oval:com.redhat.unaffected:obj:201925085001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "glib2-devel is installed",
+      "ID": "oval:com.redhat.unaffected:tst:201925085003",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:201925085002"
       },
       "State": {}
     },
@@ -74240,7 +74194,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324593001"
+        "ObjectRef": "oval:com.redhat.unaffected:obj:201925085002"
       },
       "State": {}
     },
@@ -74267,12 +74221,32 @@
     },
     {
       "Check": "at least one",
+      "Comment": "glib2-tests is installed",
+      "ID": "oval:com.redhat.unaffected:tst:201925085007",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:201925085004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "glib2-tests is not installed",
       "ID": "oval:com.redhat.unaffected:tst:201925085008",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324593002"
+        "ObjectRef": "oval:com.redhat.unaffected:obj:201925085004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "glib2-doc is installed",
+      "ID": "oval:com.redhat.unaffected:tst:201925085009",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:201925085005"
       },
       "State": {}
     },
@@ -74283,7 +74257,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324593005"
+        "ObjectRef": "oval:com.redhat.unaffected:obj:201925085005"
       },
       "State": {}
     },
@@ -74310,12 +74284,22 @@
     },
     {
       "Check": "at least one",
+      "Comment": "glib2-static is installed",
+      "ID": "oval:com.redhat.unaffected:tst:201925085013",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:201925085007"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "glib2-static is not installed",
       "ID": "oval:com.redhat.unaffected:tst:201925085014",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324593003"
+        "ObjectRef": "oval:com.redhat.unaffected:obj:201925085007"
       },
       "State": {}
     },

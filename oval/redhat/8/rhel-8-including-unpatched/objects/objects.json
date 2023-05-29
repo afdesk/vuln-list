@@ -10326,41 +10326,6 @@
       "Name": "python3.11-test"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324593001",
-      "Version": "636",
-      "Name": "glib2-fam"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324593002",
-      "Version": "636",
-      "Name": "glib2-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324593003",
-      "Version": "636",
-      "Name": "glib2-debugsource"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324593004",
-      "Version": "636",
-      "Name": "glib2-tests"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324593005",
-      "Version": "636",
-      "Name": "glib2-static"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324593006",
-      "Version": "636",
-      "Name": "glib2"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324593007",
-      "Version": "636",
-      "Name": "glib2-doc"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202324805001",
       "Version": "636",
       "Name": "cups-filters-devel"
@@ -10389,6 +10354,16 @@
       "ID": "oval:com.redhat.cve:obj:202325193003",
       "Version": "636",
       "Name": "harfbuzz-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232602001",
+      "Version": "636",
+      "Name": "libcap-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232602002",
+      "Version": "636",
+      "Name": "libcap"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326112001",
@@ -10754,6 +10729,21 @@
       "ID": "oval:com.redhat.cve:obj:202329383014",
       "Version": "636",
       "Name": "libfdisk"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232953001",
+      "Version": "636",
+      "Name": "openldap"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232953002",
+      "Version": "636",
+      "Name": "openldap-clients"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232953003",
+      "Version": "636",
+      "Name": "openldap-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202330630001",
@@ -12504,21 +12494,6 @@
       "ID": "oval:com.redhat.rhba:obj:20193621003",
       "Version": "635",
       "Name": "libidn2-devel"
-    },
-    {
-      "ID": "oval:com.redhat.rhba:obj:20193674001",
-      "Version": "635",
-      "Name": "openldap"
-    },
-    {
-      "ID": "oval:com.redhat.rhba:obj:20193674002",
-      "Version": "635",
-      "Name": "openldap-clients"
-    },
-    {
-      "ID": "oval:com.redhat.rhba:obj:20193674003",
-      "Version": "635",
-      "Name": "openldap-devel"
     },
     {
       "ID": "oval:com.redhat.rhba:obj:20194268001",
@@ -15159,6 +15134,36 @@
       "ID": "oval:com.redhat.rhsa:obj:20193525005",
       "Version": "636",
       "Name": "dhcp-server"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20193530001",
+      "Version": "638",
+      "Name": "glib2"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20193530002",
+      "Version": "638",
+      "Name": "glib2-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20193530003",
+      "Version": "638",
+      "Name": "glib2-doc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20193530004",
+      "Version": "638",
+      "Name": "glib2-fam"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20193530005",
+      "Version": "638",
+      "Name": "glib2-static"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20193530006",
+      "Version": "638",
+      "Name": "glib2-tests"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193553001",
@@ -19679,6 +19684,11 @@
       "ID": "oval:com.redhat.unaffected:obj:201816062004",
       "Version": "635",
       "Name": "elfutils-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:201816428002",
+      "Version": "635",
+      "Name": "glib2-debugsource"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:201816548001",
