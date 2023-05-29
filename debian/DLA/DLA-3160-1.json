@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Oct 2022] DLA-3160-1 tomcat9 - security update",
-    "Line": 828,
+    "Line": 831,
     "ID": "DLA-3160-1",
     "Description": "tomcat9 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-43980 CVE-2022-23181 CVE-2022-29885}",
-      "Line": 829,
+      "Line": 832,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-43980",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[buster] - tomcat9 9.0.31-1~deb10u7",
-      "Line": 830,
+      "Line": 833,
       "Type": "package",
       "Release": "buster",
       "Package": "tomcat9",

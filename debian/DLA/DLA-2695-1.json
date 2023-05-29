@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Jun 2021] DLA-2695-1 klibc - security update",
-    "Line": 2236,
+    "Line": 2239,
     "ID": "DLA-2695-1",
     "Description": "klibc - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-31870 CVE-2021-31871 CVE-2021-31872 CVE-2021-31873}",
-      "Line": 2237,
+      "Line": 2240,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-31870",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[stretch] - klibc 2.0.4-9+deb9u1",
-      "Line": 2238,
+      "Line": 2241,
       "Type": "package",
       "Release": "stretch",
       "Package": "klibc",
