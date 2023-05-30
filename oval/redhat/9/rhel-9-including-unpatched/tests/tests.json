@@ -33376,6 +33376,72 @@
     },
     {
       "Check": "at least one",
+      "Comment": "bsdtar is installed",
+      "ID": "oval:com.redhat.cve:tst:202330571001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202330571001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "bsdtar is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202330571002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202330571001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libarchive is installed",
+      "ID": "oval:com.redhat.cve:tst:202330571003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202330571002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libarchive is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202330571004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202330571002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libarchive-devel is installed",
+      "ID": "oval:com.redhat.cve:tst:202330571005",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202330571003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "libarchive-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202330571006",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202330571003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "dmidecode is installed",
       "ID": "oval:com.redhat.cve:tst:202330630001",
       "Version": "636",
@@ -36797,22 +36863,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20225252001",
       "Version": "634",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20225252001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202330571001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20225252001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "bsdtar is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20225252002",
-      "Version": "634",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20225252001"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -36821,22 +36875,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20225252003",
       "Version": "634",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20225252002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202330571002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20225252003"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "libarchive is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20225252004",
-      "Version": "634",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20225252002"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -36845,22 +36887,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20225252005",
       "Version": "634",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20225252003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202330571003"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20225252003"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "libarchive-devel is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20225252006",
-      "Version": "634",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20225252003"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -64690,7 +64720,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232532001",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20225252001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202330571001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232532001"
@@ -64702,7 +64732,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232532003",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20225252002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202330571002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232532003"
@@ -64714,7 +64744,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232532005",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20225252003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202330571003"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232532003"
@@ -87175,32 +87205,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libarchive-devel is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202123177001",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20225252003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "libarchive-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202123177002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20225252003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "bsdtar is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202123177003",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20225252001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202330571003"
       },
       "State": {}
     },
@@ -87211,7 +87221,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20225252001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202330571001"
       },
       "State": {}
     },
@@ -87238,22 +87248,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libarchive is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202123177007",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20225252002"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "libarchive is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202123177008",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20225252002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202330571002"
       },
       "State": {}
     },

@@ -7586,6 +7586,21 @@
       "Name": "openslp"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202330571001",
+      "Version": "636",
+      "Name": "bsdtar"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202330571002",
+      "Version": "636",
+      "Name": "libarchive"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202330571003",
+      "Version": "636",
+      "Name": "libarchive-devel"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202330630001",
       "Version": "636",
       "Name": "dmidecode"
@@ -7804,21 +7819,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20225251005",
       "Version": "635",
       "Name": "pcre2-utf32"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20225252001",
-      "Version": "634",
-      "Name": "bsdtar"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20225252002",
-      "Version": "634",
-      "Name": "libarchive"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20225252003",
-      "Version": "634",
-      "Name": "libarchive-devel"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20225257001",
