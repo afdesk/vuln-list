@@ -7041,39 +7041,39 @@
       "Name": "pkgconf-m4"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324329001",
-      "Version": "636",
-      "Name": "python3.11-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324329002",
-      "Version": "636",
-      "Name": "python3.11-idle"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202324329005",
       "Version": "636",
       "Name": "python3.11-debug"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324329007",
+      "ID": "oval:com.redhat.cve:obj:202324329008",
       "Version": "636",
-      "Name": "python3.11"
+      "Name": "python3.11-test"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324329013",
+      "ID": "oval:com.redhat.cve:obj:202324329010",
+      "Version": "636",
+      "Name": "python3.11-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324329012",
       "Version": "636",
       "Name": "python3.11-libs"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324329014",
+      "ID": "oval:com.redhat.cve:obj:202324329013",
       "Version": "636",
-      "Name": "python3.11-tkinter"
+      "Name": "python3.11"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324329015",
+      "ID": "oval:com.redhat.cve:obj:202324329014",
       "Version": "636",
-      "Name": "python3.11-test"
+      "Name": "python3.11-idle"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324329016",
+      "Version": "636",
+      "Name": "python3.11-tkinter"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454001",
@@ -7593,12 +7593,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202330571002",
       "Version": "636",
-      "Name": "libarchive"
+      "Name": "libarchive-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202330571003",
       "Version": "636",
-      "Name": "libarchive-devel"
+      "Name": "libarchive"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202330630001",
@@ -7608,12 +7608,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202331124002",
       "Version": "636",
-      "Name": "c-ares"
+      "Name": "c-ares-devel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202331124004",
+      "ID": "oval:com.redhat.cve:obj:202331124006",
       "Version": "636",
-      "Name": "c-ares-devel"
+      "Name": "c-ares"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202332681001",
