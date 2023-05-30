@@ -6021,11 +6021,6 @@
       "Name": "gnupg2-smime"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20223219003",
-      "Version": "636",
-      "Name": "gnupg2-debugsource"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202233068001",
       "Version": "636",
       "Name": "java-11-openjdk-headless"
@@ -6548,17 +6543,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:202241854001",
       "Version": "636",
+      "Name": "jackson-jaxrs-providers"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202241854002",
+      "Version": "636",
       "Name": "pki-jackson-jaxrs-json-provider"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241854003",
+      "ID": "oval:com.redhat.cve:obj:202241854004",
       "Version": "636",
       "Name": "pki-jackson-jaxrs-providers"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241854005",
-      "Version": "636",
-      "Name": "jackson-jaxrs-providers"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241862001",
@@ -7196,6 +7191,21 @@
       "Name": "python3-configobj"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20232650005",
+      "Version": "636",
+      "Name": "edk2-tools-doc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232650011",
+      "Version": "636",
+      "Name": "edk2"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232650013",
+      "Version": "636",
+      "Name": "edk2-tools"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202326917001",
       "Version": "636",
       "Name": "libyang"
@@ -7343,32 +7353,32 @@
     {
       "ID": "oval:com.redhat.cve:obj:202327522001",
       "Version": "636",
-      "Name": "mod_proxy_html"
+      "Name": "httpd-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522002",
       "Version": "636",
-      "Name": "httpd-tools"
+      "Name": "httpd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522003",
       "Version": "636",
-      "Name": "httpd-devel"
+      "Name": "mod_session"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522004",
       "Version": "636",
-      "Name": "mod_ssl"
+      "Name": "mod_lua"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522005",
       "Version": "636",
-      "Name": "httpd"
+      "Name": "httpd-manual"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522006",
       "Version": "636",
-      "Name": "mod_lua"
+      "Name": "mod_proxy_html"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522007",
@@ -7378,22 +7388,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:202327522008",
       "Version": "636",
-      "Name": "httpd-manual"
+      "Name": "httpd-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522009",
       "Version": "636",
-      "Name": "httpd-core"
+      "Name": "mod_ssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522010",
       "Version": "636",
-      "Name": "mod_session"
+      "Name": "httpd-filesystem"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522011",
       "Version": "636",
-      "Name": "httpd-filesystem"
+      "Name": "httpd-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327533003",
@@ -7584,6 +7594,11 @@
       "ID": "oval:com.redhat.cve:obj:202329552003",
       "Version": "636",
       "Name": "openslp"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20232977001",
+      "Version": "636",
+      "Name": "opensc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202330571001",
@@ -8929,16 +8944,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20232120001",
       "Version": "635",
       "Name": "libreswan"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20232165003",
-      "Version": "636",
-      "Name": "edk2-tools"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20232165004",
-      "Version": "636",
-      "Name": "edk2-tools-doc"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20232166001",
@@ -13286,11 +13291,6 @@
       "Name": "inkscape-view"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202142778001",
-      "Version": "635",
-      "Name": "opensc"
-    },
-    {
       "ID": "oval:com.redhat.unaffected:obj:202144225001",
       "Version": "635",
       "Name": "keepalived"
@@ -13524,11 +13524,6 @@
       "ID": "oval:com.redhat.unaffected:obj:202231129011",
       "Version": "635",
       "Name": "rhsm-icons"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:20223358002",
-      "Version": "635",
-      "Name": "edk2"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202234903001",
