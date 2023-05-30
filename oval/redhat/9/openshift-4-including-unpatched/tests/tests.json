@@ -1652,28 +1652,6 @@
     },
     {
       "Check": "at least one",
-      "Comment": "microshift-greenboot is installed",
-      "ID": "oval:com.redhat.cve:tst:202324540005",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324540003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "microshift-greenboot is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324540006",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324540003"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20143577001"
-      }
-    },
-    {
-      "Check": "at least one",
       "Comment": "python-tornado is installed",
       "ID": "oval:com.redhat.cve:tst:202328370001",
       "Version": "636",
@@ -1912,10 +1890,22 @@
       "ID": "oval:com.redhat.rhsa:tst:20231329003",
       "Version": "637",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324540003"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231329002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231329003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-greenboot is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20231329004",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231329002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20143577001"
       }
     },
     {
@@ -2775,6 +2765,27 @@
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.unaffected:obj:20231668005"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-greenboot is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202324540001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231329002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-greenboot is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202324540002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231329002"
       },
       "State": {}
     },

@@ -30979,6 +30979,28 @@
     {
       "Check": "at least one",
       "Comment": "python3.11-devel is installed",
+      "ID": "oval:com.redhat.cve:tst:202324329001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202324329001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202324329002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202324329001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-idle is installed",
       "ID": "oval:com.redhat.cve:tst:202324329003",
       "Version": "636",
       "Object": {
@@ -30988,7 +31010,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3.11-devel is signed with Red Hat redhatrelease2 key",
+      "Comment": "python3.11-idle is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202324329004",
       "Version": "636",
       "Object": {
@@ -31000,7 +31022,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3.11-libs is installed",
+      "Comment": "python3.11-debug is installed",
       "ID": "oval:com.redhat.cve:tst:202324329009",
       "Version": "636",
       "Object": {
@@ -31010,7 +31032,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3.11-libs is signed with Red Hat redhatrelease2 key",
+      "Comment": "python3.11-debug is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202324329010",
       "Version": "636",
       "Object": {
@@ -31022,7 +31044,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3.11-debug is installed",
+      "Comment": "python3.11 is installed",
       "ID": "oval:com.redhat.cve:tst:202324329013",
       "Version": "636",
       "Object": {
@@ -31032,7 +31054,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3.11-debug is signed with Red Hat redhatrelease2 key",
+      "Comment": "python3.11 is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202324329014",
       "Version": "636",
       "Object": {
@@ -31044,29 +31066,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3.11-tkinter is installed",
-      "ID": "oval:com.redhat.cve:tst:202324329021",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329011"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11-tkinter is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324329022",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329011"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11-test is installed",
+      "Comment": "python3.11-libs is installed",
       "ID": "oval:com.redhat.cve:tst:202324329025",
       "Version": "636",
       "Object": {
@@ -31076,7 +31076,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3.11-test is signed with Red Hat redhatrelease2 key",
+      "Comment": "python3.11-libs is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202324329026",
       "Version": "636",
       "Object": {
@@ -31088,7 +31088,29 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3.11-idle is installed",
+      "Comment": "python3.11-tkinter is installed",
+      "ID": "oval:com.redhat.cve:tst:202324329027",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202324329014"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-tkinter is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202324329028",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202324329014"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-test is installed",
       "ID": "oval:com.redhat.cve:tst:202324329029",
       "Version": "636",
       "Object": {
@@ -31098,33 +31120,11 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3.11-idle is signed with Red Hat redhatrelease2 key",
+      "Comment": "python3.11-test is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202324329030",
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202324329015"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11 is installed",
-      "ID": "oval:com.redhat.cve:tst:202324329031",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329016"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11 is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324329032",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329016"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
