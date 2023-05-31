@@ -8736,49 +8736,49 @@
       "Name": "mod_auth_openidc-debugsource"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20222393001",
-      "Version": "636",
-      "Name": "idm-pki-kra"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20222393004",
-      "Version": "636",
-      "Name": "python3-idm-pki"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20222393007",
-      "Version": "636",
-      "Name": "idm-pki-acme"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20222393009",
-      "Version": "636",
-      "Name": "idm-pki-ca"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20222393010",
-      "Version": "636",
-      "Name": "idm-pki-server"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20222393019",
+      "ID": "oval:com.redhat.cve:obj:20222393003",
       "Version": "636",
       "Name": "idm-pki-tools"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20222393020",
+      "ID": "oval:com.redhat.cve:obj:20222393005",
       "Version": "636",
       "Name": "idm-pki-base"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20222393021",
+      "ID": "oval:com.redhat.cve:obj:20222393008",
+      "Version": "636",
+      "Name": "idm-pki-symkey"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20222393010",
+      "Version": "636",
+      "Name": "idm-pki-kra"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20222393011",
+      "Version": "636",
+      "Name": "idm-pki-ca"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20222393015",
       "Version": "636",
       "Name": "idm-pki-base-java"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20222393019",
+      "Version": "636",
+      "Name": "python3-idm-pki"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20222393022",
       "Version": "636",
-      "Name": "idm-pki-symkey"
+      "Name": "idm-pki-acme"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20222393023",
+      "Version": "636",
+      "Name": "idm-pki-server"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202223990001",
@@ -21130,7 +21130,7 @@
       }
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20213800008",
+      "ID": "oval:com.redhat.cve:obj:20213800007",
       "Version": "636",
       "Filepath": {
         "Text": "/etc/dnf/modules.d/firefox.module",

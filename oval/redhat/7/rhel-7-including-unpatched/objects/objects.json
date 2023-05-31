@@ -14426,34 +14426,34 @@
       "Name": "libinput"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202221426002",
-      "Version": "636",
-      "Name": "java-1.7.1-ibm-src"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221426006",
-      "Version": "636",
-      "Name": "java-1.7.1-ibm-demo"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221426007",
-      "Version": "636",
-      "Name": "java-1.7.1-ibm-jdbc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221426009",
-      "Version": "636",
-      "Name": "java-1.7.1-ibm-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202221426010",
+      "ID": "oval:com.redhat.cve:obj:202221426001",
       "Version": "636",
       "Name": "java-1.7.1-ibm-plugin"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202221426011",
+      "ID": "oval:com.redhat.cve:obj:202221426002",
+      "Version": "636",
+      "Name": "java-1.7.1-ibm-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202221426003",
+      "Version": "636",
+      "Name": "java-1.7.1-ibm-jdbc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202221426004",
       "Version": "636",
       "Name": "java-1.7.1-ibm"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202221426005",
+      "Version": "636",
+      "Name": "java-1.7.1-ibm-demo"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202221426006",
+      "Version": "636",
+      "Name": "java-1.7.1-ibm-src"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20222211001",

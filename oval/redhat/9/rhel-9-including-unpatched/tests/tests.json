@@ -82668,7 +82668,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "cairo-gobject is installed",
+      "Comment": "cairo-devel is installed",
       "ID": "oval:com.redhat.unaffected:tst:202035492001",
       "Version": "635",
       "Object": {
@@ -82678,7 +82678,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "cairo-gobject is not installed",
+      "Comment": "cairo-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202035492002",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -82689,7 +82689,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "cairo-devel is installed",
+      "Comment": "cairo-gobject-devel is installed",
       "ID": "oval:com.redhat.unaffected:tst:202035492003",
       "Version": "635",
       "Object": {
@@ -82699,7 +82699,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "cairo-devel is not installed",
+      "Comment": "cairo-gobject-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202035492004",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -82731,7 +82731,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "cairo-gobject-devel is installed",
+      "Comment": "cairo-gobject is installed",
       "ID": "oval:com.redhat.unaffected:tst:202035492007",
       "Version": "635",
       "Object": {
@@ -82741,7 +82741,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "cairo-gobject-devel is not installed",
+      "Comment": "cairo-gobject is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202035492008",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90132,7 +90132,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-sss-murmur is installed",
+      "Comment": "sssd-client is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621001",
       "Version": "635",
       "Object": {
@@ -90142,7 +90142,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-sss-murmur is not installed",
+      "Comment": "sssd-client is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621002",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90153,7 +90153,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libini_config is installed",
+      "Comment": "sssd-common-pac is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621003",
       "Version": "635",
       "Object": {
@@ -90163,7 +90163,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libini_config is not installed",
+      "Comment": "sssd-common-pac is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621004",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90174,7 +90174,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-sss is installed",
+      "Comment": "libsss_sudo is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621005",
       "Version": "635",
       "Object": {
@@ -90184,7 +90184,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-sss is not installed",
+      "Comment": "libsss_sudo is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621006",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90195,7 +90195,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libcollection is installed",
+      "Comment": "python3-sss is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621007",
       "Version": "635",
       "Object": {
@@ -90205,7 +90205,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libcollection is not installed",
+      "Comment": "python3-sss is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621008",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90216,7 +90216,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libini_config-devel is installed",
+      "Comment": "libdhash is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621009",
       "Version": "635",
       "Object": {
@@ -90226,7 +90226,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libini_config-devel is not installed",
+      "Comment": "libdhash is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621010",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90237,7 +90237,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libref_array is installed",
+      "Comment": "libipa_hbac is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621011",
       "Version": "635",
       "Object": {
@@ -90247,7 +90247,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libref_array is not installed",
+      "Comment": "libipa_hbac is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621012",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90258,7 +90258,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-ipa is installed",
+      "Comment": "sssd-kcm is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621013",
       "Version": "635",
       "Object": {
@@ -90268,7 +90268,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-ipa is not installed",
+      "Comment": "sssd-kcm is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621014",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90279,7 +90279,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-libsss_nss_idmap is installed",
+      "Comment": "sssd-nfs-idmap is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621015",
       "Version": "635",
       "Object": {
@@ -90289,7 +90289,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-libsss_nss_idmap is not installed",
+      "Comment": "sssd-nfs-idmap is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621016",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90300,7 +90300,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libdhash is installed",
+      "Comment": "sssd-krb5 is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621017",
       "Version": "635",
       "Object": {
@@ -90310,7 +90310,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libdhash is not installed",
+      "Comment": "sssd-krb5 is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621018",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90321,7 +90321,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-idp is installed",
+      "Comment": "libsss_nss_idmap is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621019",
       "Version": "635",
       "Object": {
@@ -90331,7 +90331,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-idp is not installed",
+      "Comment": "libsss_nss_idmap is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621020",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90342,7 +90342,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libpath_utils-devel is installed",
+      "Comment": "libsss_certmap is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621021",
       "Version": "635",
       "Object": {
@@ -90352,7 +90352,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libpath_utils-devel is not installed",
+      "Comment": "libsss_certmap is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621022",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90363,7 +90363,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-nfs-idmap is installed",
+      "Comment": "libsss_simpleifp is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621023",
       "Version": "635",
       "Object": {
@@ -90373,7 +90373,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-nfs-idmap is not installed",
+      "Comment": "libsss_simpleifp is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621024",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90384,7 +90384,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libsss_sudo is installed",
+      "Comment": "libini_config is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621025",
       "Version": "635",
       "Object": {
@@ -90394,7 +90394,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libsss_sudo is not installed",
+      "Comment": "libini_config is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621026",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90405,7 +90405,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libipa_hbac is installed",
+      "Comment": "sssd-ipa is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621027",
       "Version": "635",
       "Object": {
@@ -90415,7 +90415,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libipa_hbac is not installed",
+      "Comment": "sssd-ipa is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621028",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90426,7 +90426,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-krb5-common is installed",
+      "Comment": "sssd-proxy is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621029",
       "Version": "635",
       "Object": {
@@ -90436,7 +90436,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-krb5-common is not installed",
+      "Comment": "sssd-proxy is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621030",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90447,7 +90447,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-libipa_hbac is installed",
+      "Comment": "libref_array-devel is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621031",
       "Version": "635",
       "Object": {
@@ -90457,7 +90457,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-libipa_hbac is not installed",
+      "Comment": "libref_array-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621032",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90468,7 +90468,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libpath_utils is installed",
+      "Comment": "sssd-dbus is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621033",
       "Version": "635",
       "Object": {
@@ -90478,7 +90478,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libpath_utils is not installed",
+      "Comment": "sssd-dbus is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621034",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90489,7 +90489,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-polkit-rules is installed",
+      "Comment": "libref_array is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621035",
       "Version": "635",
       "Object": {
@@ -90499,7 +90499,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-polkit-rules is not installed",
+      "Comment": "libref_array is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621036",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90510,7 +90510,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd is installed",
+      "Comment": "libsss_nss_idmap-devel is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621037",
       "Version": "635",
       "Object": {
@@ -90520,7 +90520,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd is not installed",
+      "Comment": "libsss_nss_idmap-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621038",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90531,7 +90531,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-dbus is installed",
+      "Comment": "python3-libipa_hbac is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621039",
       "Version": "635",
       "Object": {
@@ -90541,7 +90541,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-dbus is not installed",
+      "Comment": "python3-libipa_hbac is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621040",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90552,7 +90552,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libsss_autofs is installed",
+      "Comment": "libdhash-devel is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621041",
       "Version": "635",
       "Object": {
@@ -90562,7 +90562,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libsss_autofs is not installed",
+      "Comment": "libdhash-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621042",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90573,7 +90573,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-ldap is installed",
+      "Comment": "libcollection is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621043",
       "Version": "635",
       "Object": {
@@ -90583,7 +90583,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-ldap is not installed",
+      "Comment": "libcollection is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621044",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90594,7 +90594,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-tools is installed",
+      "Comment": "python3-libsss_nss_idmap is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621045",
       "Version": "635",
       "Object": {
@@ -90604,7 +90604,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-tools is not installed",
+      "Comment": "python3-libsss_nss_idmap is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621046",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90615,7 +90615,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-kcm is installed",
+      "Comment": "sssd-ad is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621047",
       "Version": "635",
       "Object": {
@@ -90625,7 +90625,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-kcm is not installed",
+      "Comment": "sssd-ad is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621048",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90636,7 +90636,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-ad is installed",
+      "Comment": "sssd-polkit-rules is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621049",
       "Version": "635",
       "Object": {
@@ -90646,7 +90646,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-ad is not installed",
+      "Comment": "sssd-polkit-rules is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621050",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90657,7 +90657,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libsss_certmap is installed",
+      "Comment": "sssd-winbind-idmap is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621051",
       "Version": "635",
       "Object": {
@@ -90667,7 +90667,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libsss_certmap is not installed",
+      "Comment": "sssd-winbind-idmap is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621052",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90678,7 +90678,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-krb5 is installed",
+      "Comment": "python3-sssdconfig is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621053",
       "Version": "635",
       "Object": {
@@ -90688,7 +90688,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-krb5 is not installed",
+      "Comment": "python3-sssdconfig is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621054",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90699,7 +90699,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-common is installed",
+      "Comment": "sssd-krb5-common is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621055",
       "Version": "635",
       "Object": {
@@ -90709,7 +90709,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-common is not installed",
+      "Comment": "sssd-krb5-common is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621056",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90720,7 +90720,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libsss_idmap is installed",
+      "Comment": "libsss_autofs is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621057",
       "Version": "635",
       "Object": {
@@ -90730,7 +90730,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libsss_idmap is not installed",
+      "Comment": "libsss_autofs is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621058",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90741,7 +90741,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-winbind-idmap is installed",
+      "Comment": "libsss_idmap is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621059",
       "Version": "635",
       "Object": {
@@ -90751,7 +90751,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-winbind-idmap is not installed",
+      "Comment": "libsss_idmap is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621060",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90762,7 +90762,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libsss_simpleifp is installed",
+      "Comment": "libpath_utils is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621061",
       "Version": "635",
       "Object": {
@@ -90772,7 +90772,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libsss_simpleifp is not installed",
+      "Comment": "libpath_utils is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621062",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90783,7 +90783,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libsss_nss_idmap is installed",
+      "Comment": "libcollection-devel is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621063",
       "Version": "635",
       "Object": {
@@ -90793,7 +90793,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libsss_nss_idmap is not installed",
+      "Comment": "libcollection-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621064",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90804,7 +90804,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-proxy is installed",
+      "Comment": "libpath_utils-devel is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621065",
       "Version": "635",
       "Object": {
@@ -90814,7 +90814,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-proxy is not installed",
+      "Comment": "libpath_utils-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621066",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90825,7 +90825,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libdhash-devel is installed",
+      "Comment": "sssd is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621067",
       "Version": "635",
       "Object": {
@@ -90835,7 +90835,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libdhash-devel is not installed",
+      "Comment": "sssd is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621068",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90846,7 +90846,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-sssdconfig is installed",
+      "Comment": "sssd-tools is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621069",
       "Version": "635",
       "Object": {
@@ -90856,7 +90856,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-sssdconfig is not installed",
+      "Comment": "sssd-tools is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621070",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90867,7 +90867,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libsss_nss_idmap-devel is installed",
+      "Comment": "sssd-common is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621071",
       "Version": "635",
       "Object": {
@@ -90877,7 +90877,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libsss_nss_idmap-devel is not installed",
+      "Comment": "sssd-common is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621072",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90888,7 +90888,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-common-pac is installed",
+      "Comment": "sssd-ldap is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621073",
       "Version": "635",
       "Object": {
@@ -90898,7 +90898,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-common-pac is not installed",
+      "Comment": "sssd-ldap is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621074",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90909,7 +90909,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-client is installed",
+      "Comment": "libini_config-devel is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621075",
       "Version": "635",
       "Object": {
@@ -90919,7 +90919,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "sssd-client is not installed",
+      "Comment": "libini_config-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621076",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90930,7 +90930,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libcollection-devel is installed",
+      "Comment": "sssd-idp is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621077",
       "Version": "635",
       "Object": {
@@ -90940,7 +90940,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libcollection-devel is not installed",
+      "Comment": "sssd-idp is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621078",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -90951,7 +90951,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libref_array-devel is installed",
+      "Comment": "python3-sss-murmur is installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621079",
       "Version": "635",
       "Object": {
@@ -90961,7 +90961,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "libref_array-devel is not installed",
+      "Comment": "python3-sss-murmur is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20213621080",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -92336,7 +92336,7 @@
     {
       "Check": "at least one",
       "Comment": "firefox-x11 is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:20213800016",
+      "ID": "oval:com.redhat.unaffected:tst:20213800002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -98020,85 +98020,19 @@
     },
     {
       "Check": "at least one",
-      "Comment": "java-17-openjdk-javadoc is not installed",
+      "Comment": "java-17-openjdk-devel-slowdebug is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202321830002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223857039"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "java-17-openjdk-headless-fastdebug is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830010",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223857066"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "java-17-openjdk-demo-fastdebug is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830014",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223857009"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "java-17-openjdk is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830018",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223857052"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "java-17-openjdk-static-libs-slowdebug is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830020",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223857027"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "java-17-openjdk-static-libs-fastdebug is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830022",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223857061"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "java-17-openjdk-src-fastdebug is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830024",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223857008"
+        "ObjectRef": "oval:com.redhat.cve:obj:20223857019"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "java-17-openjdk-headless is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830028",
+      "ID": "oval:com.redhat.unaffected:tst:202321830012",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -98108,19 +98042,19 @@
     },
     {
       "Check": "at least one",
-      "Comment": "java-17-openjdk-devel is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830030",
+      "Comment": "java-17-openjdk-static-libs-slowdebug is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202321830016",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223857026"
+        "ObjectRef": "oval:com.redhat.cve:obj:20223857027"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "java-17-openjdk-src-slowdebug is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830038",
+      "ID": "oval:com.redhat.unaffected:tst:202321830020",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -98131,7 +98065,7 @@
     {
       "Check": "at least one",
       "Comment": "java-17-openjdk-jmods-slowdebug is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830040",
+      "ID": "oval:com.redhat.unaffected:tst:202321830026",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -98141,85 +98075,8 @@
     },
     {
       "Check": "at least one",
-      "Comment": "java-17-openjdk-devel-slowdebug is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830046",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223857019"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "java-17-openjdk-javadoc-zip is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830048",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223857024"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "java-17-openjdk-demo-slowdebug is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830052",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223857050"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "java-17-openjdk-headless-slowdebug is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830056",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223857063"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "java-17-openjdk-devel-fastdebug is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830058",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223857013"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "java-17-openjdk-slowdebug is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830062",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223857046"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "java-17-openjdk-jmods-fastdebug is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830066",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223857035"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "java-17-openjdk-src is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830074",
+      "ID": "oval:com.redhat.unaffected:tst:202321830030",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -98229,8 +98086,19 @@
     },
     {
       "Check": "at least one",
+      "Comment": "java-17-openjdk-devel is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202321830032",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20223857026"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "java-17-openjdk-jmods is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830080",
+      "ID": "oval:com.redhat.unaffected:tst:202321830036",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -98241,7 +98109,7 @@
     {
       "Check": "at least one",
       "Comment": "java-17-openjdk-static-libs is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830084",
+      "ID": "oval:com.redhat.unaffected:tst:202321830038",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -98251,8 +98119,118 @@
     },
     {
       "Check": "at least one",
+      "Comment": "java-17-openjdk-devel-fastdebug is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202321830042",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20223857013"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "java-17-openjdk is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202321830046",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20223857052"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "java-17-openjdk-slowdebug is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202321830052",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20223857046"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "java-17-openjdk-javadoc-zip is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202321830056",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20223857024"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "java-17-openjdk-javadoc is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202321830058",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20223857039"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "java-17-openjdk-fastdebug is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202321830060",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20223857064"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "java-17-openjdk-headless-fastdebug is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202321830064",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20223857066"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "java-17-openjdk-demo-fastdebug is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202321830066",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20223857009"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "java-17-openjdk-jmods-fastdebug is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202321830070",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20223857035"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "java-17-openjdk-static-libs-fastdebug is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202321830072",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20223857061"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "java-17-openjdk-demo is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202321830086",
+      "ID": "oval:com.redhat.unaffected:tst:202321830074",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
@@ -98262,12 +98240,34 @@
     },
     {
       "Check": "at least one",
-      "Comment": "java-17-openjdk-fastdebug is not installed",
+      "Comment": "java-17-openjdk-headless-slowdebug is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202321830084",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20223857063"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "java-17-openjdk-src-fastdebug is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202321830090",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223857064"
+        "ObjectRef": "oval:com.redhat.cve:obj:20223857008"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "java-17-openjdk-demo-slowdebug is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202321830092",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20223857050"
       },
       "State": {}
     },

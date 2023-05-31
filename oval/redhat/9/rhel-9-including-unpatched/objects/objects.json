@@ -11698,12 +11698,12 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:202035492001",
       "Version": "635",
-      "Name": "cairo-gobject"
+      "Name": "cairo-devel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202035492002",
       "Version": "635",
-      "Name": "cairo-devel"
+      "Name": "cairo-gobject-devel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202035492003",
@@ -11713,7 +11713,7 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:202035492004",
       "Version": "635",
-      "Name": "cairo-gobject-devel"
+      "Name": "cairo-gobject"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202036193001",
@@ -12683,202 +12683,202 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621001",
       "Version": "635",
-      "Name": "python3-sss-murmur"
+      "Name": "sssd-client"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621002",
       "Version": "635",
-      "Name": "libini_config"
+      "Name": "sssd-common-pac"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621003",
       "Version": "635",
-      "Name": "python3-sss"
+      "Name": "libsss_sudo"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621004",
       "Version": "635",
-      "Name": "libcollection"
+      "Name": "python3-sss"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621005",
       "Version": "635",
-      "Name": "libini_config-devel"
+      "Name": "libdhash"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621006",
       "Version": "635",
-      "Name": "libref_array"
+      "Name": "libipa_hbac"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621007",
       "Version": "635",
-      "Name": "sssd-ipa"
+      "Name": "sssd-kcm"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621008",
       "Version": "635",
-      "Name": "python3-libsss_nss_idmap"
+      "Name": "sssd-nfs-idmap"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621009",
       "Version": "635",
-      "Name": "libdhash"
+      "Name": "sssd-krb5"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621010",
       "Version": "635",
-      "Name": "sssd-idp"
+      "Name": "libsss_nss_idmap"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621011",
       "Version": "635",
-      "Name": "libpath_utils-devel"
+      "Name": "libsss_certmap"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621012",
       "Version": "635",
-      "Name": "sssd-nfs-idmap"
+      "Name": "libsss_simpleifp"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621013",
       "Version": "635",
-      "Name": "libsss_sudo"
+      "Name": "libini_config"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621014",
       "Version": "635",
-      "Name": "libipa_hbac"
+      "Name": "sssd-ipa"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621015",
       "Version": "635",
-      "Name": "sssd-krb5-common"
+      "Name": "sssd-proxy"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621016",
       "Version": "635",
-      "Name": "python3-libipa_hbac"
+      "Name": "libref_array-devel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621017",
       "Version": "635",
-      "Name": "libpath_utils"
+      "Name": "sssd-dbus"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621018",
       "Version": "635",
-      "Name": "sssd-polkit-rules"
+      "Name": "libref_array"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621019",
       "Version": "635",
-      "Name": "sssd"
+      "Name": "libsss_nss_idmap-devel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621020",
       "Version": "635",
-      "Name": "sssd-dbus"
+      "Name": "python3-libipa_hbac"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621021",
       "Version": "635",
-      "Name": "libsss_autofs"
+      "Name": "libdhash-devel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621022",
       "Version": "635",
-      "Name": "sssd-ldap"
+      "Name": "libcollection"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621023",
       "Version": "635",
-      "Name": "sssd-tools"
+      "Name": "python3-libsss_nss_idmap"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621024",
       "Version": "635",
-      "Name": "sssd-kcm"
+      "Name": "sssd-ad"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621025",
       "Version": "635",
-      "Name": "sssd-ad"
+      "Name": "sssd-polkit-rules"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621026",
       "Version": "635",
-      "Name": "libsss_certmap"
+      "Name": "sssd-winbind-idmap"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621027",
       "Version": "635",
-      "Name": "sssd-krb5"
+      "Name": "python3-sssdconfig"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621028",
       "Version": "635",
-      "Name": "sssd-common"
+      "Name": "sssd-krb5-common"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621029",
       "Version": "635",
-      "Name": "libsss_idmap"
+      "Name": "libsss_autofs"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621030",
       "Version": "635",
-      "Name": "sssd-winbind-idmap"
+      "Name": "libsss_idmap"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621031",
       "Version": "635",
-      "Name": "libsss_simpleifp"
+      "Name": "libpath_utils"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621032",
       "Version": "635",
-      "Name": "libsss_nss_idmap"
+      "Name": "libcollection-devel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621033",
       "Version": "635",
-      "Name": "sssd-proxy"
+      "Name": "libpath_utils-devel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621034",
       "Version": "635",
-      "Name": "libdhash-devel"
+      "Name": "sssd"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621035",
       "Version": "635",
-      "Name": "python3-sssdconfig"
+      "Name": "sssd-tools"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621036",
       "Version": "635",
-      "Name": "libsss_nss_idmap-devel"
+      "Name": "sssd-common"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621037",
       "Version": "635",
-      "Name": "sssd-common-pac"
+      "Name": "sssd-ldap"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621038",
       "Version": "635",
-      "Name": "sssd-client"
+      "Name": "libini_config-devel"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621039",
       "Version": "635",
-      "Name": "libcollection-devel"
+      "Name": "sssd-idp"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20213621040",
       "Version": "635",
-      "Name": "libref_array-devel"
+      "Name": "python3-sss-murmur"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202136386001",
