@@ -28801,20 +28801,20 @@
     {
       "Check": "at least one",
       "Comment": "pki-jackson-jaxrs-json-provider is installed",
-      "ID": "oval:com.redhat.cve:tst:202241854003",
+      "ID": "oval:com.redhat.cve:tst:202241854005",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241854002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202241854003"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "pki-jackson-jaxrs-json-provider is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202241854004",
+      "ID": "oval:com.redhat.cve:tst:202241854006",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241854002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202241854003"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -28823,20 +28823,20 @@
     {
       "Check": "at least one",
       "Comment": "pki-jackson-jaxrs-providers is installed",
-      "ID": "oval:com.redhat.cve:tst:202241854007",
+      "ID": "oval:com.redhat.cve:tst:202241854011",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241854004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202241854006"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "pki-jackson-jaxrs-providers is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202241854008",
+      "ID": "oval:com.redhat.cve:tst:202241854012",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241854004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202241854006"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -94403,7 +94403,7 @@
     {
       "Check": "at least one",
       "Comment": "jackson-databind is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202146877004",
+      "ID": "oval:com.redhat.unaffected:tst:202146877002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
