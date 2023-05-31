@@ -1,9 +1,9 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2022-09-12T14:46:35Z",
+  "UpdatedAt": "2023-05-31T17:52:34Z",
   "Package": {
-    "Ecosystem": "NPM",
-    "Name": "jquery"
+    "Ecosystem": "NUGET",
+    "Name": "jQuery"
   },
   "Advisory": {
     "DatabaseId": 80325,

@@ -59,7 +59,7 @@
     "PublishedAt": "2020-06-15T20:36:20Z",
     "Severity": "HIGH",
     "Summary": "Insecure Deserialization in Apache Commons Collection",
-    "UpdatedAt": "2023-02-03T05:06:03Z",
+    "UpdatedAt": "2023-05-31T15:55:10Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,
