@@ -84,6 +84,30 @@
         "reboot_suggested": 0
       },
       {
+        "name": "pcre-utf32",
+        "version": "8.42",
+        "release": "6.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "pcre-8.42-6.el8.src.rpm",
+        "filename": "Packages/pcre-utf32-8.42-6.el8.i686.rpm",
+        "sum": "05be98b7b18fbaf736f547d74b829945182f7510d44a30956e8f5fd7a83c592f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "pcre-devel",
+        "version": "8.42",
+        "release": "6.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "pcre-8.42-6.el8.src.rpm",
+        "filename": "Packages/pcre-devel-8.42-6.el8.i686.rpm",
+        "sum": "1724fc7e68d8e0723ba52bf89e3097b069b0fe7230cf5b697aa6e6619cfcc804",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "pcre-cpp",
         "version": "8.42",
         "release": "6.el8",
@@ -104,6 +128,18 @@
         "src": "pcre-8.42-6.el8.src.rpm",
         "filename": "pcre-utf32-8.42-6.el8.x86_64.rpm",
         "sum": "2e9554d38032c16e3069ba9636fe8b5a7d2b253226b2b6797ef1a3f7bb608a47",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "pcre-utf16",
+        "version": "8.42",
+        "release": "6.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "pcre-8.42-6.el8.src.rpm",
+        "filename": "Packages/pcre-utf16-8.42-6.el8.i686.rpm",
+        "sum": "497d784321192d4e1cc7dc066c55e867779f412d6532ea6b15b60be430519dab",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -132,78 +168,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "pcre-utf16",
-        "version": "8.42",
-        "release": "6.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "pcre-8.42-6.el8.src.rpm",
-        "filename": "pcre-utf16-8.42-6.el8.x86_64.rpm",
-        "sum": "7a0993d378239272545ee1e3da1c3a53bbc573d7c5cbd3668075ef31f300dea9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "pcre-static",
-        "version": "8.42",
-        "release": "6.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "pcre-8.42-6.el8.src.rpm",
-        "filename": "pcre-static-8.42-6.el8.i686.rpm",
-        "sum": "a8a6003169f61ce9324ee338f3f726afe3629dd8a9b41950ccd412de342e31b2",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "pcre-static",
-        "version": "8.42",
-        "release": "6.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "pcre-8.42-6.el8.src.rpm",
-        "filename": "pcre-static-8.42-6.el8.x86_64.rpm",
-        "sum": "cd6060b921ecd61ef049422104f8ba6412a1aeeaff14385eccb1aa21a56965c0",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "pcre-utf32",
-        "version": "8.42",
-        "release": "6.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "pcre-8.42-6.el8.src.rpm",
-        "filename": "Packages/pcre-utf32-8.42-6.el8.i686.rpm",
-        "sum": "05be98b7b18fbaf736f547d74b829945182f7510d44a30956e8f5fd7a83c592f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "pcre-devel",
-        "version": "8.42",
-        "release": "6.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "pcre-8.42-6.el8.src.rpm",
-        "filename": "Packages/pcre-devel-8.42-6.el8.i686.rpm",
-        "sum": "1724fc7e68d8e0723ba52bf89e3097b069b0fe7230cf5b697aa6e6619cfcc804",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "pcre-utf16",
-        "version": "8.42",
-        "release": "6.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "pcre-8.42-6.el8.src.rpm",
-        "filename": "Packages/pcre-utf16-8.42-6.el8.i686.rpm",
-        "sum": "497d784321192d4e1cc7dc066c55e867779f412d6532ea6b15b60be430519dab",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "pcre-cpp",
         "version": "8.42",
         "release": "6.el8",
@@ -224,6 +188,42 @@
         "src": "pcre-8.42-6.el8.src.rpm",
         "filename": "Packages/pcre-8.42-6.el8.i686.rpm",
         "sum": "74a2b66f68ec3a87f7f267e4754541634508093575f9d78ca97164f675f9ab39",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "pcre-utf16",
+        "version": "8.42",
+        "release": "6.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "pcre-8.42-6.el8.src.rpm",
+        "filename": "pcre-utf16-8.42-6.el8.x86_64.rpm",
+        "sum": "7a0993d378239272545ee1e3da1c3a53bbc573d7c5cbd3668075ef31f300dea9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "pcre-static",
+        "version": "8.42",
+        "release": "6.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "pcre-8.42-6.el8.src.rpm",
+        "filename": "pcre-static-8.42-6.el8.x86_64.rpm",
+        "sum": "cd6060b921ecd61ef049422104f8ba6412a1aeeaff14385eccb1aa21a56965c0",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "pcre-static",
+        "version": "8.42",
+        "release": "6.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "pcre-8.42-6.el8.src.rpm",
+        "filename": "pcre-static-8.42-6.el8.i686.rpm",
+        "sum": "a8a6003169f61ce9324ee338f3f726afe3629dd8a9b41950ccd412de342e31b2",
         "sum_type": 5,
         "reboot_suggested": 0
       },
