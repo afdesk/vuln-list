@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Mar 2020] DLA-2137-1 sleuthkit - security update",
-    "Line": 3952,
+    "Line": 3954,
     "ID": "DLA-2137-1",
     "Description": "sleuthkit - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-10232}",
-      "Line": 3953,
+      "Line": 3955,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-10232"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - sleuthkit 4.1.3-4+deb8u2",
-      "Line": 3954,
+      "Line": 3956,
       "Type": "package",
       "Release": "jessie",
       "Package": "sleuthkit",
