@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Nov 2006] DSA-1209 trac",
-    "Line": 14308,
+    "Line": 14311,
     "ID": "DSA-1209",
     "Description": "trac"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-5878}",
-      "Line": 14309,
+      "Line": 14312,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-5878"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - trac 0.8.1-3sarge6",
-      "Line": 14310,
+      "Line": 14313,
       "Type": "package",
       "Release": "sarge",
       "Package": "trac",

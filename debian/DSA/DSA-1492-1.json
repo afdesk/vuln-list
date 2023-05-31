@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Feb 2008] DSA-1492-1 wml",
-    "Line": 13309,
+    "Line": 13312,
     "ID": "DSA-1492-1",
     "Description": "wml"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-0665 CVE-2008-0666}",
-      "Line": 13310,
+      "Line": 13313,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-0665",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[etch] - wml 2.0.11-1etch1",
-      "Line": 13311,
+      "Line": 13314,
       "Type": "package",
       "Release": "etch",
       "Package": "wml",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 May 2022] DLA-2993-1 libz-mingw-w64 - security update",
-    "Line": 1337,
+    "Line": 1340,
     "ID": "DLA-2993-1",
     "Description": "libz-mingw-w64 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-25032}",
-      "Line": 1338,
+      "Line": 1341,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-25032"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - libz-mingw-w64 1.2.11+dfsg-1+deb9u1",
-      "Line": 1339,
+      "Line": 1342,
       "Type": "package",
       "Release": "stretch",
       "Package": "libz-mingw-w64",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Jul 2019] DLA-1848-1 libspring-security-2.0-java - security update",
-    "Line": 4860,
+    "Line": 4863,
     "ID": "DLA-1848-1",
     "Description": "libspring-security-2.0-java - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-11272}",
-      "Line": 4861,
+      "Line": 4864,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-11272"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - libspring-security-2.0-java 2.0.7.RELEASE-3+deb8u2",
-      "Line": 4862,
+      "Line": 4865,
       "Type": "package",
       "Release": "jessie",
       "Package": "libspring-security-2.0-java",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Sep 2015] DSA-3356-1 openldap - security update",
-    "Line": 6936,
+    "Line": 6939,
     "ID": "DSA-3356-1",
     "Description": "openldap - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-6908}",
-      "Line": 6937,
+      "Line": 6940,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-6908"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - openldap 2.4.31-2+deb7u1",
-      "Line": 6938,
+      "Line": 6941,
       "Type": "package",
       "Release": "wheezy",
       "Package": "openldap",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[jessie] - openldap 2.4.40+dfsg-1+deb8u1",
-      "Line": 6939,
+      "Line": 6942,
       "Type": "package",
       "Release": "jessie",
       "Package": "openldap",

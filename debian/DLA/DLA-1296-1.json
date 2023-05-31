@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Feb 2018] DLA-1296-1 xmltooling - security update",
-    "Line": 6539,
+    "Line": 6542,
     "ID": "DLA-1296-1",
     "Description": "xmltooling - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-0489}",
-      "Line": 6540,
+      "Line": 6543,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-0489"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - xmltooling 1.4.2-5+deb7u3",
-      "Line": 6541,
+      "Line": 6544,
       "Type": "package",
       "Release": "wheezy",
       "Package": "xmltooling",

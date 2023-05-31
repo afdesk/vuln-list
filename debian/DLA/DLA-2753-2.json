@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Sep 2021] DLA-2753-2 qemu - regression update",
-    "Line": 2059,
+    "Line": 2062,
     "ID": "DLA-2753-2",
     "Description": "qemu - regression update"
   },
   "Annotations": [
     {
       "Original": "[stretch] - qemu 1:2.8+dfsg-6+deb9u16",
-      "Line": 2060,
+      "Line": 2063,
       "Type": "package",
       "Release": "stretch",
       "Package": "qemu",

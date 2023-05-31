@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Mar 2013] DSA-2640-1 zoneminder - several issues",
-    "Line": 9361,
+    "Line": 9364,
     "ID": "DSA-2640-1",
     "Description": "zoneminder - several issues"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-0232 CVE-2013-0332}",
-      "Line": 9362,
+      "Line": 9365,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-0232",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[squeeze] - zoneminder 1.24.2-8+squeeze1",
-      "Line": 9363,
+      "Line": 9366,
       "Type": "package",
       "Release": "squeeze",
       "Package": "zoneminder",

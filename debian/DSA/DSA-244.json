@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Jan 2003] DSA-244 noffle - buffer overflows",
-    "Line": 17914,
+    "Line": 17917,
     "ID": "DSA-244",
     "Description": "noffle - buffer overflows"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0037}",
-      "Line": 17915,
+      "Line": 17918,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0037"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - noffle 1.0.1-1.1",
-      "Line": 17916,
+      "Line": 17919,
       "Type": "package",
       "Release": "woody",
       "Package": "noffle",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Oct 2010] DSA-2119-1 poppler - several vulnerabilities",
-    "Line": 11098,
+    "Line": 11101,
     "ID": "DSA-2119-1",
     "Description": "poppler - several vulnerabilities"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-3702 CVE-2010-3704}",
-      "Line": 11099,
+      "Line": 11102,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-3702",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[lenny] - poppler 0.8.7-4",
-      "Line": 11100,
+      "Line": 11103,
       "Type": "package",
       "Release": "lenny",
       "Package": "poppler",

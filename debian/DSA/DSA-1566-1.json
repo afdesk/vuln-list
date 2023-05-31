@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 May 2008] DSA-1566-1 cpio - programming error",
-    "Line": 13028,
+    "Line": 13031,
     "ID": "DSA-1566-1",
     "Description": "cpio - programming error"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-4476}",
-      "Line": 13029,
+      "Line": 13032,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-4476"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - cpio 2.6-18.1+etch1",
-      "Line": 13030,
+      "Line": 13033,
       "Type": "package",
       "Release": "etch",
       "Package": "cpio",
