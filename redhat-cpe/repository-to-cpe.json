@@ -3117,13 +3117,16 @@
     "cpe:/a:redhat:jboss_enterprise_web_server:5.7::el8"
   ],
   "kmm-1-for-rhel-9-x86_64-debug-rpms": [
-    "cpe:/a:redhat:kernel_module_management:1.0::el9"
+    "cpe:/a:redhat:kernel_module_management:1.0::el9",
+    "cpe:/a:redhat:kernel_module_management:1.1::el9"
   ],
   "kmm-1-for-rhel-9-x86_64-rpms": [
-    "cpe:/a:redhat:kernel_module_management:1.0::el9"
+    "cpe:/a:redhat:kernel_module_management:1.0::el9",
+    "cpe:/a:redhat:kernel_module_management:1.1::el9"
   ],
   "kmm-1-for-rhel-9-x86_64-source-rpms": [
-    "cpe:/a:redhat:kernel_module_management:1.0::el9"
+    "cpe:/a:redhat:kernel_module_management:1.0::el9",
+    "cpe:/a:redhat:kernel_module_management:1.1::el9"
   ],
   "kmm-1.0-for-rhel-8-x86_64-debug-rpms": [
     "cpe:/a:redhat:kernel_module_management:1.0::el8"
