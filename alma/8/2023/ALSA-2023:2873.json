@@ -60,42 +60,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "gcc-toolset-12-binutils-devel",
-        "version": "2.38",
-        "release": "17.el8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "gcc-toolset-12-binutils-2.38-17.el8.src.rpm",
-        "filename": "gcc-toolset-12-binutils-devel-2.38-17.el8.s390x.rpm",
-        "sum": "12f3c14f31e465accbbbb9660df5bafb4c53c0c24ec2e4df1d92ac590c5121af",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gcc-toolset-12-binutils-gold",
-        "version": "2.38",
-        "release": "17.el8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "gcc-toolset-12-binutils-2.38-17.el8.src.rpm",
-        "filename": "gcc-toolset-12-binutils-gold-2.38-17.el8.s390x.rpm",
-        "sum": "770c258eee8af0dc77efe8b01f12241d3ace3cfb07f1f4d2bfbb6df22c3d18d2",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gcc-toolset-12-binutils",
-        "version": "2.38",
-        "release": "17.el8",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "gcc-toolset-12-binutils-2.38-17.el8.src.rpm",
-        "filename": "gcc-toolset-12-binutils-2.38-17.el8.s390x.rpm",
-        "sum": "84afd2ce5034c24481c70b3082c49adc4f9b877ac7b2110c4d6a2dcb92fea1b6",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "gcc-toolset-12-binutils",
         "version": "2.38",
         "release": "17.el8",
@@ -128,6 +92,42 @@
         "src": "gcc-toolset-12-binutils-2.38-17.el8.src.rpm",
         "filename": "gcc-toolset-12-binutils-gold-2.38-17.el8.x86_64.rpm",
         "sum": "3f0aa6128895cea53d47008152af134beb699b6ad0b0c1198d47b1b7d6dcff38",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gcc-toolset-12-binutils-devel",
+        "version": "2.38",
+        "release": "17.el8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "gcc-toolset-12-binutils-2.38-17.el8.src.rpm",
+        "filename": "gcc-toolset-12-binutils-devel-2.38-17.el8.s390x.rpm",
+        "sum": "12f3c14f31e465accbbbb9660df5bafb4c53c0c24ec2e4df1d92ac590c5121af",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gcc-toolset-12-binutils-gold",
+        "version": "2.38",
+        "release": "17.el8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "gcc-toolset-12-binutils-2.38-17.el8.src.rpm",
+        "filename": "gcc-toolset-12-binutils-gold-2.38-17.el8.s390x.rpm",
+        "sum": "770c258eee8af0dc77efe8b01f12241d3ace3cfb07f1f4d2bfbb6df22c3d18d2",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gcc-toolset-12-binutils",
+        "version": "2.38",
+        "release": "17.el8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "gcc-toolset-12-binutils-2.38-17.el8.src.rpm",
+        "filename": "gcc-toolset-12-binutils-2.38-17.el8.s390x.rpm",
+        "sum": "84afd2ce5034c24481c70b3082c49adc4f9b877ac7b2110c4d6a2dcb92fea1b6",
         "sum_type": 5,
         "reboot_suggested": 0
       },

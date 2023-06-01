@@ -8,9 +8,21 @@
     "$date": 1654646400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-ppc64le-appstream-rpms__9_1_default",
-    "shortname": "almalinux-9-for-ppc64le-appstream-rpms__9_1_default",
+    "name": "almalinux-9-for-i686-appstream-rpms__9_1_default",
+    "shortname": "almalinux-9-for-i686-appstream-rpms__9_1_default",
     "packages": [
+      {
+        "name": "xz-devel",
+        "version": "5.2.5",
+        "release": "8.el9_0",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "xz-5.2.5-8.el9_0.src.rpm",
+        "filename": "xz-devel-5.2.5-8.el9_0.i686.rpm",
+        "sum": "92cb6b0bf25327e4b8f76769fda5f921e930bb9a9f1e16e2b504604cd27adcdb",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "xz-lzma-compat",
         "version": "5.2.5",
@@ -36,18 +48,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "xz-devel",
-        "version": "5.2.5",
-        "release": "8.el9_0",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "xz-5.2.5-8.el9_0.src.rpm",
-        "filename": "xz-devel-5.2.5-8.el9_0.i686.rpm",
-        "sum": "92cb6b0bf25327e4b8f76769fda5f921e930bb9a9f1e16e2b504604cd27adcdb",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "xz-libs",
         "version": "5.2.5",
         "release": "8.el9_0",
@@ -60,26 +60,26 @@
         "reboot_suggested": 0
       },
       {
-        "name": "xz-lzma-compat",
+        "name": "xz",
         "version": "5.2.5",
         "release": "8.el9_0",
         "epoch": "0",
         "arch": "x86_64",
         "src": "xz-5.2.5-8.el9_0.src.rpm",
-        "filename": "xz-lzma-compat-5.2.5-8.el9_0.x86_64.rpm",
-        "sum": "a322e8d36a1e3daa0fb71212696cc229483a11749c8e95f1d17f45d410e84b38",
+        "filename": "xz-5.2.5-8.el9_0.x86_64.rpm",
+        "sum": "4567587f72bb7fdcc4f2e5b6c731d83b0e14e841680c557d4ca2e19775a364c2",
         "sum_type": 5,
         "reboot_suggested": 0
       },
       {
-        "name": "xz-devel",
+        "name": "xz-libs",
         "version": "5.2.5",
         "release": "8.el9_0",
         "epoch": "0",
         "arch": "x86_64",
         "src": "xz-5.2.5-8.el9_0.src.rpm",
-        "filename": "xz-devel-5.2.5-8.el9_0.x86_64.rpm",
-        "sum": "d6a98711c423032ccec82c0fbad9926d676622bfcb94ec7e919eaedaa6036bb6",
+        "filename": "xz-libs-5.2.5-8.el9_0.x86_64.rpm",
+        "sum": "b75e6d24dd17688b0047572858f1e0bd5d3edcc9bba31075235e307eeb6195d3",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -108,30 +108,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "xz",
-        "version": "5.2.5",
-        "release": "8.el9_0",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "xz-5.2.5-8.el9_0.src.rpm",
-        "filename": "xz-5.2.5-8.el9_0.aarch64.rpm",
-        "sum": "cd394411d3a89180727479cf5b1f96413a514478211643be00bb508f4fb5f564",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "xz-libs",
-        "version": "5.2.5",
-        "release": "8.el9_0",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "xz-5.2.5-8.el9_0.src.rpm",
-        "filename": "xz-libs-5.2.5-8.el9_0.aarch64.rpm",
-        "sum": "de7f0c2cac4ab8bd41e44ec21b160e6882bec69337f532d390161f68405d81c5",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "xz-devel",
         "version": "5.2.5",
         "release": "8.el9_0",
@@ -152,6 +128,30 @@
         "src": "xz-5.2.5-8.el9_0.src.rpm",
         "filename": "xz-lzma-compat-5.2.5-8.el9_0.s390x.rpm",
         "sum": "503225a8e5a5144b9d277f2b3f6d460ed3844387cc8aa91e91be3ffb47eb361f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xz-lzma-compat",
+        "version": "5.2.5",
+        "release": "8.el9_0",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "xz-5.2.5-8.el9_0.src.rpm",
+        "filename": "xz-lzma-compat-5.2.5-8.el9_0.x86_64.rpm",
+        "sum": "a322e8d36a1e3daa0fb71212696cc229483a11749c8e95f1d17f45d410e84b38",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xz-devel",
+        "version": "5.2.5",
+        "release": "8.el9_0",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "xz-5.2.5-8.el9_0.src.rpm",
+        "filename": "xz-devel-5.2.5-8.el9_0.x86_64.rpm",
+        "sum": "d6a98711c423032ccec82c0fbad9926d676622bfcb94ec7e919eaedaa6036bb6",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -184,30 +184,6 @@
         "version": "5.2.5",
         "release": "8.el9_0",
         "epoch": "0",
-        "arch": "x86_64",
-        "src": "xz-5.2.5-8.el9_0.src.rpm",
-        "filename": "xz-5.2.5-8.el9_0.x86_64.rpm",
-        "sum": "4567587f72bb7fdcc4f2e5b6c731d83b0e14e841680c557d4ca2e19775a364c2",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "xz-libs",
-        "version": "5.2.5",
-        "release": "8.el9_0",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "xz-5.2.5-8.el9_0.src.rpm",
-        "filename": "xz-libs-5.2.5-8.el9_0.x86_64.rpm",
-        "sum": "b75e6d24dd17688b0047572858f1e0bd5d3edcc9bba31075235e307eeb6195d3",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "xz",
-        "version": "5.2.5",
-        "release": "8.el9_0",
-        "epoch": "0",
         "arch": "s390x",
         "src": "xz-5.2.5-8.el9_0.src.rpm",
         "filename": "xz-5.2.5-8.el9_0.s390x.rpm",
@@ -224,6 +200,30 @@
         "src": "xz-5.2.5-8.el9_0.src.rpm",
         "filename": "xz-libs-5.2.5-8.el9_0.s390x.rpm",
         "sum": "9231941408e0dd0a8eb4f77fa9a3de22f4c3c7b43815c37375a42025fd34b1d4",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xz",
+        "version": "5.2.5",
+        "release": "8.el9_0",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "xz-5.2.5-8.el9_0.src.rpm",
+        "filename": "xz-5.2.5-8.el9_0.aarch64.rpm",
+        "sum": "cd394411d3a89180727479cf5b1f96413a514478211643be00bb508f4fb5f564",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xz-libs",
+        "version": "5.2.5",
+        "release": "8.el9_0",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "xz-5.2.5-8.el9_0.src.rpm",
+        "filename": "xz-libs-5.2.5-8.el9_0.aarch64.rpm",
+        "sum": "de7f0c2cac4ab8bd41e44ec21b160e6882bec69337f532d390161f68405d81c5",
         "sum_type": 5,
         "reboot_suggested": 0
       }

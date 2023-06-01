@@ -36,42 +36,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "xz",
-        "version": "5.2.4",
-        "release": "4.el8_6",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "xz-5.2.4-4.el8_6.src.rpm",
-        "filename": "xz-5.2.4-4.el8_6.aarch64.rpm",
-        "sum": "16a8d07cf3c15d94d0ba9a1a7403461075d59ea25038265db70bb71253d7c486",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "xz-devel",
-        "version": "5.2.4",
-        "release": "4.el8_6",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "xz-5.2.4-4.el8_6.src.rpm",
-        "filename": "xz-devel-5.2.4-4.el8_6.aarch64.rpm",
-        "sum": "a209ebbcd675792de4caa214073c326f8f5adaf96a94a4ea7ceb0201abc39a83",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "xz-libs",
-        "version": "5.2.4",
-        "release": "4.el8_6",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "xz-5.2.4-4.el8_6.src.rpm",
-        "filename": "xz-libs-5.2.4-4.el8_6.aarch64.rpm",
-        "sum": "eb1bf61e0b1635d73c0f8abda8a892d3facb8112fa5dbeb0865a7bdfacb4298a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "xz-devel",
         "version": "5.2.4",
         "release": "4.el8_6",
@@ -104,6 +68,42 @@
         "src": "xz-5.2.4-4.el8_6.src.rpm",
         "filename": "xz-libs-5.2.4-4.el8_6.x86_64.rpm",
         "sum": "eab633cd7e81de007792509bfbea6cbd48dec90e4c0f18a4c1c337cb9c06ee51",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xz",
+        "version": "5.2.4",
+        "release": "4.el8_6",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "xz-5.2.4-4.el8_6.src.rpm",
+        "filename": "xz-5.2.4-4.el8_6.aarch64.rpm",
+        "sum": "16a8d07cf3c15d94d0ba9a1a7403461075d59ea25038265db70bb71253d7c486",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xz-devel",
+        "version": "5.2.4",
+        "release": "4.el8_6",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "xz-5.2.4-4.el8_6.src.rpm",
+        "filename": "xz-devel-5.2.4-4.el8_6.aarch64.rpm",
+        "sum": "a209ebbcd675792de4caa214073c326f8f5adaf96a94a4ea7ceb0201abc39a83",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xz-libs",
+        "version": "5.2.4",
+        "release": "4.el8_6",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "xz-5.2.4-4.el8_6.src.rpm",
+        "filename": "xz-libs-5.2.4-4.el8_6.aarch64.rpm",
+        "sum": "eb1bf61e0b1635d73c0f8abda8a892d3facb8112fa5dbeb0865a7bdfacb4298a",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -168,6 +168,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "xz-lzma-compat",
+        "version": "5.2.4",
+        "release": "4.el8_6",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "xz-5.2.4-4.el8_6.src.rpm",
+        "filename": "xz-lzma-compat-5.2.4-4.el8_6.ppc64le.rpm",
+        "sum": "2cea51500e791f8c380491cc0965d83a85e9fc69496a6a6835d304bfa356c6a6",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "xz-devel",
         "version": "5.2.4",
         "release": "4.el8_6",
@@ -212,18 +224,6 @@
         "src": "xz-5.2.4-4.el8_6.src.rpm",
         "filename": "xz-lzma-compat-5.2.4-4.el8_6.s390x.rpm",
         "sum": "969a0d589c6855b7f4da1a9ad40efbfd6f5480e0390bf50ae77ee47adf404f20",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "xz-lzma-compat",
-        "version": "5.2.4",
-        "release": "4.el8_6",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "xz-5.2.4-4.el8_6.src.rpm",
-        "filename": "xz-lzma-compat-5.2.4-4.el8_6.ppc64le.rpm",
-        "sum": "2cea51500e791f8c380491cc0965d83a85e9fc69496a6a6835d304bfa356c6a6",
         "sum_type": 5,
         "reboot_suggested": 0
       }

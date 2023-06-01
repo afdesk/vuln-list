@@ -8,9 +8,33 @@
     "$date": 1661817600000
   },
   "pkglist": {
-    "name": "almalinux-9-for-ppc64le-appstream-rpms__9_default",
-    "shortname": "almalinux-9-for-ppc64le-appstream-rpms__9_default",
+    "name": "almalinux-9-for-i686-appstream-rpms__9_default",
+    "shortname": "almalinux-9-for-i686-appstream-rpms__9_default",
     "packages": [
+      {
+        "name": "openssl-devel",
+        "version": "3.0.1",
+        "release": "41.el9_0",
+        "epoch": "1",
+        "arch": "i686",
+        "src": "openssl-3.0.1-41.el9_0.src.rpm",
+        "filename": "openssl-devel-3.0.1-41.el9_0.i686.rpm",
+        "sum": "01db3f0440b120c0b42ff33f625678694a0c6b9db0bac0bb8dc253407d43ce92",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "openssl-libs",
+        "version": "3.0.1",
+        "release": "41.el9_0",
+        "epoch": "1",
+        "arch": "i686",
+        "src": "openssl-3.0.1-41.el9_0.src.rpm",
+        "filename": "openssl-libs-3.0.1-41.el9_0.i686.rpm",
+        "sum": "a914bd989b8730edba072e45655036878cefb901a151d1dd3d283281eb6a8b84",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "openssl-devel",
         "version": "3.0.1",
@@ -56,30 +80,6 @@
         "src": "openssl-3.0.1-41.el9_0.src.rpm",
         "filename": "openssl-3.0.1-41.el9_0.ppc64le.rpm",
         "sum": "7c1118b73d5384b741cede8de2d30b2dfc2474f0d120a5fc4f045bb834032a40",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "openssl-devel",
-        "version": "3.0.1",
-        "release": "41.el9_0",
-        "epoch": "1",
-        "arch": "i686",
-        "src": "openssl-3.0.1-41.el9_0.src.rpm",
-        "filename": "openssl-devel-3.0.1-41.el9_0.i686.rpm",
-        "sum": "01db3f0440b120c0b42ff33f625678694a0c6b9db0bac0bb8dc253407d43ce92",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "openssl-libs",
-        "version": "3.0.1",
-        "release": "41.el9_0",
-        "epoch": "1",
-        "arch": "i686",
-        "src": "openssl-3.0.1-41.el9_0.src.rpm",
-        "filename": "openssl-libs-3.0.1-41.el9_0.i686.rpm",
-        "sum": "a914bd989b8730edba072e45655036878cefb901a151d1dd3d283281eb6a8b84",
         "sum_type": 5,
         "reboot_suggested": 0
       },

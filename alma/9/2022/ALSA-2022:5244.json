@@ -8,33 +8,9 @@
     "$date": 1656633600000
   },
   "pkglist": {
-    "name": "almalinux-9-for-ppc64le-appstream-rpms__9_default",
-    "shortname": "almalinux-9-for-ppc64le-appstream-rpms__9_default",
+    "name": "almalinux-9-for-i686-appstream-rpms__9_default",
+    "shortname": "almalinux-9-for-i686-appstream-rpms__9_default",
     "packages": [
-      {
-        "name": "expat-devel",
-        "version": "2.2.10",
-        "release": "12.el9_0.2",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "expat-2.2.10-12.el9_0.2.src.rpm",
-        "filename": "expat-devel-2.2.10-12.el9_0.2.ppc64le.rpm",
-        "sum": "40910d792dca4fb076d05994881d9d58410d8f21eb83e76ba3fa2980351fbd21",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "expat",
-        "version": "2.2.10",
-        "release": "12.el9_0.2",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "expat-2.2.10-12.el9_0.2.src.rpm",
-        "filename": "expat-2.2.10-12.el9_0.2.ppc64le.rpm",
-        "sum": "dc5897205c14915e70d78042a2b3ca48343f0acc0885b67c33984e10d6990e06",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "expat-devel",
         "version": "2.2.10",
@@ -56,6 +32,30 @@
         "src": "expat-2.2.10-12.el9_0.2.src.rpm",
         "filename": "expat-2.2.10-12.el9_0.2.i686.rpm",
         "sum": "d55c59b0c26f06481a7dae0ab87203cadfca0af6ec3c44126d83285898172b2f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "expat-devel",
+        "version": "2.2.10",
+        "release": "12.el9_0.2",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "expat-2.2.10-12.el9_0.2.src.rpm",
+        "filename": "expat-devel-2.2.10-12.el9_0.2.ppc64le.rpm",
+        "sum": "40910d792dca4fb076d05994881d9d58410d8f21eb83e76ba3fa2980351fbd21",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "expat",
+        "version": "2.2.10",
+        "release": "12.el9_0.2",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "expat-2.2.10-12.el9_0.2.src.rpm",
+        "filename": "expat-2.2.10-12.el9_0.2.ppc64le.rpm",
+        "sum": "dc5897205c14915e70d78042a2b3ca48343f0acc0885b67c33984e10d6990e06",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -182,7 +182,7 @@
   "title": "Moderate: expat security update",
   "type": "security",
   "updated_date": {
-    "$date": 1658424896000
+    "$date": 1658424885000
   },
   "version": "1"
 }
