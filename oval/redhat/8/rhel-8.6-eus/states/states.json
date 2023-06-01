@@ -49756,6 +49756,118 @@
         "Operation": "less than"
       },
       "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233388001",
+      "Version": "641",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:4.18.0-372.57.1.el8_6",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233388003",
+      "Version": "641",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:4.18.0-372.57.1.el8_6",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233388004",
+      "Version": "641",
+      "Arch": {
+        "Text": "aarch64|ppc64le|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:4.18.0-372.57.1.el8_6",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233388005",
+      "Version": "641",
+      "Arch": {
+        "Text": "s390x",
+        "Datatype": "string",
+        "Operation": "equals"
+      },
+      "Evr": {
+        "Text": "0:4.18.0-372.57.1.el8_6",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233394004",
+      "Version": "635",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:10.12.7-1.module+el8.6.0+18623+dea80f17",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233394005",
+      "Version": "635",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:10.12.7-1.module+el8.6.0+18623+dea80f17",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233397001",
+      "Version": "635",
+      "Arch": {
+        "Text": "x86_64",
+        "Datatype": "string",
+        "Operation": "equals"
+      },
+      "Evr": {
+        "Text": "0:1.1.2-1.el8_6",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233403001",
+      "Version": "635",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:0.10.12-6.el8_6.4",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
     }
   ],
   "RpmverifyfileStates": [
@@ -50737,6 +50849,14 @@
         "Text": "\\(4.18.0-372.51.1.el8_6",
         "Operation": "pattern match"
       }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233388007",
+      "Version": "641",
+      "Text": {
+        "Text": "\\(([0-3]\\.\\d+\\.\\d+-)|(4\\.([0-9]|1[0-7])\\.\\d+-)|(4\\.18\\.0-([0-9]{1,2}|[1-2][0-9]{2}|3[0-6][0-9]|37[0-1])\\.)|(4\\.18\\.0-372\\.[^\\.]*[a-zA-Z])|(4\\.18\\.0-372\\.([0-9]|[1-4][0-9]|5[0-6])\\.)|(4\\.18\\.0-372\\.57\\.[^\\.]*[a-zA-Z])|(4\\.18\\.0-372\\.57\\.0\\.)",
+        "Operation": "pattern match"
+      }
     }
   ],
   "UnameState": [
@@ -51361,6 +51481,14 @@
       "Version": "636",
       "OsRelease": {
         "Text": "4.18.0-372.51.1.el8_6",
+        "Operation": "pattern match"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233388006",
+      "Version": "641",
+      "OsRelease": {
+        "Text": "([0-3]\\.\\d+\\.\\d+-)|(4\\.([0-9]|1[0-7])\\.\\d+-)|(4\\.18\\.0-([0-9]{1,2}|[1-2][0-9]{2}|3[0-6][0-9]|37[0-1])\\.)|(4\\.18\\.0-372\\.[^\\.]*[a-zA-Z])|(4\\.18\\.0-372\\.([0-9]|[1-4][0-9]|5[0-6])\\.)|(4\\.18\\.0-372\\.57\\.[^\\.]*[a-zA-Z])|(4\\.18\\.0-372\\.57\\.0\\.)",
         "Operation": "pattern match"
       }
     }

@@ -4003,27 +4003,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:202126291001",
       "Version": "636",
-      "Name": "maven-openjdk8"
+      "Name": "maven-lib"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202126291002",
       "Version": "636",
-      "Name": "maven-openjdk17"
+      "Name": "maven"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202126291003",
       "Version": "636",
-      "Name": "maven-lib"
+      "Name": "maven-openjdk11"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202126291004",
       "Version": "636",
-      "Name": "maven"
+      "Name": "maven-openjdk17"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202126291005",
       "Version": "636",
-      "Name": "maven-openjdk11"
+      "Name": "maven-openjdk8"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202127212001",
@@ -4601,12 +4601,12 @@
       "Name": "ant-apache-bsf"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20213714010",
+      "ID": "oval:com.redhat.cve:obj:20213714019",
       "Version": "636",
       "Name": "kernel-rt-modules-core"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20213714061",
+      "ID": "oval:com.redhat.cve:obj:20213714050",
       "Version": "636",
       "Name": "kernel-rt-debug-modules-core"
     },
@@ -6628,7 +6628,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20224304001",
       "Version": "636",
-      "Name": "shim-aa64"
+      "Name": "shim-x64"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20224304002",
@@ -6636,9 +6636,9 @@
       "Name": "shim"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20224304003",
+      "ID": "oval:com.redhat.cve:obj:20224304004",
       "Version": "636",
-      "Name": "shim-x64"
+      "Name": "shim-aa64"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202244638001",
@@ -7073,27 +7073,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:20232454001",
       "Version": "636",
-      "Name": "postgresql-upgrade"
+      "Name": "postgresql-pltcl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454002",
       "Version": "636",
-      "Name": "postgresql-contrib"
+      "Name": "postgresql-private-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454003",
       "Version": "636",
-      "Name": "postgresql-upgrade-devel"
+      "Name": "postgresql-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454004",
       "Version": "636",
-      "Name": "postgresql-private-devel"
+      "Name": "postgresql-plperl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454005",
       "Version": "636",
-      "Name": "postgresql-server"
+      "Name": "postgresql-private-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454006",
@@ -7103,7 +7103,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20232454007",
       "Version": "636",
-      "Name": "postgresql-test"
+      "Name": "postgresql-server"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454008",
@@ -7113,27 +7113,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:20232454009",
       "Version": "636",
-      "Name": "postgresql-private-libs"
+      "Name": "postgresql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454010",
       "Version": "636",
-      "Name": "postgresql-plpython3"
+      "Name": "postgresql-upgrade-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454011",
       "Version": "636",
-      "Name": "postgresql-plperl"
+      "Name": "postgresql-plpython3"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454012",
       "Version": "636",
-      "Name": "postgresql"
+      "Name": "postgresql-contrib"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454013",
       "Version": "636",
-      "Name": "postgresql-pltcl"
+      "Name": "postgresql-upgrade"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454014",
@@ -7358,32 +7358,32 @@
     {
       "ID": "oval:com.redhat.cve:obj:202327522002",
       "Version": "636",
-      "Name": "httpd"
+      "Name": "mod_session"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522003",
       "Version": "636",
-      "Name": "mod_session"
+      "Name": "mod_lua"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522004",
       "Version": "636",
-      "Name": "mod_lua"
+      "Name": "httpd-filesystem"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522005",
       "Version": "636",
-      "Name": "httpd-manual"
+      "Name": "mod_ssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522006",
       "Version": "636",
-      "Name": "mod_proxy_html"
+      "Name": "mod_ldap"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522007",
       "Version": "636",
-      "Name": "mod_ldap"
+      "Name": "mod_proxy_html"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522008",
@@ -7393,12 +7393,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202327522009",
       "Version": "636",
-      "Name": "mod_ssl"
+      "Name": "httpd-manual"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522010",
       "Version": "636",
-      "Name": "httpd-filesystem"
+      "Name": "httpd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522011",

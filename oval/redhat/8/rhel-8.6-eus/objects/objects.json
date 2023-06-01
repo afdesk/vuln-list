@@ -13354,6 +13354,21 @@
       "ID": "oval:com.redhat.rhsa:obj:20233178009",
       "Version": "635",
       "Name": "apr-util-sqlite"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233397001",
+      "Version": "635",
+      "Name": "qatzip"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233397002",
+      "Version": "635",
+      "Name": "qatzip-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233397003",
+      "Version": "635",
+      "Name": "qatzip-libs"
     }
   ],
   "RpmverifyfileObjects": [
@@ -15780,6 +15795,22 @@
     {
       "ID": "oval:com.redhat.rhsa:obj:20231923005",
       "Version": "636",
+      "Filepath": {
+        "Text": "/boot/grub2/grub.cfg",
+        "Datatype": "string"
+      },
+      "Pattern": {
+        "Text": "^menuentry.*",
+        "Operation": "pattern match"
+      },
+      "Instance": {
+        "Datatype": "int",
+        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233388027",
+      "Version": "641",
       "Filepath": {
         "Text": "/boot/grub2/grub.cfg",
         "Datatype": "string"
