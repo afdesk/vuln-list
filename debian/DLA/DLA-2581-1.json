@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Mar 2021] DLA-2581-1 wpa - security update",
-    "Line": 2602,
+    "Line": 2604,
     "ID": "DLA-2581-1",
     "Description": "wpa - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-27803}",
-      "Line": 2603,
+      "Line": 2605,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-27803"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - wpa 2:2.4-1+deb9u9",
-      "Line": 2604,
+      "Line": 2606,
       "Type": "package",
       "Release": "stretch",
       "Package": "wpa",

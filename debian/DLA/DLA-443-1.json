@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Feb 2016] DLA-443-1 bsh - security update",
-    "Line": 9138,
+    "Line": 9140,
     "ID": "DLA-443-1",
     "Description": "bsh - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-2510}",
-      "Line": 9139,
+      "Line": 9141,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-2510"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - bsh 2.0b4-12+deb6u1",
-      "Line": 9140,
+      "Line": 9142,
       "Type": "package",
       "Release": "squeeze",
       "Package": "bsh",

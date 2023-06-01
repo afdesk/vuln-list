@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[25 Jun 2016] DLA-526-1 mysql-connector-java - security update",
-    "Line": 8888,
+    "Line": 8890,
     "ID": "DLA-526-1",
     "Description": "mysql-connector-java - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-2575}",
-      "Line": 8889,
+      "Line": 8891,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-2575"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - mysql-connector-java 5.1.39-1~deb7u1",
-      "Line": 8890,
+      "Line": 8892,
       "Type": "package",
       "Release": "wheezy",
       "Package": "mysql-connector-java",
