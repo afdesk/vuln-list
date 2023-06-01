@@ -30,6 +30,9 @@
     ],
     "3.1.0-r5": [
       "CVE-2023-1255"
+    ],
+    "3.1.1-r0": [
+      "CVE-2023-2650"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
