@@ -2788,27 +2788,6 @@
         "ObjectRef": "oval:com.redhat.unaffected:obj:20231668005"
       },
       "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "containers-common is installed",
-      "ID": "oval:com.redhat.unaffected:tst:202325173007",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202325173004"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "containers-common is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202325173008",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.unaffected:obj:202325173004"
-      },
-      "State": {}
     }
   ],
   "RpmverifyfileTests": [

@@ -15011,6 +15011,16 @@
       "Name": "python-flask"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202333461001",
+      "Version": "636",
+      "Name": "iniparser-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202333461002",
+      "Version": "636",
+      "Name": "iniparser"
+    },
+    {
       "ID": "oval:com.redhat.rhba:obj:20150364008",
       "Version": "641",
       "Name": "nss-util"

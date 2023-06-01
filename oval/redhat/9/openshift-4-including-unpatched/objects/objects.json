@@ -454,11 +454,6 @@
       "ID": "oval:com.redhat.unaffected:obj:20231668005",
       "Version": "635",
       "Name": "openvswitch3.1-ipsec"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202325173004",
-      "Version": "635",
-      "Name": "containers-common"
     }
   ],
   "RpmverifyfileObjects": [
