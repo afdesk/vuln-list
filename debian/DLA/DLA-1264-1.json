@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Jan 2018] DLA-1264-1 unbound - security update",
-    "Line": 6637,
+    "Line": 6640,
     "ID": "DLA-1264-1",
     "Description": "unbound - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-15105}",
-      "Line": 6638,
+      "Line": 6641,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-15105"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - unbound 1.4.17-3+deb7u3",
-      "Line": 6639,
+      "Line": 6642,
       "Type": "package",
       "Release": "wheezy",
       "Package": "unbound",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Jan 2016] DLA-379-1 samba - security update",
-    "Line": 9329,
+    "Line": 9332,
     "ID": "DLA-379-1",
     "Description": "samba - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-5252 CVE-2015-5296 CVE-2015-5299}",
-      "Line": 9330,
+      "Line": 9333,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-5252",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[squeeze] - samba 2:3.5.6~dfsg-3squeeze13",
-      "Line": 9331,
+      "Line": 9334,
       "Type": "package",
       "Release": "squeeze",
       "Package": "samba",
