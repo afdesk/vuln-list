@@ -2075,6 +2075,15 @@
   "dirsrv-11.7-for-rhel-8-x86_64-source-rpms": [
     "cpe:/a:redhat:directory_server:11.7::el8"
   ],
+  "dirsrv-11.8-for-rhel-8-x86_64-debug-rpms": [
+    "cpe:/a:redhat:directory_server:11.8::el8"
+  ],
+  "dirsrv-11.8-for-rhel-8-x86_64-rpms": [
+    "cpe:/a:redhat:directory_server:11.8::el8"
+  ],
+  "dirsrv-11.8-for-rhel-8-x86_64-source-rpms": [
+    "cpe:/a:redhat:directory_server:11.8::el8"
+  ],
   "dirsrv-12-for-rhel-9-x86_64-debug-rpms": [
     "cpe:/a:redhat:directory_server:12.1::el9",
     "cpe:/a:redhat:directory_server:12::el9"
@@ -3206,6 +3215,9 @@
   "mirror-registry-1-for-rhel-8-x86_64-source-rpms": [
     "cpe:/a:redhat:mirror_registry:1.0::el8",
     "cpe:/a:redhat:mirror_registry:1.1.0::el8"
+  ],
+  "mta-1-for-middleware-rpms": [
+    "cpe:/a:redhat:migration_toolkit_applications:6.2::el9"
   ],
   "mta-for-rhel-8-x86_64-debug-rpms": [
     "cpe:/a:redhat:migration_toolkit_applications:6.0::el8",
