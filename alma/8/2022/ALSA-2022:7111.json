@@ -876,18 +876,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "samba-vfs-iouring",
-        "version": "4.15.5",
-        "release": "10.el8_6",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "samba-4.15.5-10.el8_6.src.rpm",
-        "filename": "samba-vfs-iouring-4.15.5-10.el8_6.aarch64.rpm",
-        "sum": "37702a8451d1dd4b8bc3a3acbcf78594d49c6d9c605b18e99061838f6e53f72f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libsmbclient-devel",
         "version": "4.15.5",
         "release": "10.el8_6",
@@ -1140,6 +1128,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "samba-vfs-iouring",
+        "version": "4.15.5",
+        "release": "10.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "samba-4.15.5-10.el8_6.src.rpm",
+        "filename": "samba-vfs-iouring-4.15.5-10.el8_6.x86_64.rpm",
+        "sum": "02cf593813cf9f3d42f01dfcb439768bcdce2fb64144fc0ccbb0bad65c2a286c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "libwbclient-devel",
         "version": "4.15.5",
         "release": "10.el8_6",
@@ -1180,10 +1180,10 @@
         "version": "4.15.5",
         "release": "10.el8_6",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "s390x",
         "src": "samba-4.15.5-10.el8_6.src.rpm",
-        "filename": "samba-vfs-iouring-4.15.5-10.el8_6.x86_64.rpm",
-        "sum": "02cf593813cf9f3d42f01dfcb439768bcdce2fb64144fc0ccbb0bad65c2a286c",
+        "filename": "samba-vfs-iouring-4.15.5-10.el8_6.s390x.rpm",
+        "sum": "349e614f511769ca58215b39fb9c1956854b02141c5abd5f43fb80d62c487f71",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -1192,10 +1192,10 @@
         "version": "4.15.5",
         "release": "10.el8_6",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "samba-4.15.5-10.el8_6.src.rpm",
-        "filename": "samba-vfs-iouring-4.15.5-10.el8_6.s390x.rpm",
-        "sum": "349e614f511769ca58215b39fb9c1956854b02141c5abd5f43fb80d62c487f71",
+        "filename": "samba-vfs-iouring-4.15.5-10.el8_6.aarch64.rpm",
+        "sum": "37702a8451d1dd4b8bc3a3acbcf78594d49c6d9c605b18e99061838f6e53f72f",
         "sum_type": 5,
         "reboot_suggested": 0
       },

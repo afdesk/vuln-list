@@ -8,9 +8,21 @@
     "$date": 1680566400000
   },
   "pkglist": {
-    "name": "almalinux-8-for-i686-appstream-rpms__8_7_default",
-    "shortname": "almalinux-8-for-i686-appstream-rpms__8_7_default",
+    "name": "almalinux-8-for-i686-baseos-rpms__8_7_default",
+    "shortname": "almalinux-8-for-i686-baseos-rpms__8_7_default",
     "packages": [
+      {
+        "name": "gnutls",
+        "version": "3.6.16",
+        "release": "6.el8_7",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
+        "filename": "gnutls-3.6.16-6.el8_7.i686.rpm",
+        "sum": "730e12c91ad3a8ca7fa3398821ea893ebf7ce7357f8d4de644dd8868dd4df8e7",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "gnutls-c++",
         "version": "3.6.16",
@@ -52,18 +64,6 @@
         "version": "3.6.16",
         "release": "6.el8_7",
         "epoch": "0",
-        "arch": "i686",
-        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
-        "filename": "gnutls-3.6.16-6.el8_7.i686.rpm",
-        "sum": "730e12c91ad3a8ca7fa3398821ea893ebf7ce7357f8d4de644dd8868dd4df8e7",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gnutls",
-        "version": "3.6.16",
-        "release": "6.el8_7",
-        "epoch": "0",
         "arch": "x86_64",
         "src": "gnutls-3.6.16-6.el8_7.src.rpm",
         "filename": "gnutls-3.6.16-6.el8_7.x86_64.rpm",
@@ -92,54 +92,6 @@
         "src": "gnutls-3.6.16-6.el8_7.src.rpm",
         "filename": "gnutls-3.6.16-6.el8_7.ppc64le.rpm",
         "sum": "6f8a6fbacd0086cef2657dec0953764469aca65fef253b4955bc1d944c09187f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gnutls-utils",
-        "version": "3.6.16",
-        "release": "6.el8_7",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
-        "filename": "gnutls-utils-3.6.16-6.el8_7.aarch64.rpm",
-        "sum": "14400e15a86794f0112b9f7a8213d7abb2f2d58e41c97e63e54ca481a15a7bb1",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gnutls-devel",
-        "version": "3.6.16",
-        "release": "6.el8_7",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
-        "filename": "gnutls-devel-3.6.16-6.el8_7.aarch64.rpm",
-        "sum": "530d5f6cca83df2e0bded29c1d0b8796dab8d657b7f3d2a78e979466f8041630",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gnutls-dane",
-        "version": "3.6.16",
-        "release": "6.el8_7",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
-        "filename": "gnutls-dane-3.6.16-6.el8_7.aarch64.rpm",
-        "sum": "555a4bfe323f933b48fd4dad093c2079c1ec39cc07ef6fdfe1124fa7005d53c9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gnutls-c++",
-        "version": "3.6.16",
-        "release": "6.el8_7",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
-        "filename": "gnutls-c++-3.6.16-6.el8_7.aarch64.rpm",
-        "sum": "fcd9740def61663d63e79e9dc141097050c6227acc7b01250560891b36bef4a6",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -252,6 +204,54 @@
         "reboot_suggested": 0
       },
       {
+        "name": "gnutls-utils",
+        "version": "3.6.16",
+        "release": "6.el8_7",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
+        "filename": "gnutls-utils-3.6.16-6.el8_7.aarch64.rpm",
+        "sum": "14400e15a86794f0112b9f7a8213d7abb2f2d58e41c97e63e54ca481a15a7bb1",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gnutls-devel",
+        "version": "3.6.16",
+        "release": "6.el8_7",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
+        "filename": "gnutls-devel-3.6.16-6.el8_7.aarch64.rpm",
+        "sum": "530d5f6cca83df2e0bded29c1d0b8796dab8d657b7f3d2a78e979466f8041630",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gnutls-dane",
+        "version": "3.6.16",
+        "release": "6.el8_7",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
+        "filename": "gnutls-dane-3.6.16-6.el8_7.aarch64.rpm",
+        "sum": "555a4bfe323f933b48fd4dad093c2079c1ec39cc07ef6fdfe1124fa7005d53c9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gnutls-c++",
+        "version": "3.6.16",
+        "release": "6.el8_7",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
+        "filename": "gnutls-c++-3.6.16-6.el8_7.aarch64.rpm",
+        "sum": "fcd9740def61663d63e79e9dc141097050c6227acc7b01250560891b36bef4a6",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "gnutls-c++",
         "version": "3.6.16",
         "release": "6.el8_7",
@@ -338,7 +338,7 @@
   "title": "Moderate: gnutls security and bug fix update",
   "type": "security",
   "updated_date": {
-    "$date": 1680696871000
+    "$date": 1680696869000
   },
   "version": "1"
 }

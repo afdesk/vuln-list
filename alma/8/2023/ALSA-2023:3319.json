@@ -60,42 +60,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "golang",
-        "version": "1.19.9",
-        "release": "1.module_el8.8.0+3570+5dc5ffc3",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "golang-1.19.9-1.module_el8.8.0+3570+5dc5ffc3.src.rpm",
-        "filename": "golang-1.19.9-1.module_el8.8.0+3570+5dc5ffc3.aarch64.rpm",
-        "sum": "503b6f169efe8ec3b990038cfc1bffb64de8daaf42fcf1a3463e874a7d393b6d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "golang-bin",
-        "version": "1.19.9",
-        "release": "1.module_el8.8.0+3570+5dc5ffc3",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "golang-1.19.9-1.module_el8.8.0+3570+5dc5ffc3.src.rpm",
-        "filename": "golang-bin-1.19.9-1.module_el8.8.0+3570+5dc5ffc3.aarch64.rpm",
-        "sum": "86d0e53769771f4e554ca20ba53cfef26a969a2b69cfadd6e39ad13397b53925",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "go-toolset",
-        "version": "1.19.9",
-        "release": "1.module_el8.8.0+3570+5dc5ffc3",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "go-toolset-1.19.9-1.module_el8.8.0+3570+5dc5ffc3.src.rpm",
-        "filename": "go-toolset-1.19.9-1.module_el8.8.0+3570+5dc5ffc3.aarch64.rpm",
-        "sum": "b43708e68df4fb4b1327da28b54eaead8d43c878488719d9b57685e9dbc3f2ba",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "go-toolset",
         "version": "1.19.9",
         "release": "1.module_el8.8.0+3570+5dc5ffc3",
@@ -188,6 +152,42 @@
         "src": "golang-1.19.9-1.module_el8.8.0+3570+5dc5ffc3.src.rpm",
         "filename": "golang-1.19.9-1.module_el8.8.0+3570+5dc5ffc3.s390x.rpm",
         "sum": "e8beba8254661e99dfdb5c6b7d99f549f64b56c439be5af280ccae888f7b53da",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "golang",
+        "version": "1.19.9",
+        "release": "1.module_el8.8.0+3570+5dc5ffc3",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "golang-1.19.9-1.module_el8.8.0+3570+5dc5ffc3.src.rpm",
+        "filename": "golang-1.19.9-1.module_el8.8.0+3570+5dc5ffc3.aarch64.rpm",
+        "sum": "503b6f169efe8ec3b990038cfc1bffb64de8daaf42fcf1a3463e874a7d393b6d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "golang-bin",
+        "version": "1.19.9",
+        "release": "1.module_el8.8.0+3570+5dc5ffc3",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "golang-1.19.9-1.module_el8.8.0+3570+5dc5ffc3.src.rpm",
+        "filename": "golang-bin-1.19.9-1.module_el8.8.0+3570+5dc5ffc3.aarch64.rpm",
+        "sum": "86d0e53769771f4e554ca20ba53cfef26a969a2b69cfadd6e39ad13397b53925",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "go-toolset",
+        "version": "1.19.9",
+        "release": "1.module_el8.8.0+3570+5dc5ffc3",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "go-toolset-1.19.9-1.module_el8.8.0+3570+5dc5ffc3.src.rpm",
+        "filename": "go-toolset-1.19.9-1.module_el8.8.0+3570+5dc5ffc3.aarch64.rpm",
+        "sum": "b43708e68df4fb4b1327da28b54eaead8d43c878488719d9b57685e9dbc3f2ba",
         "sum_type": 5,
         "reboot_suggested": 0
       },

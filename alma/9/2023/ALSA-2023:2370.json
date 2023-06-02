@@ -8,57 +8,9 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-i686-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-i686-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
     "packages": [
-      {
-        "name": "unbound-libs",
-        "version": "1.16.2",
-        "release": "3.el9",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "unbound-1.16.2-3.el9.src.rpm",
-        "filename": "unbound-libs-1.16.2-3.el9.i686.rpm",
-        "sum": "692919b5755e2fe9621a04613875cfc4cab29a7881d8a91c44d037bd4c2922eb",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "python3-unbound",
-        "version": "1.16.2",
-        "release": "3.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "unbound-1.16.2-3.el9.src.rpm",
-        "filename": "python3-unbound-1.16.2-3.el9.ppc64le.rpm",
-        "sum": "93e6db91c7890caed7874fe3e9cedbac202db3d58731577270a15c0976d0b4c9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "unbound",
-        "version": "1.16.2",
-        "release": "3.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "unbound-1.16.2-3.el9.src.rpm",
-        "filename": "unbound-1.16.2-3.el9.ppc64le.rpm",
-        "sum": "95944e1c95debd00fdaaac32ffe190b60b704a4a7a05577bd02449ff5696e45f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "unbound-libs",
-        "version": "1.16.2",
-        "release": "3.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "unbound-1.16.2-3.el9.src.rpm",
-        "filename": "unbound-libs-1.16.2-3.el9.ppc64le.rpm",
-        "sum": "ac79e00e8c0b743b53cf226271e59eb6cd2e1dc874f8b87c1e0533d635b6f45d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "unbound-libs",
         "version": "1.16.2",
@@ -96,38 +48,14 @@
         "reboot_suggested": 0
       },
       {
-        "name": "unbound",
-        "version": "1.16.2",
-        "release": "3.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "unbound-1.16.2-3.el9.src.rpm",
-        "filename": "unbound-1.16.2-3.el9.s390x.rpm",
-        "sum": "a4afa7bdc842a411ba3ffec6f965e516f41f9d1648c77f76d4fe629843785fa5",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "unbound-libs",
         "version": "1.16.2",
         "release": "3.el9",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "i686",
         "src": "unbound-1.16.2-3.el9.src.rpm",
-        "filename": "unbound-libs-1.16.2-3.el9.s390x.rpm",
-        "sum": "a5a73a02675f10767dea9380497c97f2d83860485e7ffe9083c418d64b734dc6",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "python3-unbound",
-        "version": "1.16.2",
-        "release": "3.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "unbound-1.16.2-3.el9.src.rpm",
-        "filename": "python3-unbound-1.16.2-3.el9.s390x.rpm",
-        "sum": "cfb667ec8457d401bef3fc5e4c63d59bbb0eeb7fb843fd593f5fab5c7778a71c",
+        "filename": "unbound-libs-1.16.2-3.el9.i686.rpm",
+        "sum": "692919b5755e2fe9621a04613875cfc4cab29a7881d8a91c44d037bd4c2922eb",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -168,6 +96,78 @@
         "reboot_suggested": 0
       },
       {
+        "name": "python3-unbound",
+        "version": "1.16.2",
+        "release": "3.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "unbound-1.16.2-3.el9.src.rpm",
+        "filename": "python3-unbound-1.16.2-3.el9.ppc64le.rpm",
+        "sum": "93e6db91c7890caed7874fe3e9cedbac202db3d58731577270a15c0976d0b4c9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "unbound",
+        "version": "1.16.2",
+        "release": "3.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "unbound-1.16.2-3.el9.src.rpm",
+        "filename": "unbound-1.16.2-3.el9.ppc64le.rpm",
+        "sum": "95944e1c95debd00fdaaac32ffe190b60b704a4a7a05577bd02449ff5696e45f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "unbound-libs",
+        "version": "1.16.2",
+        "release": "3.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "unbound-1.16.2-3.el9.src.rpm",
+        "filename": "unbound-libs-1.16.2-3.el9.ppc64le.rpm",
+        "sum": "ac79e00e8c0b743b53cf226271e59eb6cd2e1dc874f8b87c1e0533d635b6f45d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "unbound",
+        "version": "1.16.2",
+        "release": "3.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "unbound-1.16.2-3.el9.src.rpm",
+        "filename": "unbound-1.16.2-3.el9.s390x.rpm",
+        "sum": "a4afa7bdc842a411ba3ffec6f965e516f41f9d1648c77f76d4fe629843785fa5",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "unbound-libs",
+        "version": "1.16.2",
+        "release": "3.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "unbound-1.16.2-3.el9.src.rpm",
+        "filename": "unbound-libs-1.16.2-3.el9.s390x.rpm",
+        "sum": "a5a73a02675f10767dea9380497c97f2d83860485e7ffe9083c418d64b734dc6",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "python3-unbound",
+        "version": "1.16.2",
+        "release": "3.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "unbound-1.16.2-3.el9.src.rpm",
+        "filename": "python3-unbound-1.16.2-3.el9.s390x.rpm",
+        "sum": "cfb667ec8457d401bef3fc5e4c63d59bbb0eeb7fb843fd593f5fab5c7778a71c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "unbound-devel",
         "version": "1.16.2",
         "release": "3.el9",
@@ -176,30 +176,6 @@
         "src": "unbound-1.16.2-3.el9.src.rpm",
         "filename": "unbound-devel-1.16.2-3.el9.i686.rpm",
         "sum": "deedd4203aedb9f0fd801a386103e2144b82392bc23ce824a48c7b2790d94fc8",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "unbound-devel",
-        "version": "1.16.2",
-        "release": "3.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "unbound-1.16.2-3.el9.src.rpm",
-        "filename": "unbound-devel-1.16.2-3.el9.ppc64le.rpm",
-        "sum": "b68f85768af5045e8cd6d1595a54ff59e39d3725dbf0080d39621768544462e4",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "unbound-devel",
-        "version": "1.16.2",
-        "release": "3.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "unbound-1.16.2-3.el9.src.rpm",
-        "filename": "unbound-devel-1.16.2-3.el9.aarch64.rpm",
-        "sum": "02485406f79f3a6ecb70260782a6dffe000aa1a7e7b54afadac3f418b6a533d2",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -220,10 +196,34 @@
         "version": "1.16.2",
         "release": "3.el9",
         "epoch": "0",
+        "arch": "aarch64",
+        "src": "unbound-1.16.2-3.el9.src.rpm",
+        "filename": "unbound-devel-1.16.2-3.el9.aarch64.rpm",
+        "sum": "02485406f79f3a6ecb70260782a6dffe000aa1a7e7b54afadac3f418b6a533d2",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "unbound-devel",
+        "version": "1.16.2",
+        "release": "3.el9",
+        "epoch": "0",
         "arch": "s390x",
         "src": "unbound-1.16.2-3.el9.src.rpm",
         "filename": "unbound-devel-1.16.2-3.el9.s390x.rpm",
         "sum": "7a7abb4d9452569d7e9ef4f7c2240f0f321faa6d69902a06cc4f9cc120ecb4e2",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "unbound-devel",
+        "version": "1.16.2",
+        "release": "3.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "unbound-1.16.2-3.el9.src.rpm",
+        "filename": "unbound-devel-1.16.2-3.el9.ppc64le.rpm",
+        "sum": "b68f85768af5045e8cd6d1595a54ff59e39d3725dbf0080d39621768544462e4",
         "sum_type": 5,
         "reboot_suggested": 0
       }

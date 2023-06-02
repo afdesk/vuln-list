@@ -8,9 +8,33 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-i686-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-i686-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
     "packages": [
+      {
+        "name": "gstreamer1-plugins-good-gtk",
+        "version": "1.18.4",
+        "release": "6.el9",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
+        "filename": "gstreamer1-plugins-good-gtk-1.18.4-6.el9.aarch64.rpm",
+        "sum": "49c835d13d1f46547afa69033e0e80b9280793c0007da9181a1ac9fa69ba0e32",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gstreamer1-plugins-good",
+        "version": "1.18.4",
+        "release": "6.el9",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
+        "filename": "gstreamer1-plugins-good-1.18.4-6.el9.aarch64.rpm",
+        "sum": "fa8c1dce749679546e818d36b5666c74f4a06de40a2a0533bafefeccd42739b4",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "gstreamer1-plugins-good",
         "version": "1.18.4",
@@ -32,6 +56,30 @@
         "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
         "filename": "gstreamer1-plugins-good-gtk-1.18.4-6.el9.i686.rpm",
         "sum": "f8ba394b1d2c332fc353ed71c73908d386842d6dac4a2e4358748948754d2ee8",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gstreamer1-plugins-good",
+        "version": "1.18.4",
+        "release": "6.el9",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
+        "filename": "gstreamer1-plugins-good-1.18.4-6.el9.x86_64.rpm",
+        "sum": "c489cd8f327bdc9118eddaaf51b00abbc70396b01cf1bc5bd57e9dbdc8c95ef2",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gstreamer1-plugins-good-gtk",
+        "version": "1.18.4",
+        "release": "6.el9",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
+        "filename": "gstreamer1-plugins-good-gtk-1.18.4-6.el9.x86_64.rpm",
+        "sum": "fb043797b8c67bc90de3bcd728c8ea3e47eea38c9a4788db3d003b17c5c614a8",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -64,30 +112,6 @@
         "version": "1.18.4",
         "release": "6.el9",
         "epoch": "0",
-        "arch": "aarch64",
-        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
-        "filename": "gstreamer1-plugins-good-gtk-1.18.4-6.el9.aarch64.rpm",
-        "sum": "49c835d13d1f46547afa69033e0e80b9280793c0007da9181a1ac9fa69ba0e32",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gstreamer1-plugins-good",
-        "version": "1.18.4",
-        "release": "6.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
-        "filename": "gstreamer1-plugins-good-1.18.4-6.el9.aarch64.rpm",
-        "sum": "fa8c1dce749679546e818d36b5666c74f4a06de40a2a0533bafefeccd42739b4",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gstreamer1-plugins-good-gtk",
-        "version": "1.18.4",
-        "release": "6.el9",
-        "epoch": "0",
         "arch": "s390x",
         "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
         "filename": "gstreamer1-plugins-good-gtk-1.18.4-6.el9.s390x.rpm",
@@ -104,30 +128,6 @@
         "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
         "filename": "gstreamer1-plugins-good-1.18.4-6.el9.s390x.rpm",
         "sum": "d959fb3d2b3c7df6cfb10855d02200b8bd358b6d4c1bddba11caa4fba4a0ef81",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gstreamer1-plugins-good",
-        "version": "1.18.4",
-        "release": "6.el9",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
-        "filename": "gstreamer1-plugins-good-1.18.4-6.el9.x86_64.rpm",
-        "sum": "c489cd8f327bdc9118eddaaf51b00abbc70396b01cf1bc5bd57e9dbdc8c95ef2",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gstreamer1-plugins-good-gtk",
-        "version": "1.18.4",
-        "release": "6.el9",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
-        "filename": "gstreamer1-plugins-good-gtk-1.18.4-6.el9.x86_64.rpm",
-        "sum": "fb043797b8c67bc90de3bcd728c8ea3e47eea38c9a4788db3d003b17c5c614a8",
         "sum_type": 5,
         "reboot_suggested": 0
       }
