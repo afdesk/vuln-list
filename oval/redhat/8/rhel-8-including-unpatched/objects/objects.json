@@ -10101,19 +10101,19 @@
       "Name": "haproxy"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20230464002",
-      "Version": "636",
-      "Name": "openssl"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20230464003",
+      "ID": "oval:com.redhat.cve:obj:20230464001",
       "Version": "636",
       "Name": "openssl-libs"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20230464006",
+      "ID": "oval:com.redhat.cve:obj:20230464004",
       "Version": "636",
       "Name": "openssl-static"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20230464005",
+      "Version": "636",
+      "Name": "openssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230464007",
@@ -10271,59 +10271,59 @@
       "Name": "pkgconf-m4"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324329005",
+      "ID": "oval:com.redhat.cve:obj:202324329006",
       "Version": "636",
       "Name": "python3.11-debug"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324329007",
-      "Version": "636",
-      "Name": "python3.11-test"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324329009",
-      "Version": "636",
-      "Name": "python3.11-rpm-macros"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324329011",
-      "Version": "636",
-      "Name": "python3.11-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324329012",
-      "Version": "636",
-      "Name": "python3.11-tkinter"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324329013",
-      "Version": "636",
-      "Name": "python3.11-libs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324329014",
+      "ID": "oval:com.redhat.cve:obj:202324329008",
       "Version": "636",
       "Name": "python3.11"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324329015",
+      "ID": "oval:com.redhat.cve:obj:202324329009",
+      "Version": "636",
+      "Name": "python3.11-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324329010",
+      "Version": "636",
+      "Name": "python3.11-libs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324329011",
+      "Version": "636",
+      "Name": "python3.11-test"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324329012",
+      "Version": "636",
+      "Name": "python3.11-rpm-macros"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324329013",
+      "Version": "636",
+      "Name": "python3.11-tkinter"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324329014",
       "Version": "636",
       "Name": "python3.11-idle"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202324805001",
       "Version": "636",
-      "Name": "cups-filters-devel"
+      "Name": "cups-filters-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202324805002",
       "Version": "636",
-      "Name": "cups-filters"
+      "Name": "cups-filters-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202324805003",
       "Version": "636",
-      "Name": "cups-filters-libs"
+      "Name": "cups-filters"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202325193001",
