@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Mar 2023] DLA-3355-1 xapian-core - security update",
-    "Line": 239,
+    "Line": 242,
     "ID": "DLA-3355-1",
     "Description": "xapian-core - security update"
   },
   "Annotations": [
     {
       "Original": "[buster] - xapian-core 1.4.11-1+deb10u1",
-      "Line": 240,
+      "Line": 243,
       "Type": "package",
       "Release": "buster",
       "Package": "xapian-core",
