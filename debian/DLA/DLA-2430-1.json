@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Nov 2020] DLA-2430-1 blueman - security update",
-    "Line": 3067,
+    "Line": 3070,
     "ID": "DLA-2430-1",
     "Description": "blueman - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-15238}",
-      "Line": 3068,
+      "Line": 3071,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-15238"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - blueman 2.0.4-1+deb9u1",
-      "Line": 3069,
+      "Line": 3072,
       "Type": "package",
       "Release": "stretch",
       "Package": "blueman",

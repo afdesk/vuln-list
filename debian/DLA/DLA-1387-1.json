@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 May 2018] DLA-1387-1 cups - security update",
-    "Line": 6281,
+    "Line": 6284,
     "ID": "DLA-1387-1",
     "Description": "cups - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-18248}",
-      "Line": 6282,
+      "Line": 6285,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-18248"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - cups 1.5.3-5+deb7u8",
-      "Line": 6283,
+      "Line": 6286,
       "Type": "package",
       "Release": "wheezy",
       "Package": "cups",

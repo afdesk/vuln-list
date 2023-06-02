@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Jul 2017] DLA-1036-1 gsoap - security update",
-    "Line": 7340,
+    "Line": 7343,
     "ID": "DLA-1036-1",
     "Description": "gsoap - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-9765}",
-      "Line": 7341,
+      "Line": 7344,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-9765"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - gsoap 2.8.7-2+deb7u1",
-      "Line": 7342,
+      "Line": 7345,
       "Type": "package",
       "Release": "wheezy",
       "Package": "gsoap",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[25 Nov 2019] DLA-2005-1 tnef - security update",
-    "Line": 4375,
+    "Line": 4378,
     "ID": "DLA-2005-1",
     "Description": "tnef - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-18849}",
-      "Line": 4376,
+      "Line": 4379,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-18849"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - tnef 1.4.9-1+deb8u4",
-      "Line": 4377,
+      "Line": 4380,
       "Type": "package",
       "Release": "jessie",
       "Package": "tnef",
