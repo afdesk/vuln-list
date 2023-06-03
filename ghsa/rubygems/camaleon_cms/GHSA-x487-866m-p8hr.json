@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "CRITICAL",
   "UpdatedAt": "2023-05-26T19:44:39Z",
   "Package": {
     "Ecosystem": "RUBYGEMS",
@@ -54,13 +54,13 @@
     "Description": "Camaleon CMS prior to 2.7.4 was discovered to contain a Server-Side Template Injection (SSTI) vulnerability via the `formats` parameter.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-26T15:30:21Z",
-    "Severity": "MODERATE",
+    "Severity": "CRITICAL",
     "Summary": "Server-Side Template Injection in Camaleon CMS",
-    "UpdatedAt": "2023-05-30T06:45:47Z",
+    "UpdatedAt": "2023-06-03T00:02:27Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 9.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [

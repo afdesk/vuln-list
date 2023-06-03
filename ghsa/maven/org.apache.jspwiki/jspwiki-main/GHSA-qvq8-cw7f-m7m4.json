@@ -65,11 +65,11 @@
     "PublishedAt": "2023-05-25T09:30:25Z",
     "Severity": "MODERATE",
     "Summary": "Apache JSPWiki vulnerable to cross-site scripting on several plugins",
-    "UpdatedAt": "2023-05-25T17:38:09Z",
+    "UpdatedAt": "2023-06-03T00:39:56Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 6.1,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [
