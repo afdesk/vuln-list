@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Jul 2010] DSA-2074-1 ncompress - execution of arbitrary code",
-    "Line": 11239,
+    "Line": 11243,
     "ID": "DSA-2074-1",
     "Description": "ncompress - execution of arbitrary code"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-0001}",
-      "Line": 11240,
+      "Line": 11244,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-0001"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - ncompress 4.2.4.2-1+lenny1",
-      "Line": 11241,
+      "Line": 11245,
       "Type": "package",
       "Release": "lenny",
       "Package": "ncompress",

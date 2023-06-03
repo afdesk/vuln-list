@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 Dec 2022] DLA-3247-1 node-trim-newlines - security update",
-    "Line": 595,
+    "Line": 601,
     "ID": "DLA-3247-1",
     "Description": "node-trim-newlines - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-33623}",
-      "Line": 596,
+      "Line": 602,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-33623"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - node-trim-newlines 1.0.0-1+deb10u1",
-      "Line": 597,
+      "Line": 603,
       "Type": "package",
       "Release": "buster",
       "Package": "node-trim-newlines",

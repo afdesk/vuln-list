@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Mar 2017] DSA-3806-1 pidgin - security update",
-    "Line": 5409,
+    "Line": 5413,
     "ID": "DSA-3806-1",
     "Description": "pidgin - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-2640}",
-      "Line": 5410,
+      "Line": 5414,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-2640"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - pidgin 2.11.0-0+deb8u2",
-      "Line": 5411,
+      "Line": 5415,
       "Type": "package",
       "Release": "jessie",
       "Package": "pidgin",

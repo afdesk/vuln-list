@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Oct 2022] DLA-3133-1 lighttpd - security update",
-    "Line": 931,
+    "Line": 937,
     "ID": "DLA-3133-1",
     "Description": "lighttpd - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-37797}",
-      "Line": 932,
+      "Line": 938,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-37797"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - lighttpd 1.4.53-4+deb10u3",
-      "Line": 933,
+      "Line": 939,
       "Type": "package",
       "Release": "buster",
       "Package": "lighttpd",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Nov 2018] DLA-1567-1 gthumb - security update",
-    "Line": 5736,
+    "Line": 5742,
     "ID": "DLA-1567-1",
     "Description": "gthumb - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-18718}",
-      "Line": 5737,
+      "Line": 5743,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-18718"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - gthumb 3:3.3.1-2.1+deb8u1",
-      "Line": 5738,
+      "Line": 5744,
       "Type": "package",
       "Release": "jessie",
       "Package": "gthumb",

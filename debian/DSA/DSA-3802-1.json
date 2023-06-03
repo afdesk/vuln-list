@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Mar 2017] DSA-3802-1 zabbix - security update",
-    "Line": 5421,
+    "Line": 5425,
     "ID": "DSA-3802-1",
     "Description": "zabbix - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-10134}",
-      "Line": 5422,
+      "Line": 5426,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-10134"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - zabbix 1:2.2.7+dfsg-2+deb8u2",
-      "Line": 5423,
+      "Line": 5427,
       "Type": "package",
       "Release": "jessie",
       "Package": "zabbix",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Sep 2004] DSA-544-1 webmin - insecure temporary directory",
-    "Line": 16951,
+    "Line": 16955,
     "ID": "DSA-544-1",
     "Description": "webmin - insecure temporary directory"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0559}",
-      "Line": 16952,
+      "Line": 16956,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0559"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - webmin 0.94-7woody3",
-      "Line": 16953,
+      "Line": 16957,
       "Type": "package",
       "Release": "woody",
       "Package": "webmin",

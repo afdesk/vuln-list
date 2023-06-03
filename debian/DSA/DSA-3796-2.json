@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 Mar 2017] DSA-3796-2 sitesummary - regression update",
-    "Line": 5386,
+    "Line": 5390,
     "ID": "DSA-3796-2",
     "Description": "sitesummary - regression update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - sitesummary 0.1.17+deb8u2",
-      "Line": 5387,
+      "Line": 5391,
       "Type": "package",
       "Release": "jessie",
       "Package": "sitesummary",

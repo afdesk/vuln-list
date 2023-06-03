@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Sep 2003] DSA-389 ipmasq - insecure packet filtering rules",
-    "Line": 17467,
+    "Line": 17471,
     "ID": "DSA-389",
     "Description": "ipmasq - insecure packet filtering rules"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0785}",
-      "Line": 17468,
+      "Line": 17472,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0785"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - ipmasq 3.5.10c",
-      "Line": 17469,
+      "Line": 17473,
       "Type": "package",
       "Release": "woody",
       "Package": "ipmasq",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Mar 2016] DSA-3523-1 iceweasel - security update",
-    "Line": 6306,
+    "Line": 6310,
     "ID": "DSA-3523-1",
     "Description": "iceweasel - security update"
   },
   "Annotations": [
     {
       "Original": "[wheezy] - iceweasel 38.7.1esr-1~deb7u1",
-      "Line": 6307,
+      "Line": 6311,
       "Type": "package",
       "Release": "wheezy",
       "Package": "iceweasel",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - iceweasel 38.7.1esr-1~deb8u1",
-      "Line": 6308,
+      "Line": 6312,
       "Type": "package",
       "Release": "jessie",
       "Package": "iceweasel",

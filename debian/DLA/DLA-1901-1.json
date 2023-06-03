@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Aug 2019] DLA-1901-1 dovecot - security update",
-    "Line": 4700,
+    "Line": 4706,
     "ID": "DLA-1901-1",
     "Description": "dovecot - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-11500}",
-      "Line": 4701,
+      "Line": 4707,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-11500"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - dovecot 1:2.2.13-12~deb8u7",
-      "Line": 4702,
+      "Line": 4708,
       "Type": "package",
       "Release": "jessie",
       "Package": "dovecot",

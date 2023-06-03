@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 Apr 2020] DLA-2181-1 shiro - security update",
-    "Line": 3834,
+    "Line": 3840,
     "ID": "DLA-2181-1",
     "Description": "shiro - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-1957}",
-      "Line": 3835,
+      "Line": 3841,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-1957"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - shiro 1.2.3-1+deb8u1",
-      "Line": 3836,
+      "Line": 3842,
       "Type": "package",
       "Release": "jessie",
       "Package": "shiro",
