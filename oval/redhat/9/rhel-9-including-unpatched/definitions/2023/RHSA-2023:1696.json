@@ -53,7 +53,7 @@
           "CveID": "CVE-2023-25725",
           "Cvss3": "8.2/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:L",
           "Cwe": "CWE-444",
-          "Impact": "moderate",
+          "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2023-25725",
           "Public": "20230214:1620"
         }

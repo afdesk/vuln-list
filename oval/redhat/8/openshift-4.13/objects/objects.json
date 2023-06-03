@@ -59,6 +59,11 @@
       "ID": "oval:com.redhat.rhsa:obj:20231325012",
       "Version": "642",
       "Name": "openshift-hyperkube"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233303001",
+      "Version": "638",
+      "Name": "cri-o"
     }
   ],
   "RpmverifyfileObjects": [

@@ -431,6 +431,30 @@
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231325002"
       }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "cri-o is earlier than 0:1.26.3-7.rhaos4.13.gitb3475fb.el9",
+      "ID": "oval:com.redhat.rhsa:tst:20233303001",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233303001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233303001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "cri-o is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20233303002",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233303001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20231325002"
+      }
     }
   ],
   "RpmverifyfileTests": [

@@ -89,6 +89,11 @@
       "ID": "oval:com.redhat.rhsa:obj:20231329005",
       "Version": "637",
       "Name": "microshift-selinux"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233303001",
+      "Version": "638",
+      "Name": "cri-o"
     }
   ],
   "RpmverifyfileObjects": [

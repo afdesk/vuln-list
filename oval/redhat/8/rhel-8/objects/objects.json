@@ -13799,6 +13799,11 @@
       "ID": "oval:com.redhat.rhsa:obj:20233109009",
       "Version": "635",
       "Name": "apr-util-sqlite"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233351002",
+      "Version": "636",
+      "Name": "kpatch-patch-4_18_0-477_10_1"
     }
   ],
   "RpmverifyfileObjects": [
@@ -16273,6 +16278,54 @@
     {
       "ID": "oval:com.redhat.rhsa:obj:20232951027",
       "Version": "643",
+      "Filepath": {
+        "Text": "/boot/grub2/grub.cfg",
+        "Datatype": "string"
+      },
+      "Pattern": {
+        "Text": "^menuentry.*",
+        "Operation": "pattern match"
+      },
+      "Instance": {
+        "Datatype": "int",
+        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233349027",
+      "Version": "637",
+      "Filepath": {
+        "Text": "/boot/grub2/grub.cfg",
+        "Datatype": "string"
+      },
+      "Pattern": {
+        "Text": "^menuentry.*",
+        "Operation": "pattern match"
+      },
+      "Instance": {
+        "Datatype": "int",
+        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233350015",
+      "Version": "637",
+      "Filepath": {
+        "Text": "/boot/grub2/grub.cfg",
+        "Datatype": "string"
+      },
+      "Pattern": {
+        "Text": "^menuentry.*",
+        "Operation": "pattern match"
+      },
+      "Instance": {
+        "Datatype": "int",
+        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233351005",
+      "Version": "636",
       "Filepath": {
         "Text": "/boot/grub2/grub.cfg",
         "Datatype": "string"

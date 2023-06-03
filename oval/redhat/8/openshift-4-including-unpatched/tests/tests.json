@@ -1160,6 +1160,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "cri-o is earlier than 0:1.26.3-6.rhaos4.13.gitb3475fb.el8",
+      "ID": "oval:com.redhat.rhsa:tst:20233303001",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202127918002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233303001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "haproxy is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20130169002",
       "Version": "635",
