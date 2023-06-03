@@ -5251,9 +5251,14 @@
       "Name": "rh-python38-python-wheel"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241741001",
+      "ID": "oval:com.redhat.cve:obj:202241741002",
       "Version": "636",
-      "Name": "rh-nginx120-nginx-mod-stream"
+      "Name": "rh-nginx120-nginx-mod-http-perl"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202241741004",
+      "Version": "636",
+      "Name": "rh-nginx120-nginx-mod-http-xslt-filter"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241741005",
@@ -5263,11 +5268,6 @@
     {
       "ID": "oval:com.redhat.cve:obj:202241741006",
       "Version": "636",
-      "Name": "rh-nginx120-nginx-mod-http-xslt-filter"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241741007",
-      "Version": "636",
       "Name": "rh-nginx120-nginx-mod-mail"
     },
     {
@@ -5276,9 +5276,9 @@
       "Name": "rh-nginx120-nginx"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241741012",
+      "ID": "oval:com.redhat.cve:obj:202241741009",
       "Version": "636",
-      "Name": "rh-nginx120-nginx-mod-http-perl"
+      "Name": "rh-nginx120-nginx-mod-stream"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241852001",
