@@ -27,13 +27,13 @@
       ]
     },
     {
-      "Original": "[bookworm] - chromium 114.0.5735.90-2~deb11u1",
+      "Original": "[bookworm] - chromium 114.0.5735.90-2~deb12u1",
       "Line": 3,
       "Type": "package",
       "Release": "bookworm",
       "Package": "chromium",
       "Kind": "fixed",
-      "Version": "114.0.5735.90-2~deb11u1"
+      "Version": "114.0.5735.90-2~deb12u1"
     },
     {
       "Original": "[bullseye] - chromium 114.0.5735.90-2~deb11u1",
