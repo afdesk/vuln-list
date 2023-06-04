@@ -1,6 +1,11 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26784001",
+      "Version": "1",
+      "Name": "sysstat"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26759001",
       "Version": "1",
       "Name": "qt5-qtbase"
@@ -16,9 +21,39 @@
       "Name": "qt5-qtbase"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26756001",
+      "Version": "1",
+      "Name": "libtiff"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26731001",
+      "Version": "0",
+      "Name": "kata-containers-cc"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26729001",
+      "Version": "1",
+      "Name": "frr"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26696001",
+      "Version": "1",
+      "Name": "vitess"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26695001",
       "Version": "1",
       "Name": "vim"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26690001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26689001",
+      "Version": "1",
+      "Name": "kernel"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26670001",
@@ -34,6 +69,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:26652001",
       "Version": "1",
       "Name": "vim"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26623001",
+      "Version": "1",
+      "Name": "kernel"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26415001",
@@ -121,6 +161,11 @@
       "Name": "strongswan"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26295001",
+      "Version": "1",
+      "Name": "vitess"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26290001",
       "Version": "1",
       "Name": "redis"
@@ -129,6 +174,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:26280001",
       "Version": "1",
       "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26278001",
+      "Version": "1",
+      "Name": "cloud-hypervisor"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26241001",
@@ -301,6 +351,11 @@
       "Name": "openssl"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:25934001",
+      "Version": "1",
+      "Name": "nasm"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:25932001",
       "Version": "1",
       "Name": "kernel"
@@ -434,6 +489,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:25674001",
       "Version": "1",
       "Name": "redis"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:25664001",
+      "Version": "1",
+      "Name": "reaper"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:25661001",
@@ -652,7 +712,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:13780001",
-      "Version": "0",
+      "Version": "1",
       "Name": "cert-manager"
     },
     {
@@ -1152,7 +1212,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:13300001",
-      "Version": "0",
+      "Version": "1",
       "Name": "cert-manager"
     },
     {
@@ -1657,7 +1717,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:12934001",
-      "Version": "0",
+      "Version": "1",
       "Name": "nasm"
     },
     {
@@ -4937,7 +4997,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:9048001",
-      "Version": "0",
+      "Version": "1",
       "Name": "lua"
     },
     {
