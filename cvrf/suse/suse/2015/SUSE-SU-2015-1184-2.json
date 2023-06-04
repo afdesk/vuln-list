@@ -588,6 +588,10 @@
           "Description": "SUSE Bug 833408"
         },
         {
+          "URL": "https://bugzilla.suse.com/854391",
+          "Description": "SUSE Bug 854391"
+        },
+        {
           "URL": "https://bugzilla.suse.com/905106",
           "Description": "SUSE Bug 905106"
         }
@@ -3030,6 +3034,10 @@
         {
           "URL": "https://bugzilla.suse.com/1074631",
           "Description": "SUSE Bug 1074631"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1211968",
+          "Description": "SUSE Bug 1211968"
         },
         {
           "URL": "https://bugzilla.suse.com/931600",

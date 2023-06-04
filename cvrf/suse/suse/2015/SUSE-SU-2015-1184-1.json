@@ -940,6 +940,10 @@
         {
           "URL": "https://bugzilla.suse.com/716144",
           "Description": "SUSE Bug 716144"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/854391",
+          "Description": "SUSE Bug 854391"
         }
       ],
       "ProductStatuses": [
@@ -994,6 +998,10 @@
         {
           "URL": "https://bugzilla.suse.com/778825",
           "Description": "SUSE Bug 778825"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/854391",
+          "Description": "SUSE Bug 854391"
         }
       ],
       "ProductStatuses": [
@@ -1040,6 +1048,10 @@
         {
           "URL": "https://bugzilla.suse.com/758060",
           "Description": "SUSE Bug 758060"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/854391",
+          "Description": "SUSE Bug 854391"
         }
       ],
       "ProductStatuses": [
@@ -1090,6 +1102,10 @@
         {
           "URL": "https://bugzilla.suse.com/778825",
           "Description": "SUSE Bug 778825"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/854391",
+          "Description": "SUSE Bug 854391"
         }
       ],
       "ProductStatuses": [
@@ -1136,6 +1152,10 @@
         {
           "URL": "https://bugzilla.suse.com/758060",
           "Description": "SUSE Bug 758060"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/854391",
+          "Description": "SUSE Bug 854391"
         }
       ],
       "ProductStatuses": [
@@ -1186,6 +1206,10 @@
         {
           "URL": "https://bugzilla.suse.com/799454",
           "Description": "SUSE Bug 799454"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/854391",
+          "Description": "SUSE Bug 854391"
         }
       ],
       "ProductStatuses": [
@@ -1340,6 +1364,10 @@
         {
           "URL": "https://bugzilla.suse.com/761819",
           "Description": "SUSE Bug 761819"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/854391",
+          "Description": "SUSE Bug 854391"
         }
       ],
       "ProductStatuses": [
@@ -1394,6 +1422,10 @@
         {
           "URL": "https://bugzilla.suse.com/754640",
           "Description": "SUSE Bug 754640"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/854391",
+          "Description": "SUSE Bug 854391"
         }
       ],
       "ProductStatuses": [
@@ -1440,6 +1472,10 @@
         {
           "URL": "https://bugzilla.suse.com/778825",
           "Description": "SUSE Bug 778825"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/854391",
+          "Description": "SUSE Bug 854391"
         }
       ],
       "ProductStatuses": [
@@ -1486,6 +1522,10 @@
         {
           "URL": "https://bugzilla.suse.com/763341",
           "Description": "SUSE Bug 763341"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/854391",
+          "Description": "SUSE Bug 854391"
         },
         {
           "URL": "https://bugzilla.suse.com/905106",
@@ -1548,6 +1588,10 @@
         {
           "URL": "https://bugzilla.suse.com/833408",
           "Description": "SUSE Bug 833408"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/854391",
+          "Description": "SUSE Bug 854391"
         },
         {
           "URL": "https://bugzilla.suse.com/905106",
@@ -3550,6 +3594,10 @@
         {
           "URL": "https://bugzilla.suse.com/1074631",
           "Description": "SUSE Bug 1074631"
+        },
+        {
+          "URL": "https://bugzilla.suse.com/1211968",
+          "Description": "SUSE Bug 1211968"
         },
         {
           "URL": "https://bugzilla.suse.com/931600",
