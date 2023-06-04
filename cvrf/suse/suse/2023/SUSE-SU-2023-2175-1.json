@@ -163,7 +163,7 @@
   "Vulnerabilities": [
     {
       "CVE": "CVE-2023-32205",
-      "Description": "** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.",
+      "Description": "In multiple cases browser prompts could have been obscured by popups controlled by content. These could have led to potential user confusion and spoofing attacks. This vulnerability affects Firefox \u003c 113, Firefox ESR \u003c 102.11, and Thunderbird \u003c 102.11.",
       "Threats": [
         {
           "Type": "Impact",
@@ -201,7 +201,7 @@
     },
     {
       "CVE": "CVE-2023-32206",
-      "Description": "** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.",
+      "Description": "An out-of-bound read could have led to a crash in the RLBox Expat driver. This vulnerability affects Firefox \u003c 113, Firefox ESR \u003c 102.11, and Thunderbird \u003c 102.11.",
       "Threats": [
         {
           "Type": "Impact",
@@ -239,7 +239,7 @@
     },
     {
       "CVE": "CVE-2023-32207",
-      "Description": "** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.",
+      "Description": "A missing delay in popup notifications could have made it possible for an attacker to trick a user into granting permissions. This vulnerability affects Firefox \u003c 113, Firefox ESR \u003c 102.11, and Thunderbird \u003c 102.11.",
       "Threats": [
         {
           "Type": "Impact",
@@ -277,7 +277,7 @@
     },
     {
       "CVE": "CVE-2023-32211",
-      "Description": "** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.",
+      "Description": "A type checking bug would have led to invalid code being compiled. This vulnerability affects Firefox \u003c 113, Firefox ESR \u003c 102.11, and Thunderbird \u003c 102.11.",
       "Threats": [
         {
           "Type": "Impact",
@@ -315,7 +315,7 @@
     },
     {
       "CVE": "CVE-2023-32212",
-      "Description": "** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.",
+      "Description": "An attacker could have positioned a \u003ccode\u003edatalist\u003c/code\u003e element to obscure the address bar. This vulnerability affects Firefox \u003c 113, Firefox ESR \u003c 102.11, and Thunderbird \u003c 102.11.",
       "Threats": [
         {
           "Type": "Impact",
@@ -353,7 +353,7 @@
     },
     {
       "CVE": "CVE-2023-32213",
-      "Description": "** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.",
+      "Description": "When reading a file, an uninitialized value could have been used as read limit. This vulnerability affects Firefox \u003c 113, Firefox ESR \u003c 102.11, and Thunderbird \u003c 102.11.",
       "Threats": [
         {
           "Type": "Impact",
@@ -429,7 +429,7 @@
     },
     {
       "CVE": "CVE-2023-32215",
-      "Description": "** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.",
+      "Description": "Mozilla developers and community members Gabriele Svelto, Andrew Osmond, Emily McDonough, Sebastian Hengst, Andrew McCreight and the Mozilla Fuzzing Team reported memory safety bugs present in Firefox 112 and Firefox ESR 102.10. Some of these bugs showed evidence of memory corruption and we presume that with enough effort some of these could have been exploited to run arbitrary code. This vulnerability affects Firefox \u003c 113, Firefox ESR \u003c 102.11, and Thunderbird \u003c 102.11.",
       "Threats": [
         {
           "Type": "Impact",
