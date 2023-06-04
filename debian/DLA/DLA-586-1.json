@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Aug 2016] DLA-586-1 curl - security update",
-    "Line": 8725,
+    "Line": 8728,
     "ID": "DLA-586-1",
     "Description": "curl - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-5419 CVE-2016-5420}",
-      "Line": 8726,
+      "Line": 8729,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-5419",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[wheezy] - curl 7.26.0-1+wheezy14",
-      "Line": 8727,
+      "Line": 8730,
       "Type": "package",
       "Release": "wheezy",
       "Package": "curl",

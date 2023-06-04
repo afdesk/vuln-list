@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Nov 2020] DLA-2445-1 libmaxminddb - security update",
-    "Line": 3031,
+    "Line": 3034,
     "ID": "DLA-2445-1",
     "Description": "libmaxminddb - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-28241}",
-      "Line": 3032,
+      "Line": 3035,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-28241"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - libmaxminddb 1.2.0-1+deb9u1",
-      "Line": 3033,
+      "Line": 3036,
       "Type": "package",
       "Release": "stretch",
       "Package": "libmaxminddb",

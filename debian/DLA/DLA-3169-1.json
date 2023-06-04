@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Oct 2022] DLA-3169-1 batik - security update",
-    "Line": 835,
+    "Line": 838,
     "ID": "DLA-3169-1",
     "Description": "batik - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-41704 CVE-2022-42890}",
-      "Line": 836,
+      "Line": 839,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-41704",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[buster] - batik 1.10-2+deb10u2",
-      "Line": 837,
+      "Line": 840,
       "Type": "package",
       "Release": "buster",
       "Package": "batik",

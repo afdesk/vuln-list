@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Jan 2015] DLA-139-1 eglibc - security update",
-    "Line": 10079,
+    "Line": 10082,
     "ID": "DLA-139-1",
     "Description": "eglibc - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-0235}",
-      "Line": 10080,
+      "Line": 10083,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-0235"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - eglibc 2.11.3-4+deb6u4",
-      "Line": 10081,
+      "Line": 10084,
       "Type": "package",
       "Release": "squeeze",
       "Package": "eglibc",

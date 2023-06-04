@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Nov 2014] DLA-92-1 tomcat-native - security update",
-    "Line": 10220,
+    "Line": 10223,
     "ID": "DLA-92-1",
     "Description": "tomcat-native - security update"
   },
   "Annotations": [
     {
       "Original": "[squeeze] - tomcat-native 1.1.31-1~deb6u1",
-      "Line": 10221,
+      "Line": 10224,
       "Type": "package",
       "Release": "squeeze",
       "Package": "tomcat-native",
