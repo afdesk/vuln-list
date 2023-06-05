@@ -938,7 +938,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package qt5-qtbase is installed with version 5.12.11-4 or earlier",
+      "Comment": "Package qt5-qtbase is installed with version 5.12.11-5 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13814000",
       "Version": "0",
       "Object": {
@@ -962,7 +962,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package nodejs is installed with version 14.21.1-1 or earlier",
+      "Comment": "Package nodejs is installed with version 14.21.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13812000",
       "Version": "0",
       "Object": {
@@ -1046,7 +1046,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13805000",
       "Version": "0",
       "Object": {
@@ -1106,7 +1106,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package nodejs is installed with version 14.21.1-1 or earlier",
+      "Comment": "Package nodejs is installed with version 14.21.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13757000",
       "Version": "0",
       "Object": {
@@ -1118,7 +1118,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package nodejs is installed with version 14.21.1-1 or earlier",
+      "Comment": "Package nodejs is installed with version 14.21.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13756000",
       "Version": "0",
       "Object": {
@@ -1130,7 +1130,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package nodejs is installed with version 14.21.1-1 or earlier",
+      "Comment": "Package nodejs is installed with version 14.21.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13755000",
       "Version": "0",
       "Object": {
@@ -1166,7 +1166,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13752000",
       "Version": "0",
       "Object": {
@@ -1178,7 +1178,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13742000",
       "Version": "0",
       "Object": {
@@ -1694,7 +1694,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13363000",
       "Version": "0",
       "Object": {
@@ -2054,7 +2054,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package qt5-qtbase is installed with version 5.12.11-4 or earlier",
+      "Comment": "Package qt5-qtbase is installed with version 5.12.11-5 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13224000",
       "Version": "0",
       "Object": {
@@ -2222,7 +2222,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13162000",
       "Version": "0",
       "Object": {
@@ -2246,7 +2246,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13159000",
       "Version": "0",
       "Object": {
@@ -2774,7 +2774,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:12981000",
       "Version": "0",
       "Object": {
@@ -2918,7 +2918,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package nasm is installed with version 2.13.03-5 or earlier",
+      "Comment": "Package nasm is installed with version 2.16-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:12911000",
       "Version": "0",
       "Object": {
@@ -3254,7 +3254,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11639000",
       "Version": "0",
       "Object": {
@@ -3314,7 +3314,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11634000",
       "Version": "0",
       "Object": {
@@ -3566,7 +3566,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11492000",
       "Version": "0",
       "Object": {
@@ -3578,7 +3578,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11491000",
       "Version": "0",
       "Object": {
@@ -3590,7 +3590,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11490000",
       "Version": "0",
       "Object": {
@@ -3602,7 +3602,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11489000",
       "Version": "0",
       "Object": {
@@ -3614,7 +3614,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11488000",
       "Version": "0",
       "Object": {
@@ -3650,7 +3650,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11472000",
       "Version": "0",
       "Object": {
@@ -3806,7 +3806,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11418000",
       "Version": "0",
       "Object": {
@@ -3818,7 +3818,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11417000",
       "Version": "0",
       "Object": {
@@ -3830,7 +3830,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11416000",
       "Version": "0",
       "Object": {
@@ -3962,7 +3962,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11359000",
       "Version": "0",
       "Object": {
@@ -4214,7 +4214,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package qt5-qtsvg is installed with version 5.12.11-3 or earlier",
+      "Comment": "Package qt5-qtsvg is installed with version 5.12.11-4 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11265000",
       "Version": "0",
       "Object": {
@@ -4754,7 +4754,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11085000",
       "Version": "0",
       "Object": {
@@ -5150,7 +5150,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10953000",
       "Version": "0",
       "Object": {
@@ -5162,7 +5162,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10952000",
       "Version": "0",
       "Object": {
@@ -5174,7 +5174,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10951000",
       "Version": "0",
       "Object": {
@@ -5666,7 +5666,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10778000",
       "Version": "0",
       "Object": {
@@ -5870,7 +5870,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10701000",
       "Version": "0",
       "Object": {
@@ -7082,7 +7082,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10133000",
       "Version": "0",
       "Object": {
@@ -9206,7 +9206,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.179.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:9305000",
       "Version": "0",
       "Object": {
@@ -14654,7 +14654,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package python3 is installed with version 3.7.13-6 or earlier",
+      "Comment": "Package python3 is installed with version 3.7.16-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:5430000",
       "Version": "0",
       "Object": {

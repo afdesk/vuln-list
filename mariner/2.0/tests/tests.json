@@ -1502,7 +1502,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package qt5-qtbase is installed with version 5.12.11-5 or earlier",
+      "Comment": "Package qt5-qtbase is installed with version 5.12.11-6 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13829000",
       "Version": "0",
       "Object": {
@@ -1526,7 +1526,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package nodejs is installed with version 16.19.1-1 or earlier",
+      "Comment": "Package nodejs is installed with version 16.19.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13827000",
       "Version": "0",
       "Object": {
@@ -1610,7 +1610,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13820000",
       "Version": "0",
       "Object": {
@@ -1622,7 +1622,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.24.12-1 or earlier",
+      "Comment": "Package k3s is installed with version 1.26.3-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13819000",
       "Version": "0",
       "Object": {
@@ -1634,7 +1634,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package grpc is installed with version 1.42.0-4 or earlier",
+      "Comment": "Package grpc is installed with version 1.42.0-5 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13818000",
       "Version": "0",
       "Object": {
@@ -1898,7 +1898,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13743000",
       "Version": "0",
       "Object": {
@@ -1958,7 +1958,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13732000",
       "Version": "0",
       "Object": {
@@ -1970,7 +1970,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13731000",
       "Version": "0",
       "Object": {
@@ -1982,7 +1982,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13730000",
       "Version": "0",
       "Object": {
@@ -2486,7 +2486,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.24.12-1 or earlier",
+      "Comment": "Package k3s is installed with version 1.26.3-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13572000",
       "Version": "0",
       "Object": {
@@ -2498,7 +2498,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.24.12-1 or earlier",
+      "Comment": "Package k3s is installed with version 1.26.3-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13571000",
       "Version": "0",
       "Object": {
@@ -2510,7 +2510,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.24.12-1 or earlier",
+      "Comment": "Package k3s is installed with version 1.26.3-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13570000",
       "Version": "0",
       "Object": {
@@ -2702,7 +2702,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13364000",
       "Version": "0",
       "Object": {
@@ -3122,7 +3122,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package qt5-qtbase is installed with version 5.12.11-5 or earlier",
+      "Comment": "Package qt5-qtbase is installed with version 5.12.11-6 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13231000",
       "Version": "0",
       "Object": {
@@ -3314,7 +3314,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package nodejs is installed with version 16.19.1-1 or earlier",
+      "Comment": "Package nodejs is installed with version 16.19.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13173000",
       "Version": "0",
       "Object": {
@@ -3338,7 +3338,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13171000",
       "Version": "0",
       "Object": {
@@ -3470,7 +3470,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package grpc is installed with version 1.42.0-4 or earlier",
+      "Comment": "Package grpc is installed with version 1.42.0-5 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13122000",
       "Version": "0",
       "Object": {
@@ -3926,7 +3926,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:12989000",
       "Version": "0",
       "Object": {
@@ -4514,7 +4514,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11614000",
       "Version": "0",
       "Object": {
@@ -5126,7 +5126,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11487000",
       "Version": "0",
       "Object": {
@@ -5138,7 +5138,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11486000",
       "Version": "0",
       "Object": {
@@ -5150,7 +5150,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11485000",
       "Version": "0",
       "Object": {
@@ -5162,7 +5162,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11484000",
       "Version": "0",
       "Object": {
@@ -5174,7 +5174,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11483000",
       "Version": "0",
       "Object": {
@@ -5210,7 +5210,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11469000",
       "Version": "0",
       "Object": {
@@ -5462,7 +5462,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11382000",
       "Version": "0",
       "Object": {
@@ -5474,7 +5474,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11381000",
       "Version": "0",
       "Object": {
@@ -5486,7 +5486,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11380000",
       "Version": "0",
       "Object": {
@@ -6266,7 +6266,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11130000",
       "Version": "0",
       "Object": {
@@ -6278,7 +6278,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11129000",
       "Version": "0",
       "Object": {
@@ -6290,7 +6290,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11128000",
       "Version": "0",
       "Object": {
@@ -6446,7 +6446,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11079000",
       "Version": "0",
       "Object": {
@@ -6974,7 +6974,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10903000",
       "Version": "0",
       "Object": {
@@ -6986,7 +6986,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10902000",
       "Version": "0",
       "Object": {
@@ -6998,7 +6998,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10901000",
       "Version": "0",
       "Object": {
@@ -7214,7 +7214,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10855000",
       "Version": "0",
       "Object": {
@@ -7478,7 +7478,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10761000",
       "Version": "0",
       "Object": {
@@ -11474,7 +11474,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.15.112.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.15.112.1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:9301000",
       "Version": "0",
       "Object": {
@@ -21662,7 +21662,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:6449000",
       "Version": "0",
       "Object": {
@@ -21674,7 +21674,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:6448000",
       "Version": "0",
       "Object": {
