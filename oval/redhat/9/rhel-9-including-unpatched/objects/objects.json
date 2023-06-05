@@ -6631,7 +6631,7 @@
       "Name": "shim-x64"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20224304002",
+      "ID": "oval:com.redhat.cve:obj:20224304003",
       "Version": "636",
       "Name": "shim"
     },
@@ -6943,12 +6943,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20231667002",
       "Version": "636",
-      "Name": "libssh-config"
+      "Name": "libssh"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231667003",
       "Version": "636",
-      "Name": "libssh"
+      "Name": "libssh-config"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231786001",
@@ -6994,6 +6994,11 @@
       "ID": "oval:com.redhat.cve:obj:202321911007",
       "Version": "636",
       "Name": "mysql-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202322652001",
+      "Version": "636",
+      "Name": "libeconf"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202322745001",
@@ -7443,22 +7448,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:202328204001",
       "Version": "636",
-      "Name": "webkit2gtk3"
+      "Name": "webkit2gtk3-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202328204002",
       "Version": "636",
-      "Name": "webkit2gtk3-jsc-devel"
+      "Name": "webkit2gtk3-jsc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202328204003",
       "Version": "636",
-      "Name": "webkit2gtk3-jsc"
+      "Name": "webkit2gtk3-jsc-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202328204004",
       "Version": "636",
-      "Name": "webkit2gtk3-devel"
+      "Name": "webkit2gtk3"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202328370001",
@@ -7581,6 +7586,31 @@
       "Name": "libfdisk"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202329499001",
+      "Version": "636",
+      "Name": "glib2-doc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202329499002",
+      "Version": "636",
+      "Name": "glib2-static"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202329499003",
+      "Version": "636",
+      "Name": "glib2"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202329499004",
+      "Version": "636",
+      "Name": "glib2-tests"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202329499005",
+      "Version": "636",
+      "Name": "glib2-devel"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202329552001",
       "Version": "636",
       "Name": "openslp-devel"
@@ -7603,7 +7633,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202330571001",
       "Version": "636",
-      "Name": "bsdtar"
+      "Name": "libarchive"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202330571002",
@@ -7613,7 +7643,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202330571003",
       "Version": "636",
-      "Name": "libarchive"
+      "Name": "bsdtar"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202330630001",
@@ -7621,14 +7651,14 @@
       "Name": "dmidecode"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202331124002",
+      "ID": "oval:com.redhat.cve:obj:202331124005",
       "Version": "636",
-      "Name": "c-ares-devel"
+      "Name": "c-ares"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202331124006",
       "Version": "636",
-      "Name": "c-ares"
+      "Name": "c-ares-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202332681001",
@@ -10631,39 +10661,14 @@
       "Name": "glibc-langpack-st"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:201925085001",
-      "Version": "635",
-      "Name": "glib2"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:201925085002",
-      "Version": "635",
-      "Name": "glib2-devel"
-    },
-    {
       "ID": "oval:com.redhat.unaffected:obj:201925085003",
       "Version": "635",
       "Name": "dconf"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:201925085004",
-      "Version": "635",
-      "Name": "glib2-tests"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:201925085005",
-      "Version": "635",
-      "Name": "glib2-doc"
-    },
-    {
       "ID": "oval:com.redhat.unaffected:obj:201925085006",
       "Version": "635",
       "Name": "dconf-editor"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:201925085007",
-      "Version": "635",
-      "Name": "glib2-static"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:201925085008",

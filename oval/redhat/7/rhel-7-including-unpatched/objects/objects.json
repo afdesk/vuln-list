@@ -18,42 +18,42 @@
     {
       "ID": "oval:com.redhat.cve:obj:200620001001",
       "Version": "636",
-      "Name": "httpd"
+      "Name": "mod_session"
     },
     {
       "ID": "oval:com.redhat.cve:obj:200620001002",
       "Version": "636",
-      "Name": "mod_proxy_html"
+      "Name": "httpd-manual"
     },
     {
       "ID": "oval:com.redhat.cve:obj:200620001003",
       "Version": "636",
-      "Name": "httpd-manual"
+      "Name": "mod_ldap"
     },
     {
       "ID": "oval:com.redhat.cve:obj:200620001004",
       "Version": "636",
-      "Name": "mod_ssl"
+      "Name": "httpd-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:200620001005",
       "Version": "636",
-      "Name": "mod_ldap"
+      "Name": "httpd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:200620001006",
       "Version": "636",
-      "Name": "mod_session"
+      "Name": "mod_ssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:200620001007",
       "Version": "636",
-      "Name": "httpd-tools"
+      "Name": "mod_proxy_html"
     },
     {
       "ID": "oval:com.redhat.cve:obj:200620001008",
       "Version": "636",
-      "Name": "httpd-devel"
+      "Name": "httpd-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559001",

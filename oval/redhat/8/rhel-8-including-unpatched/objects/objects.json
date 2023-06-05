@@ -9756,7 +9756,7 @@
       "Name": "oci-seccomp-bpf-hook"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241723004",
+      "ID": "oval:com.redhat.cve:obj:202241723016",
       "Version": "636",
       "Name": "git-lfs"
     },
@@ -9948,12 +9948,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20224304001",
       "Version": "636",
-      "Name": "shim-ia32"
+      "Name": "shim-x64"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20224304003",
+      "ID": "oval:com.redhat.cve:obj:20224304002",
       "Version": "636",
-      "Name": "shim-x64"
+      "Name": "shim-ia32"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20224304004",
@@ -10148,17 +10148,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20231667001",
       "Version": "636",
-      "Name": "libssh-config"
+      "Name": "libssh-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231667002",
       "Version": "636",
-      "Name": "libssh-devel"
+      "Name": "libssh"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231667003",
       "Version": "636",
-      "Name": "libssh"
+      "Name": "libssh-config"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231786001",
@@ -10714,6 +10714,36 @@
       "ID": "oval:com.redhat.cve:obj:202329383014",
       "Version": "636",
       "Name": "libfdisk"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202329499001",
+      "Version": "636",
+      "Name": "glib2-doc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202329499002",
+      "Version": "636",
+      "Name": "glib2-static"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202329499003",
+      "Version": "636",
+      "Name": "glib2"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202329499004",
+      "Version": "636",
+      "Name": "glib2-fam"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202329499005",
+      "Version": "636",
+      "Name": "glib2-tests"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202329499006",
+      "Version": "636",
+      "Name": "glib2-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232953001",
@@ -15119,36 +15149,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20193525005",
       "Version": "636",
       "Name": "dhcp-server"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20193530001",
-      "Version": "638",
-      "Name": "glib2"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20193530002",
-      "Version": "638",
-      "Name": "glib2-devel"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20193530003",
-      "Version": "638",
-      "Name": "glib2-doc"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20193530004",
-      "Version": "638",
-      "Name": "glib2-fam"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20193530005",
-      "Version": "638",
-      "Name": "glib2-static"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20193530006",
-      "Version": "638",
-      "Name": "glib2-tests"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20193553001",
@@ -20549,11 +20549,6 @@
       "ID": "oval:com.redhat.unaffected:obj:20224087005",
       "Version": "635",
       "Name": "ipxe-bootimgs-x86"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202243680003",
-      "Version": "635",
-      "Name": "xmlrpc-c-debugsource"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202244020001",
