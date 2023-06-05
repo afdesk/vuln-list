@@ -1,6 +1,6 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2023-05-11T20:47:57Z",
+  "UpdatedAt": "2023-06-05T13:22:38Z",
   "Package": {
     "Ecosystem": "PIP",
     "Name": "in-toto"
@@ -26,6 +26,12 @@
         "Url": "https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html"
       },
       {
+        "Url": "https://github.com/in-toto/in-toto/releases/tag/v2.0.0"
+      },
+      {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/in-toto/PYSEC-2023-63.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-wc64-c5rv-32pf"
       }
     ],
@@ -44,7 +50,7 @@
     "PublishedAt": "2023-05-11T20:47:56Z",
     "Severity": "MODERATE",
     "Summary": "in-toto vulnerable to Configuration Read From Local Directory",
-    "UpdatedAt": "2023-05-18T21:32:32Z",
+    "UpdatedAt": "2023-06-05T13:22:38Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.5,
@@ -54,7 +60,7 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": ""
+        "Identifier": "2.0.0"
       },
       "VulnerableVersionRange": "\u003c= 1.4.0"
     }
