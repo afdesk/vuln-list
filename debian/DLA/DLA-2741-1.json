@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Aug 2021] DLA-2741-1 commons-io - security update",
-    "Line": 2132,
+    "Line": 2135,
     "ID": "DLA-2741-1",
     "Description": "commons-io - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-29425}",
-      "Line": 2133,
+      "Line": 2136,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-29425"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - commons-io 2.5-1+deb9u1",
-      "Line": 2134,
+      "Line": 2137,
       "Type": "package",
       "Release": "stretch",
       "Package": "commons-io",

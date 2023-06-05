@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Dec 2015] DLA-363-1 libphp-phpmailer - security update",
-    "Line": 9397,
+    "Line": 9400,
     "ID": "DLA-363-1",
     "Description": "libphp-phpmailer - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-8476}",
-      "Line": 9398,
+      "Line": 9401,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-8476"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - libphp-phpmailer 5.1-1+deb6u11",
-      "Line": 9399,
+      "Line": 9402,
       "Type": "package",
       "Release": "squeeze",
       "Package": "libphp-phpmailer",

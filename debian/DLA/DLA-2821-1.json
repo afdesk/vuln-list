@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Nov 2021] DLA-2821-1 axis - security update",
-    "Line": 1886,
+    "Line": 1889,
     "ID": "DLA-2821-1",
     "Description": "axis - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-8032}",
-      "Line": 1887,
+      "Line": 1890,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-8032"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - axis 1.4-25+deb9u1",
-      "Line": 1888,
+      "Line": 1891,
       "Type": "package",
       "Release": "stretch",
       "Package": "axis",

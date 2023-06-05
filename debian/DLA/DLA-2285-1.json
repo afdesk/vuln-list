@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Jul 2020] DLA-2285-1 librsvg - security update",
-    "Line": 3522,
+    "Line": 3525,
     "ID": "DLA-2285-1",
     "Description": "librsvg - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-11464 CVE-2019-20446}",
-      "Line": 3523,
+      "Line": 3526,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-11464",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[stretch] - librsvg 2.40.21-0+deb9u1",
-      "Line": 3524,
+      "Line": 3527,
       "Type": "package",
       "Release": "stretch",
       "Package": "librsvg",

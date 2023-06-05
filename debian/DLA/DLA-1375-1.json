@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 May 2018] DLA-1375-1 wget - security update",
-    "Line": 6329,
+    "Line": 6332,
     "ID": "DLA-1375-1",
     "Description": "wget - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-0494}",
-      "Line": 6330,
+      "Line": 6333,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-0494"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - wget 1.13.4-3+deb7u6",
-      "Line": 6331,
+      "Line": 6334,
       "Type": "package",
       "Release": "wheezy",
       "Package": "wget",

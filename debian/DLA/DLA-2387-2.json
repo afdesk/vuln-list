@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Sep 2020] DLA-2387-2 firefox-esr - regression update",
-    "Line": 3206,
+    "Line": 3209,
     "ID": "DLA-2387-2",
     "Description": "firefox-esr - regression update"
   },
   "Annotations": [
     {
       "Original": "[stretch] - firefox-esr 78.3.0esr-1~deb9u2",
-      "Line": 3207,
+      "Line": 3210,
       "Type": "package",
       "Release": "stretch",
       "Package": "firefox-esr",

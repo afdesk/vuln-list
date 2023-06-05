@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Mar 2022] DLA-2955-1 bind9 - security update",
-    "Line": 1475,
+    "Line": 1478,
     "ID": "DLA-2955-1",
     "Description": "bind9 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-25220}",
-      "Line": 1476,
+      "Line": 1479,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-25220"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - bind9 1:9.10.3.dfsg.P4-12.3+deb9u11",
-      "Line": 1477,
+      "Line": 1480,
       "Type": "package",
       "Release": "stretch",
       "Package": "bind9",

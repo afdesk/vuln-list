@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Oct 2022] DLA-3155-1 bcel - security update",
-    "Line": 876,
+    "Line": 879,
     "ID": "DLA-3155-1",
     "Description": "bcel - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-34169}",
-      "Line": 877,
+      "Line": 880,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-34169"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - bcel 6.2-1+deb10u1",
-      "Line": 878,
+      "Line": 881,
       "Type": "package",
       "Release": "buster",
       "Package": "bcel",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Feb 2019] DLA-1665-1 netmask - security update",
-    "Line": 5448,
+    "Line": 5451,
     "ID": "DLA-1665-1",
     "Description": "netmask - security update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - netmask 2.3.12+deb8u1",
-      "Line": 5449,
+      "Line": 5452,
       "Type": "package",
       "Release": "jessie",
       "Package": "netmask",

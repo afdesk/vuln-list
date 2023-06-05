@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Sep 2020] DLA-2384-1 yaws - security update",
-    "Line": 3222,
+    "Line": 3225,
     "ID": "DLA-2384-1",
     "Description": "yaws - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-24379 CVE-2020-24916}",
-      "Line": 3223,
+      "Line": 3226,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-24379",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[stretch] - yaws 2.0.4+dfsg-1+deb9u1",
-      "Line": 3224,
+      "Line": 3227,
       "Type": "package",
       "Release": "stretch",
       "Package": "yaws",
