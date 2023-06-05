@@ -1,11 +1,8 @@
 {
-  "name": "cups",
+  "name": "cosign",
   "secfixes": {
-    "2.4.2-r0": [
-      "CVE-2022-26691"
-    ],
-    "2.4.3-r0": [
-      "CVE-2023-32324"
+    "0": [
+      "CVE-2007-2233"
     ]
   },
   "apkurl": "{{urlprefix}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
