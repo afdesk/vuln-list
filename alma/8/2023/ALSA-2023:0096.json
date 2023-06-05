@@ -192,6 +192,30 @@
         "reboot_suggested": 0
       },
       {
+        "name": "dbus-devel",
+        "version": "1.12.8",
+        "release": "23.el8_7.1",
+        "epoch": "1",
+        "arch": "aarch64",
+        "src": "dbus-1.12.8-23.el8_7.1.src.rpm",
+        "filename": "dbus-devel-1.12.8-23.el8_7.1.aarch64.rpm",
+        "sum": "7a200895c9844666e199f49525449944ec86ff6edf686b7e5ee56d56473db4a9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dbus-x11",
+        "version": "1.12.8",
+        "release": "23.el8_7.1",
+        "epoch": "1",
+        "arch": "aarch64",
+        "src": "dbus-1.12.8-23.el8_7.1.src.rpm",
+        "filename": "dbus-x11-1.12.8-23.el8_7.1.aarch64.rpm",
+        "sum": "b0268d88f98d148d478d443dfc8170b78a8cfc44561f1066faf1a9bb11101a95",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "dbus-daemon",
         "version": "1.12.8",
         "release": "23.el8_7.1",
@@ -284,30 +308,6 @@
         "src": "dbus-1.12.8-23.el8_7.1.src.rpm",
         "filename": "dbus-devel-1.12.8-23.el8_7.1.s390x.rpm",
         "sum": "c7284b56776d75b86eb97aa3a9cadff1f9a0434ed17b034a3f2a687e233f92f0",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dbus-devel",
-        "version": "1.12.8",
-        "release": "23.el8_7.1",
-        "epoch": "1",
-        "arch": "aarch64",
-        "src": "dbus-1.12.8-23.el8_7.1.src.rpm",
-        "filename": "dbus-devel-1.12.8-23.el8_7.1.aarch64.rpm",
-        "sum": "7a200895c9844666e199f49525449944ec86ff6edf686b7e5ee56d56473db4a9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dbus-x11",
-        "version": "1.12.8",
-        "release": "23.el8_7.1",
-        "epoch": "1",
-        "arch": "aarch64",
-        "src": "dbus-1.12.8-23.el8_7.1.src.rpm",
-        "filename": "dbus-x11-1.12.8-23.el8_7.1.aarch64.rpm",
-        "sum": "b0268d88f98d148d478d443dfc8170b78a8cfc44561f1066faf1a9bb11101a95",
         "sum_type": 5,
         "reboot_suggested": 0
       },

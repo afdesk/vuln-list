@@ -8,9 +8,33 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-ppc64le-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-ppc64le-appstream-rpms__9_2_default",
     "packages": [
+      {
+        "name": "qemu-guest-agent",
+        "version": "7.2.0",
+        "release": "14.el9_2",
+        "epoch": "17",
+        "arch": "ppc64le",
+        "src": "qemu-kvm-7.2.0-14.el9_2.src.rpm",
+        "filename": "qemu-guest-agent-7.2.0-14.el9_2.ppc64le.rpm",
+        "sum": "4e2b908d9a458e239076261f81c41dfa92306cebf817d0ec5cd0bfbde93556d8",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "qemu-img",
+        "version": "7.2.0",
+        "release": "14.el9_2",
+        "epoch": "17",
+        "arch": "ppc64le",
+        "src": "qemu-kvm-7.2.0-14.el9_2.src.rpm",
+        "filename": "qemu-img-7.2.0-14.el9_2.ppc64le.rpm",
+        "sum": "a3039497d06be19ad409d5d3ea58f33dceb6a504c04ca6888c81fdb251ce831f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "qemu-kvm",
         "version": "7.2.0",
@@ -396,30 +420,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "qemu-guest-agent",
-        "version": "7.2.0",
-        "release": "14.el9_2",
-        "epoch": "17",
-        "arch": "ppc64le",
-        "src": "qemu-kvm-7.2.0-14.el9_2.src.rpm",
-        "filename": "qemu-guest-agent-7.2.0-14.el9_2.ppc64le.rpm",
-        "sum": "4e2b908d9a458e239076261f81c41dfa92306cebf817d0ec5cd0bfbde93556d8",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "qemu-img",
-        "version": "7.2.0",
-        "release": "14.el9_2",
-        "epoch": "17",
-        "arch": "ppc64le",
-        "src": "qemu-kvm-7.2.0-14.el9_2.src.rpm",
-        "filename": "qemu-img-7.2.0-14.el9_2.ppc64le.rpm",
-        "sum": "a3039497d06be19ad409d5d3ea58f33dceb6a504c04ca6888c81fdb251ce831f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "qemu-kvm-audio-pa",
         "version": "7.2.0",
         "release": "14.el9_2",
@@ -638,7 +638,7 @@
   "title": "Moderate: qemu-kvm security, bug fix, and enhancement update",
   "type": "security",
   "updated_date": {
-    "$date": 1683822876000
+    "$date": 1683822873000
   },
   "version": "1"
 }

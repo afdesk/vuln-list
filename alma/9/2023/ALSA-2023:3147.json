@@ -8,9 +8,153 @@
     "$date": 1684195200000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-i686-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-i686-appstream-rpms__9_2_default",
     "packages": [
+      {
+        "name": "apr-util-bdb",
+        "version": "1.6.1",
+        "release": "20.el9_2.1",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
+        "filename": "apr-util-bdb-1.6.1-20.el9_2.1.i686.rpm",
+        "sum": "0d0974ebca324f99479c0625baff0a5fdd6b1fd8923b263947c3a365d8ee7ae4",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "apr-util",
+        "version": "1.6.1",
+        "release": "20.el9_2.1",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
+        "filename": "apr-util-1.6.1-20.el9_2.1.i686.rpm",
+        "sum": "3df37f9a502f9470ddc2f017b83f6f1d82f3ae4de5e258c900bbb5cdcdef6017",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "apr-util-devel",
+        "version": "1.6.1",
+        "release": "20.el9_2.1",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
+        "filename": "apr-util-devel-1.6.1-20.el9_2.1.i686.rpm",
+        "sum": "f8aab82b06d2634eea967938fc0af27bf4d0ed3e29780a0c578466982f8caf2e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "apr-util-odbc",
+        "version": "1.6.1",
+        "release": "20.el9_2.1",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
+        "filename": "apr-util-odbc-1.6.1-20.el9_2.1.ppc64le.rpm",
+        "sum": "0deb52ffed3e56fa1c72b8015299c8d78e5cafd36bac2096184d6711c140383c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "apr-util-mysql",
+        "version": "1.6.1",
+        "release": "20.el9_2.1",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
+        "filename": "apr-util-mysql-1.6.1-20.el9_2.1.ppc64le.rpm",
+        "sum": "3c123817f35e6650bd758e7bcb34245bdde64f52fa2c968f3d0bbf337ade2f98",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "apr-util-ldap",
+        "version": "1.6.1",
+        "release": "20.el9_2.1",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
+        "filename": "apr-util-ldap-1.6.1-20.el9_2.1.ppc64le.rpm",
+        "sum": "4664c5fb95bcdbcd955d900ca6881be6b4d57b065a937f02ad1d9c828954ed0f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "apr-util-bdb",
+        "version": "1.6.1",
+        "release": "20.el9_2.1",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
+        "filename": "apr-util-bdb-1.6.1-20.el9_2.1.ppc64le.rpm",
+        "sum": "5786e498bad5b49dae50ee28140418d644bf6027edab18fced5fa0ff927b6844",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "apr-util-sqlite",
+        "version": "1.6.1",
+        "release": "20.el9_2.1",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
+        "filename": "apr-util-sqlite-1.6.1-20.el9_2.1.ppc64le.rpm",
+        "sum": "7bbf4b01b27a4717d61f57859230df1f62d5f7091bee9ea6c4139f5e22499aad",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "apr-util-openssl",
+        "version": "1.6.1",
+        "release": "20.el9_2.1",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
+        "filename": "apr-util-openssl-1.6.1-20.el9_2.1.ppc64le.rpm",
+        "sum": "87061a862fe014c3405ce0a5d248355bbbf6f1ec0c7634a36c65f44baf7fdd48",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "apr-util-devel",
+        "version": "1.6.1",
+        "release": "20.el9_2.1",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
+        "filename": "apr-util-devel-1.6.1-20.el9_2.1.ppc64le.rpm",
+        "sum": "888d2d994c89f0953bf954227cbd34e116d52eb1bb3e11ee926a7be9498d3f65",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "apr-util",
+        "version": "1.6.1",
+        "release": "20.el9_2.1",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
+        "filename": "apr-util-1.6.1-20.el9_2.1.ppc64le.rpm",
+        "sum": "d9e0356d88f610963e7ec0c96f7ab936cef421b75fee55caa0e5d1d22f1b05c9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "apr-util-pgsql",
+        "version": "1.6.1",
+        "release": "20.el9_2.1",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
+        "filename": "apr-util-pgsql-1.6.1-20.el9_2.1.ppc64le.rpm",
+        "sum": "f42acad8235d7e616741bb6e908b950fee7ca5f28ed090840fbdd87cdf9ef19c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "apr-util-bdb",
         "version": "1.6.1",
@@ -120,42 +264,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "apr-util-bdb",
-        "version": "1.6.1",
-        "release": "20.el9_2.1",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
-        "filename": "apr-util-bdb-1.6.1-20.el9_2.1.i686.rpm",
-        "sum": "0d0974ebca324f99479c0625baff0a5fdd6b1fd8923b263947c3a365d8ee7ae4",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "apr-util",
-        "version": "1.6.1",
-        "release": "20.el9_2.1",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
-        "filename": "apr-util-1.6.1-20.el9_2.1.i686.rpm",
-        "sum": "3df37f9a502f9470ddc2f017b83f6f1d82f3ae4de5e258c900bbb5cdcdef6017",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "apr-util-devel",
-        "version": "1.6.1",
-        "release": "20.el9_2.1",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
-        "filename": "apr-util-devel-1.6.1-20.el9_2.1.i686.rpm",
-        "sum": "f8aab82b06d2634eea967938fc0af27bf4d0ed3e29780a0c578466982f8caf2e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "apr-util-mysql",
         "version": "1.6.1",
         "release": "20.el9_2.1",
@@ -260,114 +368,6 @@
         "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
         "filename": "apr-util-ldap-1.6.1-20.el9_2.1.x86_64.rpm",
         "sum": "dea48fdbfeee3912d2ba99c417ef2861337084cd63c070aee49faecab425b251",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "apr-util-odbc",
-        "version": "1.6.1",
-        "release": "20.el9_2.1",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
-        "filename": "apr-util-odbc-1.6.1-20.el9_2.1.ppc64le.rpm",
-        "sum": "0deb52ffed3e56fa1c72b8015299c8d78e5cafd36bac2096184d6711c140383c",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "apr-util-mysql",
-        "version": "1.6.1",
-        "release": "20.el9_2.1",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
-        "filename": "apr-util-mysql-1.6.1-20.el9_2.1.ppc64le.rpm",
-        "sum": "3c123817f35e6650bd758e7bcb34245bdde64f52fa2c968f3d0bbf337ade2f98",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "apr-util-ldap",
-        "version": "1.6.1",
-        "release": "20.el9_2.1",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
-        "filename": "apr-util-ldap-1.6.1-20.el9_2.1.ppc64le.rpm",
-        "sum": "4664c5fb95bcdbcd955d900ca6881be6b4d57b065a937f02ad1d9c828954ed0f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "apr-util-bdb",
-        "version": "1.6.1",
-        "release": "20.el9_2.1",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
-        "filename": "apr-util-bdb-1.6.1-20.el9_2.1.ppc64le.rpm",
-        "sum": "5786e498bad5b49dae50ee28140418d644bf6027edab18fced5fa0ff927b6844",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "apr-util-sqlite",
-        "version": "1.6.1",
-        "release": "20.el9_2.1",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
-        "filename": "apr-util-sqlite-1.6.1-20.el9_2.1.ppc64le.rpm",
-        "sum": "7bbf4b01b27a4717d61f57859230df1f62d5f7091bee9ea6c4139f5e22499aad",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "apr-util-openssl",
-        "version": "1.6.1",
-        "release": "20.el9_2.1",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
-        "filename": "apr-util-openssl-1.6.1-20.el9_2.1.ppc64le.rpm",
-        "sum": "87061a862fe014c3405ce0a5d248355bbbf6f1ec0c7634a36c65f44baf7fdd48",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "apr-util-devel",
-        "version": "1.6.1",
-        "release": "20.el9_2.1",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
-        "filename": "apr-util-devel-1.6.1-20.el9_2.1.ppc64le.rpm",
-        "sum": "888d2d994c89f0953bf954227cbd34e116d52eb1bb3e11ee926a7be9498d3f65",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "apr-util",
-        "version": "1.6.1",
-        "release": "20.el9_2.1",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
-        "filename": "apr-util-1.6.1-20.el9_2.1.ppc64le.rpm",
-        "sum": "d9e0356d88f610963e7ec0c96f7ab936cef421b75fee55caa0e5d1d22f1b05c9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "apr-util-pgsql",
-        "version": "1.6.1",
-        "release": "20.el9_2.1",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "apr-util-1.6.1-20.el9_2.1.src.rpm",
-        "filename": "apr-util-pgsql-1.6.1-20.el9_2.1.ppc64le.rpm",
-        "sum": "f42acad8235d7e616741bb6e908b950fee7ca5f28ed090840fbdd87cdf9ef19c",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -518,7 +518,7 @@
   "title": "Important: apr-util security update",
   "type": "security",
   "updated_date": {
-    "$date": 1684533773000
+    "$date": 1684533653000
   },
   "version": "1"
 }

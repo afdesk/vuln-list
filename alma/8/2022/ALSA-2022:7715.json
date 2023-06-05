@@ -108,6 +108,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "libxml2-devel",
+        "version": "2.9.7",
+        "release": "15.el8",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "libxml2-2.9.7-15.el8.src.rpm",
+        "filename": "libxml2-devel-2.9.7-15.el8.aarch64.rpm",
+        "sum": "3f42e59aea113e0a49bf25ef2b7aecc68a23feba6038bf0ee8faaf2b510f6f40",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "python3-libxml2",
         "version": "2.9.7",
         "release": "15.el8",
@@ -152,18 +164,6 @@
         "src": "libxml2-2.9.7-15.el8.src.rpm",
         "filename": "libxml2-devel-2.9.7-15.el8.s390x.rpm",
         "sum": "ca36f828ee32764dec795732e6b7a49e4113715af82426a3eec6fb65be767de6",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libxml2-devel",
-        "version": "2.9.7",
-        "release": "15.el8",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "libxml2-2.9.7-15.el8.src.rpm",
-        "filename": "libxml2-devel-2.9.7-15.el8.aarch64.rpm",
-        "sum": "3f42e59aea113e0a49bf25ef2b7aecc68a23feba6038bf0ee8faaf2b510f6f40",
         "sum_type": 5,
         "reboot_suggested": 0
       },

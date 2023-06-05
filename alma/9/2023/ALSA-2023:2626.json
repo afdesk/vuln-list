@@ -8,9 +8,69 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-i686-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-i686-appstream-rpms__9_2_default",
     "packages": [
+      {
+        "name": "emacs-filesystem",
+        "version": "27.2",
+        "release": "8.el9_2.1",
+        "epoch": "1",
+        "arch": "noarch",
+        "src": "emacs-27.2-8.el9_2.1.src.rpm",
+        "filename": "emacs-filesystem-27.2-8.el9_2.1.noarch.rpm",
+        "sum": "8132dbe410df05ce2933a36657fa82d2e5165d3d9e32b343d6ab41a08a1025bb",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "emacs-lucid",
+        "version": "27.2",
+        "release": "8.el9_2.1",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "emacs-27.2-8.el9_2.1.src.rpm",
+        "filename": "emacs-lucid-27.2-8.el9_2.1.ppc64le.rpm",
+        "sum": "526ad5bf68b2df8f5618ad6b5b4a56f41ac7cedbedb5cf8b2fd1e02699d08d31",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "emacs",
+        "version": "27.2",
+        "release": "8.el9_2.1",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "emacs-27.2-8.el9_2.1.src.rpm",
+        "filename": "emacs-27.2-8.el9_2.1.ppc64le.rpm",
+        "sum": "c208c9d2e900eb69fe0c11199029680973c51e66c3dd032bc22562845d55f4c1",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "emacs-common",
+        "version": "27.2",
+        "release": "8.el9_2.1",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "emacs-27.2-8.el9_2.1.src.rpm",
+        "filename": "emacs-common-27.2-8.el9_2.1.ppc64le.rpm",
+        "sum": "c3ed70c6f73d48dcc79d5e8942ac809ce442bc60835653ca86382e7d7d1b35d9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "emacs-nox",
+        "version": "27.2",
+        "release": "8.el9_2.1",
+        "epoch": "1",
+        "arch": "ppc64le",
+        "src": "emacs-27.2-8.el9_2.1.src.rpm",
+        "filename": "emacs-nox-27.2-8.el9_2.1.ppc64le.rpm",
+        "sum": "d894c229b6df89c5d7dcae32125791b104d4ffda5fc70ac860754f3710f173bd",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "emacs-common",
         "version": "27.2",
@@ -44,18 +104,6 @@
         "src": "emacs-27.2-8.el9_2.1.src.rpm",
         "filename": "emacs-nox-27.2-8.el9_2.1.aarch64.rpm",
         "sum": "4968f1af43f60493ded61d52838274747445d73b17a1d2357349b7858b77a89c",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "emacs-filesystem",
-        "version": "27.2",
-        "release": "8.el9_2.1",
-        "epoch": "1",
-        "arch": "noarch",
-        "src": "emacs-27.2-8.el9_2.1.src.rpm",
-        "filename": "emacs-filesystem-27.2-8.el9_2.1.noarch.rpm",
-        "sum": "8132dbe410df05ce2933a36657fa82d2e5165d3d9e32b343d6ab41a08a1025bb",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -116,54 +164,6 @@
         "src": "emacs-27.2-8.el9_2.1.src.rpm",
         "filename": "emacs-27.2-8.el9_2.1.x86_64.rpm",
         "sum": "dd6ea41d9f1758c15182bcdb3b89cc7927225eb12a2190344a6005b7952fc741",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "emacs-lucid",
-        "version": "27.2",
-        "release": "8.el9_2.1",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "emacs-27.2-8.el9_2.1.src.rpm",
-        "filename": "emacs-lucid-27.2-8.el9_2.1.ppc64le.rpm",
-        "sum": "526ad5bf68b2df8f5618ad6b5b4a56f41ac7cedbedb5cf8b2fd1e02699d08d31",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "emacs",
-        "version": "27.2",
-        "release": "8.el9_2.1",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "emacs-27.2-8.el9_2.1.src.rpm",
-        "filename": "emacs-27.2-8.el9_2.1.ppc64le.rpm",
-        "sum": "c208c9d2e900eb69fe0c11199029680973c51e66c3dd032bc22562845d55f4c1",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "emacs-common",
-        "version": "27.2",
-        "release": "8.el9_2.1",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "emacs-27.2-8.el9_2.1.src.rpm",
-        "filename": "emacs-common-27.2-8.el9_2.1.ppc64le.rpm",
-        "sum": "c3ed70c6f73d48dcc79d5e8942ac809ce442bc60835653ca86382e7d7d1b35d9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "emacs-nox",
-        "version": "27.2",
-        "release": "8.el9_2.1",
-        "epoch": "1",
-        "arch": "ppc64le",
-        "src": "emacs-27.2-8.el9_2.1.src.rpm",
-        "filename": "emacs-nox-27.2-8.el9_2.1.ppc64le.rpm",
-        "sum": "d894c229b6df89c5d7dcae32125791b104d4ffda5fc70ac860754f3710f173bd",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -290,7 +290,7 @@
   "title": "Important: emacs security update",
   "type": "security",
   "updated_date": {
-    "$date": 1683845728000
+    "$date": 1683845726000
   },
   "version": "1"
 }

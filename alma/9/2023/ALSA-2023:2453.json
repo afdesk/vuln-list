@@ -8,21 +8,9 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-i686-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-i686-appstream-rpms__9_2_default",
     "packages": [
-      {
-        "name": "libtpms",
-        "version": "0.9.1",
-        "release": "3.20211126git1ff6fe1f43.el9_2",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "libtpms-0.9.1-3.20211126git1ff6fe1f43.el9_2.src.rpm",
-        "filename": "libtpms-0.9.1-3.20211126git1ff6fe1f43.el9_2.aarch64.rpm",
-        "sum": "cc01cfbe8e6d163edec7efd02491a7b542a800759d2f7333b89c56eb87dd21ad",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "libtpms",
         "version": "0.9.1",
@@ -32,6 +20,18 @@
         "src": "libtpms-0.9.1-3.20211126git1ff6fe1f43.el9_2.src.rpm",
         "filename": "libtpms-0.9.1-3.20211126git1ff6fe1f43.el9_2.i686.rpm",
         "sum": "3aa2baa955025352d8a8977fa650c161d6047dac5ad169c07715f1c1a69d2f0a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libtpms",
+        "version": "0.9.1",
+        "release": "3.20211126git1ff6fe1f43.el9_2",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "libtpms-0.9.1-3.20211126git1ff6fe1f43.el9_2.src.rpm",
+        "filename": "libtpms-0.9.1-3.20211126git1ff6fe1f43.el9_2.aarch64.rpm",
+        "sum": "cc01cfbe8e6d163edec7efd02491a7b542a800759d2f7333b89c56eb87dd21ad",
         "sum_type": 5,
         "reboot_suggested": 0
       },

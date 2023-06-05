@@ -8,9 +8,69 @@
     "$date": 1684195200000
   },
   "pkglist": {
-    "name": "almalinux-8-for-i686-baseos-rpms__8_8_default",
-    "shortname": "almalinux-8-for-i686-baseos-rpms__8_8_default",
+    "name": "almalinux-8-for-i686-powertools-rpms__8_8_default",
+    "shortname": "almalinux-8-for-i686-powertools-rpms__8_8_default",
     "packages": [
+      {
+        "name": "samba-devel",
+        "version": "4.17.5",
+        "release": "2.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "samba-4.17.5-2.el8.src.rpm",
+        "filename": "samba-devel-4.17.5-2.el8.i686.rpm",
+        "sum": "316161a0a169751c9eb01702a1e4ee5370778bda4d660055f6bae4fcf78d29cc",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libsmbclient-devel",
+        "version": "4.17.5",
+        "release": "2.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "samba-4.17.5-2.el8.src.rpm",
+        "filename": "libsmbclient-devel-4.17.5-2.el8.i686.rpm",
+        "sum": "a30101792e31ace5e80e0560dd5b84a77a5c39252ff83cc1e3aee1e119273257",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libwbclient-devel",
+        "version": "4.17.5",
+        "release": "2.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "samba-4.17.5-2.el8.src.rpm",
+        "filename": "libwbclient-devel-4.17.5-2.el8.i686.rpm",
+        "sum": "c5426eb259b1f7e709739b3257cd28388f347bf014c2e2b6f0abd262fe3d662c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libnetapi-devel",
+        "version": "4.17.5",
+        "release": "2.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "samba-4.17.5-2.el8.src.rpm",
+        "filename": "libnetapi-devel-4.17.5-2.el8.i686.rpm",
+        "sum": "ca74c9d9fdcf45f38b440260e32022ce421c22c05058bf9d66dc169654dbcc40",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "python3-samba-devel",
+        "version": "4.17.5",
+        "release": "2.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "samba-4.17.5-2.el8.src.rpm",
+        "filename": "python3-samba-devel-4.17.5-2.el8.i686.rpm",
+        "sum": "e0afffe03ef5e4e033642fa87a3e6931841e86f391c6f5aeba6ff3f72791f5a0",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "samba-common",
         "version": "4.17.5",
@@ -140,66 +200,6 @@
         "src": "samba-4.17.5-2.el8.src.rpm",
         "filename": "samba-winbind-modules-4.17.5-2.el8.i686.rpm",
         "sum": "fe84edbcc5bdb02084662eeacea4d38573f8d72bd5d223dbb19f0621a369b8ac",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "samba-devel",
-        "version": "4.17.5",
-        "release": "2.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "samba-4.17.5-2.el8.src.rpm",
-        "filename": "samba-devel-4.17.5-2.el8.i686.rpm",
-        "sum": "316161a0a169751c9eb01702a1e4ee5370778bda4d660055f6bae4fcf78d29cc",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libsmbclient-devel",
-        "version": "4.17.5",
-        "release": "2.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "samba-4.17.5-2.el8.src.rpm",
-        "filename": "libsmbclient-devel-4.17.5-2.el8.i686.rpm",
-        "sum": "a30101792e31ace5e80e0560dd5b84a77a5c39252ff83cc1e3aee1e119273257",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libwbclient-devel",
-        "version": "4.17.5",
-        "release": "2.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "samba-4.17.5-2.el8.src.rpm",
-        "filename": "libwbclient-devel-4.17.5-2.el8.i686.rpm",
-        "sum": "c5426eb259b1f7e709739b3257cd28388f347bf014c2e2b6f0abd262fe3d662c",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libnetapi-devel",
-        "version": "4.17.5",
-        "release": "2.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "samba-4.17.5-2.el8.src.rpm",
-        "filename": "libnetapi-devel-4.17.5-2.el8.i686.rpm",
-        "sum": "ca74c9d9fdcf45f38b440260e32022ce421c22c05058bf9d66dc169654dbcc40",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "python3-samba-devel",
-        "version": "4.17.5",
-        "release": "2.el8",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "samba-4.17.5-2.el8.src.rpm",
-        "filename": "python3-samba-devel-4.17.5-2.el8.i686.rpm",
-        "sum": "e0afffe03ef5e4e033642fa87a3e6931841e86f391c6f5aeba6ff3f72791f5a0",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -1296,6 +1296,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "samba-vfs-iouring",
+        "version": "4.17.5",
+        "release": "2.el8",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "samba-4.17.5-2.el8.src.rpm",
+        "filename": "samba-vfs-iouring-4.17.5-2.el8.aarch64.rpm",
+        "sum": "388a72e39fbb993cade52645e6be505cce465d89282902498cdaec045d633936",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "samba-winbind-clients",
         "version": "4.17.5",
         "release": "2.el8",
@@ -1608,6 +1620,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "samba-vfs-iouring",
+        "version": "4.17.5",
+        "release": "2.el8",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "samba-4.17.5-2.el8.src.rpm",
+        "filename": "samba-vfs-iouring-4.17.5-2.el8.s390x.rpm",
+        "sum": "8c51efc095023138dea08e79a13ccb2bed0bfa299f4e4dce6ff7e597b92d9cda",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "python3-samba-devel",
         "version": "4.17.5",
         "release": "2.el8",
@@ -1672,30 +1696,6 @@
         "version": "4.17.5",
         "release": "2.el8",
         "epoch": "0",
-        "arch": "s390x",
-        "src": "samba-4.17.5-2.el8.src.rpm",
-        "filename": "samba-vfs-iouring-4.17.5-2.el8.s390x.rpm",
-        "sum": "8c51efc095023138dea08e79a13ccb2bed0bfa299f4e4dce6ff7e597b92d9cda",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "samba-vfs-iouring",
-        "version": "4.17.5",
-        "release": "2.el8",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "samba-4.17.5-2.el8.src.rpm",
-        "filename": "samba-vfs-iouring-4.17.5-2.el8.aarch64.rpm",
-        "sum": "388a72e39fbb993cade52645e6be505cce465d89282902498cdaec045d633936",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "samba-vfs-iouring",
-        "version": "4.17.5",
-        "release": "2.el8",
-        "epoch": "0",
         "arch": "ppc64le",
         "src": "samba-4.17.5-2.el8.src.rpm",
         "filename": "samba-vfs-iouring-4.17.5-2.el8.ppc64le.rpm",
@@ -1742,7 +1742,7 @@
   "title": "Low: samba security, bug fix, and enhancement update",
   "type": "security",
   "updated_date": {
-    "$date": 1684534290000
+    "$date": 1684533753000
   },
   "version": "1"
 }
