@@ -35,11 +35,11 @@
     "PublishedAt": "2023-05-27T06:30:41Z",
     "Severity": "HIGH",
     "Summary": "bwm-ng vulnerable to command injection",
-    "UpdatedAt": "2023-05-30T20:07:25Z",
+    "UpdatedAt": "2023-06-06T17:21:42Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 8.4,
-      "VectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
+      "Score": 7.8,
+      "VectorString": "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [

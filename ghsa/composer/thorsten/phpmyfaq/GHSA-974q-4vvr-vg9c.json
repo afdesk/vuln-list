@@ -33,12 +33,12 @@
         "Value": "CVE-2023-2998"
       }
     ],
-    "Description": "Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.14.",
+    "Description": "In thorsten/phpmyfaq prior to 3.1.14, when admins create a FAQ News, they can pass xss to the \"text of the record\" section.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-31T03:30:15Z",
     "Severity": "MODERATE",
     "Summary": "thorsten/phpmyfaq vulnerable to cross-site scripting",
-    "UpdatedAt": "2023-06-02T17:13:30Z",
+    "UpdatedAt": "2023-06-06T17:22:37Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6,

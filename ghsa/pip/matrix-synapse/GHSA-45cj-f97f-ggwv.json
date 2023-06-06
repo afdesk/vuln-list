@@ -23,6 +23,9 @@
         "Url": "https://nvd.nist.gov/vuln/detail/CVE-2022-39335"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/matrix-synapse/PYSEC-2023-65.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-45cj-f97f-ggwv"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2023-05-24T17:20:43Z",
     "Severity": "MODERATE",
     "Summary": "Synapse does not apply enough checks to servers requesting auth events of events in a room",
-    "UpdatedAt": "2023-06-02T23:31:55Z",
+    "UpdatedAt": "2023-06-06T17:47:11Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5,

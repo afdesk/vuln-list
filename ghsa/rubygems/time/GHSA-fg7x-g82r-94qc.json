@@ -58,8 +58,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-03-31T06:30:15Z",
     "Severity": "HIGH",
-    "Summary": "Ruby Time component ReDos issue",
-    "UpdatedAt": "2023-05-26T21:48:44Z",
+    "Summary": "Ruby Time component ReDoS issue",
+    "UpdatedAt": "2023-06-06T17:12:34Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,

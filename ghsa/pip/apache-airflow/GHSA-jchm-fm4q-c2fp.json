@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "CRITICAL",
   "UpdatedAt": "2023-05-11T20:33:45Z",
   "Package": {
     "Ecosystem": "PIP",
@@ -26,6 +26,9 @@
         "Url": "http://www.openwall.com/lists/oss-security/2023/05/08/2"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/apache-airflow/PYSEC-2023-59.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-jchm-fm4q-c2fp"
       }
     ],
@@ -42,13 +45,13 @@
     "Description": "Privilege Context Switching Error vulnerability in Apache Software Foundation Apache Airflow. This issue affects Apache Airflow: before 2.6.0.\n\n",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-08T12:30:29Z",
-    "Severity": "MODERATE",
+    "Severity": "CRITICAL",
     "Summary": "Apache Airflow vulnerable to Privilege Context Switching Error",
-    "UpdatedAt": "2023-05-11T20:33:45Z",
+    "UpdatedAt": "2023-06-06T17:46:54Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 9.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [

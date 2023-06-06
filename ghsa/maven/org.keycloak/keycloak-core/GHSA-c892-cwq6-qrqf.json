@@ -1,5 +1,5 @@
 {
-  "Severity": "LOW",
+  "Severity": "MODERATE",
   "UpdatedAt": "2023-05-26T21:24:16Z",
   "Package": {
     "Ecosystem": "MAVEN",
@@ -36,13 +36,13 @@
     "Description": "A flaw was found in Keycloak. This flaw depends on a non-default configuration \"Revalidate Client Certificate\" to be enabled and the reverse proxy is not validating the certificate before Keycloak. Using this method an attacker may choose the certificate which will be validated by the server. If this happens and the KC_SPI_TRUSTSTORE_FILE_FILE variable is missing/misconfigured, any trustfile may be accepted with the logging information of \"Cannot validate client certificate trust: Truststore not available\". This may not impact availability as the attacker would have no access to the server, but consumer applications Integrity or Confidentiality may be impacted considering a possible access to them. Considering the environment is correctly set to use \"Revalidate Client Certificate\" this flaw is avoidable.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-26T18:30:21Z",
-    "Severity": "LOW",
+    "Severity": "MODERATE",
     "Summary": "Keycloak vulnerable to untrusted certificate validation",
-    "UpdatedAt": "2023-05-26T21:24:16Z",
+    "UpdatedAt": "2023-06-06T17:23:17Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 6.5,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N"
     }
   },
   "Versions": [

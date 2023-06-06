@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-05-26T21:10:03Z",
   "Package": {
     "Ecosystem": "MAVEN",
@@ -39,13 +39,13 @@
     "Description": "A lateral privilege escalation vulnerability in XXL-Job v2.4.1 allows users to execute arbitrary commands on another user's account via a crafted POST request to the component `/jobinfo/`.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-26T18:30:21Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "Privilege escalation in XXL-Job",
-    "UpdatedAt": "2023-05-26T21:10:03Z",
+    "UpdatedAt": "2023-06-06T17:17:55Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 8.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [
