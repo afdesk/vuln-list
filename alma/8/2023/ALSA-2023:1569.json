@@ -84,18 +84,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "gnutls",
-        "version": "3.6.16",
-        "release": "6.el8_7",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
-        "filename": "gnutls-3.6.16-6.el8_7.ppc64le.rpm",
-        "sum": "6f8a6fbacd0086cef2657dec0953764469aca65fef253b4955bc1d944c09187f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "gnutls-utils",
         "version": "3.6.16",
         "release": "6.el8_7",
@@ -148,10 +136,10 @@
         "version": "3.6.16",
         "release": "6.el8_7",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "ppc64le",
         "src": "gnutls-3.6.16-6.el8_7.src.rpm",
-        "filename": "gnutls-3.6.16-6.el8_7.s390x.rpm",
-        "sum": "f1dcefbf10358dfa12d9533df7ab0ef2ff52ea9b2b945df5bd3f4ca45a9bfb8e",
+        "filename": "gnutls-3.6.16-6.el8_7.ppc64le.rpm",
+        "sum": "6f8a6fbacd0086cef2657dec0953764469aca65fef253b4955bc1d944c09187f",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -200,6 +188,18 @@
         "src": "gnutls-3.6.16-6.el8_7.src.rpm",
         "filename": "gnutls-devel-3.6.16-6.el8_7.x86_64.rpm",
         "sum": "fe87a47554c60e4444ac4b83a6a9c9ebb79ff228ed9fa5488e16a91246b56e8d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gnutls",
+        "version": "3.6.16",
+        "release": "6.el8_7",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "gnutls-3.6.16-6.el8_7.src.rpm",
+        "filename": "gnutls-3.6.16-6.el8_7.s390x.rpm",
+        "sum": "f1dcefbf10358dfa12d9533df7ab0ef2ff52ea9b2b945df5bd3f4ca45a9bfb8e",
         "sum_type": 5,
         "reboot_suggested": 0
       },

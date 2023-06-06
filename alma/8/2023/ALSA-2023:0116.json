@@ -60,18 +60,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libtasn1",
-        "version": "4.13",
-        "release": "4.el8_7",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "libtasn1-4.13-4.el8_7.src.rpm",
-        "filename": "libtasn1-4.13-4.el8_7.ppc64le.rpm",
-        "sum": "e0a1136f3622707f413dc1bca591d8a87622d9d3cd560bdcf65107af62d48c68",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "libtasn1-devel",
         "version": "4.13",
         "release": "4.el8_7",
@@ -100,10 +88,10 @@
         "version": "4.13",
         "release": "4.el8_7",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "ppc64le",
         "src": "libtasn1-4.13-4.el8_7.src.rpm",
-        "filename": "libtasn1-4.13-4.el8_7.s390x.rpm",
-        "sum": "fbd6fb72d5bc6209835852697fbfe34596621f3715a722ba28052d3e6a7b0220",
+        "filename": "libtasn1-4.13-4.el8_7.ppc64le.rpm",
+        "sum": "e0a1136f3622707f413dc1bca591d8a87622d9d3cd560bdcf65107af62d48c68",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -128,6 +116,18 @@
         "src": "libtasn1-4.13-4.el8_7.src.rpm",
         "filename": "libtasn1-devel-4.13-4.el8_7.x86_64.rpm",
         "sum": "bfb07ef5e2f6e61345dfbee6e6f63c4ac77da16f56afd3d208ea79fd0a53dfcc",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libtasn1",
+        "version": "4.13",
+        "release": "4.el8_7",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "libtasn1-4.13-4.el8_7.src.rpm",
+        "filename": "libtasn1-4.13-4.el8_7.s390x.rpm",
+        "sum": "fbd6fb72d5bc6209835852697fbfe34596621f3715a722ba28052d3e6a7b0220",
         "sum_type": 5,
         "reboot_suggested": 0
       },

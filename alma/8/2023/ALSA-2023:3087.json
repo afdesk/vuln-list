@@ -36,18 +36,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "mecab-devel",
-        "version": "0.996",
-        "release": "2.module_el8.6.0+3340+d764b636",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "mecab-0.996-2.module_el8.6.0+3340+d764b636.src.rpm",
-        "filename": "mecab-devel-0.996-2.module_el8.6.0+3340+d764b636.ppc64le.rpm",
-        "sum": "5f0fdccc4a6fb2dc81e10b56b0030ad609bb2a3967e798db8fd5bb8543b91cce",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "mysql-devel",
         "version": "8.0.32",
         "release": "1.module_el8.8.0+3567+56a616e4",
@@ -164,6 +152,18 @@
         "src": "mecab-ipadic-2.7.0.20070801-16.module_el8.6.0+3340+d764b636.src.rpm",
         "filename": "mecab-ipadic-2.7.0.20070801-16.module_el8.6.0+3340+d764b636.aarch64.rpm",
         "sum": "fc3f77b5fcaa8e4ab1f6f41fb62a85beef210a516ce6011b0e5b577ce9ab25d3",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "mecab-devel",
+        "version": "0.996",
+        "release": "2.module_el8.6.0+3340+d764b636",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "mecab-0.996-2.module_el8.6.0+3340+d764b636.src.rpm",
+        "filename": "mecab-devel-0.996-2.module_el8.6.0+3340+d764b636.ppc64le.rpm",
+        "sum": "5f0fdccc4a6fb2dc81e10b56b0030ad609bb2a3967e798db8fd5bb8543b91cce",
         "sum_type": 5,
         "reboot_suggested": 0
       },

@@ -120,30 +120,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "bind9.16-dnssec-utils",
-        "version": "9.16.23",
-        "release": "0.9.el8.1",
-        "epoch": "32",
-        "arch": "ppc64le",
-        "src": "bind9.16-9.16.23-0.9.el8.1.src.rpm",
-        "filename": "bind9.16-dnssec-utils-9.16.23-0.9.el8.1.ppc64le.rpm",
-        "sum": "56029f74dcb9f35ae71caf041d778d40b10056951313dfe3c48ea5df3bcd09db",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "bind9.16-devel",
-        "version": "9.16.23",
-        "release": "0.9.el8.1",
-        "epoch": "32",
-        "arch": "ppc64le",
-        "src": "bind9.16-9.16.23-0.9.el8.1.src.rpm",
-        "filename": "bind9.16-devel-9.16.23-0.9.el8.1.ppc64le.rpm",
-        "sum": "b3a5ff0178721cc57c2e63553d565f3bddbaa60fd886121c50a635e4c1cdc93f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "bind9.16-libs",
         "version": "9.16.23",
         "release": "0.9.el8.1",
@@ -188,6 +164,30 @@
         "src": "bind9.16-9.16.23-0.9.el8.1.src.rpm",
         "filename": "bind9.16-utils-9.16.23-0.9.el8.1.aarch64.rpm",
         "sum": "b809bd00a9a11b7350b2fdd3980350281233cf3aafb40c28eae858ff0a2781dd",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "bind9.16-dnssec-utils",
+        "version": "9.16.23",
+        "release": "0.9.el8.1",
+        "epoch": "32",
+        "arch": "ppc64le",
+        "src": "bind9.16-9.16.23-0.9.el8.1.src.rpm",
+        "filename": "bind9.16-dnssec-utils-9.16.23-0.9.el8.1.ppc64le.rpm",
+        "sum": "56029f74dcb9f35ae71caf041d778d40b10056951313dfe3c48ea5df3bcd09db",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "bind9.16-devel",
+        "version": "9.16.23",
+        "release": "0.9.el8.1",
+        "epoch": "32",
+        "arch": "ppc64le",
+        "src": "bind9.16-9.16.23-0.9.el8.1.src.rpm",
+        "filename": "bind9.16-devel-9.16.23-0.9.el8.1.ppc64le.rpm",
+        "sum": "b3a5ff0178721cc57c2e63553d565f3bddbaa60fd886121c50a635e4c1cdc93f",
         "sum_type": 5,
         "reboot_suggested": 0
       },

@@ -8,45 +8,9 @@
     "$date": 1677542400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-ppc64le-appstream-rpms__9_1_default",
-    "shortname": "almalinux-9-for-ppc64le-appstream-rpms__9_1_default",
+    "name": "almalinux-9-for-aarch64-appstream-rpms__9_1_default",
+    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_1_default",
     "packages": [
-      {
-        "name": "vim-common",
-        "version": "8.2.2637",
-        "release": "20.el9_1",
-        "epoch": "2",
-        "arch": "ppc64le",
-        "src": "vim-8.2.2637-20.el9_1.src.rpm",
-        "filename": "vim-common-8.2.2637-20.el9_1.ppc64le.rpm",
-        "sum": "6bba2e34478e0c4b3197184fe66af122b6acb3367583a763c099f983ab3f936e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "vim-X11",
-        "version": "8.2.2637",
-        "release": "20.el9_1",
-        "epoch": "2",
-        "arch": "ppc64le",
-        "src": "vim-8.2.2637-20.el9_1.src.rpm",
-        "filename": "vim-X11-8.2.2637-20.el9_1.ppc64le.rpm",
-        "sum": "9af2403b0bc8217f32563573b9e115282440c2675d353d246a71a5fb0b03491b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "vim-enhanced",
-        "version": "8.2.2637",
-        "release": "20.el9_1",
-        "epoch": "2",
-        "arch": "ppc64le",
-        "src": "vim-8.2.2637-20.el9_1.src.rpm",
-        "filename": "vim-enhanced-8.2.2637-20.el9_1.ppc64le.rpm",
-        "sum": "d758f193bf777c447fd271695e6a2f8345b1268f09da77015a2d51d3fbd8be99",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "vim-common",
         "version": "8.2.2637",
@@ -84,14 +48,14 @@
         "reboot_suggested": 0
       },
       {
-        "name": "vim-filesystem",
+        "name": "vim-common",
         "version": "8.2.2637",
         "release": "20.el9_1",
         "epoch": "2",
-        "arch": "noarch",
+        "arch": "ppc64le",
         "src": "vim-8.2.2637-20.el9_1.src.rpm",
-        "filename": "vim-filesystem-8.2.2637-20.el9_1.noarch.rpm",
-        "sum": "99d5d7915850f5486a61fc21fd3a3963350896a289c8af304ba331b0c5577def",
+        "filename": "vim-common-8.2.2637-20.el9_1.ppc64le.rpm",
+        "sum": "6bba2e34478e0c4b3197184fe66af122b6acb3367583a763c099f983ab3f936e",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -100,10 +64,10 @@
         "version": "8.2.2637",
         "release": "20.el9_1",
         "epoch": "2",
-        "arch": "x86_64",
+        "arch": "ppc64le",
         "src": "vim-8.2.2637-20.el9_1.src.rpm",
-        "filename": "vim-X11-8.2.2637-20.el9_1.x86_64.rpm",
-        "sum": "067e1e6d81c3d4e8c67ac1ff52f8022ae2406545ff2c9c330f6483906398afe6",
+        "filename": "vim-X11-8.2.2637-20.el9_1.ppc64le.rpm",
+        "sum": "9af2403b0bc8217f32563573b9e115282440c2675d353d246a71a5fb0b03491b",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -112,22 +76,22 @@
         "version": "8.2.2637",
         "release": "20.el9_1",
         "epoch": "2",
-        "arch": "x86_64",
+        "arch": "ppc64le",
         "src": "vim-8.2.2637-20.el9_1.src.rpm",
-        "filename": "vim-enhanced-8.2.2637-20.el9_1.x86_64.rpm",
-        "sum": "1cbc6e126a9f209614e95f2a46c87a364ba3e60c581dddcc936602eeea4dbc39",
+        "filename": "vim-enhanced-8.2.2637-20.el9_1.ppc64le.rpm",
+        "sum": "d758f193bf777c447fd271695e6a2f8345b1268f09da77015a2d51d3fbd8be99",
         "sum_type": 5,
         "reboot_suggested": 0
       },
       {
-        "name": "vim-common",
+        "name": "vim-filesystem",
         "version": "8.2.2637",
         "release": "20.el9_1",
         "epoch": "2",
-        "arch": "x86_64",
+        "arch": "noarch",
         "src": "vim-8.2.2637-20.el9_1.src.rpm",
-        "filename": "vim-common-8.2.2637-20.el9_1.x86_64.rpm",
-        "sum": "5eb4eb6e6ec037cd146f3fa4b8857286b63090e1639c72cb6b07b5c1a50cc3fb",
+        "filename": "vim-filesystem-8.2.2637-20.el9_1.noarch.rpm",
+        "sum": "99d5d7915850f5486a61fc21fd3a3963350896a289c8af304ba331b0c5577def",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -168,6 +132,42 @@
         "reboot_suggested": 0
       },
       {
+        "name": "vim-X11",
+        "version": "8.2.2637",
+        "release": "20.el9_1",
+        "epoch": "2",
+        "arch": "x86_64",
+        "src": "vim-8.2.2637-20.el9_1.src.rpm",
+        "filename": "vim-X11-8.2.2637-20.el9_1.x86_64.rpm",
+        "sum": "067e1e6d81c3d4e8c67ac1ff52f8022ae2406545ff2c9c330f6483906398afe6",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "vim-enhanced",
+        "version": "8.2.2637",
+        "release": "20.el9_1",
+        "epoch": "2",
+        "arch": "x86_64",
+        "src": "vim-8.2.2637-20.el9_1.src.rpm",
+        "filename": "vim-enhanced-8.2.2637-20.el9_1.x86_64.rpm",
+        "sum": "1cbc6e126a9f209614e95f2a46c87a364ba3e60c581dddcc936602eeea4dbc39",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "vim-common",
+        "version": "8.2.2637",
+        "release": "20.el9_1",
+        "epoch": "2",
+        "arch": "x86_64",
+        "src": "vim-8.2.2637-20.el9_1.src.rpm",
+        "filename": "vim-common-8.2.2637-20.el9_1.x86_64.rpm",
+        "sum": "5eb4eb6e6ec037cd146f3fa4b8857286b63090e1639c72cb6b07b5c1a50cc3fb",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "vim-minimal",
         "version": "8.2.2637",
         "release": "20.el9_1",
@@ -184,10 +184,10 @@
         "version": "8.2.2637",
         "release": "20.el9_1",
         "epoch": "2",
-        "arch": "x86_64",
+        "arch": "aarch64",
         "src": "vim-8.2.2637-20.el9_1.src.rpm",
-        "filename": "vim-minimal-8.2.2637-20.el9_1.x86_64.rpm",
-        "sum": "36046fba11d5a5b088d03661bdcf7e4b36344d9e9a3368985a432d59d7a591ac",
+        "filename": "vim-minimal-8.2.2637-20.el9_1.aarch64.rpm",
+        "sum": "4aa42a61094ac321827967790686a6b8d3c9b482e3c6d50d1198fe325a37e349",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -196,10 +196,10 @@
         "version": "8.2.2637",
         "release": "20.el9_1",
         "epoch": "2",
-        "arch": "aarch64",
+        "arch": "x86_64",
         "src": "vim-8.2.2637-20.el9_1.src.rpm",
-        "filename": "vim-minimal-8.2.2637-20.el9_1.aarch64.rpm",
-        "sum": "4aa42a61094ac321827967790686a6b8d3c9b482e3c6d50d1198fe325a37e349",
+        "filename": "vim-minimal-8.2.2637-20.el9_1.x86_64.rpm",
+        "sum": "36046fba11d5a5b088d03661bdcf7e4b36344d9e9a3368985a432d59d7a591ac",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -254,7 +254,7 @@
   "title": "Moderate: vim security update",
   "type": "security",
   "updated_date": {
-    "$date": 1677608000000
+    "$date": 1677607999000
   },
   "version": "1"
 }

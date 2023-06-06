@@ -108,30 +108,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "bind9.16-dnssec-utils",
-        "version": "9.16.23",
-        "release": "0.7.el8_6.1",
-        "epoch": "32",
-        "arch": "ppc64le",
-        "src": "bind9.16-9.16.23-0.7.el8_6.1.src.rpm",
-        "filename": "bind9.16-dnssec-utils-9.16.23-0.7.el8_6.1.ppc64le.rpm",
-        "sum": "2ac4baeb041b85c93d119004a28229d532d850558f142fc512c7d96682a942f0",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "bind9.16-devel",
-        "version": "9.16.23",
-        "release": "0.7.el8_6.1",
-        "epoch": "32",
-        "arch": "ppc64le",
-        "src": "bind9.16-9.16.23-0.7.el8_6.1.src.rpm",
-        "filename": "bind9.16-devel-9.16.23-0.7.el8_6.1.ppc64le.rpm",
-        "sum": "e50c6dfe91467e6ef285aee184ef5f77e8b6170a700649630a708692b296f23f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "bind9.16-chroot",
         "version": "9.16.23",
         "release": "0.7.el8_6.1",
@@ -176,6 +152,30 @@
         "src": "bind9.16-9.16.23-0.7.el8_6.1.src.rpm",
         "filename": "bind9.16-9.16.23-0.7.el8_6.1.aarch64.rpm",
         "sum": "c97f94b61aeb123a9e973e7ad45874c8f23b908cf2f0319f7aa6adf1bbc822ff",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "bind9.16-dnssec-utils",
+        "version": "9.16.23",
+        "release": "0.7.el8_6.1",
+        "epoch": "32",
+        "arch": "ppc64le",
+        "src": "bind9.16-9.16.23-0.7.el8_6.1.src.rpm",
+        "filename": "bind9.16-dnssec-utils-9.16.23-0.7.el8_6.1.ppc64le.rpm",
+        "sum": "2ac4baeb041b85c93d119004a28229d532d850558f142fc512c7d96682a942f0",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "bind9.16-devel",
+        "version": "9.16.23",
+        "release": "0.7.el8_6.1",
+        "epoch": "32",
+        "arch": "ppc64le",
+        "src": "bind9.16-9.16.23-0.7.el8_6.1.src.rpm",
+        "filename": "bind9.16-devel-9.16.23-0.7.el8_6.1.ppc64le.rpm",
+        "sum": "e50c6dfe91467e6ef285aee184ef5f77e8b6170a700649630a708692b296f23f",
         "sum_type": 5,
         "reboot_suggested": 0
       },

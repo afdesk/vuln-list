@@ -36,18 +36,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "dotnet-sdk-7.0-source-built-artifacts",
-        "version": "7.0.100",
-        "release": "0.4.rc2.el8_7",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "dotnet7.0-7.0.100-0.4.rc2.el8_7.src.rpm",
-        "filename": "dotnet-sdk-7.0-source-built-artifacts-7.0.100-0.4.rc2.el8_7.ppc64le.rpm",
-        "sum": "13637f760f614213e814fc67d1681272dcfd7d9a644b3da8d296e0eb7d7d7cf3",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "dotnet-targeting-pack-7.0",
         "version": "7.0.0",
         "release": "0.4.rc2.el8_7",
@@ -176,6 +164,18 @@
         "src": "dotnet7.0-7.0.100-0.4.rc2.el8_7.src.rpm",
         "filename": "netstandard-targeting-pack-2.1-7.0.100-0.4.rc2.el8_7.aarch64.rpm",
         "sum": "c05246ac3f9a03a7f2fba85f089bc3cef60f4efaa8b8f71a549649f26ddb7a9c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dotnet-sdk-7.0-source-built-artifacts",
+        "version": "7.0.100",
+        "release": "0.4.rc2.el8_7",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "dotnet7.0-7.0.100-0.4.rc2.el8_7.src.rpm",
+        "filename": "dotnet-sdk-7.0-source-built-artifacts-7.0.100-0.4.rc2.el8_7.ppc64le.rpm",
+        "sum": "13637f760f614213e814fc67d1681272dcfd7d9a644b3da8d296e0eb7d7d7cf3",
         "sum_type": 5,
         "reboot_suggested": 0
       },

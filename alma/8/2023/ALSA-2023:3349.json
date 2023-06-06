@@ -228,6 +228,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "kernel-tools-libs-devel",
+        "version": "4.18.0",
+        "release": "477.13.1.el8_8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "kernel-4.18.0-477.13.1.el8_8.src.rpm",
+        "filename": "kernel-tools-libs-devel-4.18.0-477.13.1.el8_8.x86_64.rpm",
+        "sum": "85aba7a0a52543fe6d933fba72c821d99d61eb5d180d2e46c6055c1a9ba5484d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "kernel-debug-modules",
         "version": "4.18.0",
         "release": "477.13.1.el8_8",
@@ -416,18 +428,6 @@
         "src": "kernel-4.18.0-477.13.1.el8_8.src.rpm",
         "filename": "kernel-tools-libs-4.18.0-477.13.1.el8_8.aarch64.rpm",
         "sum": "ff301fb379f75b5cd03bd1569fa4efb12dc1e84c584f517d56b8550c5ca18ae5",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "kernel-tools-libs-devel",
-        "version": "4.18.0",
-        "release": "477.13.1.el8_8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "kernel-4.18.0-477.13.1.el8_8.src.rpm",
-        "filename": "kernel-tools-libs-devel-4.18.0-477.13.1.el8_8.x86_64.rpm",
-        "sum": "85aba7a0a52543fe6d933fba72c821d99d61eb5d180d2e46c6055c1a9ba5484d",
         "sum_type": 5,
         "reboot_suggested": 0
       },

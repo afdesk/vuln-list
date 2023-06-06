@@ -36,6 +36,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "zlib-static",
+        "version": "1.2.11",
+        "release": "19.el8_6",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "zlib-1.2.11-19.el8_6.src.rpm",
+        "filename": "zlib-static-1.2.11-19.el8_6.i686.rpm",
+        "sum": "ada217ae3d9cf92b1ca700203564acb319a869c750f6216bc95c63ce8cf22d53",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "zlib-devel",
         "version": "1.2.11",
         "release": "19.el8_6",
@@ -56,18 +68,6 @@
         "src": "zlib-1.2.11-19.el8_6.src.rpm",
         "filename": "zlib-1.2.11-19.el8_6.aarch64.rpm",
         "sum": "f0d07493dec05ced63d1dde395117bbc80a2c7ccdaa1c8c775b763a1d9e93fab",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "zlib-static",
-        "version": "1.2.11",
-        "release": "19.el8_6",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "zlib-1.2.11-19.el8_6.src.rpm",
-        "filename": "zlib-static-1.2.11-19.el8_6.i686.rpm",
-        "sum": "ada217ae3d9cf92b1ca700203564acb319a869c750f6216bc95c63ce8cf22d53",
         "sum_type": 5,
         "reboot_suggested": 0
       },

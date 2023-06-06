@@ -312,6 +312,30 @@
         "reboot_suggested": 0
       },
       {
+        "name": "openblas-threads",
+        "version": "0.3.15",
+        "release": "4.el8",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "openblas-0.3.15-4.el8.src.rpm",
+        "filename": "openblas-threads-0.3.15-4.el8.aarch64.rpm",
+        "sum": "aa65771a1d5586cee8378fc6e9a193a6d80e51a3a7ca76a54263a3b0f26f87b9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "openblas",
+        "version": "0.3.15",
+        "release": "4.el8",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "openblas-0.3.15-4.el8.src.rpm",
+        "filename": "openblas-0.3.15-4.el8.aarch64.rpm",
+        "sum": "fa943dc1569725148c337d40b2f698ba95284e25601261d743d6b07cc699af6d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "openblas-static",
         "version": "0.3.15",
         "release": "4.el8",
@@ -428,30 +452,6 @@
         "src": "openblas-0.3.15-4.el8.src.rpm",
         "filename": "openblas-openmp64_-0.3.15-4.el8.ppc64le.rpm",
         "sum": "fcb049441904dff74808799362a78cd69890cb678102035776309582fd07663b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "openblas-threads",
-        "version": "0.3.15",
-        "release": "4.el8",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "openblas-0.3.15-4.el8.src.rpm",
-        "filename": "openblas-threads-0.3.15-4.el8.aarch64.rpm",
-        "sum": "aa65771a1d5586cee8378fc6e9a193a6d80e51a3a7ca76a54263a3b0f26f87b9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "openblas",
-        "version": "0.3.15",
-        "release": "4.el8",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "openblas-0.3.15-4.el8.src.rpm",
-        "filename": "openblas-0.3.15-4.el8.aarch64.rpm",
-        "sum": "fa943dc1569725148c337d40b2f698ba95284e25601261d743d6b07cc699af6d",
         "sum_type": 5,
         "reboot_suggested": 0
       },

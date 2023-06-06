@@ -84,18 +84,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "openjpeg2-devel",
-        "version": "2.4.0",
-        "release": "5.el8",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "openjpeg2-2.4.0-5.el8.src.rpm",
-        "filename": "openjpeg2-devel-2.4.0-5.el8.ppc64le.rpm",
-        "sum": "11c91f2782132d67e4882b5035cbb79a24b38f8749ea5dc8e3202debf4669f61",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "openjpeg2",
         "version": "2.4.0",
         "release": "5.el8",
@@ -116,6 +104,18 @@
         "src": "openjpeg2-2.4.0-5.el8.src.rpm",
         "filename": "openjpeg2-tools-2.4.0-5.el8.aarch64.rpm",
         "sum": "755532af2066652b6ddf6481cdb26c29c2e1e00fceaac8ce931991e30d6c12fd",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "openjpeg2-devel",
+        "version": "2.4.0",
+        "release": "5.el8",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "openjpeg2-2.4.0-5.el8.src.rpm",
+        "filename": "openjpeg2-devel-2.4.0-5.el8.ppc64le.rpm",
+        "sum": "11c91f2782132d67e4882b5035cbb79a24b38f8749ea5dc8e3202debf4669f61",
         "sum_type": 5,
         "reboot_suggested": 0
       },

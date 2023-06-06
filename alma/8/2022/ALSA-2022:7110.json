@@ -240,6 +240,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "kernel-tools-libs-devel",
+        "version": "4.18.0",
+        "release": "372.32.1.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "kernel-4.18.0-372.32.1.el8_6.src.rpm",
+        "filename": "kernel-tools-libs-devel-4.18.0-372.32.1.el8_6.x86_64.rpm",
+        "sum": "bdb9dded3cb3c474082028232d599f3f3dddfce5fffaaf025b24dc144d5f267b",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "kernel-core",
         "version": "4.18.0",
         "release": "372.32.1.el8_6",
@@ -440,18 +452,6 @@
         "src": "kernel-4.18.0-372.32.1.el8_6.src.rpm",
         "filename": "kernel-tools-4.18.0-372.32.1.el8_6.aarch64.rpm",
         "sum": "daf9693d098f968d0f1f0badbf650784c0616b11c56259cb1704c6fb49804db1",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "kernel-tools-libs-devel",
-        "version": "4.18.0",
-        "release": "372.32.1.el8_6",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "kernel-4.18.0-372.32.1.el8_6.src.rpm",
-        "filename": "kernel-tools-libs-devel-4.18.0-372.32.1.el8_6.x86_64.rpm",
-        "sum": "bdb9dded3cb3c474082028232d599f3f3dddfce5fffaaf025b24dc144d5f267b",
         "sum_type": 5,
         "reboot_suggested": 0
       },

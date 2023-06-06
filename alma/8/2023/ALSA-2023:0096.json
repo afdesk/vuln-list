@@ -144,6 +144,30 @@
         "reboot_suggested": 0
       },
       {
+        "name": "dbus-devel",
+        "version": "1.12.8",
+        "release": "23.el8_7.1",
+        "epoch": "1",
+        "arch": "aarch64",
+        "src": "dbus-1.12.8-23.el8_7.1.src.rpm",
+        "filename": "dbus-devel-1.12.8-23.el8_7.1.aarch64.rpm",
+        "sum": "7a200895c9844666e199f49525449944ec86ff6edf686b7e5ee56d56473db4a9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dbus-x11",
+        "version": "1.12.8",
+        "release": "23.el8_7.1",
+        "epoch": "1",
+        "arch": "aarch64",
+        "src": "dbus-1.12.8-23.el8_7.1.src.rpm",
+        "filename": "dbus-x11-1.12.8-23.el8_7.1.aarch64.rpm",
+        "sum": "b0268d88f98d148d478d443dfc8170b78a8cfc44561f1066faf1a9bb11101a95",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "dbus-daemon",
         "version": "1.12.8",
         "release": "23.el8_7.1",
@@ -192,26 +216,26 @@
         "reboot_suggested": 0
       },
       {
-        "name": "dbus-devel",
-        "version": "1.12.8",
-        "release": "23.el8_7.1",
-        "epoch": "1",
-        "arch": "aarch64",
-        "src": "dbus-1.12.8-23.el8_7.1.src.rpm",
-        "filename": "dbus-devel-1.12.8-23.el8_7.1.aarch64.rpm",
-        "sum": "7a200895c9844666e199f49525449944ec86ff6edf686b7e5ee56d56473db4a9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "dbus-x11",
         "version": "1.12.8",
         "release": "23.el8_7.1",
         "epoch": "1",
-        "arch": "aarch64",
+        "arch": "x86_64",
         "src": "dbus-1.12.8-23.el8_7.1.src.rpm",
-        "filename": "dbus-x11-1.12.8-23.el8_7.1.aarch64.rpm",
-        "sum": "b0268d88f98d148d478d443dfc8170b78a8cfc44561f1066faf1a9bb11101a95",
+        "filename": "dbus-x11-1.12.8-23.el8_7.1.x86_64.rpm",
+        "sum": "b11565d732331824e9fa84464a838051cb43ccbb7a0b750cf3bf2f0de441f476",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dbus-devel",
+        "version": "1.12.8",
+        "release": "23.el8_7.1",
+        "epoch": "1",
+        "arch": "x86_64",
+        "src": "dbus-1.12.8-23.el8_7.1.src.rpm",
+        "filename": "dbus-devel-1.12.8-23.el8_7.1.x86_64.rpm",
+        "sum": "ffcccf5c65b01e651b7460d9ba71846b7d4d5c791a261936af7f01af5ac70c25",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -260,30 +284,6 @@
         "src": "dbus-1.12.8-23.el8_7.1.src.rpm",
         "filename": "dbus-libs-1.12.8-23.el8_7.1.s390x.rpm",
         "sum": "bd0a790cfb3c59e31faf8afaa9a376834dd8b07a0a94e0931473f182990acd6b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dbus-x11",
-        "version": "1.12.8",
-        "release": "23.el8_7.1",
-        "epoch": "1",
-        "arch": "x86_64",
-        "src": "dbus-1.12.8-23.el8_7.1.src.rpm",
-        "filename": "dbus-x11-1.12.8-23.el8_7.1.x86_64.rpm",
-        "sum": "b11565d732331824e9fa84464a838051cb43ccbb7a0b750cf3bf2f0de441f476",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dbus-devel",
-        "version": "1.12.8",
-        "release": "23.el8_7.1",
-        "epoch": "1",
-        "arch": "x86_64",
-        "src": "dbus-1.12.8-23.el8_7.1.src.rpm",
-        "filename": "dbus-devel-1.12.8-23.el8_7.1.x86_64.rpm",
-        "sum": "ffcccf5c65b01e651b7460d9ba71846b7d4d5c791a261936af7f01af5ac70c25",
         "sum_type": 5,
         "reboot_suggested": 0
       },
