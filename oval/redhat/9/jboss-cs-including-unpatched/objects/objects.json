@@ -1,7 +1,7 @@
 {
   "RpminfoObjects": [
     {
-      "ID": "oval:com.redhat.cve:obj:200620001001",
+      "ID": "oval:com.redhat.cve:obj:201711164001",
       "Version": "636",
       "Name": "jbcs-httpd24-httpd"
     },
@@ -53,7 +53,7 @@
   ],
   "RpmverifyfileObjects": [
     {
-      "ID": "oval:com.redhat.cve:obj:200620001002",
+      "ID": "oval:com.redhat.cve:obj:201711164002",
       "AttrVersion": "636",
       "Behaviors": {
         "Noconfigfiles": "true",

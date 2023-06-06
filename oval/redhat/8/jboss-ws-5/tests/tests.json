@@ -2027,6 +2027,18 @@
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231663001"
       }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "jws5-tomcat-native is earlier than 0:1.2.31-14.redhat_14.el8jws",
+      "ID": "oval:com.redhat.rhsa:tst:20233420001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20193929009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233420001"
+      }
     }
   ],
   "RpmverifyfileTests": [

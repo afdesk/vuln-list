@@ -8,47 +8,47 @@
     {
       "ID": "oval:com.redhat.cve:obj:20074559001",
       "Version": "636",
-      "Name": "python3"
+      "Name": "python-unversioned-command"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559002",
       "Version": "636",
-      "Name": "python3-idle"
+      "Name": "python3"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559003",
       "Version": "636",
-      "Name": "python3.9"
+      "Name": "python3-tkinter"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559004",
       "Version": "636",
-      "Name": "python-unversioned-command"
+      "Name": "python3-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559005",
       "Version": "636",
-      "Name": "python3-tkinter"
+      "Name": "python3.9"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559006",
       "Version": "636",
-      "Name": "python3-devel"
+      "Name": "python3-idle"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559007",
       "Version": "636",
-      "Name": "python3-debug"
+      "Name": "python3-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559008",
       "Version": "636",
-      "Name": "python3-libs"
+      "Name": "python3-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20074559009",
       "Version": "636",
-      "Name": "python3-test"
+      "Name": "python3-debug"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20151197001",
@@ -4981,7 +4981,7 @@
       "Name": "firefox"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202143138002",
+      "ID": "oval:com.redhat.cve:obj:202143138003",
       "Version": "636",
       "Name": "grafana"
     },
@@ -6161,12 +6161,12 @@
       "Name": "dotnet6.0-debugsource"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20223517001",
+      "ID": "oval:com.redhat.cve:obj:20223517003",
       "Version": "636",
       "Name": "python3-lib389"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20223517003",
+      "ID": "oval:com.redhat.cve:obj:20223517005",
       "Version": "636",
       "Name": "389-ds-base-libs"
     },
@@ -7196,17 +7196,17 @@
       "Name": "python3-configobj"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232650001",
+      "ID": "oval:com.redhat.cve:obj:20232650002",
       "Version": "636",
       "Name": "edk2"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232650002",
+      "ID": "oval:com.redhat.cve:obj:20232650006",
       "Version": "636",
       "Name": "edk2-tools-doc"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232650004",
+      "ID": "oval:com.redhat.cve:obj:20232650013",
       "Version": "636",
       "Name": "edk2-tools"
     },
@@ -13569,6 +13569,11 @@
       "ID": "oval:com.redhat.unaffected:obj:20223510001",
       "Version": "635",
       "Name": "protobuf-java"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20223517015",
+      "Version": "635",
+      "Name": "rust-analyzer"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20223553002",

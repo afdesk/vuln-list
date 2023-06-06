@@ -60,6 +60,11 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-28693",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-28693"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-2959",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-2959"
       },
@@ -156,6 +161,13 @@
           "Public": "20220415"
         },
         {
+          "CveID": "CVE-2022-28693",
+          "Cvss3": "4.7/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-28693",
+          "Public": "20220713"
+        },
+        {
           "CveID": "CVE-2022-2959",
           "Cvss3": "7.0/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-667-\u003eCWE-416-\u003eCWE-362",
@@ -224,6 +236,10 @@
         {
           "Href": "https://bugzilla.redhat.com/2103681",
           "ID": "2103681"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2107465",
+          "ID": "2107465"
         },
         {
           "Href": "https://bugzilla.redhat.com/2115065",
