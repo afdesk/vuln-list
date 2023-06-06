@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Oct 2017] DLA-1135-1 db - security update",
-    "Line": 7051,
+    "Line": 7054,
     "ID": "DLA-1135-1",
     "Description": "db - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-10140}",
-      "Line": 7052,
+      "Line": 7055,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-10140"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - db 5.1.29-5+deb7u1",
-      "Line": 7053,
+      "Line": 7056,
       "Type": "package",
       "Release": "wheezy",
       "Package": "db",

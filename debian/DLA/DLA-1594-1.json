@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Nov 2018] DLA-1594-1 xml-security-c - security update",
-    "Line": 5667,
+    "Line": 5670,
     "ID": "DLA-1594-1",
     "Description": "xml-security-c - security update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - xml-security-c 1.7.2-3+deb8u2",
-      "Line": 5668,
+      "Line": 5671,
       "Type": "package",
       "Release": "jessie",
       "Package": "xml-security-c",

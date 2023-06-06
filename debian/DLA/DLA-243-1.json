@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Jun 2015] DLA-243-1 libraw - security update",
-    "Line": 9767,
+    "Line": 9770,
     "ID": "DLA-243-1",
     "Description": "libraw - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-3885}",
-      "Line": 9768,
+      "Line": 9771,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-3885"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - libraw 0.9.1-1+deb6u1",
-      "Line": 9769,
+      "Line": 9772,
       "Type": "package",
       "Release": "squeeze",
       "Package": "libraw",

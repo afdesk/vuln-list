@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Sep 2014] DLA-44-1 libwpd - security update",
-    "Line": 10369,
+    "Line": 10372,
     "ID": "DLA-44-1",
     "Description": "libwpd - security update"
   },
   "Annotations": [
     {
       "Original": "[squeeze] - libwpd 0.8.14-1+deb6u1",
-      "Line": 10370,
+      "Line": 10373,
       "Type": "package",
       "Release": "squeeze",
       "Package": "libwpd",

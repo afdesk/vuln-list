@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Mar 2015] DLA-115-2 gosa - regression update",
-    "Line": 9992,
+    "Line": 9995,
     "ID": "DLA-115-2",
     "Description": "gosa - regression update"
   },
   "Annotations": [
     {
       "Original": "[squeeze] - gosa 2.6.11-3+squeeze4",
-      "Line": 9993,
+      "Line": 9996,
       "Type": "package",
       "Release": "squeeze",
       "Package": "gosa",

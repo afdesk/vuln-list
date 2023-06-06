@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Apr 2021] DLA-2617-1 php-nette - security update",
-    "Line": 2509,
+    "Line": 2512,
     "ID": "DLA-2617-1",
     "Description": "php-nette - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-15227}",
-      "Line": 2510,
+      "Line": 2513,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-15227"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - php-nette 2.4-20160731-1+deb9u1",
-      "Line": 2511,
+      "Line": 2514,
       "Type": "package",
       "Release": "stretch",
       "Package": "php-nette",

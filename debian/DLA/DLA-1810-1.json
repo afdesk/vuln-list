@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 May 2019] DLA-1810-1 tomcat7 - security update",
-    "Line": 5007,
+    "Line": 5010,
     "ID": "DLA-1810-1",
     "Description": "tomcat7 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-0221}",
-      "Line": 5008,
+      "Line": 5011,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-0221"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - tomcat7 7.0.56-3+really7.0.94-1",
-      "Line": 5009,
+      "Line": 5012,
       "Type": "package",
       "Release": "jessie",
       "Package": "tomcat7",

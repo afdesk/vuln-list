@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Nov 2021] DLA-2830-1 tar - security update",
-    "Line": 1860,
+    "Line": 1863,
     "ID": "DLA-2830-1",
     "Description": "tar - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-20482}",
-      "Line": 1861,
+      "Line": 1864,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-20482"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - tar 1.29b-1.1+deb9u1",
-      "Line": 1862,
+      "Line": 1865,
       "Type": "package",
       "Release": "stretch",
       "Package": "tar",
