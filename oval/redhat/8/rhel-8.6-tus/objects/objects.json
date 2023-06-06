@@ -13369,6 +13369,26 @@
       "ID": "oval:com.redhat.rhsa:obj:20233397003",
       "Version": "635",
       "Name": "qatzip-libs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233426001",
+      "Version": "635",
+      "Name": "cups-filters"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233426002",
+      "Version": "635",
+      "Name": "cups-filters-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233426003",
+      "Version": "635",
+      "Name": "cups-filters-libs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233431010",
+      "Version": "637",
+      "Name": "kpatch-patch-4_18_0-372_52_1"
     }
   ],
   "RpmverifyfileObjects": [
@@ -15811,6 +15831,22 @@
     {
       "ID": "oval:com.redhat.rhsa:obj:20233388027",
       "Version": "641",
+      "Filepath": {
+        "Text": "/boot/grub2/grub.cfg",
+        "Datatype": "string"
+      },
+      "Pattern": {
+        "Text": "^menuentry.*",
+        "Operation": "pattern match"
+      },
+      "Instance": {
+        "Datatype": "int",
+        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233431005",
+      "Version": "637",
       "Filepath": {
         "Text": "/boot/grub2/grub.cfg",
         "Datatype": "string"

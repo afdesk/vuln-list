@@ -434,6 +434,11 @@
       "ID": "oval:com.redhat.rhsa:obj:20233158015",
       "Version": "635",
       "Name": "python3-os-brick"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233444001",
+      "Version": "634",
+      "Name": "python3-flask"
     }
   ],
   "RpmverifyfileObjects": [

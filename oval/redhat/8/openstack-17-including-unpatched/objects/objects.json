@@ -1,11 +1,6 @@
 {
   "RpminfoObjects": [
     {
-      "ID": "oval:com.redhat.cve:obj:202128235001",
-      "Version": "636",
-      "Name": "etcd"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20213563001",
       "Version": "636",
       "Name": "openstack-keystone"
@@ -166,11 +161,6 @@
       "Name": "python3-sqlparse"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202330861001",
-      "Version": "636",
-      "Name": "python3-flask"
-    },
-    {
       "ID": "oval:com.redhat.rhsa:obj:20227238001",
       "Version": "635",
       "Name": "puppet-mysql"
@@ -221,6 +211,11 @@
       "Name": "python3-swift"
     },
     {
+      "ID": "oval:com.redhat.rhsa:obj:20231014001",
+      "Version": "634",
+      "Name": "etcd"
+    },
+    {
       "ID": "oval:com.redhat.rhsa:obj:20231016001",
       "Version": "635",
       "Name": "openstack-cinder"
@@ -254,6 +249,11 @@
       "ID": "oval:com.redhat.rhsa:obj:20233157014",
       "Version": "635",
       "Name": "python3-os-brick"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233440001",
+      "Version": "634",
+      "Name": "python3-flask"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202223491001",
@@ -458,7 +458,7 @@
   ],
   "RpmverifyfileObjects": [
     {
-      "ID": "oval:com.redhat.cve:obj:202128235002",
+      "ID": "oval:com.redhat.cve:obj:20213563003",
       "AttrVersion": "636",
       "Behaviors": {
         "Noconfigfiles": "true",

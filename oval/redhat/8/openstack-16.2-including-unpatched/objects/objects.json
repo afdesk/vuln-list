@@ -156,11 +156,6 @@
       "Name": "python3-pysaml2"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202128235001",
-      "Version": "636",
-      "Name": "etcd"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20213563001",
       "Version": "636",
       "Name": "openstack-keystone"
@@ -184,6 +179,11 @@
       "ID": "oval:com.redhat.cve:obj:202136221003",
       "Version": "636",
       "Name": "golang-golangorg-crypto-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202136221004",
+      "Version": "636",
+      "Name": "etcd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20214041001",
@@ -426,11 +426,6 @@
       "Name": "python3-sqlparse"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202330861001",
-      "Version": "636",
-      "Name": "python3-flask"
-    },
-    {
       "ID": "oval:com.redhat.rhsa:obj:20220993001",
       "Version": "634",
       "Name": "python-oslo-utils-lang"
@@ -644,6 +639,11 @@
       "ID": "oval:com.redhat.rhsa:obj:20233158015",
       "Version": "635",
       "Name": "python3-os-brick"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233444001",
+      "Version": "634",
+      "Name": "python3-flask"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202134141001",

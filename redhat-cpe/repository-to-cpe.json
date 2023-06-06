@@ -19854,7 +19854,6 @@
     "cpe:/a:redhat:rhel_aus:8.2::appstream",
     "cpe:/a:redhat:rhel_aus:8.4::appstream",
     "cpe:/a:redhat:rhel_aus:8.6::appstream",
-    "cpe:/a:redhat:rhel_aus:8.8::appstream",
     "cpe:/a:redhat:rhel_eus:8.2::appstream",
     "cpe:/a:redhat:rhel_eus:8.4::appstream",
     "cpe:/a:redhat:rhel_eus:8.6::appstream"
@@ -19868,14 +19867,10 @@
   "rhel-8-for-x86_64-appstream-aus-debug-rpms__8_DOT_6": [
     "cpe:/a:redhat:rhel_aus:8.6::appstream"
   ],
-  "rhel-8-for-x86_64-appstream-aus-debug-rpms__8_DOT_8": [
-    "cpe:/a:redhat:rhel_aus:8.8::appstream"
-  ],
   "rhel-8-for-x86_64-appstream-aus-rpms": [
     "cpe:/a:redhat:rhel_aus:8.2::appstream",
     "cpe:/a:redhat:rhel_aus:8.4::appstream",
     "cpe:/a:redhat:rhel_aus:8.6::appstream",
-    "cpe:/a:redhat:rhel_aus:8.8::appstream",
     "cpe:/a:redhat:rhel_eus:8.2::appstream",
     "cpe:/a:redhat:rhel_eus:8.4::appstream",
     "cpe:/a:redhat:rhel_eus:8.6::appstream"
@@ -19889,14 +19884,10 @@
   "rhel-8-for-x86_64-appstream-aus-rpms__8_DOT_6": [
     "cpe:/a:redhat:rhel_aus:8.6::appstream"
   ],
-  "rhel-8-for-x86_64-appstream-aus-rpms__8_DOT_8": [
-    "cpe:/a:redhat:rhel_aus:8.8::appstream"
-  ],
   "rhel-8-for-x86_64-appstream-aus-source-rpms": [
     "cpe:/a:redhat:rhel_aus:8.2::appstream",
     "cpe:/a:redhat:rhel_aus:8.4::appstream",
     "cpe:/a:redhat:rhel_aus:8.6::appstream",
-    "cpe:/a:redhat:rhel_aus:8.8::appstream",
     "cpe:/a:redhat:rhel_eus:8.2::appstream",
     "cpe:/a:redhat:rhel_eus:8.4::appstream",
     "cpe:/a:redhat:rhel_eus:8.6::appstream"
@@ -19909,9 +19900,6 @@
   ],
   "rhel-8-for-x86_64-appstream-aus-source-rpms__8_DOT_6": [
     "cpe:/a:redhat:rhel_aus:8.6::appstream"
-  ],
-  "rhel-8-for-x86_64-appstream-aus-source-rpms__8_DOT_8": [
-    "cpe:/a:redhat:rhel_aus:8.8::appstream"
   ],
   "rhel-8-for-x86_64-appstream-debug-rpms": [
     "cpe:/a:redhat:enterprise_linux:8::appstream",
@@ -20151,7 +20139,6 @@
     "cpe:/o:redhat:rhel_aus:8.2::baseos",
     "cpe:/o:redhat:rhel_aus:8.4::baseos",
     "cpe:/o:redhat:rhel_aus:8.6::baseos",
-    "cpe:/o:redhat:rhel_aus:8.8::baseos",
     "cpe:/o:redhat:rhel_eus:8.2::baseos",
     "cpe:/o:redhat:rhel_eus:8.4::baseos",
     "cpe:/o:redhat:rhel_eus:8.6::baseos"
@@ -20165,14 +20152,10 @@
   "rhel-8-for-x86_64-baseos-aus-debug-rpms__8_DOT_6": [
     "cpe:/o:redhat:rhel_aus:8.6::baseos"
   ],
-  "rhel-8-for-x86_64-baseos-aus-debug-rpms__8_DOT_8": [
-    "cpe:/o:redhat:rhel_aus:8.8::baseos"
-  ],
   "rhel-8-for-x86_64-baseos-aus-rpms": [
     "cpe:/o:redhat:rhel_aus:8.2::baseos",
     "cpe:/o:redhat:rhel_aus:8.4::baseos",
     "cpe:/o:redhat:rhel_aus:8.6::baseos",
-    "cpe:/o:redhat:rhel_aus:8.8::baseos",
     "cpe:/o:redhat:rhel_eus:8.2::baseos",
     "cpe:/o:redhat:rhel_eus:8.4::baseos",
     "cpe:/o:redhat:rhel_eus:8.6::baseos"
@@ -20186,14 +20169,10 @@
   "rhel-8-for-x86_64-baseos-aus-rpms__8_DOT_6": [
     "cpe:/o:redhat:rhel_aus:8.6::baseos"
   ],
-  "rhel-8-for-x86_64-baseos-aus-rpms__8_DOT_8": [
-    "cpe:/o:redhat:rhel_aus:8.8::baseos"
-  ],
   "rhel-8-for-x86_64-baseos-aus-source-rpms": [
     "cpe:/o:redhat:rhel_aus:8.2::baseos",
     "cpe:/o:redhat:rhel_aus:8.4::baseos",
     "cpe:/o:redhat:rhel_aus:8.6::baseos",
-    "cpe:/o:redhat:rhel_aus:8.8::baseos",
     "cpe:/o:redhat:rhel_eus:8.2::baseos",
     "cpe:/o:redhat:rhel_eus:8.4::baseos",
     "cpe:/o:redhat:rhel_eus:8.6::baseos"
@@ -20206,9 +20185,6 @@
   ],
   "rhel-8-for-x86_64-baseos-aus-source-rpms__8_DOT_6": [
     "cpe:/o:redhat:rhel_aus:8.6::baseos"
-  ],
-  "rhel-8-for-x86_64-baseos-aus-source-rpms__8_DOT_8": [
-    "cpe:/o:redhat:rhel_aus:8.8::baseos"
   ],
   "rhel-8-for-x86_64-baseos-debug-rpms": [
     "cpe:/o:redhat:enterprise_linux:8::baseos",

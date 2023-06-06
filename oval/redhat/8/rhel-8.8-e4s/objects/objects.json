@@ -13804,6 +13804,21 @@
       "ID": "oval:com.redhat.rhsa:obj:20233351002",
       "Version": "636",
       "Name": "kpatch-patch-4_18_0-477_10_1"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233425001",
+      "Version": "636",
+      "Name": "cups-filters"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233425002",
+      "Version": "636",
+      "Name": "cups-filters-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233425003",
+      "Version": "636",
+      "Name": "cups-filters-libs"
     }
   ],
   "RpmverifyfileObjects": [

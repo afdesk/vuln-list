@@ -2078,12 +2078,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "microshift-greenboot is not installed",
+      "Comment": "microshift-release-info is not installed",
       "ID": "oval:com.redhat.unaffected:tst:201817419004",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241722005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202241722024"
       },
       "State": {}
     },
@@ -2100,23 +2100,23 @@
     },
     {
       "Check": "at least one",
-      "Comment": "microshift is not installed",
+      "Comment": "microshift-greenboot is not installed",
       "ID": "oval:com.redhat.unaffected:tst:201817419008",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20223294001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202241722005"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "microshift-release-info is not installed",
+      "Comment": "microshift is not installed",
       "ID": "oval:com.redhat.unaffected:tst:201817419010",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241722024"
+        "ObjectRef": "oval:com.redhat.cve:obj:20223294001"
       },
       "State": {}
     },

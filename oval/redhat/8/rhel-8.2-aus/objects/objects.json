@@ -10344,6 +10344,16 @@
       "ID": "oval:com.redhat.rhsa:obj:20233380009",
       "Version": "637",
       "Name": "apr-util-sqlite"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233428001",
+      "Version": "635",
+      "Name": "cups-filters"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233428002",
+      "Version": "635",
+      "Name": "cups-filters-libs"
     }
   ],
   "RpmverifyfileObjects": [
