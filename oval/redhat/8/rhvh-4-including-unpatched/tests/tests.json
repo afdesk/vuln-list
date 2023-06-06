@@ -2922,7 +2922,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ovirt-openvswitch-ovn-host is installed",
+      "Comment": "ovirt-openvswitch-ovn-central is installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668001",
       "Version": "635",
       "Object": {
@@ -2932,7 +2932,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ovirt-openvswitch-ovn-host is not installed",
+      "Comment": "ovirt-openvswitch-ovn-central is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668002",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -2943,7 +2943,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ovirt-openvswitch-ipsec is installed",
+      "Comment": "ovirt-openvswitch-ovn-common is installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668003",
       "Version": "635",
       "Object": {
@@ -2953,7 +2953,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ovirt-openvswitch-ipsec is not installed",
+      "Comment": "ovirt-openvswitch-ovn-common is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668004",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -2964,7 +2964,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ovirt-openvswitch-ovn is installed",
+      "Comment": "ovirt-openvswitch is installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668005",
       "Version": "635",
       "Object": {
@@ -2974,7 +2974,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ovirt-openvswitch-ovn is not installed",
+      "Comment": "ovirt-openvswitch is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668006",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -3006,7 +3006,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ovirt-openvswitch is installed",
+      "Comment": "ovirt-python-openvswitch is installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668009",
       "Version": "635",
       "Object": {
@@ -3016,7 +3016,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ovirt-openvswitch is not installed",
+      "Comment": "ovirt-python-openvswitch is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668010",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -3027,7 +3027,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ovirt-openvswitch-ovn-common is installed",
+      "Comment": "ovirt-openvswitch-ovn is installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668011",
       "Version": "635",
       "Object": {
@@ -3037,7 +3037,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ovirt-openvswitch-ovn-common is not installed",
+      "Comment": "ovirt-openvswitch-ovn is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668012",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -3048,7 +3048,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ovirt-openvswitch-devel is installed",
+      "Comment": "ovirt-openvswitch-ipsec is installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668013",
       "Version": "635",
       "Object": {
@@ -3058,7 +3058,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ovirt-openvswitch-devel is not installed",
+      "Comment": "ovirt-openvswitch-ipsec is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668014",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -3069,7 +3069,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ovirt-openvswitch-ovn-central is installed",
+      "Comment": "ovirt-openvswitch-ovn-host is installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668015",
       "Version": "635",
       "Object": {
@@ -3079,7 +3079,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ovirt-openvswitch-ovn-central is not installed",
+      "Comment": "ovirt-openvswitch-ovn-host is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668016",
       "Version": "635",
       "CheckExistence": "none_exist",
@@ -3090,7 +3090,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ovirt-python-openvswitch is installed",
+      "Comment": "ovirt-openvswitch-devel is installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668017",
       "Version": "635",
       "Object": {
@@ -3100,7 +3100,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "ovirt-python-openvswitch is not installed",
+      "Comment": "ovirt-openvswitch-devel is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20231668018",
       "Version": "635",
       "CheckExistence": "none_exist",

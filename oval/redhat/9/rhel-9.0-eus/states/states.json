@@ -4367,6 +4367,77 @@
         "Operation": "less than"
       },
       "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233465001",
+      "Version": "641",
+      "Arch": {
+        "Text": "aarch64|ppc64le|s390x|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:5.14.0-70.58.1.el9_0",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233465003",
+      "Version": "641",
+      "Arch": {},
+      "Evr": {
+        "Text": "0:5.14.0-70.58.1.el9_0",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233465004",
+      "Version": "641",
+      "Arch": {
+        "Text": "aarch64|ppc64le|x86_64",
+        "Datatype": "string",
+        "Operation": "pattern match"
+      },
+      "Evr": {
+        "Text": "0:5.14.0-70.58.1.el9_0",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233465005",
+      "Version": "641",
+      "Arch": {
+        "Text": "s390x",
+        "Datatype": "string",
+        "Operation": "equals"
+      },
+      "Evr": {
+        "Text": "0:5.14.0-70.58.1.el9_0",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233470001",
+      "Version": "640",
+      "Arch": {
+        "Text": "x86_64",
+        "Datatype": "string",
+        "Operation": "equals"
+      },
+      "Evr": {
+        "Text": "0:5.14.0-70.58.1.rt21.129.el9_0",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
     }
   ],
   "RpmverifyfileStates": [
@@ -4536,6 +4607,14 @@
         "Text": "\\(5.14.0-70.50.2.el9_0",
         "Operation": "pattern match"
       }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233465007",
+      "Version": "641",
+      "Text": {
+        "Text": "\\(([0-4]\\.\\d+\\.\\d+-)|(5\\.([0-9]|1[0-3])\\.\\d+-)|(5\\.14\\.0-([0-9]|[1-5][0-9]|6[0-9])\\.)|(5\\.14\\.0-70\\.[^\\.]*[a-zA-Z])|(5\\.14\\.0-70\\.([0-9]|[1-4][0-9]|5[0-7])\\.)|(5\\.14\\.0-70\\.58\\.[^\\.]*[a-zA-Z])|(5\\.14\\.0-70\\.58\\.0\\.)",
+        "Operation": "pattern match"
+      }
     }
   ],
   "UnameState": [
@@ -4680,6 +4759,14 @@
       "Version": "636",
       "OsRelease": {
         "Text": "5.14.0-70.50.2.el9_0",
+        "Operation": "pattern match"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:ste:20233465006",
+      "Version": "641",
+      "OsRelease": {
+        "Text": "([0-4]\\.\\d+\\.\\d+-)|(5\\.([0-9]|1[0-3])\\.\\d+-)|(5\\.14\\.0-([0-9]|[1-5][0-9]|6[0-9])\\.)|(5\\.14\\.0-70\\.[^\\.]*[a-zA-Z])|(5\\.14\\.0-70\\.([0-9]|[1-4][0-9]|5[0-7])\\.)|(5\\.14\\.0-70\\.58\\.[^\\.]*[a-zA-Z])|(5\\.14\\.0-70\\.58\\.0\\.)",
         "Operation": "pattern match"
       }
     }

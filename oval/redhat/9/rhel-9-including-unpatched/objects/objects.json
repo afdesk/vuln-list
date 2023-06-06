@@ -3026,31 +3026,6 @@
       "Name": "pki-resteasy-core"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202122925001",
-      "Version": "636",
-      "Name": "curl"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202122925002",
-      "Version": "636",
-      "Name": "curl-minimal"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202122925003",
-      "Version": "636",
-      "Name": "libcurl-minimal"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202122925004",
-      "Version": "636",
-      "Name": "libcurl-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202122925005",
-      "Version": "636",
-      "Name": "libcurl"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202123362001",
       "Version": "636",
       "Name": "pcs-snmp"
@@ -7396,9 +7371,34 @@
       "Name": "httpd-tools"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202327533001",
+      "Version": "636",
+      "Name": "libcurl-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202327533002",
+      "Version": "636",
+      "Name": "libcurl-minimal"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202327533003",
       "Version": "636",
       "Name": "curl-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202327533004",
+      "Version": "636",
+      "Name": "curl"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202327533005",
+      "Version": "636",
+      "Name": "curl-minimal"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202327533006",
+      "Version": "636",
+      "Name": "libcurl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202328100001",

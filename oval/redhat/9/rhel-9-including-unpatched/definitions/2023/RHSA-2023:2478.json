@@ -117,7 +117,7 @@
                   },
                   {
                     "Comment": "curl is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202122925002"
+                    "TestRef": "oval:com.redhat.cve:tst:202327533008"
                   }
                 ]
               },
@@ -130,7 +130,7 @@
                   },
                   {
                     "Comment": "curl-minimal is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202122925004"
+                    "TestRef": "oval:com.redhat.cve:tst:202327533010"
                   }
                 ]
               },
@@ -143,7 +143,7 @@
                   },
                   {
                     "Comment": "libcurl is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202122925010"
+                    "TestRef": "oval:com.redhat.cve:tst:202327533012"
                   }
                 ]
               },
@@ -156,7 +156,7 @@
                   },
                   {
                     "Comment": "libcurl-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202122925008"
+                    "TestRef": "oval:com.redhat.cve:tst:202327533002"
                   }
                 ]
               },
@@ -169,7 +169,7 @@
                   },
                   {
                     "Comment": "libcurl-minimal is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202122925006"
+                    "TestRef": "oval:com.redhat.cve:tst:202327533004"
                   }
                 ]
               }
