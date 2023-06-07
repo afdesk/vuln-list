@@ -351,34 +351,29 @@
       "Name": "future"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241722003",
+      "ID": "oval:com.redhat.cve:obj:202323934001",
       "Version": "636",
-      "Name": "microshift-selinux"
+      "Name": "python-werkzeug"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241722005",
+      "ID": "oval:com.redhat.cve:obj:202324534007",
       "Version": "636",
       "Name": "microshift-greenboot"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241722019",
-      "Version": "636",
-      "Name": "conmon-rs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241722023",
-      "Version": "636",
-      "Name": "microshift-networking"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241722024",
+      "ID": "oval:com.redhat.cve:obj:202324534013",
       "Version": "636",
       "Name": "microshift-release-info"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202323934001",
+      "ID": "oval:com.redhat.cve:obj:202324534021",
       "Version": "636",
-      "Name": "python-werkzeug"
+      "Name": "microshift-selinux"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324534022",
+      "Version": "636",
+      "Name": "microshift-networking"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202328370001",

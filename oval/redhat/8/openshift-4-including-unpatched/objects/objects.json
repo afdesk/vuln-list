@@ -191,16 +191,6 @@
       "Name": "future"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241722011",
-      "Version": "636",
-      "Name": "conmon"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202241722012",
-      "Version": "636",
-      "Name": "runc"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20230836001",
       "Version": "636",
       "Name": "haproxy"
@@ -209,6 +199,16 @@
       "ID": "oval:com.redhat.cve:obj:202323934001",
       "Version": "636",
       "Name": "python-werkzeug"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324534010",
+      "Version": "636",
+      "Name": "conmon"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202325809003",
+      "Version": "636",
+      "Name": "runc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202328370001",
@@ -336,7 +336,7 @@
       "Name": "kata-containers"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202241717003",
+      "ID": "oval:com.redhat.unaffected:obj:202241720006",
       "Version": "635",
       "Name": "butane"
     },
