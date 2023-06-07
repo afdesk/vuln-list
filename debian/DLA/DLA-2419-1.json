@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Oct 2020] DLA-2419-1 dompurify.js - security update",
-    "Line": 3117,
+    "Line": 3120,
     "ID": "DLA-2419-1",
     "Description": "dompurify.js - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-16728 CVE-2020-26870}",
-      "Line": 3118,
+      "Line": 3121,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-16728",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[stretch] - dompurify.js 0.8.2~dfsg1-1+deb9u1",
-      "Line": 3119,
+      "Line": 3122,
       "Type": "package",
       "Release": "stretch",
       "Package": "dompurify.js",

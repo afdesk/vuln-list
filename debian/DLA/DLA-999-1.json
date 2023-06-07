@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Jun 2017] DLA-999-1 openvpn - security update",
-    "Line": 7468,
+    "Line": 7471,
     "ID": "DLA-999-1",
     "Description": "openvpn - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-7520}",
-      "Line": 7469,
+      "Line": 7472,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-7520"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - openvpn 2.2.1-8+deb7u5",
-      "Line": 7470,
+      "Line": 7473,
       "Type": "package",
       "Release": "wheezy",
       "Package": "openvpn",

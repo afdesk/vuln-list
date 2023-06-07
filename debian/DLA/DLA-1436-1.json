@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Jul 2018] DLA-1436-1 gosa - security update",
-    "Line": 6153,
+    "Line": 6156,
     "ID": "DLA-1436-1",
     "Description": "gosa - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-1000528}",
-      "Line": 6154,
+      "Line": 6157,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-1000528"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - gosa 2.7.4+reloaded2-1+deb8u3",
-      "Line": 6155,
+      "Line": 6158,
       "Type": "package",
       "Release": "jessie",
       "Package": "gosa",

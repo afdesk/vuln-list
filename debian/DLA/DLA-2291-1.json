@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Jul 2020] DLA-2291-1 ffmpeg - security update",
-    "Line": 3510,
+    "Line": 3513,
     "ID": "DLA-2291-1",
     "Description": "ffmpeg - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-13390 CVE-2019-17542 CVE-2020-13904}",
-      "Line": 3511,
+      "Line": 3514,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-13390",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[stretch] - ffmpeg 7:3.2.15-0+deb9u1",
-      "Line": 3512,
+      "Line": 3515,
       "Type": "package",
       "Release": "stretch",
       "Package": "ffmpeg",

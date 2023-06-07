@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Nov 2017] DLA-1157-1 openssl - security update",
-    "Line": 6990,
+    "Line": 6993,
     "ID": "DLA-1157-1",
     "Description": "openssl - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-3735}",
-      "Line": 6991,
+      "Line": 6994,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-3735"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - openssl 1.0.1t-1+deb7u3",
-      "Line": 6992,
+      "Line": 6995,
       "Type": "package",
       "Release": "wheezy",
       "Package": "openssl",
