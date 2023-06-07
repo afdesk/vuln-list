@@ -2474,7 +2474,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package openjdk8 is installed with version 1.8.0.332-1 or earlier",
+      "Comment": "Package openjdk8 is installed with version 1.8.0.332-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13074000",
       "Version": "0",
       "Object": {
@@ -2486,7 +2486,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package openjdk8 is installed with version 1.8.0.332-1 or earlier",
+      "Comment": "Package openjdk8 is installed with version 1.8.0.332-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13073000",
       "Version": "0",
       "Object": {
@@ -2726,7 +2726,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package gnupg2 is installed with version 2.2.20-3 or earlier",
+      "Comment": "Package gnupg2 is installed with version 2.2.20-4 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13001000",
       "Version": "0",
       "Object": {
@@ -4142,7 +4142,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package openjdk8 is installed with version 1.8.0.332-1 or earlier",
+      "Comment": "Package openjdk8 is installed with version 1.8.0.332-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11275000",
       "Version": "0",
       "Object": {
@@ -4154,7 +4154,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package openjdk8 is installed with version 1.8.0.332-1 or earlier",
+      "Comment": "Package openjdk8 is installed with version 1.8.0.332-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11274000",
       "Version": "0",
       "Object": {
@@ -4166,7 +4166,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package openjdk8 is installed with version 1.8.0.332-1 or earlier",
+      "Comment": "Package openjdk8 is installed with version 1.8.0.332-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11273000",
       "Version": "0",
       "Object": {
@@ -4178,7 +4178,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package openjdk8 is installed with version 1.8.0.332-1 or earlier",
+      "Comment": "Package openjdk8 is installed with version 1.8.0.332-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11272000",
       "Version": "0",
       "Object": {
@@ -6926,7 +6926,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package openjdk8 is installed with version 1.8.0.332-1 or earlier",
+      "Comment": "Package openjdk8 is installed with version 1.8.0.332-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10371000",
       "Version": "0",
       "Object": {
@@ -6974,7 +6974,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package openjdk8 is installed with version 1.8.0.332-1 or earlier",
+      "Comment": "Package openjdk8 is installed with version 1.8.0.332-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10309000",
       "Version": "0",
       "Object": {
@@ -6986,7 +6986,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package openjdk8 is installed with version 1.8.0.332-1 or earlier",
+      "Comment": "Package openjdk8 is installed with version 1.8.0.332-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10308000",
       "Version": "0",
       "Object": {
