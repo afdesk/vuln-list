@@ -1058,28 +1058,6 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-pecan is installed",
-      "ID": "oval:com.redhat.cve:tst:202240023001",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202240023001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python-pecan is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202240023002",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202240023001"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:201814041001"
-      }
-    },
-    {
-      "Check": "at least one",
       "Comment": "haproxy22 is installed",
       "ID": "oval:com.redhat.cve:tst:20230056001",
       "Version": "636",
@@ -3160,6 +3138,27 @@
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202224761001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-pecan is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202240023001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202240023001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-pecan is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:202240023002",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202240023001"
       },
       "State": {}
     }

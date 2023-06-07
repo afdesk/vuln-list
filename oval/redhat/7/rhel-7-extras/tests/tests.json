@@ -2759,6 +2759,18 @@
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20230167001"
       }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-flask is earlier than 1:0.10.1-7.el7_9",
+      "ID": "oval:com.redhat.rhsa:tst:20233525001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20200870001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233525001"
+      }
     }
   ],
   "RpmverifyfileTests": [
