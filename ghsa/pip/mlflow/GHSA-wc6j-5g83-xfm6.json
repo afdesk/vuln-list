@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2023-05-11T20:11:06Z",
+  "UpdatedAt": "2023-06-06T18:28:18Z",
   "Package": {
     "Ecosystem": "PIP",
     "Name": "mlflow"
@@ -29,6 +29,9 @@
         "Url": "https://github.com/mlflow/mlflow/commits/v2.0.0?after=00c3b0a350a28c25b16fbb7feddb8147a919ce18+69\u0026branch=v2.0.0\u0026qualified_name=refs%2Ftags%2Fv2.0.0"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/mlflow/PYSEC-2023-70.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-wc6j-5g83-xfm6"
       }
     ],
@@ -47,7 +50,7 @@
     "PublishedAt": "2023-05-11T03:30:15Z",
     "Severity": "HIGH",
     "Summary": "mflow vulnerable to directory traversal",
-    "UpdatedAt": "2023-05-22T21:31:36Z",
+    "UpdatedAt": "2023-06-06T18:28:18Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
@@ -57,9 +60,9 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": "2.0.0"
+        "Identifier": "2.0.0rc0"
       },
-      "VulnerableVersionRange": "\u003c 2.0.0"
+      "VulnerableVersionRange": "\u003c 2.0.0rc0"
     }
   ]
 }

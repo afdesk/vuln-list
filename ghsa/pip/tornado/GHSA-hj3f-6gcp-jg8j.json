@@ -23,6 +23,9 @@
         "Url": "https://github.com/tornadoweb/tornado/commit/32ad07c54e607839273b4e1819c347f5c8976b2f"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/tornado/PYSEC-2023-75.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-hj3f-6gcp-jg8j"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2023-05-25T12:30:16Z",
     "Severity": "MODERATE",
     "Summary": "Open redirect in Tornado",
-    "UpdatedAt": "2023-05-26T21:17:00Z",
+    "UpdatedAt": "2023-06-06T18:31:27Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.1,

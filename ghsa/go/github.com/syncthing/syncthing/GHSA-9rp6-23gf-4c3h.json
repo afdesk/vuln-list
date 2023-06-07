@@ -20,6 +20,12 @@
         "Url": "https://github.com/syncthing/syncthing/releases/tag/v1.23.5"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2022-46165"
+      },
+      {
+        "Url": "https://github.com/syncthing/syncthing/commit/73c52eafb6566435dffd979c3c49562b6d5a4238"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-9rp6-23gf-4c3h"
       }
     ],
@@ -38,11 +44,11 @@
     "PublishedAt": "2023-06-06T16:39:57Z",
     "Severity": "MODERATE",
     "Summary": "syncthing vulnerable to Cross-site Scripting (XSS) in Web GUI",
-    "UpdatedAt": "2023-06-06T16:39:57Z",
+    "UpdatedAt": "2023-06-06T18:50:30Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 4.6,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:L/I:L/A:N"
     }
   },
   "Versions": [
