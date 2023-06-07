@@ -1,5 +1,5 @@
 {
-  "Severity": "HIGH",
+  "Severity": "MODERATE",
   "UpdatedAt": "2023-06-01T19:11:23Z",
   "Package": {
     "Ecosystem": "COMPOSER",
@@ -36,13 +36,13 @@
     "Description": "Cross-site Scripting (XSS) - Stored in GitHub repository nilsteampassnet/teampass prior to 3.0.9. This  enables an attacker to inject malicious code into a shared folder, which can then be executed by other users who have access to the folder. ",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-31T15:30:18Z",
-    "Severity": "HIGH",
+    "Severity": "MODERATE",
     "Summary": "nilsteampassnet/teampass vulnerable to cross-site scripting ",
-    "UpdatedAt": "2023-06-01T19:11:23Z",
+    "UpdatedAt": "2023-06-07T13:52:39Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 8.1,
-      "VectorString": "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N"
+      "Score": 5.4,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [

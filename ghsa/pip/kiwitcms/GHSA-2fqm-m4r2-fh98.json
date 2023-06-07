@@ -29,6 +29,9 @@
         "Url": "https://kiwitcms.org/blog/kiwi-tcms-team/2023/06/06/kiwi-tcms-124/"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2023-33977"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-2fqm-m4r2-fh98"
       }
     ],
@@ -47,7 +50,7 @@
     "PublishedAt": "2023-06-06T16:46:16Z",
     "Severity": "HIGH",
     "Summary": "kiwitcms vulnerable to stored cross-site scripting via unrestricted file upload",
-    "UpdatedAt": "2023-06-06T16:46:18Z",
+    "UpdatedAt": "2023-06-07T13:51:38Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.1,

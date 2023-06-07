@@ -20,6 +20,9 @@
         "Url": "https://github.com/notaryproject/notation/releases/tag/v1.0.0-rc.6"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2023-33957"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-9m3v-v4r5-ppx7"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2023-06-06T16:43:01Z",
     "Severity": "LOW",
     "Summary": "Notation vulnerable to denial of service from high number of artifact signatures",
-    "UpdatedAt": "2023-06-06T16:43:02Z",
+    "UpdatedAt": "2023-06-07T13:50:36Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 2.6,
