@@ -1187,6 +1187,18 @@
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231677001"
       }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "redhat-virtualization-host-image-update is earlier than 0:4.5.3-202306050942_8.6",
+      "ID": "oval:com.redhat.rhsa:tst:20233491001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20204172001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233491001"
+      }
     }
   ],
   "RpmverifyfileTests": [

@@ -35,6 +35,11 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2023-23919",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2023-23919"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2023-23920",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2023-23920"
       },
@@ -86,6 +91,13 @@
           "Public": "20230216"
         },
         {
+          "CveID": "CVE-2023-23919",
+          "Cvss3": "7.5/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2023-23919",
+          "Public": "20230216"
+        },
+        {
           "CveID": "CVE-2023-23920",
           "Cvss3": "4.2/CVSS:3.1/AV:L/AC:L/PR:H/UI:R/S:U/C:N/I:H/A:N",
           "Cwe": "CWE-426",
@@ -122,6 +134,10 @@
         {
           "Href": "https://bugzilla.redhat.com/2171935",
           "ID": "2171935"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2172170",
+          "ID": "2172170"
         },
         {
           "Href": "https://bugzilla.redhat.com/2172190",

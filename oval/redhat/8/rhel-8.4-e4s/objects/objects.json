@@ -12224,6 +12224,16 @@
       "ID": "oval:com.redhat.rhsa:obj:20233427003",
       "Version": "635",
       "Name": "cups-filters-libs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233517009",
+      "Version": "636",
+      "Name": "kpatch-patch-4_18_0-305_86_2"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233517010",
+      "Version": "636",
+      "Name": "kpatch-patch-4_18_0-305_88_1"
     }
   ],
   "RpmverifyfileObjects": [
@@ -14634,6 +14644,22 @@
     {
       "ID": "oval:com.redhat.rhsa:obj:20233462015",
       "Version": "639",
+      "Filepath": {
+        "Text": "/boot/grub2/grub.cfg",
+        "Datatype": "string"
+      },
+      "Pattern": {
+        "Text": "^menuentry.*",
+        "Operation": "pattern match"
+      },
+      "Instance": {
+        "Datatype": "int",
+        "VarRef": "oval:com.redhat.rhsa:var:20191167001"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233517005",
+      "Version": "636",
       "Filepath": {
         "Text": "/boot/grub2/grub.cfg",
         "Datatype": "string"
