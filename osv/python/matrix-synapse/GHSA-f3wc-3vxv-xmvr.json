@@ -1,6 +1,6 @@
 {
   "id": "GHSA-f3wc-3vxv-xmvr",
-  "modified": "2023-05-26T18:20:28.669509Z",
+  "modified": "2023-06-06T17:19:45.751404Z",
   "published": "2023-05-24T17:28:26Z",
   "aliases": [
     "CVE-2023-32323"
@@ -351,6 +351,10 @@
     {
       "type": "PACKAGE",
       "url": "https://github.com/matrix-org/synapse"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/pypa/advisory-database/tree/main/vulns/matrix-synapse/PYSEC-2023-67.yaml"
     }
   ]
 }

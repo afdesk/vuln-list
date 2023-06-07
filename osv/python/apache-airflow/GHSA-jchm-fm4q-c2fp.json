@@ -1,6 +1,6 @@
 {
   "id": "GHSA-jchm-fm4q-c2fp",
-  "modified": "2023-05-11T20:47:10.106608Z",
+  "modified": "2023-06-06T18:02:58.368259Z",
   "published": "2023-05-08T12:30:29Z",
   "aliases": [
     "CVE-2023-25754"
@@ -197,6 +197,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/apache/airflow/releases/tag/2.6.0"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/pypa/advisory-database/tree/main/vulns/apache-airflow/PYSEC-2023-59.yaml"
     },
     {
       "type": "WEB",

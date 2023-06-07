@@ -1,6 +1,6 @@
 {
   "id": "GHSA-vxmm-cwh2-q762",
-  "modified": "2023-05-22T20:48:05.738673Z",
+  "modified": "2023-06-06T18:48:06.300737Z",
   "published": "2023-05-22T20:35:46Z",
   "aliases": [
     "CVE-2023-32675"
@@ -91,6 +91,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/vyperlang/vyper/commit/903727006c1e5ebef99fa9fd5d51d62bd33d72a9"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/pypa/advisory-database/tree/main/vulns/vyper/PYSEC-2023-80.yaml"
     },
     {
       "type": "PACKAGE",
