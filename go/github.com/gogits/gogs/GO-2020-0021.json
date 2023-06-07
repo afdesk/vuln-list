@@ -2,12 +2,12 @@
   "module": "github.com/gogits/gogs",
   "id": "GO-2020-0021",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-05-18T20:38:56Z",
+  "modified": "2023-06-07T14:33:03Z",
   "aliases": [
     "CVE-2014-8681",
     "GHSA-mr6h-chqp-p9g2"
   ],
-  "details": "Due to improper santization of user input, a number of methods are vulnerable to SQL injection if used with user input that has not been santized by the caller.",
+  "details": "Due to improper sanitization of user input, a number of methods are vulnerable to SQL injection if used with user input that has not been sanitized by the caller.",
   "affected": [
     {
       "package": {

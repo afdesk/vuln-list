@@ -2,12 +2,12 @@
   "module": "github.com/gin-gonic/gin",
   "id": "GO-2021-0052",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-07T14:33:03Z",
   "aliases": [
     "CVE-2020-28483",
     "GHSA-h395-qcrw-5vmq"
   ],
-  "details": "Due to improper HTTP header santization, a malicious user can spoof their source IP address by setting the X-Forwarded-For header. This may allow a user to bypass IP based restrictions, or obfuscate their true source.",
+  "details": "Due to improper HTTP header sanitization, a malicious user can spoof their source IP address by setting the X-Forwarded-For header. This may allow a user to bypass IP based restrictions, or obfuscate their true source.",
   "affected": [
     {
       "package": {
