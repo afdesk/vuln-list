@@ -116,6 +116,11 @@
       "Name": "codehaus-plexus"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202245693001",
+      "Version": "636",
+      "Name": "jettison"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20230482001",
       "Version": "636",
       "Name": "RESTEasy"
@@ -289,11 +294,6 @@
       "ID": "oval:com.redhat.unaffected:obj:202237865001",
       "Version": "635",
       "Name": "apache-ivy"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202240149001",
-      "Version": "635",
-      "Name": "jettison"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202240152001",
