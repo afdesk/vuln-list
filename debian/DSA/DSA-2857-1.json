@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Feb 2014] DSA-2857-1 libspring-java - several",
-    "Line": 8602,
+    "Line": 8606,
     "ID": "DSA-2857-1",
     "Description": "libspring-java - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-6429 CVE-2013-6430}",
-      "Line": 8603,
+      "Line": 8607,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-6429",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[wheezy] - libspring-java 3.0.6.RELEASE-6+deb7u2",
-      "Line": 8604,
+      "Line": 8608,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libspring-java",

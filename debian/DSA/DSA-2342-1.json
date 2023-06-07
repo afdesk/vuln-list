@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Nov 2011] DSA-2342-1 iceape - several",
-    "Line": 10340,
+    "Line": 10344,
     "ID": "DSA-2342-1",
     "Description": "iceape - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2011-3647 CVE-2011-3648 CVE-2011-3650}",
-      "Line": 10341,
+      "Line": 10345,
       "Type": "xref",
       "Bugs": [
         "CVE-2011-3647",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[squeeze] - iceape 2.0.11-9",
-      "Line": 10342,
+      "Line": 10346,
       "Type": "package",
       "Release": "squeeze",
       "Package": "iceape",

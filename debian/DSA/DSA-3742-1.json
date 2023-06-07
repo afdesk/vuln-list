@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Dec 2016] DSA-3742-1 flightgear - security update",
-    "Line": 5622,
+    "Line": 5626,
     "ID": "DSA-3742-1",
     "Description": "flightgear - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-9956}",
-      "Line": 5623,
+      "Line": 5627,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-9956"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - flightgear 3.0.0-5+deb8u1",
-      "Line": 5624,
+      "Line": 5628,
       "Type": "package",
       "Release": "jessie",
       "Package": "flightgear",

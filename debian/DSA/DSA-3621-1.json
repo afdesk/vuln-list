@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Jul 2016] DSA-3621-1 mysql-connector-java - security update",
-    "Line": 5995,
+    "Line": 5999,
     "ID": "DSA-3621-1",
     "Description": "mysql-connector-java - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-2575}",
-      "Line": 5996,
+      "Line": 6000,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-2575"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - mysql-connector-java 5.1.39-1~deb8u1",
-      "Line": 5997,
+      "Line": 6001,
       "Type": "package",
       "Release": "jessie",
       "Package": "mysql-connector-java",

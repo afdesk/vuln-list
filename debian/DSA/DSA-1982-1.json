@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Jan 2010] DSA-1982-1 hybserv - denial of service",
-    "Line": 11545,
+    "Line": 11549,
     "ID": "DSA-1982-1",
     "Description": "hybserv - denial of service"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-0303}",
-      "Line": 11546,
+      "Line": 11550,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-0303"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - hybserv 1.9.2-4+etch1",
-      "Line": 11547,
+      "Line": 11551,
       "Type": "package",
       "Release": "etch",
       "Package": "hybserv",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[lenny] - hybserv 1.9.2-4+lenny2",
-      "Line": 11548,
+      "Line": 11552,
       "Type": "package",
       "Release": "lenny",
       "Package": "hybserv",
