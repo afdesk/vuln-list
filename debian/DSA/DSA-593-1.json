@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Nov 2004] DSA-593-1 imagemagick - buffer overflow",
-    "Line": 16799,
+    "Line": 16802,
     "ID": "DSA-593-1",
     "Description": "imagemagick - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0981}",
-      "Line": 16800,
+      "Line": 16803,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0981"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - imagemagick 5.4.4.5-1woody4",
-      "Line": 16801,
+      "Line": 16804,
       "Type": "package",
       "Release": "woody",
       "Package": "imagemagick",

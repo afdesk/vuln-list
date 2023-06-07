@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Aug 2013] DSA-2744-1 tiff - several",
-    "Line": 9006,
+    "Line": 9009,
     "ID": "DSA-2744-1",
     "Description": "tiff - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-4231 CVE-2013-4232 CVE-2013-4244}",
-      "Line": 9007,
+      "Line": 9010,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-4231",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[squeeze] - tiff 3.9.4-5+squeeze10",
-      "Line": 9008,
+      "Line": 9011,
       "Type": "package",
       "Release": "squeeze",
       "Package": "tiff",
@@ -27,7 +27,7 @@
     },
     {
       "Original": "[wheezy] - tiff 4.0.2-6+deb7u2",
-      "Line": 9009,
+      "Line": 9012,
       "Type": "package",
       "Release": "wheezy",
       "Package": "tiff",

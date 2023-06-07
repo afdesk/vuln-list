@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Dec 2002] DSA-205 gtetrinet - buffer overflow",
-    "Line": 18040,
+    "Line": 18043,
     "ID": "DSA-205",
     "Description": "gtetrinet - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "[woody] - gtetrinet 0.4.1-9woody1.1",
-      "Line": 18041,
+      "Line": 18044,
       "Type": "package",
       "Release": "woody",
       "Package": "gtetrinet",

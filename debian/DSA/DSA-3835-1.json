@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Apr 2017] DSA-3835-1 python-django - security update",
-    "Line": 5319,
+    "Line": 5322,
     "ID": "DSA-3835-1",
     "Description": "python-django - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-9013 CVE-2016-9014 CVE-2017-7233 CVE-2017-7234}",
-      "Line": 5320,
+      "Line": 5323,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-9013",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[jessie] - python-django 1.7.11-1+deb8u2",
-      "Line": 5321,
+      "Line": 5324,
       "Type": "package",
       "Release": "jessie",
       "Package": "python-django",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Jul 2005] DSA-759-1 phppgadmin - missing input sanitising",
-    "Line": 16122,
+    "Line": 16125,
     "ID": "DSA-759-1",
     "Description": "phppgadmin - missing input sanitising"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2256}",
-      "Line": 16123,
+      "Line": 16126,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2256"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - phppgadmin \u003cnot-affected\u003e (not affected according to the DSA)",
-      "Line": 16124,
+      "Line": 16127,
       "Type": "package",
       "Release": "woody",
       "Package": "phppgadmin",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[sarge] - phppgadmin 3.5.2-5 (medium)",
-      "Line": 16125,
+      "Line": 16128,
       "Type": "package",
       "Release": "sarge",
       "Package": "phppgadmin",
@@ -35,7 +35,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA (only 0/10 days old)",
-      "Line": 16126,
+      "Line": 16129,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA (only 0/10 days old)"
     }

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Sep 2019] DSA-4524-1 dino-im - security update",
-    "Line": 2970,
+    "Line": 2973,
     "ID": "DSA-4524-1",
     "Description": "dino-im - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-16235 CVE-2019-16236 CVE-2019-16237}",
-      "Line": 2971,
+      "Line": 2974,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-16235",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[buster] - dino-im 0.0.git20181129-1+deb10u1",
-      "Line": 2972,
+      "Line": 2975,
       "Type": "package",
       "Release": "buster",
       "Package": "dino-im",

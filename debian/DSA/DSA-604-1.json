@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Dec 2004] DSA-604-1 hpsockd - missing input sanitising",
-    "Line": 16767,
+    "Line": 16770,
     "ID": "DSA-604-1",
     "Description": "hpsockd - missing input sanitising"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0993}",
-      "Line": 16768,
+      "Line": 16771,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0993"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - hpsockd 0.6.woody1",
-      "Line": 16769,
+      "Line": 16772,
       "Type": "package",
       "Release": "woody",
       "Package": "hpsockd",
