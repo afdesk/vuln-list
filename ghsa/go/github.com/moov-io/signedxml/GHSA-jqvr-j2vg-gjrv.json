@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "CRITICAL",
   "UpdatedAt": "2023-06-06T01:39:24Z",
   "Package": {
     "Ecosystem": "GO",
@@ -39,13 +39,13 @@
     "Description": "In Moov signedxml through 1.0.0, parsing the raw XML (as received) can result in different output than parsing the canonicalized XML. Thus, signature validation can be bypassed via a Signature Wrapping attack (aka XSW).",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-30T06:30:25Z",
-    "Severity": "MODERATE",
+    "Severity": "CRITICAL",
     "Summary": "Moov signedxml vulnerable to signature wrapping attack",
-    "UpdatedAt": "2023-06-06T01:39:24Z",
+    "UpdatedAt": "2023-06-07T20:56:32Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 9.1,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N"
     }
   },
   "Versions": [
