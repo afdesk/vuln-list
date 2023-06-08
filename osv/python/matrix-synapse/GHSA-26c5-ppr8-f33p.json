@@ -1,6 +1,6 @@
 {
   "id": "GHSA-26c5-ppr8-f33p",
-  "modified": "2023-06-06T16:47:11.927748Z",
+  "modified": "2023-06-07T14:20:21.164734Z",
   "published": "2023-06-06T16:40:42Z",
   "aliases": [
     "CVE-2023-32682"
@@ -367,6 +367,10 @@
       "url": "https://github.com/matrix-org/synapse/security/advisories/GHSA-26c5-ppr8-f33p"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-32682"
+    },
+    {
       "type": "WEB",
       "url": "https://github.com/matrix-org/synapse/issues/12274"
     },
@@ -385,6 +389,18 @@
     {
       "type": "WEB",
       "url": "https://github.com/matrix-org/synapse/releases/tag/v1.85.0"
+    },
+    {
+      "type": "WEB",
+      "url": "https://matrix-org.github.io/synapse/latest/admin_api/user_admin_api.html#create-or-modify-account"
+    },
+    {
+      "type": "WEB",
+      "url": "https://matrix-org.github.io/synapse/latest/jwt.html"
+    },
+    {
+      "type": "WEB",
+      "url": "https://matrix-org.github.io/synapse/latest/usage/configuration/config_documentation.html#password_config"
     }
   ]
 }

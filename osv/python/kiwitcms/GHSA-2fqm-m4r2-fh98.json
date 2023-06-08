@@ -1,6 +1,6 @@
 {
   "id": "GHSA-2fqm-m4r2-fh98",
-  "modified": "2023-06-06T17:01:05.417542Z",
+  "modified": "2023-06-07T14:18:12.977576Z",
   "published": "2023-06-06T16:46:16Z",
   "aliases": [
     "CVE-2023-33977"
@@ -92,6 +92,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/kiwitcms/Kiwi/security/advisories/GHSA-2fqm-m4r2-fh98"
+    },
+    {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-33977"
     },
     {
       "type": "WEB",
