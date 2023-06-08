@@ -772,6 +772,270 @@
     },
     {
       "Check": "at least one",
+      "Comment": "ovn2.13-central is installed",
+      "ID": "oval:com.redhat.cve:tst:20233153001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.13-central is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20233153002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20158011001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.11-host is installed",
+      "ID": "oval:com.redhat.cve:tst:20233153003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.11-host is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20233153004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20158011001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.12-central is installed",
+      "ID": "oval:com.redhat.cve:tst:20233153005",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.12-central is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20233153006",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20158011001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.12-host is installed",
+      "ID": "oval:com.redhat.cve:tst:20233153007",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.12-host is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20233153008",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20158011001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.13 is installed",
+      "ID": "oval:com.redhat.cve:tst:20233153009",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153005"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.13 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20233153010",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20158011001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.13-host is installed",
+      "ID": "oval:com.redhat.cve:tst:20233153011",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153006"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.13-host is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20233153012",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20158011001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.11 is installed",
+      "ID": "oval:com.redhat.cve:tst:20233153013",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153007"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.11 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20233153014",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20158011001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.12 is installed",
+      "ID": "oval:com.redhat.cve:tst:20233153015",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153008"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.12 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20233153016",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20158011001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.13-vtep is installed",
+      "ID": "oval:com.redhat.cve:tst:20233153017",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153009"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.13-vtep is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20233153018",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20158011001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.11-vtep is installed",
+      "ID": "oval:com.redhat.cve:tst:20233153019",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153010"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.11-vtep is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20233153020",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20158011001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.11-central is installed",
+      "ID": "oval:com.redhat.cve:tst:20233153021",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153011"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.11-central is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20233153022",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20158011001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.12-vtep is installed",
+      "ID": "oval:com.redhat.cve:tst:20233153023",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153012"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "ovn2.12-vtep is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:20233153024",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20233153012"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20158011001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "openvswitch2.13 is earlier than 0:2.13.0-62.el7fdp",
       "ID": "oval:com.redhat.rhba:tst:20205306001",
       "Version": "635",

@@ -1236,6 +1236,26 @@
       "Name": "tomcat"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20233153001",
+      "Version": "636",
+      "Name": "ovn2.11-vtep"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20233153002",
+      "Version": "636",
+      "Name": "ovn2.11-host"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20233153003",
+      "Version": "636",
+      "Name": "ovn2.11-central"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20233153004",
+      "Version": "636",
+      "Name": "ovn2.11"
+    },
+    {
       "ID": "oval:com.redhat.rhba:obj:20190448001",
       "Version": "635",
       "Name": "puppet-swift"
@@ -1654,26 +1674,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20200754001",
       "Version": "634",
       "Name": "novnc"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20210931005",
-      "Version": "636",
-      "Name": "ovn2.11"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20210931006",
-      "Version": "636",
-      "Name": "ovn2.11-central"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20210931007",
-      "Version": "636",
-      "Name": "ovn2.11-host"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20210931008",
-      "Version": "636",
-      "Name": "ovn2.11-vtep"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20210931009",

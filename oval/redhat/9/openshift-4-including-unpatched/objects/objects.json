@@ -391,6 +391,46 @@
       "Name": "python-flask"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20233153001",
+      "Version": "636",
+      "Name": "ovn23.03-central"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20233153002",
+      "Version": "636",
+      "Name": "ovn23.03-host"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20233153003",
+      "Version": "636",
+      "Name": "ovn23.03"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20233153004",
+      "Version": "636",
+      "Name": "ovn22.12"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20233153005",
+      "Version": "636",
+      "Name": "ovn22.12-vtep"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20233153006",
+      "Version": "636",
+      "Name": "ovn23.03-vtep"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20233153007",
+      "Version": "636",
+      "Name": "ovn22.12-central"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20233153008",
+      "Version": "636",
+      "Name": "ovn22.12-host"
+    },
+    {
       "ID": "oval:com.redhat.unaffected:obj:201911360001",
       "Version": "635",
       "Name": "iptables"
@@ -428,27 +468,27 @@
     {
       "ID": "oval:com.redhat.unaffected:obj:20231668001",
       "Version": "635",
-      "Name": "openvswitch3.1-devel"
+      "Name": "openvswitch3.1-test"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20231668002",
       "Version": "635",
-      "Name": "openvswitch3.1"
+      "Name": "openvswitch3.1-ipsec"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20231668003",
       "Version": "635",
-      "Name": "python3-openvswitch3.1"
+      "Name": "openvswitch3.1"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20231668004",
       "Version": "635",
-      "Name": "openvswitch3.1-test"
+      "Name": "python3-openvswitch3.1"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20231668005",
       "Version": "635",
-      "Name": "openvswitch3.1-ipsec"
+      "Name": "openvswitch3.1-devel"
     }
   ],
   "RpmverifyfileObjects": [
