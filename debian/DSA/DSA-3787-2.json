@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Feb 2017] DSA-3787-2 tomcat7 - regression update",
-    "Line": 5474,
+    "Line": 5477,
     "ID": "DSA-3787-2",
     "Description": "tomcat7 - regression update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - tomcat7 7.0.56-3+deb8u9",
-      "Line": 5475,
+      "Line": 5478,
       "Type": "package",
       "Release": "jessie",
       "Package": "tomcat7",

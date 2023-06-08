@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Jun 2015] DSA-3249-2 jqueryui - security update",
-    "Line": 7240,
+    "Line": 7243,
     "ID": "DSA-3249-2",
     "Description": "jqueryui - security update"
   },
   "Annotations": [
     {
       "Original": "[wheezy] - jqueryui 1.8.ooops.21+dfsg-2+deb7u2",
-      "Line": 7241,
+      "Line": 7244,
       "Type": "package",
       "Release": "wheezy",
       "Package": "jqueryui",

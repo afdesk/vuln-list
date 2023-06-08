@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 Jun 2022] DSA-5164-1 exo - security update",
-    "Line": 794,
+    "Line": 797,
     "ID": "DSA-5164-1",
     "Description": "exo - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-32278}",
-      "Line": 795,
+      "Line": 798,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-32278"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - exo 0.12.4-1+deb10u1",
-      "Line": 796,
+      "Line": 799,
       "Type": "package",
       "Release": "buster",
       "Package": "exo",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[bullseye] - exo 4.16.0-1+deb11u1",
-      "Line": 797,
+      "Line": 800,
       "Type": "package",
       "Release": "bullseye",
       "Package": "exo",

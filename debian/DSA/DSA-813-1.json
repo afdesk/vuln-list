@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Sep 2005] DSA-813-1 centericq - several",
-    "Line": 15878,
+    "Line": 15881,
     "ID": "DSA-813-1",
     "Description": "centericq - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2369 CVE-2005-2370 CVE-2005-2448}",
-      "Line": 15879,
+      "Line": 15882,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2369",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[woody] - centericq \u003cnot-affected\u003e (according to DSA)",
-      "Line": 15880,
+      "Line": 15883,
       "Type": "package",
       "Release": "woody",
       "Package": "centericq",
@@ -27,7 +27,7 @@
     },
     {
       "Original": "[sarge] - centericq 4.20.0-1sarge2",
-      "Line": 15881,
+      "Line": 15884,
       "Type": "package",
       "Release": "sarge",
       "Package": "centericq",
@@ -36,7 +36,7 @@
     },
     {
       "Original": "NOTE: fixed in testing in time of DSA",
-      "Line": 15882,
+      "Line": 15885,
       "Type": "NOTE",
       "Description": "fixed in testing in time of DSA"
     }

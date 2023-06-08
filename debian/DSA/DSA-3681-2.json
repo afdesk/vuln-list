@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Oct 2016] DSA-3681-2 wordpress - regression update",
-    "Line": 5809,
+    "Line": 5812,
     "ID": "DSA-3681-2",
     "Description": "wordpress - regression update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - wordpress 4.1+dfsg-1+deb8u11",
-      "Line": 5810,
+      "Line": 5813,
       "Type": "package",
       "Release": "jessie",
       "Package": "wordpress",

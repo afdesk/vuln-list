@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Jan 2010] DSA-1976-1 dokuwiki - several vulnerabilities",
-    "Line": 11578,
+    "Line": 11581,
     "ID": "DSA-1976-1",
     "Description": "dokuwiki - several vulnerabilities"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-0287 CVE-2010-0288 CVE-2010-0289}",
-      "Line": 11579,
+      "Line": 11582,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-0287",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[lenny] - dokuwiki 0.0.20080505-4+lenny1",
-      "Line": 11580,
+      "Line": 11583,
       "Type": "package",
       "Release": "lenny",
       "Package": "dokuwiki",
