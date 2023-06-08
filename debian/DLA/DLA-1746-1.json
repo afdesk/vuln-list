@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Apr 2019] DLA-1746-1 drupal7 - security update",
-    "Line": 5218,
+    "Line": 5221,
     "ID": "DLA-1746-1",
     "Description": "drupal7 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-6341}",
-      "Line": 5219,
+      "Line": 5222,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-6341"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - drupal7 7.32-1+deb8u16",
-      "Line": 5220,
+      "Line": 5223,
       "Type": "package",
       "Release": "jessie",
       "Package": "drupal7",

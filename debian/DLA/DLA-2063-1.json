@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Jan 2020] DLA-2063-1 debian-lan-config - security update",
-    "Line": 4215,
+    "Line": 4218,
     "ID": "DLA-2063-1",
     "Description": "debian-lan-config - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-3467}",
-      "Line": 4216,
+      "Line": 4219,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-3467"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - debian-lan-config 0.19+deb8u2",
-      "Line": 4217,
+      "Line": 4220,
       "Type": "package",
       "Release": "jessie",
       "Package": "debian-lan-config",

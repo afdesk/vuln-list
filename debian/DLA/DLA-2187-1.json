@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[25 Apr 2020] DLA-2187-1 radicale - security update",
-    "Line": 3837,
+    "Line": 3840,
     "ID": "DLA-2187-1",
     "Description": "radicale - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-8342}",
-      "Line": 3838,
+      "Line": 3841,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-8342"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - radicale 0.9-1+deb8u2",
-      "Line": 3839,
+      "Line": 3842,
       "Type": "package",
       "Release": "jessie",
       "Package": "radicale",

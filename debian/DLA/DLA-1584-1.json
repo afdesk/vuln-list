@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Nov 2018] DLA-1584-1 ruby-i18n - security update",
-    "Line": 5705,
+    "Line": 5708,
     "ID": "DLA-1584-1",
     "Description": "ruby-i18n - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-10077}",
-      "Line": 5706,
+      "Line": 5709,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-10077"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - ruby-i18n 0.6.9-2+deb8u1",
-      "Line": 5707,
+      "Line": 5710,
       "Type": "package",
       "Release": "jessie",
       "Package": "ruby-i18n",
