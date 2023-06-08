@@ -5,7 +5,7 @@
     "date": "2023-05-25 17:41"
   },
   "updated": {
-    "date": "2023-05-25 17:41"
+    "date": "2023-06-01 23:37"
   },
   "severity": "medium",
   "description": "Package updates are available for Amazon Linux 2 that fix the following vulnerabilities:\nCVE-2021-3800:\n\tA flaw was found in glib before version 2.63.6. Due to random charset alias, pkexec can leak content from files owned by privileged users to unprivileged ones under the right condition.\n",

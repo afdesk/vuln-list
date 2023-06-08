@@ -5,7 +5,7 @@
     "date": "2023-05-25 17:41"
   },
   "updated": {
-    "date": "2023-05-25 17:41"
+    "date": "2023-06-01 23:37"
   },
   "severity": "medium",
   "description": "Package updates are available for Amazon Linux 2 that fix the following vulnerabilities:\nCVE-2022-25309:\n\tA heap-based buffer overflow flaw was found in the Fribidi package and affects the fribidi_cap_rtl_to_unicode() function of the fribidi-char-sets-cap-rtl.c file. This flaw allows an attacker to pass a specially crafted file to the Fribidi application with the --caprtl option, leading to a crash and causing a denial of service.\n",

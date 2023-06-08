@@ -5,7 +5,7 @@
     "date": "2023-05-25 17:41"
   },
   "updated": {
-    "date": "2023-05-25 17:41"
+    "date": "2023-06-01 23:37"
   },
   "severity": "important",
   "description": "Package updates are available for Amazon Linux 2 that fix the following vulnerabilities:\nCVE-2016-10003:\n\tIncorrect HTTP Request header comparison in Squid HTTP Proxy 3.5.0.1 through 3.5.22, and 4.0.1 through 4.0.16 results in Collapsed Forwarding feature mistakenly identifying some private responses as being suitable for delivery to multiple clients.\n",
