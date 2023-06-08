@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Aug 2017] DLA-1054-1 libgxps - security update",
-    "Line": 7300,
+    "Line": 7303,
     "ID": "DLA-1054-1",
     "Description": "libgxps - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-11590}",
-      "Line": 7301,
+      "Line": 7304,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-11590"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - libgxps 0.2.2-2+deb7u1",
-      "Line": 7302,
+      "Line": 7305,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libgxps",

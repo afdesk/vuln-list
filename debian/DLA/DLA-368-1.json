@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Dec 2015] DLA-368-1 grub2 - security update",
-    "Line": 9391,
+    "Line": 9394,
     "ID": "DLA-368-1",
     "Description": "grub2 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-8370}",
-      "Line": 9392,
+      "Line": 9395,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-8370"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - grub2 1.98+20100804-14+squeeze2",
-      "Line": 9393,
+      "Line": 9396,
       "Type": "package",
       "Release": "squeeze",
       "Package": "grub2",

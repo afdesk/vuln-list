@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Nov 2022] DLA-3211-1 frr - security update",
-    "Line": 725,
+    "Line": 728,
     "ID": "DLA-3211-1",
     "Description": "frr - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-37032}",
-      "Line": 726,
+      "Line": 729,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-37032"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - frr 6.0.2-2+deb10u2",
-      "Line": 727,
+      "Line": 730,
       "Type": "package",
       "Release": "buster",
       "Package": "frr",

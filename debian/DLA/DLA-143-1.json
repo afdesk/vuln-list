@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Jan 2015] DLA-143-1 python-django - security update",
-    "Line": 10079,
+    "Line": 10082,
     "ID": "DLA-143-1",
     "Description": "python-django - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-0219 CVE-2015-0220 CVE-2015-0221}",
-      "Line": 10080,
+      "Line": 10083,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-0219",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[squeeze] - python-django 1.2.3-3+squeeze12",
-      "Line": 10081,
+      "Line": 10084,
       "Type": "package",
       "Release": "squeeze",
       "Package": "python-django",

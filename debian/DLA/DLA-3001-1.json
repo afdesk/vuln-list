@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 May 2022] DLA-3001-1 libgoogle-gson-java - security update",
-    "Line": 1345,
+    "Line": 1348,
     "ID": "DLA-3001-1",
     "Description": "libgoogle-gson-java - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-25647}",
-      "Line": 1346,
+      "Line": 1349,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-25647"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - libgoogle-gson-java 2.4-1+deb9u1",
-      "Line": 1347,
+      "Line": 1350,
       "Type": "package",
       "Release": "stretch",
       "Package": "libgoogle-gson-java",

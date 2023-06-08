@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Jan 2018] DLA-1233-1 gifsicle - security update",
-    "Line": 6760,
+    "Line": 6763,
     "ID": "DLA-1233-1",
     "Description": "gifsicle - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-1000421}",
-      "Line": 6761,
+      "Line": 6764,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-1000421"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - gifsicle 1.67-1.1~deb7u1",
-      "Line": 6762,
+      "Line": 6765,
       "Type": "package",
       "Release": "wheezy",
       "Package": "gifsicle",
