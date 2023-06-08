@@ -131339,6 +131339,78 @@
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231822001"
       }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python is earlier than 0:2.6.6-69.el6_10",
+      "ID": "oval:com.redhat.rhsa:tst:20233550001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20110554002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233550001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-devel is earlier than 0:2.6.6-69.el6_10",
+      "ID": "oval:com.redhat.rhsa:tst:20233550003",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20110554003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233550003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-libs is earlier than 0:2.6.6-69.el6_10",
+      "ID": "oval:com.redhat.rhsa:tst:20233550005",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20110554004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233550003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-test is earlier than 0:2.6.6-69.el6_10",
+      "ID": "oval:com.redhat.rhsa:tst:20233550007",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20110554005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233550001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-tools is earlier than 0:2.6.6-69.el6_10",
+      "ID": "oval:com.redhat.rhsa:tst:20233550009",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20110554006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233550001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "tkinter is earlier than 0:2.6.6-69.el6_10",
+      "ID": "oval:com.redhat.rhsa:tst:20233550011",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20110554007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233550001"
+      }
     }
   ],
   "RpmverifyfileTests": [
