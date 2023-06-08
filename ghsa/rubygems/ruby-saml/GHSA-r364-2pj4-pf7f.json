@@ -26,6 +26,12 @@
         "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/ruby-saml/OSVDB-124991.yml"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/ruby-saml/CVE-2015-20108.yml"
+      },
+      {
+        "Url": "https://security.snyk.io/vuln/SNYK-RUBY-RUBYSAML-20217"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-r364-2pj4-pf7f"
       }
     ],
@@ -39,12 +45,12 @@
         "Value": "CVE-2015-20108"
       }
     ],
-    "Description": "xml_security.rb in the ruby-saml gem before 1.0.0 for Ruby allows XPath injection and code execution because prepared statements are not used.",
+    "Description": "`xml_security.rb` in the ruby-saml gem before 1.0.0 for Ruby allows XPath injection and code execution because prepared statements are not used.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-27T21:30:15Z",
     "Severity": "CRITICAL",
     "Summary": "ruby-saml vulnerable to XPath injection",
-    "UpdatedAt": "2023-06-06T00:24:25Z",
+    "UpdatedAt": "2023-06-08T14:01:23Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,
