@@ -7646,6 +7646,41 @@
       "Name": "sysstat"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202334969001",
+      "Version": "636",
+      "Name": "dbus-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202334969002",
+      "Version": "636",
+      "Name": "dbus-x11"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202334969003",
+      "Version": "636",
+      "Name": "dbus-libs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202334969004",
+      "Version": "636",
+      "Name": "dbus"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202334969005",
+      "Version": "636",
+      "Name": "dbus-common"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202334969006",
+      "Version": "636",
+      "Name": "dbus-tools"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202334969007",
+      "Version": "636",
+      "Name": "dbus-daemon"
+    },
+    {
       "ID": "oval:com.redhat.rhba:obj:20228256001",
       "Version": "635",
       "Name": "qatzip"
@@ -8684,41 +8719,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20230303005",
       "Version": "635",
       "Name": "usbguard-tools"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20230335001",
-      "Version": "636",
-      "Name": "dbus"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20230335002",
-      "Version": "636",
-      "Name": "dbus-common"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20230335003",
-      "Version": "636",
-      "Name": "dbus-daemon"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20230335004",
-      "Version": "636",
-      "Name": "dbus-devel"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20230335005",
-      "Version": "636",
-      "Name": "dbus-libs"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20230335006",
-      "Version": "636",
-      "Name": "dbus-tools"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20230335007",
-      "Version": "636",
-      "Name": "dbus-x11"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20230339001",
