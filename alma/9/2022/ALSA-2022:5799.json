@@ -84,6 +84,42 @@
         "reboot_suggested": 0
       },
       {
+        "name": "golang-race",
+        "version": "1.17.12",
+        "release": "1.el9_0",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "golang-1.17.12-1.el9_0.src.rpm",
+        "filename": "golang-race-1.17.12-1.el9_0.x86_64.rpm",
+        "sum": "588dc6330562281eb74baec7ee436597015a2fd5acf8a7eb88d6f91eb81d620b",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "golang-bin",
+        "version": "1.17.12",
+        "release": "1.el9_0",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "golang-1.17.12-1.el9_0.src.rpm",
+        "filename": "golang-bin-1.17.12-1.el9_0.x86_64.rpm",
+        "sum": "dfe598abe2b88a2341d02e83737cdf7d918b540454e72cf0499270133acc9dcc",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "golang",
+        "version": "1.17.12",
+        "release": "1.el9_0",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "golang-1.17.12-1.el9_0.src.rpm",
+        "filename": "golang-1.17.12-1.el9_0.x86_64.rpm",
+        "sum": "f303459ed113508a9840e728c32d13b998985196e13903fdf67ca128b2ebf6e2",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "golang",
         "version": "1.17.12",
         "release": "1.el9_0",
@@ -128,42 +164,6 @@
         "src": "golang-1.17.12-1.el9_0.src.rpm",
         "filename": "golang-bin-1.17.12-1.el9_0.s390x.rpm",
         "sum": "e849bfad0f4fbaa1148803a9e13181ccf4eb48f476e49cebb7282fa36cc45b06",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "golang-race",
-        "version": "1.17.12",
-        "release": "1.el9_0",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "golang-1.17.12-1.el9_0.src.rpm",
-        "filename": "golang-race-1.17.12-1.el9_0.x86_64.rpm",
-        "sum": "588dc6330562281eb74baec7ee436597015a2fd5acf8a7eb88d6f91eb81d620b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "golang-bin",
-        "version": "1.17.12",
-        "release": "1.el9_0",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "golang-1.17.12-1.el9_0.src.rpm",
-        "filename": "golang-bin-1.17.12-1.el9_0.x86_64.rpm",
-        "sum": "dfe598abe2b88a2341d02e83737cdf7d918b540454e72cf0499270133acc9dcc",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "golang",
-        "version": "1.17.12",
-        "release": "1.el9_0",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "golang-1.17.12-1.el9_0.src.rpm",
-        "filename": "golang-1.17.12-1.el9_0.x86_64.rpm",
-        "sum": "f303459ed113508a9840e728c32d13b998985196e13903fdf67ca128b2ebf6e2",
         "sum_type": 5,
         "reboot_suggested": 0
       }

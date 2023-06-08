@@ -60,6 +60,30 @@
         "reboot_suggested": 0
       },
       {
+        "name": "gstreamer1-plugins-good",
+        "version": "1.18.4",
+        "release": "6.el9",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
+        "filename": "gstreamer1-plugins-good-1.18.4-6.el9.x86_64.rpm",
+        "sum": "c489cd8f327bdc9118eddaaf51b00abbc70396b01cf1bc5bd57e9dbdc8c95ef2",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gstreamer1-plugins-good-gtk",
+        "version": "1.18.4",
+        "release": "6.el9",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
+        "filename": "gstreamer1-plugins-good-gtk-1.18.4-6.el9.x86_64.rpm",
+        "sum": "fb043797b8c67bc90de3bcd728c8ea3e47eea38c9a4788db3d003b17c5c614a8",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "gstreamer1-plugins-good-gtk",
         "version": "1.18.4",
         "release": "6.el9",
@@ -104,30 +128,6 @@
         "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
         "filename": "gstreamer1-plugins-good-1.18.4-6.el9.s390x.rpm",
         "sum": "d959fb3d2b3c7df6cfb10855d02200b8bd358b6d4c1bddba11caa4fba4a0ef81",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gstreamer1-plugins-good",
-        "version": "1.18.4",
-        "release": "6.el9",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
-        "filename": "gstreamer1-plugins-good-1.18.4-6.el9.x86_64.rpm",
-        "sum": "c489cd8f327bdc9118eddaaf51b00abbc70396b01cf1bc5bd57e9dbdc8c95ef2",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gstreamer1-plugins-good-gtk",
-        "version": "1.18.4",
-        "release": "6.el9",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "gstreamer1-plugins-good-1.18.4-6.el9.src.rpm",
-        "filename": "gstreamer1-plugins-good-gtk-1.18.4-6.el9.x86_64.rpm",
-        "sum": "fb043797b8c67bc90de3bcd728c8ea3e47eea38c9a4788db3d003b17c5c614a8",
         "sum_type": 5,
         "reboot_suggested": 0
       }

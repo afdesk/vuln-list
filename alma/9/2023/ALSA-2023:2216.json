@@ -84,6 +84,42 @@
         "reboot_suggested": 0
       },
       {
+        "name": "gdk-pixbuf2-modules",
+        "version": "2.42.6",
+        "release": "3.el9",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "gdk-pixbuf2-2.42.6-3.el9.src.rpm",
+        "filename": "gdk-pixbuf2-modules-2.42.6-3.el9.x86_64.rpm",
+        "sum": "07ceed118a1562c071913ee1ae6fb9b30453f2187da63e4fb16c400d5583d697",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gdk-pixbuf2",
+        "version": "2.42.6",
+        "release": "3.el9",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "gdk-pixbuf2-2.42.6-3.el9.src.rpm",
+        "filename": "gdk-pixbuf2-2.42.6-3.el9.x86_64.rpm",
+        "sum": "132bcc6662f89f94e873b2fc624761fead6930dccf168ee63b80b838ae0317d6",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "gdk-pixbuf2-devel",
+        "version": "2.42.6",
+        "release": "3.el9",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "gdk-pixbuf2-2.42.6-3.el9.src.rpm",
+        "filename": "gdk-pixbuf2-devel-2.42.6-3.el9.x86_64.rpm",
+        "sum": "6d1f86d1882b9925544a3db08dbb13ade75419fabf03c57a1d6647af5c1d9e37",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "gdk-pixbuf2-devel",
         "version": "2.42.6",
         "release": "3.el9",
@@ -152,42 +188,6 @@
         "src": "gdk-pixbuf2-2.42.6-3.el9.src.rpm",
         "filename": "gdk-pixbuf2-modules-2.42.6-3.el9.s390x.rpm",
         "sum": "d6c933abf94176c6d8e26dfd45c16b318e244411de37c6b7e830f1550b678ec7",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gdk-pixbuf2-modules",
-        "version": "2.42.6",
-        "release": "3.el9",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "gdk-pixbuf2-2.42.6-3.el9.src.rpm",
-        "filename": "gdk-pixbuf2-modules-2.42.6-3.el9.x86_64.rpm",
-        "sum": "07ceed118a1562c071913ee1ae6fb9b30453f2187da63e4fb16c400d5583d697",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gdk-pixbuf2",
-        "version": "2.42.6",
-        "release": "3.el9",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "gdk-pixbuf2-2.42.6-3.el9.src.rpm",
-        "filename": "gdk-pixbuf2-2.42.6-3.el9.x86_64.rpm",
-        "sum": "132bcc6662f89f94e873b2fc624761fead6930dccf168ee63b80b838ae0317d6",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "gdk-pixbuf2-devel",
-        "version": "2.42.6",
-        "release": "3.el9",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "gdk-pixbuf2-2.42.6-3.el9.src.rpm",
-        "filename": "gdk-pixbuf2-devel-2.42.6-3.el9.x86_64.rpm",
-        "sum": "6d1f86d1882b9925544a3db08dbb13ade75419fabf03c57a1d6647af5c1d9e37",
         "sum_type": 5,
         "reboot_suggested": 0
       }

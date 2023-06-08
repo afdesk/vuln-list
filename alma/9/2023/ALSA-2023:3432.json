@@ -108,6 +108,54 @@
         "reboot_suggested": 0
       },
       {
+        "name": "webkit2gtk3-devel",
+        "version": "2.38.5",
+        "release": "1.el9_2.2",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "webkit2gtk3-2.38.5-1.el9_2.2.src.rpm",
+        "filename": "webkit2gtk3-devel-2.38.5-1.el9_2.2.x86_64.rpm",
+        "sum": "39b32d5b9e3d84ef284e8b38b1e8e2011dbc55eea5d8cbdc5c4a5796a71a56a9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3",
+        "version": "2.38.5",
+        "release": "1.el9_2.2",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "webkit2gtk3-2.38.5-1.el9_2.2.src.rpm",
+        "filename": "webkit2gtk3-2.38.5-1.el9_2.2.x86_64.rpm",
+        "sum": "98d50a211bfd0e71832a449fd7a9084ecfdcdf8b419436b2b5cb7844610a6938",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3-jsc-devel",
+        "version": "2.38.5",
+        "release": "1.el9_2.2",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "webkit2gtk3-2.38.5-1.el9_2.2.src.rpm",
+        "filename": "webkit2gtk3-jsc-devel-2.38.5-1.el9_2.2.x86_64.rpm",
+        "sum": "e185232115a2bc295bd7367369e1f3fd214527c814b2afb90a1ef40a43fb5f5b",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3-jsc",
+        "version": "2.38.5",
+        "release": "1.el9_2.2",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "webkit2gtk3-2.38.5-1.el9_2.2.src.rpm",
+        "filename": "webkit2gtk3-jsc-2.38.5-1.el9_2.2.x86_64.rpm",
+        "sum": "fc26be55286742ac7bf74b8579d94ad7180afa632e6bb954fafaa89e3901239e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "webkit2gtk3-jsc",
         "version": "2.38.5",
         "release": "1.el9_2.2",
@@ -200,54 +248,6 @@
         "src": "webkit2gtk3-2.38.5-1.el9_2.2.src.rpm",
         "filename": "webkit2gtk3-devel-2.38.5-1.el9_2.2.s390x.rpm",
         "sum": "d055fdcf5dff012e26da8632a0ca302646fe369d124fbd5b02eabe68ce6bad05",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3-devel",
-        "version": "2.38.5",
-        "release": "1.el9_2.2",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "webkit2gtk3-2.38.5-1.el9_2.2.src.rpm",
-        "filename": "webkit2gtk3-devel-2.38.5-1.el9_2.2.x86_64.rpm",
-        "sum": "39b32d5b9e3d84ef284e8b38b1e8e2011dbc55eea5d8cbdc5c4a5796a71a56a9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3",
-        "version": "2.38.5",
-        "release": "1.el9_2.2",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "webkit2gtk3-2.38.5-1.el9_2.2.src.rpm",
-        "filename": "webkit2gtk3-2.38.5-1.el9_2.2.x86_64.rpm",
-        "sum": "98d50a211bfd0e71832a449fd7a9084ecfdcdf8b419436b2b5cb7844610a6938",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3-jsc-devel",
-        "version": "2.38.5",
-        "release": "1.el9_2.2",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "webkit2gtk3-2.38.5-1.el9_2.2.src.rpm",
-        "filename": "webkit2gtk3-jsc-devel-2.38.5-1.el9_2.2.x86_64.rpm",
-        "sum": "e185232115a2bc295bd7367369e1f3fd214527c814b2afb90a1ef40a43fb5f5b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3-jsc",
-        "version": "2.38.5",
-        "release": "1.el9_2.2",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "webkit2gtk3-2.38.5-1.el9_2.2.src.rpm",
-        "filename": "webkit2gtk3-jsc-2.38.5-1.el9_2.2.x86_64.rpm",
-        "sum": "fc26be55286742ac7bf74b8579d94ad7180afa632e6bb954fafaa89e3901239e",
         "sum_type": 5,
         "reboot_suggested": 0
       }

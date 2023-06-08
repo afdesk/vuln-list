@@ -28,6 +28,18 @@
         "version": "3.2.0",
         "release": "1.el9",
         "epoch": "0",
+        "arch": "x86_64",
+        "src": "git-lfs-3.2.0-1.el9.src.rpm",
+        "filename": "git-lfs-3.2.0-1.el9.x86_64.rpm",
+        "sum": "205862ee3ae4dd4841ca235399bf6c73f486bde572254598b3943d1aeaa88da7",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "git-lfs",
+        "version": "3.2.0",
+        "release": "1.el9",
+        "epoch": "0",
         "arch": "ppc64le",
         "src": "git-lfs-3.2.0-1.el9.src.rpm",
         "filename": "git-lfs-3.2.0-1.el9.ppc64le.rpm",
@@ -44,18 +56,6 @@
         "src": "git-lfs-3.2.0-1.el9.src.rpm",
         "filename": "git-lfs-3.2.0-1.el9.s390x.rpm",
         "sum": "ec6eb30dfbf59001df5542c184a72b2f474cc289cd3041e6e5f4df108ac01a35",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "git-lfs",
-        "version": "3.2.0",
-        "release": "1.el9",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "git-lfs-3.2.0-1.el9.src.rpm",
-        "filename": "git-lfs-3.2.0-1.el9.x86_64.rpm",
-        "sum": "205862ee3ae4dd4841ca235399bf6c73f486bde572254598b3943d1aeaa88da7",
         "sum_type": 5,
         "reboot_suggested": 0
       }

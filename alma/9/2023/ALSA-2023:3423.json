@@ -48,6 +48,30 @@
         "reboot_suggested": 0
       },
       {
+        "name": "cups-filters-libs",
+        "version": "1.28.7",
+        "release": "11.el9_2.1",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "cups-filters-1.28.7-11.el9_2.1.src.rpm",
+        "filename": "cups-filters-libs-1.28.7-11.el9_2.1.x86_64.rpm",
+        "sum": "a0f3a711a755e7dae73be98f914ae6dfdd9db3c9a9f205ea39fecc8978beb6ed",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "cups-filters",
+        "version": "1.28.7",
+        "release": "11.el9_2.1",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "cups-filters-1.28.7-11.el9_2.1.src.rpm",
+        "filename": "cups-filters-1.28.7-11.el9_2.1.x86_64.rpm",
+        "sum": "abd1c7eed57dc831c50fea26aac1034039a8d1f1dfa3bfe2523aa81e1835d235",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "cups-filters",
         "version": "1.28.7",
         "release": "11.el9_2.1",
@@ -96,30 +120,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "cups-filters-libs",
-        "version": "1.28.7",
-        "release": "11.el9_2.1",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "cups-filters-1.28.7-11.el9_2.1.src.rpm",
-        "filename": "cups-filters-libs-1.28.7-11.el9_2.1.x86_64.rpm",
-        "sum": "a0f3a711a755e7dae73be98f914ae6dfdd9db3c9a9f205ea39fecc8978beb6ed",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "cups-filters",
-        "version": "1.28.7",
-        "release": "11.el9_2.1",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "cups-filters-1.28.7-11.el9_2.1.src.rpm",
-        "filename": "cups-filters-1.28.7-11.el9_2.1.x86_64.rpm",
-        "sum": "abd1c7eed57dc831c50fea26aac1034039a8d1f1dfa3bfe2523aa81e1835d235",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "cups-filters-devel",
         "version": "1.28.7",
         "release": "11.el9_2.1",
@@ -128,18 +128,6 @@
         "src": "cups-filters-1.28.7-11.el9_2.1.src.rpm",
         "filename": "cups-filters-devel-1.28.7-11.el9_2.1.i686.rpm",
         "sum": "4be1669ce9df9b878caa5f58ec501f7d9c4730d8fdab7ab5796d72072462f921",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "cups-filters-devel",
-        "version": "1.28.7",
-        "release": "11.el9_2.1",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "cups-filters-1.28.7-11.el9_2.1.src.rpm",
-        "filename": "cups-filters-devel-1.28.7-11.el9_2.1.s390x.rpm",
-        "sum": "727071afd6de0baa35af3faf351e2cf20ae64d690dc6ee9abf9e83afbd6b1e94",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -160,6 +148,18 @@
         "version": "1.28.7",
         "release": "11.el9_2.1",
         "epoch": "0",
+        "arch": "aarch64",
+        "src": "cups-filters-1.28.7-11.el9_2.1.src.rpm",
+        "filename": "cups-filters-devel-1.28.7-11.el9_2.1.aarch64.rpm",
+        "sum": "5c3b5df66ebe548568be972c712e9d5b01b5d62ec57bc7df3f39f78c247e2bf4",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "cups-filters-devel",
+        "version": "1.28.7",
+        "release": "11.el9_2.1",
+        "epoch": "0",
         "arch": "x86_64",
         "src": "cups-filters-1.28.7-11.el9_2.1.src.rpm",
         "filename": "cups-filters-devel-1.28.7-11.el9_2.1.x86_64.rpm",
@@ -172,10 +172,10 @@
         "version": "1.28.7",
         "release": "11.el9_2.1",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "s390x",
         "src": "cups-filters-1.28.7-11.el9_2.1.src.rpm",
-        "filename": "cups-filters-devel-1.28.7-11.el9_2.1.aarch64.rpm",
-        "sum": "5c3b5df66ebe548568be972c712e9d5b01b5d62ec57bc7df3f39f78c247e2bf4",
+        "filename": "cups-filters-devel-1.28.7-11.el9_2.1.s390x.rpm",
+        "sum": "727071afd6de0baa35af3faf351e2cf20ae64d690dc6ee9abf9e83afbd6b1e94",
         "sum_type": 5,
         "reboot_suggested": 0
       }
