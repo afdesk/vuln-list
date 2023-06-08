@@ -311,6 +311,42 @@
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20227398002"
       }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openshift-hyperkube is earlier than 0:4.12.0-202305301919.p0.g3fe2906.assembly.stream.el9",
+      "ID": "oval:com.redhat.rhsa:tst:20233409001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20227398007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233409001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openshift-clients is earlier than 0:4.12.0-202305301015.p0.g97c75d0.assembly.stream.el9",
+      "ID": "oval:com.redhat.rhsa:tst:20233409003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20227398008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233409003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openshift-clients-redistributable is earlier than 0:4.12.0-202305301015.p0.g97c75d0.assembly.stream.el9",
+      "ID": "oval:com.redhat.rhsa:tst:20233409005",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20227398009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233409004"
+      }
     }
   ],
   "RpmverifyfileTests": [
