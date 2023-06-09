@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Oct 2005] DSA-865-1 hylafax - insecure temporary files",
-    "Line": 15638,
+    "Line": 15642,
     "ID": "DSA-865-1",
     "Description": "hylafax - insecure temporary files"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-3069}",
-      "Line": 15639,
+      "Line": 15643,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-3069"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - hylafax 1:4.1.1-3.2",
-      "Line": 15640,
+      "Line": 15644,
       "Type": "package",
       "Release": "woody",
       "Package": "hylafax",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[sarge] - hylafax 1:4.2.1-5sarge1",
-      "Line": 15641,
+      "Line": 15645,
       "Type": "package",
       "Release": "sarge",
       "Package": "hylafax",
@@ -34,7 +34,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA (missing arm)",
-      "Line": 15642,
+      "Line": 15646,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA (missing arm)"
     }

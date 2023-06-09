@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[25 Oct 2016] DSA-3699-1 virtualbox - end of life",
-    "Line": 5762,
+    "Line": 5766,
     "ID": "DSA-3699-1",
     "Description": "virtualbox - end of life"
   },
   "Annotations": [
     {
       "Original": "[jessie] - virtualbox \u003cend-of-life\u003e",
-      "Line": 5763,
+      "Line": 5767,
       "Type": "package",
       "Release": "jessie",
       "Package": "virtualbox",

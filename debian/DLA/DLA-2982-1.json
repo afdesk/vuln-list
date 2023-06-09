@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Apr 2022] DLA-2982-1 python-django - security update",
-    "Line": 1408,
+    "Line": 1411,
     "ID": "DLA-2982-1",
     "Description": "python-django - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-28346}",
-      "Line": 1409,
+      "Line": 1412,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-28346"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - python-django 1:1.10.7-2+deb9u16",
-      "Line": 1410,
+      "Line": 1413,
       "Type": "package",
       "Release": "stretch",
       "Package": "python-django",

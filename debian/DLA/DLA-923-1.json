@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Apr 2017] DLA-923-1 partclone - security update",
-    "Line": 7706,
+    "Line": 7709,
     "ID": "DLA-923-1",
     "Description": "partclone - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-6596}",
-      "Line": 7707,
+      "Line": 7710,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-6596"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - partclone 0.2.48-1+deb7u1",
-      "Line": 7708,
+      "Line": 7711,
       "Type": "package",
       "Release": "wheezy",
       "Package": "partclone",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Oct 2008] DSA-1643-1 feta - denial of service",
-    "Line": 12808,
+    "Line": 12812,
     "ID": "DSA-1643-1",
     "Description": "feta - denial of service"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-4440}",
-      "Line": 12809,
+      "Line": 12813,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-4440"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - feta 1.4.15+etch1",
-      "Line": 12810,
+      "Line": 12814,
       "Type": "package",
       "Release": "etch",
       "Package": "feta",

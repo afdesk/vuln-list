@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Apr 2017] DLA-881-1 ejabberd - security update",
-    "Line": 7826,
+    "Line": 7829,
     "ID": "DLA-881-1",
     "Description": "ejabberd - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-8760}",
-      "Line": 7827,
+      "Line": 7830,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-8760"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - ejabberd 2.1.10-4+deb7u2",
-      "Line": 7828,
+      "Line": 7831,
       "Type": "package",
       "Release": "wheezy",
       "Package": "ejabberd",

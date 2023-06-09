@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Mar 2004] DSA-454 linux-kernel-2.2.22-alpha - failing function and TLB flush",
-    "Line": 17262,
+    "Line": 17266,
     "ID": "DSA-454",
     "Description": "linux-kernel-2.2.22-alpha - failing function and TLB flush"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0077}",
-      "Line": 17263,
+      "Line": 17267,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0077"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - kernel-source-2.2.22 2.2.22-1woody1",
-      "Line": 17264,
+      "Line": 17268,
       "Type": "package",
       "Release": "woody",
       "Package": "kernel-source-2.2.22",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[woody] - kernel-image-2.2.22-alpha 2.2.22-2",
-      "Line": 17265,
+      "Line": 17269,
       "Type": "package",
       "Release": "woody",
       "Package": "kernel-image-2.2.22-alpha",

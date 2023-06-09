@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Aug 2017] DLA-1072-1 mercurial - security update",
-    "Line": 7252,
+    "Line": 7255,
     "ID": "DLA-1072-1",
     "Description": "mercurial - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-1000115 CVE-2017-1000116}",
-      "Line": 7253,
+      "Line": 7256,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-1000115",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[wheezy] - mercurial 2.2.2-4+deb7u5",
-      "Line": 7254,
+      "Line": 7257,
       "Type": "package",
       "Release": "wheezy",
       "Package": "mercurial",

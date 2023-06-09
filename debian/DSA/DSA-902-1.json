@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Nov 2005] DSA-902-1 xmail - buffer overflow",
-    "Line": 15467,
+    "Line": 15471,
     "ID": "DSA-902-1",
     "Description": "xmail - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2943}",
-      "Line": 15468,
+      "Line": 15472,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2943"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - xmail 1.21-3sarge1",
-      "Line": 15469,
+      "Line": 15473,
       "Type": "package",
       "Release": "sarge",
       "Package": "xmail",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA",
-      "Line": 15470,
+      "Line": 15474,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA"
     }

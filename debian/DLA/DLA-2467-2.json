@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Dec 2020] DLA-2467-2 lxml - regression update",
-    "Line": 2880,
+    "Line": 2883,
     "ID": "DLA-2467-2",
     "Description": "lxml - regression update"
   },
   "Annotations": [
     {
       "Original": "[stretch] - lxml 3.7.1-1+deb9u3",
-      "Line": 2881,
+      "Line": 2884,
       "Type": "package",
       "Release": "stretch",
       "Package": "lxml",

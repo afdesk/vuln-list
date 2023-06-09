@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Apr 2012] DSA-2461-1 spip - several",
-    "Line": 9930,
+    "Line": 9934,
     "ID": "DSA-2461-1",
     "Description": "spip - several"
   },
   "Annotations": [
     {
       "Original": "[squeeze] - spip 2.1.1-3squeeze3",
-      "Line": 9931,
+      "Line": 9935,
       "Type": "package",
       "Release": "squeeze",
       "Package": "spip",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "{CVE-2012-2151 CVE-2012-4331}",
-      "Line": 9932,
+      "Line": 9936,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-2151",

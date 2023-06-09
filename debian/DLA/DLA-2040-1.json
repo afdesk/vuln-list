@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Dec 2019] DLA-2040-1 harfbuzz - security update",
-    "Line": 4294,
+    "Line": 4297,
     "ID": "DLA-2040-1",
     "Description": "harfbuzz - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-8947}",
-      "Line": 4295,
+      "Line": 4298,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-8947"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - harfbuzz 0.9.35-2+deb8u1",
-      "Line": 4296,
+      "Line": 4299,
       "Type": "package",
       "Release": "jessie",
       "Package": "harfbuzz",

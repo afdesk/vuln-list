@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Dec 2019] DSA-4593-1 freeimage - security update",
-    "Line": 2722,
+    "Line": 2726,
     "ID": "DSA-4593-1",
     "Description": "freeimage - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-12211 CVE-2019-12213}",
-      "Line": 2723,
+      "Line": 2727,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-12211",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[stretch] - freeimage 3.17.0+ds1-5+deb9u1",
-      "Line": 2724,
+      "Line": 2728,
       "Type": "package",
       "Release": "stretch",
       "Package": "freeimage",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[buster] - freeimage 3.18.0+ds2-1+deb10u1",
-      "Line": 2725,
+      "Line": 2729,
       "Type": "package",
       "Release": "buster",
       "Package": "freeimage",

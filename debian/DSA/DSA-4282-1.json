@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[31 Aug 2018] DSA-4282-1 trafficserver - security update",
-    "Line": 3759,
+    "Line": 3763,
     "ID": "DSA-4282-1",
     "Description": "trafficserver - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-1318 CVE-2018-8004 CVE-2018-8005 CVE-2018-8040}",
-      "Line": 3760,
+      "Line": 3764,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-1318",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[stretch] - trafficserver 7.0.0-6+deb9u2",
-      "Line": 3761,
+      "Line": 3765,
       "Type": "package",
       "Release": "stretch",
       "Package": "trafficserver",

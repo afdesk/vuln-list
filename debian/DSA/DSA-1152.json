@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Aug 2006] DSA-1152 trac - missing input sanitising",
-    "Line": 14492,
+    "Line": 14496,
     "ID": "DSA-1152",
     "Description": "trac - missing input sanitising"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-3695}",
-      "Line": 14493,
+      "Line": 14497,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-3695"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - trac 0.8.1-3sarge5",
-      "Line": 14494,
+      "Line": 14498,
       "Type": "package",
       "Release": "sarge",
       "Package": "trac",

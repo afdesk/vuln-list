@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Jan 2020] DLA-2064-1 ldm - security update",
-    "Line": 4215,
+    "Line": 4218,
     "ID": "DLA-2064-1",
     "Description": "ldm - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-20373}",
-      "Line": 4216,
+      "Line": 4219,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-20373"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - ldm 2:2.2.15-2+deb8u1",
-      "Line": 4217,
+      "Line": 4220,
       "Type": "package",
       "Release": "jessie",
       "Package": "ldm",
