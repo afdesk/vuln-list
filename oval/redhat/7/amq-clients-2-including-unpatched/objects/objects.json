@@ -41,6 +41,11 @@
       "Name": "snakeyaml"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202237866001",
+      "Version": "636",
+      "Name": "apache-ivy"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202241854001",
       "Version": "636",
       "Name": "dev-java-snakeyaml"
@@ -276,11 +281,6 @@
       "Name": "protobuf-java"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202237865001",
-      "Version": "635",
-      "Name": "apache-ivy"
-    },
-    {
       "ID": "oval:com.redhat.unaffected:obj:202240152001",
       "Version": "635",
       "Name": "woodstox-core"
@@ -319,6 +319,11 @@
       "ID": "oval:com.redhat.unaffected:obj:202325613001",
       "Version": "635",
       "Name": "kerby-backend"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202333546001",
+      "Version": "635",
+      "Name": "janino"
     }
   ],
   "RpmverifyfileObjects": [

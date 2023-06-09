@@ -165,6 +165,11 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2022-28693",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-28693"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-28893",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-28893"
       },
@@ -197,6 +202,11 @@
         "Source": "CVE",
         "RefID": "CVE-2022-39190",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-39190"
+      },
+      {
+        "Source": "CVE",
+        "RefID": "CVE-2022-42432",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2022-42432"
       },
       {
         "Source": "CVE",
@@ -454,6 +464,13 @@
           "Public": "20220404"
         },
         {
+          "CveID": "CVE-2022-28693",
+          "Cvss3": "4.7/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:N/A:N",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-28693",
+          "Public": "20220713"
+        },
+        {
           "CveID": "CVE-2022-28893",
           "Cvss3": "6.6/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:H",
           "Cwe": "CWE-416",
@@ -507,6 +524,14 @@
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-39190",
           "Public": "20220821:2230"
+        },
+        {
+          "CveID": "CVE-2022-42432",
+          "Cvss3": "4.4/CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:N",
+          "Cwe": "CWE-200",
+          "Impact": "low",
+          "Href": "https://access.redhat.com/security/cve/CVE-2022-42432",
+          "Public": "20230329"
         },
         {
           "CveID": "CVE-2023-1095",
@@ -639,6 +664,10 @@
           "ID": "2103153"
         },
         {
+          "Href": "https://bugzilla.redhat.com/2107465",
+          "ID": "2107465"
+        },
+        {
           "Href": "https://bugzilla.redhat.com/2114878",
           "ID": "2114878"
         },
@@ -665,6 +694,10 @@
         {
           "Href": "https://bugzilla.redhat.com/2173973",
           "ID": "2173973"
+        },
+        {
+          "Href": "https://bugzilla.redhat.com/2182888",
+          "ID": "2182888"
         },
         {
           "Href": "https://bugzilla.redhat.com/2186545",

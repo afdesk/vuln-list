@@ -166,14 +166,14 @@
       "Name": "ignition"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221996002",
-      "Version": "636",
-      "Name": "atomic-openshift-service-idler"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20221996004",
+      "ID": "oval:com.redhat.cve:obj:20221996003",
       "Version": "636",
       "Name": "machine-config-daemon"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20221996005",
+      "Version": "636",
+      "Name": "atomic-openshift-service-idler"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202223772002",
