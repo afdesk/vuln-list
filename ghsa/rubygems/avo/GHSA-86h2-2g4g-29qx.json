@@ -23,6 +23,9 @@
         "Url": "https://github.com/avo-hq/avo/releases/tag/v2.33.3"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/avo/CVE-2023-34102.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-86h2-2g4g-29qx"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2023-06-06T16:46:57Z",
     "Severity": "HIGH",
     "Summary": "avo possible unsafe reflection / partial DoS vulnerability",
-    "UpdatedAt": "2023-06-06T16:46:57Z",
+    "UpdatedAt": "2023-06-09T15:03:25Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.3,

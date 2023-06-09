@@ -23,6 +23,9 @@
         "Url": "https://github.com/jgarber/redcloth/blob/v4.3.2/lib/redcloth/formatters/html.rb#L327"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/RedCloth/CVE-2023-31606.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-qcm3-vfq5-wfr2"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2023-06-06T18:30:20Z",
     "Severity": "MODERATE",
     "Summary": "RedCloth Regular Expression Denial of Service issue",
-    "UpdatedAt": "2023-06-06T20:27:31Z",
+    "UpdatedAt": "2023-06-09T15:03:40Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

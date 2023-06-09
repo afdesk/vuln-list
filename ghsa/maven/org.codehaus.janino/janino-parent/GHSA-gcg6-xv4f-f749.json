@@ -35,11 +35,11 @@
     "PublishedAt": "2023-06-01T15:30:59Z",
     "Severity": "MODERATE",
     "Summary": "janino vulnerable to denial of service due to stack overflow",
-    "UpdatedAt": "2023-06-06T02:03:29Z",
+    "UpdatedAt": "2023-06-09T15:02:19Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 5.5,
+      "VectorString": "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H"
     }
   },
   "Versions": [

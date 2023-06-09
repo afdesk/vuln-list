@@ -20,6 +20,9 @@
         "Url": "https://huntr.dev/bounties/b12b0073-0bb0-4bd1-8fc2-ec7f17fd7689"
       },
       {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/mlflow/PYSEC-2023-69.yaml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-wjq3-7jxx-whj9"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2023-05-17T21:30:22Z",
     "Severity": "CRITICAL",
     "Summary": "mlflow Path Traversal vulnerability",
-    "UpdatedAt": "2023-05-18T02:01:54Z",
+    "UpdatedAt": "2023-06-09T15:01:10Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,
