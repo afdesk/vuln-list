@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Nov 2016] DLA-713-1 sniffit - security update",
-    "Line": 8363,
+    "Line": 8366,
     "ID": "DLA-713-1",
     "Description": "sniffit - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-5439}",
-      "Line": 8364,
+      "Line": 8367,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-5439"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - sniffit 0.3.7.beta-16.1+deb7u1",
-      "Line": 8365,
+      "Line": 8368,
       "Type": "package",
       "Release": "wheezy",
       "Package": "sniffit",

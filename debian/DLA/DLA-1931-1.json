@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Sep 2019] DLA-1931-1 libgcrypt20 - security update",
-    "Line": 4639,
+    "Line": 4642,
     "ID": "DLA-1931-1",
     "Description": "libgcrypt20 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-13627}",
-      "Line": 4640,
+      "Line": 4643,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-13627"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - libgcrypt20 1.6.3-2+deb8u6",
-      "Line": 4641,
+      "Line": 4644,
       "Type": "package",
       "Release": "jessie",
       "Package": "libgcrypt20",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 Jul 2016] DLA-557-1 dietlibc - security update",
-    "Line": 8833,
+    "Line": 8836,
     "ID": "DLA-557-1",
     "Description": "dietlibc - security update"
   },
   "Annotations": [
     {
       "Original": "[wheezy] - dietlibc 0.33~cvs20120325-4+deb7u1",
-      "Line": 8834,
+      "Line": 8837,
       "Type": "package",
       "Release": "wheezy",
       "Package": "dietlibc",

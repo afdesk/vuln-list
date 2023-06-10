@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Apr 2017] DLA-893-1 bouncycastle - security update",
-    "Line": 7795,
+    "Line": 7798,
     "ID": "DLA-893-1",
     "Description": "bouncycastle - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-6644}",
-      "Line": 7796,
+      "Line": 7799,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-6644"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - bouncycastle 1.44+dfsg-3.1+deb7u2",
-      "Line": 7797,
+      "Line": 7800,
       "Type": "package",
       "Release": "wheezy",
       "Package": "bouncycastle",
