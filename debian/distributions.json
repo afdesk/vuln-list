@@ -1,8 +1,8 @@
 {
   "bookworm": {
     "major-version": "12",
-    "support": "none",
-    "contact": ""
+    "support": "security",
+    "contact": "team@security.debian.org"
   },
   "bullseye": {
     "major-version": "11",
