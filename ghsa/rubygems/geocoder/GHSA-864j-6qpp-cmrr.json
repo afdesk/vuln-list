@@ -26,6 +26,9 @@
         "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/geocoder/CVE-2020-7981.yml"
       },
       {
+        "Url": "https://github.com/alexreisner/geocoder/blob/master/CHANGELOG.md#161-2020-jan-23"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-864j-6qpp-cmrr"
       }
     ],
@@ -44,7 +47,7 @@
     "PublishedAt": "2020-06-10T20:03:02Z",
     "Severity": "CRITICAL",
     "Summary": "SQL Injection in Geocoder",
-    "UpdatedAt": "2023-01-09T05:02:21Z",
+    "UpdatedAt": "2023-06-09T19:54:30Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,

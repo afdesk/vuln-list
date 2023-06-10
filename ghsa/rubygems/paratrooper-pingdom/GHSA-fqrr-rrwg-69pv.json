@@ -21,6 +21,9 @@
       },
       {
         "Url": "http://www.vapid.dhs.org/advisories/paratrooper-api-key-pingdom.html"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/paratrooper-pingdom/CVE-2014-1233.yml"
       }
     ],
     "Identifiers": [
@@ -37,8 +40,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2017-10-24T18:33:36Z",
     "Severity": "LOW",
-    "Summary": "Low severity vulnerability that affects paratrooper-pingdom",
-    "UpdatedAt": "2023-01-09T05:03:16Z",
+    "Summary": "Local API Login Credentials Disclosure in paratrooper-pingdom",
+    "UpdatedAt": "2023-06-09T20:37:20Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

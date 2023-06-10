@@ -37,8 +37,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2019-09-11T23:05:57Z",
     "Severity": "CRITICAL",
-    "Summary": "Airbrake",
-    "UpdatedAt": "2023-02-01T05:02:41Z",
+    "Summary": "Airbrake keys not being filtered",
+    "UpdatedAt": "2023-06-09T20:03:45Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,

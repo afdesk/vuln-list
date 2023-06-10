@@ -33,19 +33,15 @@
       {
         "Type": "GHSA",
         "Value": "GHSA-qj8w-rv5x-2v9h"
-      },
-      {
-        "Type": "CVE",
-        "Value": "CVE-2023-29159"
       }
     ],
-    "Description": "Directory traversal vulnerability in Starlette versions 0.13.5 and later and prior to 0.27.0 allows a remote unauthenticated attacker to view files in a web service which was built using Starlette.",
+    "Description": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-v5gw-mw7f-84px. This link is maintained to preserve external references.\n\n## Original Description\nDirectory traversal vulnerability in Starlette versions 0.13.5 and later and prior to 0.27.0 allows a remote unauthenticated attacker to view files in a web service which was built using Starlette.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-01T03:30:24Z",
     "Severity": "HIGH",
-    "Summary": "Starlette vulnerable to directory traversal",
-    "UpdatedAt": "2023-06-08T14:01:50Z",
-    "WithdrawnAt": "",
+    "Summary": "Duplicate Advisory: Starlette vulnerable to directory traversal",
+    "UpdatedAt": "2023-06-09T22:54:40Z",
+    "WithdrawnAt": "2023-06-09T22:54:39Z",
     "CVSS": {
       "Score": 7.5,
       "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"

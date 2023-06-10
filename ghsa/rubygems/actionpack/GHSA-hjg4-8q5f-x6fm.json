@@ -38,6 +38,9 @@
         "Url": "https://security.netapp.com/advisory/ntap-20210805-0009/"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/actionpack/CVE-2021-22885.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-hjg4-8q5f-x6fm"
       }
     ],
@@ -56,7 +59,7 @@
     "PublishedAt": "2021-05-05T19:49:02Z",
     "Severity": "HIGH",
     "Summary": "Information Disclosure / Unintended Method Execution in Action Pack",
-    "UpdatedAt": "2023-02-01T05:05:41Z",
+    "UpdatedAt": "2023-06-09T21:10:45Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,

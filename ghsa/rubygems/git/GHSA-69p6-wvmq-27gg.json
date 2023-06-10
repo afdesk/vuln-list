@@ -35,6 +35,9 @@
         "Url": "https://lists.debian.org/debian-lts-announce/2023/01/msg00043.html"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/git/CVE-2022-25648.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-69p6-wvmq-27gg"
       }
     ],
@@ -53,7 +56,7 @@
     "PublishedAt": "2022-04-20T00:00:33Z",
     "Severity": "CRITICAL",
     "Summary": "Command injection in ruby-git",
-    "UpdatedAt": "2023-02-01T09:14:25Z",
+    "UpdatedAt": "2023-06-09T21:03:59Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,

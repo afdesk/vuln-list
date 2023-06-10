@@ -21,6 +21,9 @@
       },
       {
         "Url": "http://www.securityfocus.com/bid/102486"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/rails_admin/CVE-2017-12098.yml"
       }
     ],
     "Identifiers": [
@@ -37,8 +40,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2018-03-05T19:37:23Z",
     "Severity": "MODERATE",
-    "Summary": "Moderate severity vulnerability that affects rails_admin",
-    "UpdatedAt": "2023-02-04T05:06:14Z",
+    "Summary": "Cross site scripting in rails_admin",
+    "UpdatedAt": "2023-06-09T20:40:21Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.1,

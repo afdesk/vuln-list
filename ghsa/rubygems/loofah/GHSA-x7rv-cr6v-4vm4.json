@@ -30,6 +30,15 @@
       },
       {
         "Url": "https://github.com/flavorjones/loofah/commit/f739cf8eac5851f328b8044281d6653f74eff116"
+      },
+      {
+        "Url": "https://github.com/sparklemotion/nokogiri/pull/1746"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/loofah/CVE-2018-8048.yml"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/nokogiri/CVE-2018-8048.yml"
       }
     ],
     "Identifiers": [
@@ -47,7 +56,7 @@
     "PublishedAt": "2018-03-21T11:57:11Z",
     "Severity": "MODERATE",
     "Summary": "Cross-site Scripting in loofah",
-    "UpdatedAt": "2023-05-01T22:17:01Z",
+    "UpdatedAt": "2023-06-09T22:37:07Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.1,

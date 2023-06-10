@@ -39,6 +39,9 @@
       },
       {
         "Url": "http://www.openwall.com/lists/oss-security/2015/12/07/2"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/passenger/CVE-2015-7519.yml"
       }
     ],
     "Identifiers": [
@@ -55,8 +58,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2018-10-10T17:29:13Z",
     "Severity": "LOW",
-    "Summary": "Phusion Passenger allows remote attackers to spoof headers passed to applications by using an _ (underscore) character instead of a - (dash) character in an HTTP header",
-    "UpdatedAt": "2023-01-09T05:02:53Z",
+    "Summary": "Phusion Passenger allows remote attackers to spoof headers",
+    "UpdatedAt": "2023-06-09T20:19:36Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 3.7,

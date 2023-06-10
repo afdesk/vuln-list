@@ -38,6 +38,12 @@
         "Url": "http://www.openwall.com/lists/oss-security/2021/12/14/5"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/actionpack/CVE-2021-22881.yml"
+      },
+      {
+        "Url": "https://groups.google.com/g/rubyonrails-security/c/zN_3qA26l6E"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-8877-prq4-9xfw"
       }
     ],
@@ -56,7 +62,7 @@
     "PublishedAt": "2021-03-02T03:44:17Z",
     "Severity": "MODERATE",
     "Summary": "Open Redirect in actionpack",
-    "UpdatedAt": "2023-02-01T05:05:16Z",
+    "UpdatedAt": "2023-06-09T21:16:16Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.1,

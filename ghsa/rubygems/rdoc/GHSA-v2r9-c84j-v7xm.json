@@ -51,6 +51,9 @@
       },
       {
         "Url": "http://www.ubuntu.com/usn/USN-1733-1"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/rdoc/CVE-2013-0256.yml"
       }
     ],
     "Identifiers": [
@@ -67,8 +70,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2017-10-24T18:33:37Z",
     "Severity": "MODERATE",
-    "Summary": "Moderate severity vulnerability that affects rdoc",
-    "UpdatedAt": "2023-02-01T05:04:11Z",
+    "Summary": "Cross site scripting in rdoc",
+    "UpdatedAt": "2023-06-09T20:29:57Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

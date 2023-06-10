@@ -48,6 +48,12 @@
       },
       {
         "Url": "https://bugzilla.redhat.com/show_bug.cgi?id=1039435"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/i18n/CVE-2013-4492.yml"
+      },
+      {
+        "Url": "https://groups.google.com/forum/#!topic/ruby-security-ann/pLrh6DUw998"
       }
     ],
     "Identifiers": [
@@ -65,7 +71,7 @@
     "PublishedAt": "2017-10-24T18:33:37Z",
     "Severity": "MODERATE",
     "Summary": "Cross-site Scripting in i18n",
-    "UpdatedAt": "2023-02-03T20:43:46Z",
+    "UpdatedAt": "2023-06-09T20:26:34Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

@@ -30,6 +30,9 @@
       },
       {
         "Url": "http://www.securityfocus.com/bid/62891"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/wicked/CVE-2013-4413.yml"
       }
     ],
     "Identifiers": [
@@ -46,8 +49,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2017-10-24T18:33:37Z",
     "Severity": "MODERATE",
-    "Summary": "Moderate severity vulnerability that affects wicked",
-    "UpdatedAt": "2023-01-09T05:03:36Z",
+    "Summary": "Path traversal in wicked",
+    "UpdatedAt": "2023-06-09T20:29:12Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

@@ -24,6 +24,9 @@
       },
       {
         "Url": "https://www.sourceclear.com/registry/security/cross-site-request-forgery-csrf-/ruby/sid-3173"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/rails_admin/CVE-2016-10522.yml"
       }
     ],
     "Identifiers": [
@@ -40,8 +43,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2018-08-08T22:30:35Z",
     "Severity": "MODERATE",
-    "Summary": "Moderate severity vulnerability that affects rails_admin",
-    "UpdatedAt": "2023-01-09T05:03:12Z",
+    "Summary": "Cross-site request forgery in rails_admin",
+    "UpdatedAt": "2023-06-09T20:40:57Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

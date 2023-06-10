@@ -35,6 +35,12 @@
         "Url": "https://old.blog.phusion.nl/2013/03/05/phusion-passenger-4-0-beta-1-and-2-arbitrary-file-deletion-vulnerability"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/passenger/CVE-2012-6135.yml"
+      },
+      {
+        "Url": "http://old.blog.phusion.nl/2013/03/05/phusion-passenger-4-0-beta-1-and-2-arbitrary-file-deletion-vulnerability/"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-8mw8-j583-vqfg"
       }
     ],
@@ -53,7 +59,7 @@
     "PublishedAt": "2022-04-23T00:40:14Z",
     "Severity": "HIGH",
     "Summary": "RubyGems passenger gem allows remote attackers to delete files",
-    "UpdatedAt": "2023-03-20T19:27:51Z",
+    "UpdatedAt": "2023-06-09T22:37:21Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,

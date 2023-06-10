@@ -44,7 +44,7 @@
     "PublishedAt": "2023-06-06T02:00:28Z",
     "Severity": "CRITICAL",
     "Summary": "Rancher vulnerable to Privilege Escalation via manipulation of Secrets",
-    "UpdatedAt": "2023-06-06T02:00:29Z",
+    "UpdatedAt": "2023-06-09T21:08:46Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.9,

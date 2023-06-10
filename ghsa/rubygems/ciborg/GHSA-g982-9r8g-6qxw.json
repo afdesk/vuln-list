@@ -24,6 +24,9 @@
       },
       {
         "Url": "http://www.vapid.dhs.org/advisories/ciborg-3.0.0.html"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/ciborg/CVE-2014-5003.yml"
       }
     ],
     "Identifiers": [
@@ -41,7 +44,7 @@
     "PublishedAt": "2018-07-23T19:50:15Z",
     "Severity": "MODERATE",
     "Summary": "Ciborg gem for Ruby allows local users to write files and gain privileges via Symlink",
-    "UpdatedAt": "2023-01-09T05:03:02Z",
+    "UpdatedAt": "2023-06-09T20:36:39Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.5,

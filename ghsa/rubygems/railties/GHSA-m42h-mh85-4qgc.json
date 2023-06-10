@@ -29,6 +29,9 @@
         "Url": "http://packetstormsecurity.com/files/152704/Ruby-On-Rails-DoubleTap-Development-Mode-secret_key_base-Remote-Code-Execution.html"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/railties/CVE-2019-5420.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-m42h-mh85-4qgc"
       }
     ],
@@ -47,7 +50,7 @@
     "PublishedAt": "2019-03-13T17:28:35Z",
     "Severity": "CRITICAL",
     "Summary": "Use of Insufficiently Random Values in railties",
-    "UpdatedAt": "2023-01-26T21:08:27Z",
+    "UpdatedAt": "2023-06-09T20:00:20Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.8,

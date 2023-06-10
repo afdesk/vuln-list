@@ -21,6 +21,9 @@
       },
       {
         "Url": "http://openwall.com/lists/oss-security/2014/02/18/9"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/activerecord/CVE-2014-0080.yml"
       }
     ],
     "Identifiers": [
@@ -37,8 +40,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2017-10-24T18:33:36Z",
     "Severity": "MODERATE",
-    "Summary": "Moderate severity vulnerability that affects activerecord",
-    "UpdatedAt": "2023-01-09T05:03:09Z",
+    "Summary": "Array data injection vulnerability in activerecord",
+    "UpdatedAt": "2023-06-09T20:08:18Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

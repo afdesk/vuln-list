@@ -32,6 +32,9 @@
         "Url": "https://web.archive.org/web/20200229055915/https://www.securityfocus.com/bid/68733/"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/codders-dataset/CVE-2014-4991.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-w9vv-fvw8-j6q3"
       }
     ],
@@ -50,7 +53,7 @@
     "PublishedAt": "2022-05-14T03:48:04Z",
     "Severity": "HIGH",
     "Summary": "codders-dataset Process Table Local Plaintext Credential Disclosure",
-    "UpdatedAt": "2023-03-29T20:58:28Z",
+    "UpdatedAt": "2023-06-09T22:37:41Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.8,

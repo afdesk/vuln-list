@@ -90,6 +90,12 @@
       },
       {
         "Url": "http://xmlsoft.org/news.html"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/nokogiri/CVE-2015-7499.yml"
+      },
+      {
+        "Url": "https://groups.google.com/forum/#!topic/ruby-security-ann/Dy7YiKb_pMM"
       }
     ],
     "Identifiers": [
@@ -107,7 +113,7 @@
     "PublishedAt": "2018-09-17T21:57:38Z",
     "Severity": "MODERATE",
     "Summary": "Heap-based buffer overflow in nokogiri",
-    "UpdatedAt": "2023-02-13T18:16:44Z",
+    "UpdatedAt": "2023-06-09T20:01:19Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

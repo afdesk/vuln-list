@@ -35,6 +35,21 @@
         "Url": "https://web.archive.org/web/20170307202606/http://www.securityfocus.com/bid/65647"
       },
       {
+        "Url": "https://github.com/rails/rails/commit/08d0a11a3f62718d601d39e617c834759cf59bbb"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/actionpack/CVE-2014-0081.yml"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/rails/CVE-2014-0081.yml"
+      },
+      {
+        "Url": "http://www.securityfocus.com/bid/65647"
+      },
+      {
+        "Url": "http://www.securitytracker.com/id/1029782"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-m46p-ggm5-5j83"
       }
     ],
@@ -53,7 +68,7 @@
     "PublishedAt": "2017-10-24T18:33:36Z",
     "Severity": "MODERATE",
     "Summary": "Rails vulnerable to Cross-site Scripting",
-    "UpdatedAt": "2023-01-23T17:56:49Z",
+    "UpdatedAt": "2023-06-09T19:58:31Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

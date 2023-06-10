@@ -23,6 +23,9 @@
         "Url": "http://www.securityfocus.com/bid/109114"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/field_test/CVE-2019-13146.yml"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-wg9m-gw3h-hg83"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2019-07-16T00:42:27Z",
     "Severity": "MODERATE",
     "Summary": "Injection in field_test",
-    "UpdatedAt": "2023-02-01T05:02:21Z",
+    "UpdatedAt": "2023-06-09T20:00:41Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.3,

@@ -33,6 +33,12 @@
       },
       {
         "Url": "http://www.securityfocus.com/bid/76789"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/devise-two-factor/CVE-2015-7225.yml"
+      },
+      {
+        "Url": "http://www.openwall.com/lists/oss-security/2015/09/06/2"
       }
     ],
     "Identifiers": [
@@ -50,7 +56,7 @@
     "PublishedAt": "2018-08-28T22:34:15Z",
     "Severity": "MODERATE",
     "Summary": "Tinfoil Devise-two-factor does not \"burn\" a successfully validated one-time password (OTP)",
-    "UpdatedAt": "2023-01-09T05:03:28Z",
+    "UpdatedAt": "2023-06-09T20:44:26Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.3,

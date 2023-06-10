@@ -27,6 +27,9 @@
       },
       {
         "Url": "http://www.osvdb.org/91450"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/command_wrap/CVE-2013-1875.yml"
       }
     ],
     "Identifiers": [
@@ -43,8 +46,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2017-10-24T18:33:37Z",
     "Severity": "HIGH",
-    "Summary": "High severity vulnerability that affects command_wrap",
-    "UpdatedAt": "2023-01-09T05:03:33Z",
+    "Summary": "Shell command injection in command_wrap",
+    "UpdatedAt": "2023-06-09T19:50:02Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

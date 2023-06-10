@@ -36,6 +36,12 @@
       },
       {
         "Url": "http://www.securitytracker.com/id/1038157"
+      },
+      {
+        "Url": "https://github.com/sparklemotion/nokogiri/issues/1634"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/nokogiri/CVE-2017-5029.yml"
       }
     ],
     "Identifiers": [
@@ -53,7 +59,7 @@
     "PublishedAt": "2018-07-31T18:21:29Z",
     "Severity": "HIGH",
     "Summary": "Nokogiri lacked integer overflow checks",
-    "UpdatedAt": "2023-02-01T05:04:00Z",
+    "UpdatedAt": "2023-06-09T20:34:56Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.8,

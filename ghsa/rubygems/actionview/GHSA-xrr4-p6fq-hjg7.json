@@ -51,6 +51,15 @@
       },
       {
         "Url": "http://www.securitytracker.com/id/1034816"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/actionpack/CVE-2016-0752.yml"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/actionview/CVE-2016-0752.yml"
+      },
+      {
+        "Url": "https://groups.google.com/forum/#!topic/rubyonrails-security/335P1DcLG00"
       }
     ],
     "Identifiers": [
@@ -68,7 +77,7 @@
     "PublishedAt": "2017-10-24T18:33:35Z",
     "Severity": "HIGH",
     "Summary": "Directory traversal vulnerability in Action View in Ruby on Rails",
-    "UpdatedAt": "2023-01-09T05:03:40Z",
+    "UpdatedAt": "2023-06-09T20:44:10Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,

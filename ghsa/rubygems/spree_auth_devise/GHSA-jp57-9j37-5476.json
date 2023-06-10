@@ -26,6 +26,15 @@
         "Url": "https://web.archive.org/web/20131207040639/https://rubygems.org/gems/spree_auth_devise/versions"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/spree_auth/CVE-2013-2506.yml"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/spree_auth_devise/CVE-2013-2506.yml"
+      },
+      {
+        "Url": "https://spreecommerce.com/blog/multiple-security-vulnerabilities-fixed"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-jp57-9j37-5476"
       }
     ],
@@ -44,7 +53,7 @@
     "PublishedAt": "2022-05-17T05:13:40Z",
     "Severity": "MODERATE",
     "Summary": "spree_auth_devise allows remote authenticated users to assign arbitrary roles to themselves",
-    "UpdatedAt": "2023-01-27T00:19:18Z",
+    "UpdatedAt": "2023-06-09T20:54:32Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

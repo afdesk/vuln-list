@@ -33,6 +33,9 @@
       },
       {
         "Url": "http://openwall.com/lists/oss-security/2014/01/30/3"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/passenger/CVE-2014-1832.yml"
       }
     ],
     "Identifiers": [
@@ -49,8 +52,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2018-10-10T17:29:27Z",
     "Severity": "LOW",
-    "Summary": "Low severity vulnerability that affects passenger",
-    "UpdatedAt": "2023-01-09T05:03:13Z",
+    "Summary": "Insecure use of temporary files in passenger",
+    "UpdatedAt": "2023-06-09T20:25:44Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

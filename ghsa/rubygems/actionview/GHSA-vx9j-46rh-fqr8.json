@@ -38,6 +38,18 @@
         "Url": "https://web.archive.org/web/20200228015320/http://www.securityfocus.com/bid/83726"
       },
       {
+        "Url": "https://github.com/rails/rails/commit/8a1d3ea617ffb0c8ae8467fa439bf63a3bfc4324"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/actionpack/CVE-2016-2097.yml"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/actionview/CVE-2016-2097.yml"
+      },
+      {
+        "Url": "https://groups.google.com/forum/#!topic/rubyonrails-security/ddY6HgqB2z4"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-vx9j-46rh-fqr8"
       }
     ],
@@ -56,7 +68,7 @@
     "PublishedAt": "2017-10-24T18:33:35Z",
     "Severity": "MODERATE",
     "Summary": "actionview Path Traversal vulnerability",
-    "UpdatedAt": "2023-01-23T18:03:51Z",
+    "UpdatedAt": "2023-06-09T20:24:49Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.3,

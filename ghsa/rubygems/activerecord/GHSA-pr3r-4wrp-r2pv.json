@@ -26,6 +26,12 @@
         "Url": "http://www.openwall.com/lists/oss-security/2016/08/11/4"
       },
       {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/activerecord/CVE-2016-6317.yml"
+      },
+      {
+        "Url": "https://groups.google.com/forum/#!topic/rubyonrails-security/rgO20zYW33s"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-pr3r-4wrp-r2pv"
       }
     ],
@@ -44,7 +50,7 @@
     "PublishedAt": "2017-10-24T18:33:35Z",
     "Severity": "HIGH",
     "Summary": "ActiveRecord in Ruby on Rails allows database-query bypass",
-    "UpdatedAt": "2023-01-09T05:03:23Z",
+    "UpdatedAt": "2023-06-09T20:34:42Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
