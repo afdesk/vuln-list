@@ -34,7 +34,7 @@
       "album deb non-free/web extra arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/web"
@@ -90,7 +90,7 @@
       "album-data deb non-free/web extra arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/web"
@@ -143,7 +143,7 @@
       "alien-arena-data deb non-free/games optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/games"
@@ -202,7 +202,7 @@
       "amiwm deb non-free/x11 optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/x11"
@@ -252,7 +252,7 @@
       "amoeba-data deb non-free/x11 optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/x11"
@@ -302,7 +302,7 @@
       "arb deb non-free/science optional arch=amd64,i386,kfreebsd-i386,kfreebsd-amd64 arb-common deb non-free/science optional arch=all arb-doc deb non-free/doc optional arch=all libarb deb non-free/science optional arch=amd64,i386,kfreebsd-i386,kfreebsd-amd64 libarb-dev deb non-free/libdevel optional arch=amd64,i386,kfreebsd-i386,kfreebsd-amd64"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/science"
@@ -358,7 +358,7 @@
       "aseba-plugin-blockly deb non-free/devel optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -529,7 +529,7 @@
       "bison-doc deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -579,7 +579,7 @@
       "blimps-examples deb non-free/science optional arch=any blimps-utils deb non-free/science optional arch=any libblimps3 deb non-free/libs optional arch=any libblimps3-dev deb non-free/libdevel optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/libs"
@@ -638,7 +638,7 @@
       "broadcom-sta-common deb non-free/kernel optional arch=all broadcom-sta-dkms deb non-free/kernel optional arch=all broadcom-sta-source deb non-free/kernel optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/admin"
@@ -697,7 +697,7 @@
       "bsdgames-nonfree deb non-free/games optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/games"
@@ -809,7 +809,7 @@
       "cclib-data deb non-free/science optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/science"
@@ -865,7 +865,7 @@
       "cluster3 deb non-free/science optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/science"
@@ -924,7 +924,7 @@
       "context-nonfree deb non-free/tex optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/tex"
@@ -986,7 +986,7 @@
       "coq-doc deb non-free/doc optional arch=all coq-doc-html deb non-free/doc optional arch=all coq-doc-pdf deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -1089,7 +1089,7 @@
       "crafty deb non-free/games optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/games"
@@ -1139,7 +1139,7 @@
       "cufflinks deb non-free/science optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/science"
@@ -1198,7 +1198,7 @@
       "cuneiform deb non-free/graphics optional arch=any cuneiform-common deb non-free/graphics optional arch=all libcuneiform-dev deb non-free/libdevel optional arch=any libcuneiform0 deb non-free/libs optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/graphics"
@@ -1360,7 +1360,7 @@
       "dgen"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/otherosfs"
@@ -1410,7 +1410,7 @@
       "distributed-net deb non-free/misc optional arch=i386,amd64,powerpc,armel,mipsel,arm64"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/misc"
@@ -1460,7 +1460,7 @@
       "doc-rfc deb non-free/metapackages optional arch=all doc-rfc-experimental deb non-free/doc optional arch=all doc-rfc-fyi-bcp deb non-free/doc optional arch=all doc-rfc-informational deb non-free/doc optional arch=all doc-rfc-misc deb non-free/doc optional arch=all doc-rfc-old-std deb non-free/doc optional arch=all doc-rfc-others deb non-free/doc optional arch=all doc-rfc-std deb non-free/doc optional arch=all doc-rfc-std-proposed deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/metapackages"
@@ -1519,7 +1519,7 @@
       "doom-wad-shareware deb non-free/games optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/games"
@@ -1634,7 +1634,7 @@
       "dwarf-fortress deb non-free/games optional arch=amd64,i386 dwarf-fortress-data deb non-free/games optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -1690,7 +1690,7 @@
       "dynamips deb non-free/net optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/net"
@@ -1740,7 +1740,7 @@
       "ebook-dev-alp deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -1790,7 +1790,7 @@
       "emacs-common-non-dfsg deb non-free/editors optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -1840,7 +1840,7 @@
       "etoys deb non-free/games extra arch=all etoys-doc deb non-free/doc extra arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/games"
@@ -2011,7 +2011,7 @@
       "festlex-oald deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -2070,7 +2070,7 @@
       "festvox-ellpc11k deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -2244,7 +2244,7 @@
       "foiltex deb non-free/tex optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/tex"
@@ -2291,7 +2291,7 @@
       "fonts-ipafont-nonfree-uigothic deb non-free/fonts optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/fonts"
@@ -2347,7 +2347,7 @@
       "fonts-ipafont-nonfree-jisx0208 deb non-free/fonts optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/fonts"
@@ -2403,7 +2403,7 @@
       "fonts-larabie-deco deb non-free/fonts optional fonts-larabie-straight deb non-free/fonts optional fonts-larabie-uncommon deb non-free/fonts optional"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/fonts"
@@ -2459,7 +2459,7 @@
       "fonts-mikachan deb non-free/fonts optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/fonts"
@@ -2512,7 +2512,7 @@
       "fonts-ubuntu deb non-free/fonts optional arch=all fonts-ubuntu-console deb non-free/fonts optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -2568,7 +2568,7 @@
       "frogatto-data deb non-free/games optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/games"
@@ -2686,7 +2686,7 @@
       "gawk-doc deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -2739,7 +2739,7 @@
       "cpp-11-doc deb non-free/doc optional arch=all gcc-11-doc deb non-free/doc optional arch=all gccgo-11-doc deb non-free/doc optional arch=all gfortran-11-doc deb non-free/doc optional arch=all gnat-11-doc deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -2851,7 +2851,7 @@
       "gccintro deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -2910,7 +2910,7 @@
       "gdb-doc deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -3025,7 +3025,7 @@
       "glibc-doc-reference deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -3084,7 +3084,7 @@
       "gliese deb non-free/science optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/science"
@@ -3140,7 +3140,7 @@
       "gmp-doc deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -3252,7 +3252,7 @@
       "gsfonts-other deb non-free/text optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/fonts"
@@ -3302,7 +3302,7 @@
       "gsl-doc-info deb non-free/doc optional arch=all gsl-doc-pdf deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -3346,7 +3346,7 @@
       "gsl-ref-html deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -3390,7 +3390,7 @@
       "gsl-ref-psdoc deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -3437,7 +3437,7 @@
       "hevea-doc deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -3496,7 +3496,7 @@
       "hfsprogs deb non-free/otherosfs optional arch=any hfsprogs-udeb udeb non-free/debian-installer optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/otherosfs"
@@ -3555,7 +3555,7 @@
       "hijra-applet deb non-free/misc optional arch=all python3-hijra deb non-free/python optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/misc"
@@ -3611,7 +3611,7 @@
       "human-icon-theme deb non-free/x11 optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/x11"
@@ -3658,7 +3658,7 @@
       "hwb deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -3708,7 +3708,7 @@
       "icc-profiles deb non-free/graphics optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/graphics"
@@ -3767,7 +3767,7 @@
       "inform deb non-free/devel extra arch=any inform-docs deb non-free/doc extra arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/devel"
@@ -3879,7 +3879,7 @@
       "intel-media-va-driver-non-free deb non-free/video optional arch=amd64,i386,x32"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -3938,7 +3938,7 @@
       "intel-mkl deb non-free/metapackages optional arch=amd64,i386 intel-mkl-cluster deb non-free/metapackages optional arch=amd64 intel-mkl-doc deb non-free/doc optional arch=all intel-mkl-full deb non-free/metapackages optional arch=amd64 intel-mkl-linktool deb non-free/utils optional arch=i386 libmkl-avx deb non-free/libs optional arch=amd64,i386 libmkl-avx2 deb non-free/libs optional arch=amd64,i386 libmkl-avx512 deb non-free/libs optional arch=amd64,i386 libmkl-avx512-mic deb non-free/libs optional arch=amd64 libmkl-blacs-intelmpi-ilp64 deb non-free/libs optional arch=amd64 libmkl-blacs-intelmpi-lp64 deb non-free/libs optional arch=amd64 libmkl-blacs-openmpi-ilp64 deb non-free/libs optional arch=amd64 libmkl-blacs-openmpi-lp64 deb non-free/libs optional arch=amd64 libmkl-blacs-sgimpt-ilp64 deb non-free/libs optional arch=amd64 libmkl-blacs-sgimpt-lp64 deb non-free/libs optional arch=amd64 libmkl-cdft-core deb non-free/libs optional arch=amd64 libmkl-cluster-dev deb non-free/libdevel optional arch=amd64 libmkl-computational-dev deb non-free/libdevel optional arch=amd64,i386 libmkl-core deb non-free/libs optional arch=amd64,i386 libmkl-def deb non-free/libs optional arch=amd64 libmkl-dev deb non-free/libdevel optional arch=amd64,i386 libmkl-full-dev deb non-free/libdevel optional arch=amd64 libmkl-gf deb non-free/libs optional arch=i386 libmkl-gf-ilp64 deb non-free/libs optional arch=amd64 libmkl-gf-lp64 deb non-free/libs optional arch=amd64 libmkl-gnu-thread deb non-free/libs optional arch=amd64,i386 libmkl-intel deb non-free/libs optional arch=i386 libmkl-intel-ilp64 deb non-free/libs optional arch=amd64 libmkl-intel-lp64 deb non-free/libs optional arch=amd64 libmkl-intel-thread deb non-free/libs optional arch=amd64,i386 libmkl-interface-dev deb non-free/libdevel optional arch=amd64,i386 libmkl-locale deb non-free/misc optional arch=amd64,i386 libmkl-mc deb non-free/libs optional arch=amd64 libmkl-mc3 deb non-free/libs optional arch=amd64 libmkl-meta-cluster deb non-free/metapackages optional arch=amd64 libmkl-meta-computational deb non-free/metapackages optional arch=amd64,i386 libmkl-meta-interface deb non-free/metapackages optional arch=amd64,i386 libmkl-meta-threading deb non-free/metapackages optional arch=amd64,i386 libmkl-p4 deb non-free/libs optional arch=i386 libmkl-p4m deb non-free/libs optional arch=i386 libmkl-p4m3 deb non-free/libs optional arch=i386 libmkl-pgi-thread deb non-free/libs optional arch=amd64 libmkl-rt deb non-free/libs optional arch=amd64,i386 libmkl-scalapack-ilp64 deb non-free/libs optional arch=amd64 libmkl-scalapack-lp64 deb non-free/libs optional arch=amd64 libmkl-sequential deb non-free/libs optional arch=amd64,i386 libmkl-threading-dev deb non-free/libdevel optional arch=amd64,i386 libmkl-vml-avx deb non-free/libs optional arch=amd64,i386 libmkl-vml-avx2 deb non-free/libs optional arch=amd64,i386 libmkl-vml-avx512 deb non-free/libs optional arch=amd64,i386 libmkl-vml-avx512-mic deb non-free/libs optional arch=amd64 libmkl-vml-cmpt deb non-free/libs optional arch=amd64,i386 libmkl-vml-def deb non-free/libs optional arch=amd64 libmkl-vml-ia deb non-free/libs optional arch=i386 libmkl-vml-mc deb non-free/libs optional arch=amd64 libmkl-vml-mc2 deb non-free/libs optional arch=amd64 libmkl-vml-mc3 deb non-free/libs optional arch=amd64 libmkl-vml-p4 deb non-free/libs optional arch=i386 libmkl-vml-p4m deb non-free/libs optional arch=i386 libmkl-vml-p4m2 deb non-free/libs optional arch=i386 libmkl-vml-p4m3 deb non-free/libs optional arch=i386"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -4003,7 +4003,7 @@
       "i965-va-driver-shaders deb non-free/video optional arch=any-amd64,any-i386"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -4062,7 +4062,7 @@
       "iozone3 deb non-free/utils optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/utils"
@@ -4112,7 +4112,7 @@
       "irpas deb non-free/net optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/net"
@@ -4168,7 +4168,7 @@
       "libjabsorb-java deb non-free/java optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/java"
@@ -4224,7 +4224,7 @@
       "jhove deb non-free/utils optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/utils"
@@ -4283,7 +4283,7 @@
       "kic deb non-free/x11 optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/x11"
@@ -4439,7 +4439,7 @@
       "lgrind deb non-free/tex optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/tex"
@@ -4548,7 +4548,7 @@
       "clamav-testfiles-rar deb non-free/libs optional arch=all libclamunrar deb non-free/libs optional arch=all libclamunrar11 deb non-free/libs optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/libs"
@@ -4784,7 +4784,7 @@
       "libmath-random-perl deb non-free/perl optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/perl"
@@ -5141,7 +5141,7 @@
       "libstar-parser-perl deb non-free/perl optional"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/perl"
@@ -5203,7 +5203,7 @@
       "libvideo-info-perl deb non-free/perl optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/perl"
@@ -5398,7 +5398,7 @@
       "lmbench deb non-free/admin optional arch=any lmbench-doc deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/admin"
@@ -5451,7 +5451,7 @@
       "madfuload deb non-free/sound extra arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -5507,7 +5507,7 @@
       "make-doc deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -5616,7 +5616,7 @@
       "manpages-posix deb non-free/doc optional arch=all manpages-posix-dev deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -5722,7 +5722,7 @@
       "mbrola-af1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -5772,7 +5772,7 @@
       "mbrola-ar1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -5822,7 +5822,7 @@
       "mbrola-ar2 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -5872,7 +5872,7 @@
       "mbrola-br1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -5972,7 +5972,7 @@
       "mbrola-br3 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -6072,7 +6072,7 @@
       "mbrola-bz1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -6122,7 +6122,7 @@
       "mbrola-ca1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -6172,7 +6172,7 @@
       "mbrola-ca2 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -6222,7 +6222,7 @@
       "mbrola-cn1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -6272,7 +6272,7 @@
       "mbrola-cr1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -6322,7 +6322,7 @@
       "mbrola-cz1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -6372,7 +6372,7 @@
       "mbrola-cz2 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -6572,7 +6572,7 @@
       "mbrola-de4 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -6622,7 +6622,7 @@
       "mbrola-de5 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -6672,7 +6672,7 @@
       "mbrola-de6 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -6722,7 +6722,7 @@
       "mbrola-de7 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -6772,7 +6772,7 @@
       "mbrola-de8 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -6822,7 +6822,7 @@
       "mbrola-ee1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -6872,7 +6872,7 @@
       "mbrola-en1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -6922,7 +6922,7 @@
       "mbrola-es1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -6972,7 +6972,7 @@
       "mbrola-es2 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -7022,7 +7022,7 @@
       "mbrola-es3 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -7072,7 +7072,7 @@
       "mbrola-es4 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -7122,7 +7122,7 @@
       "mbrola-fr1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -7172,7 +7172,7 @@
       "mbrola-fr2 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -7222,7 +7222,7 @@
       "mbrola-fr3 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -7272,7 +7272,7 @@
       "mbrola-fr4 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -7322,7 +7322,7 @@
       "mbrola-fr5 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -7372,7 +7372,7 @@
       "mbrola-fr6 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -7422,7 +7422,7 @@
       "mbrola-fr7 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -7472,7 +7472,7 @@
       "mbrola-gr1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -7522,7 +7522,7 @@
       "mbrola-gr2 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -7572,7 +7572,7 @@
       "mbrola-hb1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -7622,7 +7622,7 @@
       "mbrola-hb2 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -7672,7 +7672,7 @@
       "mbrola-hn1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -7722,7 +7722,7 @@
       "mbrola-hu1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -7822,7 +7822,7 @@
       "mbrola-id1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -7872,7 +7872,7 @@
       "mbrola-in1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -7922,7 +7922,7 @@
       "mbrola-in2 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -8022,7 +8022,7 @@
       "mbrola-it1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -8072,7 +8072,7 @@
       "mbrola-it2 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -8122,7 +8122,7 @@
       "mbrola-it3 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -8172,7 +8172,7 @@
       "mbrola-it4 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -8222,7 +8222,7 @@
       "mbrola-jp1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -8272,7 +8272,7 @@
       "mbrola-jp2 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -8322,7 +8322,7 @@
       "mbrola-jp3 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -8372,7 +8372,7 @@
       "mbrola-la1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -8522,7 +8522,7 @@
       "mbrola-ma1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -8622,7 +8622,7 @@
       "mbrola-mx2 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -8672,7 +8672,7 @@
       "mbrola-nl1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -8722,7 +8722,7 @@
       "mbrola-nl2 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -8772,7 +8772,7 @@
       "mbrola-nl3 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -8822,7 +8822,7 @@
       "mbrola-nz1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -8872,7 +8872,7 @@
       "mbrola-pl1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -8922,7 +8922,7 @@
       "mbrola-pt1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -8972,7 +8972,7 @@
       "mbrola-ro1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -9022,7 +9022,7 @@
       "mbrola-sw1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -9072,7 +9072,7 @@
       "mbrola-sw2 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -9122,7 +9122,7 @@
       "mbrola-tl1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -9272,7 +9272,7 @@
       "mbrola-us1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -9322,7 +9322,7 @@
       "mbrola-us2 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -9372,7 +9372,7 @@
       "mbrola-us3 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -9422,7 +9422,7 @@
       "mbrola-vz1 deb non-free/sound optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -9540,7 +9540,7 @@
       "libmetis-edf-dev deb non-free/libdevel optional arch=any libmetis-edf4.1 deb non-free/libs optional arch=any metis-edf deb non-free/math optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/math"
@@ -9596,7 +9596,7 @@
       "midisport-firmware"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -9649,7 +9649,7 @@
       "fonts-moe-standard-kai deb non-free/fonts extra fonts-moe-standard-song deb non-free/fonts extra"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/fonts"
@@ -9702,7 +9702,7 @@
       "mpi-specs deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -9752,7 +9752,7 @@
       "mssstest deb non-free/science optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/science"
@@ -9864,7 +9864,7 @@
       "nautilus-dropbox deb non-free/gnome optional arch=amd64,i386"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/gnome"
@@ -9920,7 +9920,7 @@
       "netperf deb non-free/net optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/net"
@@ -9967,7 +9967,7 @@
       "nikto deb non-free/net extra arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/net"
@@ -10138,7 +10138,7 @@
       "libcg deb non-free/libs optional arch=amd64,i386 libcggl deb non-free/libs optional arch=amd64,i386 nvidia-cg-dev deb non-free/libdevel optional arch=amd64,i386 nvidia-cg-doc deb non-free/doc optional arch=all nvidia-cg-toolkit deb non-free/devel optional arch=amd64,i386"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/devel"
@@ -10200,7 +10200,7 @@
       "gds-tools deb non-free/utils optional arch=amd64 libaccinj64-11.8 deb non-free/libs optional arch=amd64,ppc64el libcublas11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libcublaslt11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libcudart11.0 deb non-free/libs optional arch=amd64,ppc64el,arm64 libcufft10 deb non-free/libs optional arch=amd64,ppc64el,arm64 libcufftw10 deb non-free/libs optional arch=amd64,ppc64el,arm64 libcufile-dev deb non-free/libdevel optional arch=amd64 libcufile-rdma1 deb non-free/libs optional arch=amd64 libcufile0 deb non-free/libs optional arch=amd64 libcuinj64-11.8 deb non-free/libs optional arch=amd64,ppc64el libcupti-dev deb non-free/libdevel optional arch=amd64,ppc64el,arm64 libcupti-doc deb non-free/doc optional arch=all libcupti11.8 deb non-free/libs optional arch=amd64,ppc64el,arm64 libcurand10 deb non-free/libs optional arch=amd64,ppc64el,arm64 libcusolver11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libcusolvermg11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libcusparse11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnppc11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnppial11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnppicc11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnppidei11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnppif11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnppig11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnppim11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnppist11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnppisu11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnppitc11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnpps11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnvblas11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnvidia-ml-dev deb non-free/libdevel optional arch=amd64,ppc64el,arm64 libnvjpeg11 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnvrtc-builtins11.8 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnvrtc11.2 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnvtoolsext1 deb non-free/libs optional arch=amd64,ppc64el,arm64 libnvvm4 deb non-free/libs optional arch=amd64,ppc64el,arm64 nsight-compute deb non-free/devel optional arch=amd64,ppc64el,arm64 nsight-compute-target deb non-free/devel optional arch=amd64,ppc64el,arm64 nsight-systems deb non-free/devel optional arch=amd64,ppc64el,arm64 nsight-systems-target deb non-free/devel optional arch=amd64,ppc64el,arm64 nvidia-cuda-dev deb non-free/libdevel optional arch=amd64,ppc64el,arm64 nvidia-cuda-gdb deb non-free/devel optional arch=amd64,ppc64el,arm64 nvidia-cuda-toolkit deb non-free/devel optional arch=amd64,ppc64el,arm64 nvidia-cuda-toolkit-doc deb non-free/doc optional arch=all nvidia-cuda-toolkit-gcc deb non-free/devel optional arch=amd64,ppc64el,arm64 nvidia-fs-dkms deb non-free/kernel optional arch=amd64 nvidia-opencl-dev deb non-free/libdevel optional arch=amd64,ppc64el,arm64 nvidia-openjdk-8-jre deb non-free/java optional arch=amd64,ppc64el nvidia-profiler deb non-free/devel optional arch=amd64,ppc64el nvidia-visual-profiler deb non-free/devel optional arch=amd64,ppc64el"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/devel"
@@ -10315,7 +10315,7 @@
       "libegl-nvidia-tesla-470-0 deb non-free/libs optional arch=i386,amd64,arm64,ppc64el libgl1-nvidia-tesla-470-glvnd-glx deb non-free/libs optional arch=i386,amd64,arm64,ppc64el libgles-nvidia-tesla-470-1 deb non-free/libs optional arch=i386,amd64,arm64,ppc64el libgles-nvidia-tesla-470-2 deb non-free/libs optional arch=i386,amd64,arm64,ppc64el libglx-nvidia-tesla-470-0 deb non-free/libs optional arch=i386,amd64,arm64,ppc64el libnvidia-tesla-470-allocator1 deb non-free/libs optional arch=i386,amd64,arm64,ppc64el libnvidia-tesla-470-cbl deb non-free/libs optional arch=amd64,arm64 libnvidia-tesla-470-cfg1 deb non-free/libs optional arch=amd64,arm64,ppc64el libnvidia-tesla-470-compiler deb non-free/libs optional arch=i386,amd64 libnvidia-tesla-470-cuda1 deb non-free/libs optional arch=i386,amd64,arm64,ppc64el libnvidia-tesla-470-eglcore deb non-free/libs optional arch=i386,amd64,arm64,ppc64el libnvidia-tesla-470-encode1 deb non-free/libs optional arch=i386,amd64,arm64,ppc64el libnvidia-tesla-470-fbc1 deb non-free/libs optional arch=i386,amd64 libnvidia-tesla-470-glcore deb non-free/libs optional arch=i386,amd64,arm64,ppc64el libnvidia-tesla-470-glvkspirv deb non-free/libs optional arch=i386,amd64,arm64,ppc64el libnvidia-tesla-470-ifr1 deb non-free/libs optional arch=i386,amd64 libnvidia-tesla-470-ml1 deb non-free/libs optional arch=i386,amd64,arm64,ppc64el libnvidia-tesla-470-ngx1 deb non-free/libs optional arch=amd64 libnvidia-tesla-470-nvcuvid1 deb non-free/libs optional arch=i386,amd64,arm64,ppc64el libnvidia-tesla-470-nvoptix1 deb non-free/libs optional arch=amd64,arm64 libnvidia-tesla-470-nvvm4 deb non-free/libs optional arch=amd64,arm64,ppc64el libnvidia-tesla-470-opticalflow1 deb non-free/libs optional arch=i386,amd64,arm64,ppc64el libnvidia-tesla-470-ptxjitcompiler1 deb non-free/libs optional arch=i386,amd64,arm64,ppc64el libnvidia-tesla-470-rtcore deb non-free/libs optional arch=amd64,arm64 nvidia-cuda-mps deb non-free/utils optional arch=amd64,arm64,ppc64el nvidia-tesla-470-alternative deb non-free/libs optional arch=i386,amd64,arm64,ppc64el nvidia-tesla-470-driver deb non-free/x11 optional arch=amd64,arm64,ppc64el nvidia-tesla-470-driver-bin deb non-free/x11 optional arch=amd64,arm64,ppc64el nvidia-tesla-470-driver-libs deb non-free/libs optional arch=i386,amd64,arm64,ppc64el nvidia-tesla-470-egl-icd deb non-free/libs optional arch=i386,amd64,arm64,ppc64el nvidia-tesla-470-kernel-dkms deb non-free/kernel optional arch=amd64,arm64,ppc64el nvidia-tesla-470-kernel-source deb non-free/kernel optional arch=amd64,arm64,ppc64el nvidia-tesla-470-kernel-support deb non-free/kernel optional arch=amd64,arm64,ppc64el nvidia-tesla-470-opencl-icd deb non-free/libs optional arch=i386,amd64,arm64,ppc64el nvidia-tesla-470-smi deb non-free/utils optional arch=amd64,arm64,ppc64el nvidia-tesla-470-vdpau-driver deb non-free/video optional arch=i386,amd64,arm64,ppc64el nvidia-tesla-470-vulkan-icd deb non-free/libs optional arch=i386,amd64,arm64,ppc64el xserver-xorg-video-nvidia-tesla-470 deb non-free/x11 optional arch=amd64,arm64,ppc64el"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -10377,7 +10377,7 @@
       "ocaml-doc deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -10489,7 +10489,7 @@
       "python3-okasha deb non-free/python optional arch=all python3-okasha-examples deb non-free/python optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/python"
@@ -10548,7 +10548,7 @@
       "ooohg deb non-free/misc extra arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/misc"
@@ -10598,7 +10598,7 @@
       "openboard-fonts-nonfree deb non-free/fonts optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -10772,7 +10772,7 @@
       "os8 deb non-free/otherosfs optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/otherosfs"
@@ -10825,7 +10825,7 @@
       "othman deb non-free/misc optional arch=all python3-othman deb non-free/python optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -10881,7 +10881,7 @@
       "out-of-order deb non-free/games optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/games"
@@ -10940,7 +10940,7 @@
       "p7zip-rar deb non-free/utils optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/utils"
@@ -10996,7 +10996,7 @@
       "libparmetis-dev deb non-free/libdevel optional arch=any libparmetis4.0 deb non-free/libs optional arch=any parmetis-doc deb non-free/doc optional arch=all parmetis-test deb non-free/math optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/math"
@@ -11064,7 +11064,7 @@
       "pgplot5 deb non-free/math optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/math"
@@ -11114,7 +11114,7 @@
       "php-horde-javascriptminify-jsmin deb non-free/php optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -11179,7 +11179,7 @@
       "php-horde-text-filter-jsmin deb non-free/php optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -11238,7 +11238,7 @@
       "picon-domains deb non-free/graphics extra arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/graphics"
@@ -11282,7 +11282,7 @@
       "picon-misc deb non-free/graphics extra arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/graphics"
@@ -11326,7 +11326,7 @@
       "picon-news deb non-free/graphics extra arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/graphics"
@@ -11370,7 +11370,7 @@
       "picon-unknown deb non-free/graphics extra arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/graphics"
@@ -11414,7 +11414,7 @@
       "picon-usenix deb non-free/graphics extra arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/graphics"
@@ -11458,7 +11458,7 @@
       "picon-users deb non-free/graphics extra arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/graphics"
@@ -11502,7 +11502,7 @@
       "picon-weather deb non-free/graphics extra arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/graphics"
@@ -11552,7 +11552,7 @@
       "powder deb non-free/games optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/games"
@@ -11844,7 +11844,7 @@
       "rar deb non-free/utils optional arch=i386,amd64"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/utils"
@@ -12015,7 +12015,7 @@
       "sauerbraten deb non-free/games optional arch=all sauerbraten-server deb non-free/games optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -12074,7 +12074,7 @@
       "scribus-doc deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -12130,7 +12130,7 @@
       "seq-gen deb non-free/science optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/science"
@@ -12189,7 +12189,7 @@
       "sgb deb non-free/math optional arch=any sgb-doc deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/math"
@@ -12239,7 +12239,7 @@
       "shapetools-tutorial deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -12289,7 +12289,7 @@
       "sift deb non-free/science optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/science"
@@ -12345,7 +12345,7 @@
       "sisu-markup-samples deb non-free/text optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/text"
@@ -12466,7 +12466,7 @@
       "snmp-mibs-downloader deb non-free/net optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/net"
@@ -12522,7 +12522,7 @@
       "solvate deb non-free/science optional arch=any solvate-doc deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -12581,7 +12581,7 @@
       "spectrum-roms deb non-free/otherosfs optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/otherosfs"
@@ -12634,7 +12634,7 @@
       "spellcast deb non-free/games optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/games"
@@ -12731,7 +12731,7 @@
       "stardict-english-czech deb non-free/text optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/text"
@@ -12790,7 +12790,7 @@
       "stardict-german-czech deb non-free/text optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/text"
@@ -12902,7 +12902,7 @@
       "libttspico-data deb non-free/sound optional arch=all libttspico-dev deb non-free/libdevel optional arch=any libttspico-utils deb non-free/sound optional arch=any libttspico0 deb non-free/libs optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/sound"
@@ -13017,7 +13017,7 @@
       "tangerine-icon-theme deb non-free/x11 optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/x11"
@@ -13061,7 +13061,7 @@
       "tar-doc deb non-free/doc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/doc"
@@ -13282,7 +13282,7 @@
       "titantools deb non-free/admin optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/admin"
@@ -13338,7 +13338,7 @@
       "tome deb non-free/games optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/games"
@@ -13394,7 +13394,7 @@
       "libtriangle-1.6 deb non-free/libs optional arch=any libtriangle-dev deb non-free/libdevel optional arch=any triangle-bin deb non-free/science optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/science"
@@ -13456,7 +13456,7 @@
       "trn4 deb non-free/news optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/news"
@@ -13574,7 +13574,7 @@
       "unace-nonfree deb non-free/utils extra arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/utils"
@@ -13630,7 +13630,7 @@
       "libunrar-dev deb non-free/libdevel optional arch=any libunrar-headers deb non-free/libdevel optional arch=all libunrar5 deb non-free/libs optional arch=any unrar deb non-free/utils optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/utils"
@@ -13689,7 +13689,7 @@
       "uqm-content deb non-free/games optional arch=all uqm-music deb non-free/games optional arch=all uqm-voice deb non-free/games optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/games"
@@ -13810,7 +13810,7 @@
       "libvdjtools-java deb non-free/java optional arch=all vdjtools deb non-free/science optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -13872,7 +13872,7 @@
       "librna-perl deb non-free/perl optional arch=any python3-rna deb non-free/python optional arch=any vienna-rna deb non-free/science optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -13931,7 +13931,7 @@
       "virtualbox-guest-additions-iso deb non-free/misc optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/misc"
@@ -13990,7 +13990,7 @@
       "wap-wml-tools deb non-free/web optional"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/web"
@@ -14046,7 +14046,7 @@
       "x13as deb non-free/science optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "extra"
     ],
     "Section": [
       "non-free/misc"
@@ -14105,7 +14105,7 @@
       "xfonts-naga10 deb non-free/x11 optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/fonts"
@@ -14161,7 +14161,7 @@
       "fonts-xfree86-nonfree deb non-free/fonts optional arch=all fonts-xfree86-nonfree-syriac deb non-free/fonts optional arch=all t1-xfree86-nonfree deb non-free/fonts optional arch=all ttf-xfree86-nonfree deb non-free/fonts optional arch=all ttf-xfree86-nonfree-syriac deb non-free/fonts optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/fonts"
@@ -14220,7 +14220,7 @@
       "xfractint deb non-free/graphics optional arch=any"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/graphics"
@@ -14270,7 +14270,7 @@
       "xml2rfc deb non-free/text optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/text"
@@ -14332,7 +14332,7 @@
       "xtide-data-nonfree deb non-free/science extra arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/science"
@@ -14382,7 +14382,7 @@
       "yale deb non-free/science optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/science"
@@ -14441,7 +14441,7 @@
       "zangband deb non-free/games optional arch=any zangband-data deb non-free/games optional arch=all"
     ],
     "Priority": [
-      "optional"
+      "source"
     ],
     "Section": [
       "non-free/games"
