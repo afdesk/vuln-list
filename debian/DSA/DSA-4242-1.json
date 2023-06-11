@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Jul 2018] DSA-4242-1 ruby-sprockets - security update",
-    "Line": 3884,
+    "Line": 3888,
     "ID": "DSA-4242-1",
     "Description": "ruby-sprockets - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-3760}",
-      "Line": 3885,
+      "Line": 3889,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-3760"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - ruby-sprockets 3.7.0-1+deb9u1",
-      "Line": 3886,
+      "Line": 3890,
       "Type": "package",
       "Release": "stretch",
       "Package": "ruby-sprockets",

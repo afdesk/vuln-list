@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Oct 2021] DSA-4985-1 wordpress - security update",
-    "Line": 1444,
+    "Line": 1448,
     "ID": "DSA-4985-1",
     "Description": "wordpress - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-39201}",
-      "Line": 1445,
+      "Line": 1449,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-39201"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - wordpress 5.0.14+dfsg1-0+deb10u1",
-      "Line": 1446,
+      "Line": 1450,
       "Type": "package",
       "Release": "buster",
       "Package": "wordpress",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[bullseye] - wordpress 5.7.3+dfsg1-0+deb11u1",
-      "Line": 1447,
+      "Line": 1451,
       "Type": "package",
       "Release": "bullseye",
       "Package": "wordpress",

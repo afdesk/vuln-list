@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Aug 2004] DSA-539 kdelibs - denial of service",
-    "Line": 16988,
+    "Line": 16992,
     "ID": "DSA-539",
     "Description": "kdelibs - denial of service"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0689}",
-      "Line": 16989,
+      "Line": 16993,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0689"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - kdelibs 4:2.2.2-13.woody.12",
-      "Line": 16990,
+      "Line": 16994,
       "Type": "package",
       "Release": "woody",
       "Package": "kdelibs",

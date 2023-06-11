@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Dec 2017] DSA-4059-1 libxcursor - security update",
-    "Line": 4542,
+    "Line": 4546,
     "ID": "DSA-4059-1",
     "Description": "libxcursor - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-16612}",
-      "Line": 4543,
+      "Line": 4547,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-16612"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - libxcursor 1:1.1.14-1+deb8u1",
-      "Line": 4544,
+      "Line": 4548,
       "Type": "package",
       "Release": "jessie",
       "Package": "libxcursor",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[stretch] - libxcursor 1:1.1.14-1+deb9u1",
-      "Line": 4545,
+      "Line": 4549,
       "Type": "package",
       "Release": "stretch",
       "Package": "libxcursor",
