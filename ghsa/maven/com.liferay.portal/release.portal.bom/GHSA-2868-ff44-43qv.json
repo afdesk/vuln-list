@@ -1,5 +1,5 @@
 {
-  "Severity": "LOW",
+  "Severity": "MODERATE",
   "UpdatedAt": "2023-05-24T21:52:55Z",
   "Package": {
     "Ecosystem": "MAVEN",
@@ -33,13 +33,13 @@
     "Description": "The Object module in Liferay Portal 7.4.3.4 through 7.4.3.48, and Liferay DXP 7.4 before update 49 does properly isolate objects in difference virtual instances, which allows remote authenticated users in one virtual instance to view objects in a different virtual instance via OAuth 2 scope administration page.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-24T18:30:26Z",
-    "Severity": "LOW",
+    "Severity": "MODERATE",
     "Summary": "Liferay portal unauthorized access to objects via OAuth 2 scope",
-    "UpdatedAt": "2023-05-24T21:52:55Z",
+    "UpdatedAt": "2023-06-11T05:01:10Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 2.7,
-      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:L/I:N/A:N"
+      "Score": 4.3,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N"
     }
   },
   "Versions": [
