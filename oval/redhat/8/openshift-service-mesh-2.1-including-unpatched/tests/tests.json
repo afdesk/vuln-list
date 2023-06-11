@@ -778,17 +778,6 @@
     },
     {
       "Check": "at least one",
-      "Comment": "servicemesh-operator is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202221698004",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202241717008"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "servicemesh-proxy is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202229526002",
       "Version": "635",
@@ -817,6 +806,17 @@
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202221656001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "servicemesh-operator is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:20223064004",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202241717008"
       },
       "State": {}
     },
