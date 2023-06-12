@@ -2,7 +2,7 @@
   "module": "github.com/zalando/skipper",
   "id": "GO-2022-1086",
   "published": "2022-11-02T23:44:35Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-38580",
     "GHSA-f2rj-m42r-6jm2"

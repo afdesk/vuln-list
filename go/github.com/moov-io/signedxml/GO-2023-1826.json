@@ -2,7 +2,7 @@
   "module": "github.com/moov-io/signedxml",
   "id": "GO-2023-1826",
   "published": "2023-06-09T15:42:52Z",
-  "modified": "2023-06-09T15:42:52Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2023-34205",
     "GHSA-jqvr-j2vg-gjrv"

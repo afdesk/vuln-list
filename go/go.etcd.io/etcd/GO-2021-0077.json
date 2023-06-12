@@ -2,7 +2,7 @@
   "module": "go.etcd.io/etcd",
   "id": "GO-2021-0077",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2018-16886",
     "GHSA-h6xx-pmxh-3wgp"

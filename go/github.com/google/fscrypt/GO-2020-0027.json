@@ -2,7 +2,7 @@
   "module": "github.com/google/fscrypt",
   "id": "GO-2020-0027",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2018-6558",
     "GHSA-qj26-7grj-whg3"

@@ -2,7 +2,7 @@
   "module": "code.cloudfoundry.org/gorouter",
   "id": "GO-2021-0102",
   "published": "2021-07-28T18:08:05Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2019-11289",
     "GHSA-5796-p3m6-9qj4"

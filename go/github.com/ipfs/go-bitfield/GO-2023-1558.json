@@ -2,7 +2,7 @@
   "module": "github.com/ipfs/go-bitfield",
   "id": "GO-2023-1558",
   "published": "2023-02-14T19:41:21Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2023-23626",
     "GHSA-2h6c-j3gf-xp9r"

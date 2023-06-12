@@ -2,7 +2,7 @@
   "module": "github.com/pandatix/go-cvss",
   "id": "GO-2022-1002",
   "published": "2022-09-21T15:12:40Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-39213",
     "GHSA-xhmf-mmv2-4hhx"

@@ -2,7 +2,7 @@
   "module": "github.com/pion/dtls/v2",
   "id": "GO-2022-0460",
   "published": "2022-07-01T20:07:34Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-29190",
     "GHSA-cm8f-h6j3-p25c"

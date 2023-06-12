@@ -2,7 +2,7 @@
   "module": "github.com/biscuit-auth/biscuit-go",
   "id": "GO-2022-0564",
   "published": "2022-08-15T18:02:15Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-31053",
     "GHSA-75rw-34q6-72cr"

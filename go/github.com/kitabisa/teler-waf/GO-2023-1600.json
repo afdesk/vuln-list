@@ -2,7 +2,7 @@
   "module": "github.com/kitabisa/teler-waf",
   "id": "GO-2023-1600",
   "published": "2023-03-02T00:34:41Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2023-26047",
     "GHSA-p2pf-g8cq-3gq5"

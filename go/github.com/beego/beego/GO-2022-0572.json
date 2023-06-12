@@ -2,7 +2,7 @@
   "module": "github.com/beego/beego",
   "id": "GO-2022-0572",
   "published": "2022-08-22T17:56:17Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2021-30080",
     "GHSA-28r6-jm5h-mrgg"

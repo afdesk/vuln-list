@@ -2,7 +2,7 @@
   "module": "helm.sh/helm/v3",
   "id": "GO-2022-1040",
   "published": "2022-10-18T15:14:31Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2021-21303",
     "GHSA-c38g-469g-cmgx"

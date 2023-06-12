@@ -2,7 +2,7 @@
   "module": "k8s.io/kube-state-metrics",
   "id": "GO-2022-0621",
   "published": "2021-05-18T15:38:54Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2019-10223",
     "CVE-2019-17110",

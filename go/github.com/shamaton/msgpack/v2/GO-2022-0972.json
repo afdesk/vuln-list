@@ -2,7 +2,7 @@
   "module": "github.com/shamaton/msgpack/v2",
   "id": "GO-2022-0972",
   "published": "2022-11-10T19:55:07Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-41719",
     "GHSA-jr77-8gx4-h5qh"

@@ -2,7 +2,7 @@
   "module": "github.com/sylabs/sif/v2",
   "id": "GO-2022-1045",
   "published": "2022-10-21T15:34:36Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-39237",
     "GHSA-m5m3-46gj-wch8"

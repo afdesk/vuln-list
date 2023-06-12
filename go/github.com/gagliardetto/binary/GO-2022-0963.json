@@ -2,7 +2,7 @@
   "module": "github.com/gagliardetto/binary",
   "id": "GO-2022-0963",
   "published": "2022-09-02T18:37:03Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-36078",
     "GHSA-4p6f-m4f9-ch88"

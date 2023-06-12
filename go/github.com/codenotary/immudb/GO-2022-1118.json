@@ -2,7 +2,7 @@
   "module": "github.com/codenotary/immudb",
   "id": "GO-2022-1118",
   "published": "2022-12-22T20:40:16Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-39199",
     "GHSA-6cqj-6969-p57x"

@@ -2,7 +2,7 @@
   "module": "github.com/nats-io/jwt",
   "id": "GO-2022-0380",
   "published": "2022-07-15T23:29:36Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2020-26892",
     "GHSA-2c64-vj8g-vwrq",

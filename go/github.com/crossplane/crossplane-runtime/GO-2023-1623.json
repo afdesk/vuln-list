@@ -2,7 +2,7 @@
   "module": "github.com/crossplane/crossplane-runtime",
   "id": "GO-2023-1623",
   "published": "2023-03-13T19:39:57Z",
-  "modified": "2023-04-04T16:37:49Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2023-27483",
     "GHSA-vfvj-3m3g-m532"

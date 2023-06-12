@@ -2,7 +2,7 @@
   "module": "github.com/libp2p/go-libp2p",
   "id": "GO-2022-1148",
   "published": "2022-12-14T02:21:28Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-23492",
     "GHSA-j7qp-mfxf-8xjw"

@@ -2,7 +2,7 @@
   "module": "github.com/blevesearch/bleve/v2",
   "id": "GO-2022-0470",
   "published": "2022-07-15T23:29:55Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-31022",
     "GHSA-9w9f-6mg8-jp7w"

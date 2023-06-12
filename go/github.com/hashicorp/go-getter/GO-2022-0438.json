@@ -2,7 +2,7 @@
   "module": "github.com/hashicorp/go-getter",
   "id": "GO-2022-0438",
   "published": "2022-07-01T20:07:52Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-29810",
     "GHSA-27rq-4943-qcwp"

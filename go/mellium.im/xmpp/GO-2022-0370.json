@@ -2,7 +2,7 @@
   "module": "mellium.im/xmpp",
   "id": "GO-2022-0370",
   "published": "2022-07-29T20:00:14Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-24968",
     "GHSA-h289-x5wc-xcv8",

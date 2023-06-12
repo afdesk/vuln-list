@@ -2,7 +2,7 @@
   "module": "github.com/matrix-org/gomatrixserverlib",
   "id": "GO-2022-0952",
   "published": "2022-08-22T18:08:50Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-36009",
     "GHSA-grvv-h2f9-7v9c"

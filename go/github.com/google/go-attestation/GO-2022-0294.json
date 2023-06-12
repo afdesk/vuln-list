@@ -2,7 +2,7 @@
   "module": "github.com/google/go-attestation",
   "id": "GO-2022-0294",
   "published": "2022-07-15T23:27:21Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-0317",
     "GHSA-99cg-575x-774p"

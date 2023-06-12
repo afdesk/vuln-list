@@ -2,7 +2,7 @@
   "module": "github.com/sassoftware/go-rpmutils",
   "id": "GO-2020-0042",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-06-07T14:33:03Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2020-7667",
     "GHSA-9423-6c93-gpp8"

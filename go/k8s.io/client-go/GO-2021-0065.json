@@ -2,7 +2,7 @@
   "module": "k8s.io/client-go",
   "id": "GO-2021-0065",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2019-11250",
     "GHSA-jmrx-5g74-6v2f"

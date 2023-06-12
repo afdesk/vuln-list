@@ -2,7 +2,7 @@
   "module": "github.com/artdarek/go-unzip",
   "id": "GO-2020-0034",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-06-07T14:33:03Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2020-36560",
     "GHSA-rmj9-q58g-9qgg"

@@ -2,7 +2,7 @@
   "module": "github.com/gofiber/fiber",
   "id": "GO-2021-0108",
   "published": "2021-07-28T18:08:05Z",
-  "modified": "2023-05-18T20:38:56Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2020-15111",
     "GHSA-9cx9-x2gp-9qvh"

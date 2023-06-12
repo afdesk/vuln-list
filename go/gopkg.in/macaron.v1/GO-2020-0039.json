@@ -2,7 +2,7 @@
   "module": "gopkg.in/macaron.v1",
   "id": "GO-2020-0039",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-06-07T14:33:03Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2020-12666",
     "GHSA-733f-44f3-3frw"

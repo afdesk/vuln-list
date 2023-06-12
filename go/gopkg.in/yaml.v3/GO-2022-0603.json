@@ -2,7 +2,7 @@
   "module": "gopkg.in/yaml.v3",
   "id": "GO-2022-0603",
   "published": "2022-08-22T18:00:47Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-28948",
     "GHSA-hp87-p4gw-j4gq"

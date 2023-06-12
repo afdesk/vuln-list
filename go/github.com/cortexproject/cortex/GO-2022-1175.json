@@ -2,7 +2,7 @@
   "module": "github.com/cortexproject/cortex",
   "id": "GO-2022-1175",
   "published": "2022-12-22T17:41:59Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-23536",
     "GHSA-cq2g-pw6q-hf7j"

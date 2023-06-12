@@ -2,7 +2,7 @@
   "module": "github.com/antchfx/xmlquery",
   "id": "GO-2020-0048",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2020-25614",
     "GHSA-93m7-c69f-5cfj"

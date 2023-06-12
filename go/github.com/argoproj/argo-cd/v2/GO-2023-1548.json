@@ -2,7 +2,7 @@
   "module": "github.com/argoproj/argo-cd/v2",
   "id": "GO-2023-1548",
   "published": "2023-02-15T16:43:39Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2023-25163",
     "GHSA-mv6w-j4xc-qpfw"

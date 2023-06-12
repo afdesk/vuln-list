@@ -2,7 +2,7 @@
   "module": "github.com/goreleaser/nfpm/v2",
   "id": "GO-2023-1788",
   "published": "2023-06-01T21:27:40Z",
-  "modified": "2023-06-01T21:27:40Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2023-32698",
     "GHSA-w7jw-q4fg-qc4c"

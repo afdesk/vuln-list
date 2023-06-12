@@ -2,7 +2,7 @@
   "module": "github.com/usememos/memos",
   "id": "GO-2023-1566",
   "published": "2023-02-15T23:55:24Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-25978",
     "GHSA-9w8x-5hv5-r6gw"

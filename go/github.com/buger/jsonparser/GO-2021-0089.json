@@ -2,7 +2,7 @@
   "module": "github.com/buger/jsonparser",
   "id": "GO-2021-0089",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2020-10675",
     "GHSA-rmh2-65xw-9m6q"

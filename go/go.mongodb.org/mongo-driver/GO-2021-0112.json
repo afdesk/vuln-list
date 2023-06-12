@@ -2,7 +2,7 @@
   "module": "go.mongodb.org/mongo-driver",
   "id": "GO-2021-0112",
   "published": "2021-07-28T18:08:05Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2021-20329",
     "GHSA-f6mq-5m25-4r72"

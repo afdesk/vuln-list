@@ -2,7 +2,7 @@
   "module": "github.com/containers/buildah",
   "id": "GO-2022-1008",
   "published": "2022-09-21T15:06:10Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-2990",
     "GHSA-fjm8-m7m6-2fjp"

@@ -2,7 +2,7 @@
   "module": "code.cloudfoundry.org/archiver",
   "id": "GO-2020-0025",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-06-07T14:33:03Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2018-25046",
     "GHSA-32qh-8vg6-9g43"

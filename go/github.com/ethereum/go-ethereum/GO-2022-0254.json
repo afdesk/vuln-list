@@ -2,7 +2,7 @@
   "module": "github.com/ethereum/go-ethereum",
   "id": "GO-2022-0254",
   "published": "2022-07-15T23:07:56Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2021-39137",
     "GHSA-9856-9gg9-qcmq"

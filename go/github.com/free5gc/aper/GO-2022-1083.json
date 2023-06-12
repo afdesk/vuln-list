@@ -2,7 +2,7 @@
   "module": "github.com/free5gc/aper",
   "id": "GO-2022-1083",
   "published": "2022-11-02T21:52:22Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-43677",
     "GHSA-59hj-62f5-fgmc"

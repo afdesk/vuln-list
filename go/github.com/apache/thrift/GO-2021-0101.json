@@ -2,7 +2,7 @@
   "module": "github.com/apache/thrift",
   "id": "GO-2021-0101",
   "published": "2021-07-28T18:08:05Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2019-0210",
     "GHSA-jq7p-26h5-w78r"

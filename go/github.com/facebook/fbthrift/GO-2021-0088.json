@@ -2,7 +2,7 @@
   "module": "github.com/facebook/fbthrift",
   "id": "GO-2021-0088",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2019-3564",
     "GHSA-x4rg-4545-4w7w"

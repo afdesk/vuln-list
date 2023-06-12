@@ -2,7 +2,7 @@
   "module": "github.com/hakobe/paranoidhttp",
   "id": "GO-2023-1526",
   "published": "2023-02-14T16:19:07Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2023-24623",
     "GHSA-v9mp-j8g7-2q6m"

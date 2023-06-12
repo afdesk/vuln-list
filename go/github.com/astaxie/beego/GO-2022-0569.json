@@ -2,7 +2,7 @@
   "module": "github.com/astaxie/beego",
   "id": "GO-2022-0569",
   "published": "2022-08-23T13:24:17Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-31836",
     "GHSA-95f9-94vc-665h"

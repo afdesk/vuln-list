@@ -2,7 +2,7 @@
   "module": "github.com/tidwall/gjson",
   "id": "GO-2021-0265",
   "published": "2022-08-15T18:06:07Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2021-42248",
     "CVE-2021-42836",

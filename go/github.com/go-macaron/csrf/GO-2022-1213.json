@@ -2,7 +2,7 @@
   "module": "github.com/go-macaron/csrf",
   "id": "GO-2022-1213",
   "published": "2023-01-03T23:05:24Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2018-25060",
     "GHSA-hhxg-px5h-jc32"

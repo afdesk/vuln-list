@@ -2,7 +2,7 @@
   "module": "github.com/docker/distribution",
   "id": "GO-2021-0072",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-05-23T21:03:09Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2017-11468",
     "GHSA-h62f-wm92-2cmw"

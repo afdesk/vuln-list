@@ -2,7 +2,7 @@
   "module": "github.com/fluxcd/source-controller/api",
   "id": "GO-2022-1071",
   "published": "2022-10-28T16:07:05Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-39272",
     "GHSA-f4p5-x4vc-mh4v"

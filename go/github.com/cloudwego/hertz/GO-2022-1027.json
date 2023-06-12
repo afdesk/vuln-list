@@ -2,7 +2,7 @@
   "module": "github.com/cloudwego/hertz",
   "id": "GO-2022-1027",
   "published": "2022-10-05T18:02:53Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-40082",
     "GHSA-c9qr-f6c8-rgxf"

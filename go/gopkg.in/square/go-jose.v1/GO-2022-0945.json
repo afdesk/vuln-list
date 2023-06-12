@@ -2,7 +2,7 @@
   "module": "gopkg.in/square/go-jose.v1",
   "id": "GO-2022-0945",
   "published": "2022-08-22T17:59:45Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2016-9122",
     "GHSA-77gc-fj98-665h"

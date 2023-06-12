@@ -2,7 +2,7 @@
   "module": "github.com/rancher/rancher",
   "id": "GO-2022-0755",
   "published": "2021-05-18T15:42:40Z",
-  "modified": "2023-05-23T21:03:09Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2019-13209",
     "GHSA-xhg2-rvm8-w2jh"

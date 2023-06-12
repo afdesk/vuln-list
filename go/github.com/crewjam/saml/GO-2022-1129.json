@@ -2,7 +2,7 @@
   "module": "github.com/crewjam/saml",
   "id": "GO-2022-1129",
   "published": "2022-11-29T18:03:21Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-41912",
     "GHSA-j2jp-wvqg-wc2g"

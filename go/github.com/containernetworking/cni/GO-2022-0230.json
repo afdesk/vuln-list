@@ -2,7 +2,7 @@
   "module": "github.com/containernetworking/cni",
   "id": "GO-2022-0230",
   "published": "2022-07-01T20:17:57Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2021-20206",
     "GHSA-xjqr-g762-pxwp"

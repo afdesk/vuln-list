@@ -2,7 +2,7 @@
   "module": "github.com/ipld/go-codec-dagpb",
   "id": "GO-2022-0422",
   "published": "2022-07-01T20:08:04Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-2584",
     "GHSA-967g-cjx4-h7j6",

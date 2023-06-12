@@ -2,7 +2,7 @@
   "module": "github.com/flyteorg/flyteadmin",
   "id": "GO-2022-1043",
   "published": "2022-10-31T17:09:13Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-39273",
     "GHSA-67x4-qr35-qvrm"

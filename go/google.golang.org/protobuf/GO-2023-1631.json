@@ -2,7 +2,7 @@
   "module": "google.golang.org/protobuf",
   "id": "GO-2023-1631",
   "published": "2023-03-14T16:47:00Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2023-24535",
     "GHSA-hw7c-3rfg-p46j"

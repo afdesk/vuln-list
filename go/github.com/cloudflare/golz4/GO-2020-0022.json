@@ -2,7 +2,7 @@
   "module": "github.com/cloudflare/golz4",
   "id": "GO-2020-0022",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2014-125026",
     "GHSA-4wp2-8rm2-jgmh"

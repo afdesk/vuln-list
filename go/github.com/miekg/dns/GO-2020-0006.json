@@ -2,7 +2,7 @@
   "module": "github.com/miekg/dns",
   "id": "GO-2020-0006",
   "published": "2021-04-14T20:04:52Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2017-15133",
     "GHSA-p55x-7x9v-q8m4"

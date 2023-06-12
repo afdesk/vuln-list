@@ -2,7 +2,7 @@
   "module": "github.com/pires/go-proxyproto",
   "id": "GO-2022-0233",
   "published": "2022-07-01T20:18:04Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2021-23409",
     "GHSA-xcf7-q56x-78gh"

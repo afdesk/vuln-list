@@ -2,7 +2,7 @@
   "module": "github.com/kyverno/kyverno",
   "id": "GO-2022-1180",
   "published": "2022-12-27T18:24:54Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-47633",
     "GHSA-m3cq-xcx9-3gvm"

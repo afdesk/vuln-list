@@ -2,7 +2,7 @@
   "module": "github.com/ipld/go-ipld-prime",
   "id": "GO-2023-1269",
   "published": "2023-01-18T18:07:08Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2023-22460",
     "GHSA-c653-6hhg-9x92"

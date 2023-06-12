@@ -2,7 +2,7 @@
   "module": "toolchain",
   "id": "GO-2023-1839",
   "published": "2023-06-08T20:16:16Z",
-  "modified": "2023-06-08T20:16:16Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2023-29402"
   ],

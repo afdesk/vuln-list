@@ -2,7 +2,7 @@
   "module": "helm.sh/helm/v3",
   "id": "GO-2022-0962",
   "published": "2022-09-02T15:19:52Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-36055",
     "GHSA-7hfp-qfw3-5jxh"

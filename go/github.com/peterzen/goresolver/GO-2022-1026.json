@@ -2,7 +2,7 @@
   "module": "github.com/peterzen/goresolver",
   "id": "GO-2022-1026",
   "published": "2022-09-29T17:25:07Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2022-3347",
     "GHSA-jr65-gpj5-cw74"

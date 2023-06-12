@@ -2,7 +2,7 @@
   "module": "golang.org/x/text",
   "id": "GO-2021-0113",
   "published": "2021-10-06T17:51:21Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2021-38561",
     "GHSA-ppp9-7jff-5vj2"

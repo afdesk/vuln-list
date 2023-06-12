@@ -2,7 +2,7 @@
   "module": "github.com/microcosm-cc/bluemonday",
   "id": "GO-2022-0762",
   "published": "2021-05-18T21:07:37Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2021-29272",
     "GHSA-3x58-xr87-2fcj"

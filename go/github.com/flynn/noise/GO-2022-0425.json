@@ -2,7 +2,7 @@
   "module": "github.com/flynn/noise",
   "id": "GO-2022-0425",
   "published": "2022-02-15T01:57:18Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2021-4239",
     "GHSA-6cr6-fmvc-vw2p",

@@ -2,7 +2,7 @@
   "module": "github.com/tidwall/gjson",
   "id": "GO-2022-0957",
   "published": "2022-08-25T06:28:20Z",
-  "modified": "2023-04-03T15:57:51Z",
+  "modified": "2023-06-12T18:45:41Z",
   "aliases": [
     "CVE-2020-36066",
     "GHSA-wjm3-fq3r-5x46"
