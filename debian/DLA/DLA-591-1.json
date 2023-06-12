@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Aug 2016] DLA-591-1 libreoffice - security update",
-    "Line": 8736,
+    "Line": 8739,
     "ID": "DLA-591-1",
     "Description": "libreoffice - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-1513}",
-      "Line": 8737,
+      "Line": 8740,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-1513"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - libreoffice 1:3.5.4+dfsg2-0+deb7u8",
-      "Line": 8738,
+      "Line": 8741,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libreoffice",

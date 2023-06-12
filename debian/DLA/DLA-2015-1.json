@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Nov 2019] DLA-2015-1 nss - security update",
-    "Line": 4382,
+    "Line": 4385,
     "ID": "DLA-2015-1",
     "Description": "nss - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-17007}",
-      "Line": 4383,
+      "Line": 4386,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-17007"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - nss 2:3.26-1+debu8u8",
-      "Line": 4384,
+      "Line": 4387,
       "Type": "package",
       "Release": "jessie",
       "Package": "nss",

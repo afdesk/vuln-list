@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Nov 2021] DLA-2827-1 bluez - security update",
-    "Line": 1890,
+    "Line": 1893,
     "ID": "DLA-2827-1",
     "Description": "bluez - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-8921 CVE-2019-8922 CVE-2021-41229}",
-      "Line": 1891,
+      "Line": 1894,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-8921",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[stretch] - bluez 5.43-2+deb9u5",
-      "Line": 1892,
+      "Line": 1895,
       "Type": "package",
       "Release": "stretch",
       "Package": "bluez",

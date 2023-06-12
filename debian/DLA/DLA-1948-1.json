@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Oct 2019] DLA-1948-1 ruby-mini-magick - security update",
-    "Line": 4589,
+    "Line": 4592,
     "ID": "DLA-1948-1",
     "Description": "ruby-mini-magick - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-13574}",
-      "Line": 4590,
+      "Line": 4593,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-13574"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - ruby-mini-magick 3.8.1-1+deb8u1",
-      "Line": 4591,
+      "Line": 4594,
       "Type": "package",
       "Release": "jessie",
       "Package": "ruby-mini-magick",
