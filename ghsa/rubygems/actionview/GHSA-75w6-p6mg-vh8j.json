@@ -1,9 +1,9 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2023-05-26T16:08:07Z",
+  "UpdatedAt": "2023-06-12T16:47:12Z",
   "Package": {
     "Ecosystem": "RUBYGEMS",
-    "Name": "actionpack"
+    "Name": "actionview"
   },
   "Advisory": {
     "DatabaseId": 187,

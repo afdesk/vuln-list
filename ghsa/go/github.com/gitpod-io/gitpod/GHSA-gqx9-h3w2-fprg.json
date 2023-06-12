@@ -50,11 +50,11 @@
     "PublishedAt": "2023-06-05T15:33:28Z",
     "Severity": "MODERATE",
     "Summary": "Gitpod vulnerable to Cross-site Scripting",
-    "UpdatedAt": "2023-06-06T02:07:26Z",
+    "UpdatedAt": "2023-06-12T16:44:47Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 6.1,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [
