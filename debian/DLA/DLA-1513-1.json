@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Sep 2018] DLA-1513-1 openafs - security update",
-    "Line": 5928,
+    "Line": 5931,
     "ID": "DLA-1513-1",
     "Description": "openafs - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-16947 CVE-2018-16948 CVE-2018-16949}",
-      "Line": 5929,
+      "Line": 5932,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-16947",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[jessie] - openafs 1.6.9-2+deb8u8",
-      "Line": 5930,
+      "Line": 5933,
       "Type": "package",
       "Release": "jessie",
       "Package": "openafs",

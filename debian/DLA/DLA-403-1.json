@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Jan 2016] DLA-403-1 radicale - security update",
-    "Line": 9296,
+    "Line": 9299,
     "ID": "DLA-403-1",
     "Description": "radicale - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-8747 CVE-2015-8748}",
-      "Line": 9297,
+      "Line": 9300,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-8747",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[squeeze] - radicale 0.3-2+deb6u1",
-      "Line": 9298,
+      "Line": 9301,
       "Type": "package",
       "Release": "squeeze",
       "Package": "radicale",

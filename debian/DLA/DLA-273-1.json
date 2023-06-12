@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Jul 2015] DLA-273-1 tidy - security update",
-    "Line": 9692,
+    "Line": 9695,
     "ID": "DLA-273-1",
     "Description": "tidy - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-5522 CVE-2015-5523}",
-      "Line": 9693,
+      "Line": 9696,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-5522",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[squeeze] - tidy 20091223cvs-1+deb6u1",
-      "Line": 9694,
+      "Line": 9697,
       "Type": "package",
       "Release": "squeeze",
       "Package": "tidy",

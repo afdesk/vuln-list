@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Aug 2017] DLA-1068-1 git - security update",
-    "Line": 7270,
+    "Line": 7273,
     "ID": "DLA-1068-1",
     "Description": "git - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-1000117}",
-      "Line": 7271,
+      "Line": 7274,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-1000117"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - git 1:1.7.10.4-1+wheezy5",
-      "Line": 7272,
+      "Line": 7275,
       "Type": "package",
       "Release": "wheezy",
       "Package": "git",

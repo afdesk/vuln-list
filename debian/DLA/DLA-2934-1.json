@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Mar 2022] DLA-2934-1 freecad - security update",
-    "Line": 1558,
+    "Line": 1561,
     "ID": "DLA-2934-1",
     "Description": "freecad - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-45844}",
-      "Line": 1559,
+      "Line": 1562,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-45844"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - freecad 0.16+dfsg2-3+deb9u1",
-      "Line": 1560,
+      "Line": 1563,
       "Type": "package",
       "Release": "stretch",
       "Package": "freecad",
