@@ -12,62 +12,14 @@
     "shortname": "almalinux-9-for-i686-appstream-rpms__9_2_default",
     "packages": [
       {
-        "name": "libcurl-devel",
-        "version": "7.76.1",
-        "release": "23.el9",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "curl-7.76.1-23.el9.src.rpm",
-        "filename": "libcurl-devel-7.76.1-23.el9.i686.rpm",
-        "sum": "660818f2e31e18baa7b267885e21d2823242f516cc34c9cc6a5d163e22b4d11c",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libcurl-devel",
-        "version": "7.76.1",
-        "release": "23.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "curl-7.76.1-23.el9.src.rpm",
-        "filename": "libcurl-devel-7.76.1-23.el9.aarch64.rpm",
-        "sum": "3416cf64b885765ddb9ffa828979a5d2e6941c96f21f59d7eec9705f47a482c3",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libcurl-devel",
-        "version": "7.76.1",
-        "release": "23.el9",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "curl-7.76.1-23.el9.src.rpm",
-        "filename": "libcurl-devel-7.76.1-23.el9.x86_64.rpm",
-        "sum": "69646a0e6fd8220e32c5092f85ce2f240b0e481d25cced6f4b7bb66a66111a86",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libcurl-devel",
+        "name": "libcurl-minimal",
         "version": "7.76.1",
         "release": "23.el9",
         "epoch": "0",
         "arch": "ppc64le",
         "src": "curl-7.76.1-23.el9.src.rpm",
-        "filename": "libcurl-devel-7.76.1-23.el9.ppc64le.rpm",
-        "sum": "d7faa2875f9a8f13a00a162bfe0b064e336291cb0acf1b692a8916478d0ca2df",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libcurl-devel",
-        "version": "7.76.1",
-        "release": "23.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "curl-7.76.1-23.el9.src.rpm",
-        "filename": "libcurl-devel-7.76.1-23.el9.s390x.rpm",
-        "sum": "6e6ff640f1c717655050fdd3d2e25a22fd5c9e3e8b83705dea58a4b4c3275b86",
+        "filename": "libcurl-minimal-7.76.1-23.el9.ppc64le.rpm",
+        "sum": "0335de62950e42b16a6ec3ff6d95651626eae2e799ab137e80354de8953b9acc",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -80,66 +32,6 @@
         "src": "curl-7.76.1-23.el9.src.rpm",
         "filename": "libcurl-7.76.1-23.el9.i686.rpm",
         "sum": "13ae11f2747287adf73507995209c6d5cc013f05211af88c97f3a4917bbde881",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libcurl-minimal",
-        "version": "7.76.1",
-        "release": "23.el9",
-        "epoch": "0",
-        "arch": "i686",
-        "src": "curl-7.76.1-23.el9.src.rpm",
-        "filename": "libcurl-minimal-7.76.1-23.el9.i686.rpm",
-        "sum": "855fbf53ccab397188f46a904e4886801b81f8a0788c9e3dbb4f0cdceca5da4e",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "curl",
-        "version": "7.76.1",
-        "release": "23.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "curl-7.76.1-23.el9.src.rpm",
-        "filename": "curl-7.76.1-23.el9.aarch64.rpm",
-        "sum": "64b1530492d7eb509bf4dfa8ce908b344ac55cf8a5078aec1545f9bb76403d4c",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libcurl",
-        "version": "7.76.1",
-        "release": "23.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "curl-7.76.1-23.el9.src.rpm",
-        "filename": "libcurl-7.76.1-23.el9.aarch64.rpm",
-        "sum": "c3a03e7cacd7e6a8ad0998c33fb53f6f4ce7d7ea50ce48f85e08541fe3068ca8",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libcurl-minimal",
-        "version": "7.76.1",
-        "release": "23.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "curl-7.76.1-23.el9.src.rpm",
-        "filename": "libcurl-minimal-7.76.1-23.el9.aarch64.rpm",
-        "sum": "de1bd3f3e65bb66013c357431b1238f7e7aad60c175347e9842453b00be8c79d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "curl-minimal",
-        "version": "7.76.1",
-        "release": "23.el9",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "curl-7.76.1-23.el9.src.rpm",
-        "filename": "curl-minimal-7.76.1-23.el9.aarch64.rpm",
-        "sum": "eb8d67af6c7f1acca28b3e035bdd28e58280b6f2dafff072596d63ca983ab5ae",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -168,38 +60,14 @@
         "reboot_suggested": 0
       },
       {
-        "name": "libcurl-minimal",
+        "name": "libcurl-devel",
         "version": "7.76.1",
         "release": "23.el9",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "curl-7.76.1-23.el9.src.rpm",
-        "filename": "libcurl-minimal-7.76.1-23.el9.s390x.rpm",
-        "sum": "762932db97ec3776d7e278a2278b4476402ef1bd0fd8e43039ade43055d13206",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "curl",
-        "version": "7.76.1",
-        "release": "23.el9",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "curl-7.76.1-23.el9.src.rpm",
-        "filename": "curl-7.76.1-23.el9.s390x.rpm",
-        "sum": "9b3ac4ae786390b853937290d1bf10503844fdac7d95627437ee59e6e9644d92",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "libcurl-minimal",
-        "version": "7.76.1",
-        "release": "23.el9",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "curl-7.76.1-23.el9.src.rpm",
-        "filename": "libcurl-minimal-7.76.1-23.el9.ppc64le.rpm",
-        "sum": "0335de62950e42b16a6ec3ff6d95651626eae2e799ab137e80354de8953b9acc",
+        "filename": "libcurl-devel-7.76.1-23.el9.aarch64.rpm",
+        "sum": "3416cf64b885765ddb9ffa828979a5d2e6941c96f21f59d7eec9705f47a482c3",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -220,22 +88,58 @@
         "version": "7.76.1",
         "release": "23.el9",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "aarch64",
         "src": "curl-7.76.1-23.el9.src.rpm",
-        "filename": "curl-7.76.1-23.el9.ppc64le.rpm",
-        "sum": "b366b7b70877e3dfcf77ff220c8f61b23d454f122bc17de4414ea4d8f8d187a6",
+        "filename": "curl-7.76.1-23.el9.aarch64.rpm",
+        "sum": "64b1530492d7eb509bf4dfa8ce908b344ac55cf8a5078aec1545f9bb76403d4c",
         "sum_type": 5,
         "reboot_suggested": 0
       },
       {
-        "name": "libcurl",
+        "name": "libcurl-devel",
         "version": "7.76.1",
         "release": "23.el9",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "i686",
         "src": "curl-7.76.1-23.el9.src.rpm",
-        "filename": "libcurl-7.76.1-23.el9.ppc64le.rpm",
-        "sum": "d631318c94841c1c751e4c28ec30a98fbd665f894f1d2e677b6543e1ead15744",
+        "filename": "libcurl-devel-7.76.1-23.el9.i686.rpm",
+        "sum": "660818f2e31e18baa7b267885e21d2823242f516cc34c9cc6a5d163e22b4d11c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libcurl-devel",
+        "version": "7.76.1",
+        "release": "23.el9",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "curl-7.76.1-23.el9.src.rpm",
+        "filename": "libcurl-devel-7.76.1-23.el9.x86_64.rpm",
+        "sum": "69646a0e6fd8220e32c5092f85ce2f240b0e481d25cced6f4b7bb66a66111a86",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libcurl-devel",
+        "version": "7.76.1",
+        "release": "23.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "curl-7.76.1-23.el9.src.rpm",
+        "filename": "libcurl-devel-7.76.1-23.el9.s390x.rpm",
+        "sum": "6e6ff640f1c717655050fdd3d2e25a22fd5c9e3e8b83705dea58a4b4c3275b86",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libcurl-minimal",
+        "version": "7.76.1",
+        "release": "23.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "curl-7.76.1-23.el9.src.rpm",
+        "filename": "libcurl-minimal-7.76.1-23.el9.s390x.rpm",
+        "sum": "762932db97ec3776d7e278a2278b4476402ef1bd0fd8e43039ade43055d13206",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -248,6 +152,30 @@
         "src": "curl-7.76.1-23.el9.src.rpm",
         "filename": "curl-7.76.1-23.el9.x86_64.rpm",
         "sum": "795967b90ad96ac170f6da99bd586e09dffa035020cb6119a5844064ca39eea0",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libcurl-minimal",
+        "version": "7.76.1",
+        "release": "23.el9",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "curl-7.76.1-23.el9.src.rpm",
+        "filename": "libcurl-minimal-7.76.1-23.el9.i686.rpm",
+        "sum": "855fbf53ccab397188f46a904e4886801b81f8a0788c9e3dbb4f0cdceca5da4e",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "curl",
+        "version": "7.76.1",
+        "release": "23.el9",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "curl-7.76.1-23.el9.src.rpm",
+        "filename": "curl-7.76.1-23.el9.s390x.rpm",
+        "sum": "9b3ac4ae786390b853937290d1bf10503844fdac7d95627437ee59e6e9644d92",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -276,6 +204,54 @@
         "reboot_suggested": 0
       },
       {
+        "name": "curl",
+        "version": "7.76.1",
+        "release": "23.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "curl-7.76.1-23.el9.src.rpm",
+        "filename": "curl-7.76.1-23.el9.ppc64le.rpm",
+        "sum": "b366b7b70877e3dfcf77ff220c8f61b23d454f122bc17de4414ea4d8f8d187a6",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libcurl",
+        "version": "7.76.1",
+        "release": "23.el9",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "curl-7.76.1-23.el9.src.rpm",
+        "filename": "libcurl-7.76.1-23.el9.aarch64.rpm",
+        "sum": "c3a03e7cacd7e6a8ad0998c33fb53f6f4ce7d7ea50ce48f85e08541fe3068ca8",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libcurl",
+        "version": "7.76.1",
+        "release": "23.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "curl-7.76.1-23.el9.src.rpm",
+        "filename": "libcurl-7.76.1-23.el9.ppc64le.rpm",
+        "sum": "d631318c94841c1c751e4c28ec30a98fbd665f894f1d2e677b6543e1ead15744",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "libcurl-devel",
+        "version": "7.76.1",
+        "release": "23.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "curl-7.76.1-23.el9.src.rpm",
+        "filename": "libcurl-devel-7.76.1-23.el9.ppc64le.rpm",
+        "sum": "d7faa2875f9a8f13a00a162bfe0b064e336291cb0acf1b692a8916478d0ca2df",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "curl-minimal",
         "version": "7.76.1",
         "release": "23.el9",
@@ -286,6 +262,30 @@
         "sum": "da891e4118edfdcc3a2a927003d6b55698654cc24bb12ea82488f4f6f759e5f5",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "libcurl-minimal",
+        "version": "7.76.1",
+        "release": "23.el9",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "curl-7.76.1-23.el9.src.rpm",
+        "filename": "libcurl-minimal-7.76.1-23.el9.aarch64.rpm",
+        "sum": "de1bd3f3e65bb66013c357431b1238f7e7aad60c175347e9842453b00be8c79d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "curl-minimal",
+        "version": "7.76.1",
+        "release": "23.el9",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "curl-7.76.1-23.el9.src.rpm",
+        "filename": "curl-minimal-7.76.1-23.el9.aarch64.rpm",
+        "sum": "eb8d67af6c7f1acca28b3e035bdd28e58280b6f2dafff072596d63ca983ab5ae",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {}
@@ -293,10 +293,16 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:2478",
-      "type": "rhsa",
-      "id": "RHSA-2023:2478",
-      "title": "RHSA-2023:2478"
+      "href": "https://bugzilla.redhat.com/2120718",
+      "type": "bugzilla",
+      "id": "2120718",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2152652",
+      "type": "bugzilla",
+      "id": "2152652",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-35252",
@@ -311,16 +317,10 @@
       "title": "CVE-2022-43552"
     },
     {
-      "href": "https://bugzilla.redhat.com/2120718",
-      "type": "bugzilla",
-      "id": "2120718",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2152652",
-      "type": "bugzilla",
-      "id": "2152652",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:2478",
+      "type": "rhsa",
+      "id": "RHSA-2023:2478",
+      "title": "RHSA-2023:2478"
     },
     {
       "href": "https://errata.almalinux.org/9/ALSA-2023-2478.html",
@@ -338,7 +338,7 @@
   "title": "Low: curl security update",
   "type": "security",
   "updated_date": {
-    "$date": 1683860321000
+    "$date": 1683860323000
   },
   "version": "1"
 }

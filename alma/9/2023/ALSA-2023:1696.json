@@ -8,33 +8,9 @@
     "$date": 1681171200000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_1_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_1_default",
+    "name": "almalinux-9-for-s390x-appstream-rpms__9_1_default",
+    "shortname": "almalinux-9-for-s390x-appstream-rpms__9_1_default",
     "packages": [
-      {
-        "name": "haproxy",
-        "version": "2.4.17",
-        "release": "3.el9_1.2",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "haproxy-2.4.17-3.el9_1.2.src.rpm",
-        "filename": "haproxy-2.4.17-3.el9_1.2.aarch64.rpm",
-        "sum": "d8296c983dfdac15d81dbe8ac568c4ea2905991afa5bf90b7efc58aff27459e1",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "haproxy",
-        "version": "2.4.17",
-        "release": "3.el9_1.2",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "haproxy-2.4.17-3.el9_1.2.src.rpm",
-        "filename": "haproxy-2.4.17-3.el9_1.2.x86_64.rpm",
-        "sum": "aadd3f3239510e6646a8e514bd196688b1bb649289f62c23af0da6e1bf5a3b3b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "haproxy",
         "version": "2.4.17",
@@ -58,6 +34,30 @@
         "sum": "9db25d4d75528f1104434f9c8407f603a6b760dc32eb34b8f8de86dbd85e479d",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "haproxy",
+        "version": "2.4.17",
+        "release": "3.el9_1.2",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "haproxy-2.4.17-3.el9_1.2.src.rpm",
+        "filename": "haproxy-2.4.17-3.el9_1.2.x86_64.rpm",
+        "sum": "aadd3f3239510e6646a8e514bd196688b1bb649289f62c23af0da6e1bf5a3b3b",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "haproxy",
+        "version": "2.4.17",
+        "release": "3.el9_1.2",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "haproxy-2.4.17-3.el9_1.2.src.rpm",
+        "filename": "haproxy-2.4.17-3.el9_1.2.aarch64.rpm",
+        "sum": "d8296c983dfdac15d81dbe8ac568c4ea2905991afa5bf90b7efc58aff27459e1",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {}
@@ -65,10 +65,16 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:1696",
-      "type": "rhsa",
-      "id": "RHSA-2023:1696",
-      "title": "RHSA-2023:1696"
+      "href": "https://bugzilla.redhat.com/2160808",
+      "type": "bugzilla",
+      "id": "2160808",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2169089",
+      "type": "bugzilla",
+      "id": "2169089",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2023-0056",
@@ -83,16 +89,10 @@
       "title": "CVE-2023-25725"
     },
     {
-      "href": "https://bugzilla.redhat.com/2160808",
-      "type": "bugzilla",
-      "id": "2160808",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2169089",
-      "type": "bugzilla",
-      "id": "2169089",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:1696",
+      "type": "rhsa",
+      "id": "RHSA-2023:1696",
+      "title": "RHSA-2023:1696"
     },
     {
       "href": "https://errata.almalinux.org/9/ALSA-2023-1696.html",

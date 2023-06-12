@@ -8,9 +8,21 @@
     "$date": 1668470400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_1_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_1_default",
+    "name": "almalinux-9-for-s390x-appstream-rpms__9_1_default",
+    "shortname": "almalinux-9-for-s390x-appstream-rpms__9_1_default",
     "packages": [
+      {
+        "name": "frr",
+        "version": "8.2.2",
+        "release": "4.el9",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "frr-8.2.2-4.el9.src.rpm",
+        "filename": "frr-8.2.2-4.el9.ppc64le.rpm",
+        "sum": "72aac6e4cdfce3191ef3e8721f62f3457e59dbb1552e815c4b8be19d43d9d57d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "frr",
         "version": "8.2.2",
@@ -40,18 +52,6 @@
         "version": "8.2.2",
         "release": "4.el9",
         "epoch": "0",
-        "arch": "ppc64le",
-        "src": "frr-8.2.2-4.el9.src.rpm",
-        "filename": "frr-8.2.2-4.el9.ppc64le.rpm",
-        "sum": "72aac6e4cdfce3191ef3e8721f62f3457e59dbb1552e815c4b8be19d43d9d57d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "frr",
-        "version": "8.2.2",
-        "release": "4.el9",
-        "epoch": "0",
         "arch": "s390x",
         "src": "frr-8.2.2-4.el9.src.rpm",
         "filename": "frr-8.2.2-4.el9.s390x.rpm",
@@ -65,10 +65,10 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2022:8112",
-      "type": "rhsa",
-      "id": "RHSA-2022:8112",
-      "title": "RHSA-2022:8112"
+      "href": "https://bugzilla.redhat.com/2058628",
+      "type": "bugzilla",
+      "id": "2058628",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-26125",
@@ -77,10 +77,10 @@
       "title": "CVE-2022-26125"
     },
     {
-      "href": "https://bugzilla.redhat.com/2058628",
-      "type": "bugzilla",
-      "id": "2058628",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2022:8112",
+      "type": "rhsa",
+      "id": "RHSA-2022:8112",
+      "title": "RHSA-2022:8112"
     },
     {
       "href": "https://errata.almalinux.org/9/ALSA-2022-8112.html",

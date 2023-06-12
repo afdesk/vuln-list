@@ -8,18 +8,18 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
     "packages": [
       {
         "name": "butane",
         "version": "0.16.0",
         "release": "1.el9",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "s390x",
         "src": "butane-0.16.0-1.el9.src.rpm",
-        "filename": "butane-0.16.0-1.el9.aarch64.rpm",
-        "sum": "d3a3cbdfebe322f65031ab3cc7ceb23e7b5912255c532d403dc99bcad6a85195",
+        "filename": "butane-0.16.0-1.el9.s390x.rpm",
+        "sum": "21b1fcc1b474851d30ede795515fa0a793f8a83378626c6b8c247e7fc167b6c9",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +52,10 @@
         "version": "0.16.0",
         "release": "1.el9",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "butane-0.16.0-1.el9.src.rpm",
-        "filename": "butane-0.16.0-1.el9.s390x.rpm",
-        "sum": "21b1fcc1b474851d30ede795515fa0a793f8a83378626c6b8c247e7fc167b6c9",
+        "filename": "butane-0.16.0-1.el9.aarch64.rpm",
+        "sum": "d3a3cbdfebe322f65031ab3cc7ceb23e7b5912255c532d403dc99bcad6a85195",
         "sum_type": 5,
         "reboot_suggested": 0
       }
@@ -65,10 +65,16 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:2193",
-      "type": "rhsa",
-      "id": "RHSA-2023:2193",
-      "title": "RHSA-2023:2193"
+      "href": "https://bugzilla.redhat.com/2113814",
+      "type": "bugzilla",
+      "id": "2113814",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2124669",
+      "type": "bugzilla",
+      "id": "2124669",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-27664",
@@ -83,16 +89,10 @@
       "title": "CVE-2022-32189"
     },
     {
-      "href": "https://bugzilla.redhat.com/2113814",
-      "type": "bugzilla",
-      "id": "2113814",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2124669",
-      "type": "bugzilla",
-      "id": "2124669",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:2193",
+      "type": "rhsa",
+      "id": "RHSA-2023:2193",
+      "title": "RHSA-2023:2193"
     },
     {
       "href": "https://errata.almalinux.org/9/ALSA-2023-2193.html",
@@ -110,7 +110,7 @@
   "title": "Moderate: butane security, bug fix, and enhancement update",
   "type": "security",
   "updated_date": {
-    "$date": 1683893908000
+    "$date": 1683893909000
   },
   "version": "1"
 }

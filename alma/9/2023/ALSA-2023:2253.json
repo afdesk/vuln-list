@@ -8,8 +8,8 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
     "packages": [
       {
         "name": "buildah",
@@ -20,6 +20,30 @@
         "src": "buildah-1.29.1-1.el9.src.rpm",
         "filename": "buildah-1.29.1-1.el9.aarch64.rpm",
         "sum": "3ecb136abb148c45a7fea413b6ab4b228bfdb6577d0c43abdf585b0b8dd320fd",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "buildah",
+        "version": "1.29.1",
+        "release": "1.el9",
+        "epoch": "1",
+        "arch": "s390x",
+        "src": "buildah-1.29.1-1.el9.src.rpm",
+        "filename": "buildah-1.29.1-1.el9.s390x.rpm",
+        "sum": "5996606f57a5e8357c89d8f5f274a2d28d1c50e3a6ac393ef3791c24b2e50d9f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "buildah-tests",
+        "version": "1.29.1",
+        "release": "1.el9",
+        "epoch": "1",
+        "arch": "s390x",
+        "src": "buildah-1.29.1-1.el9.src.rpm",
+        "filename": "buildah-tests-1.29.1-1.el9.s390x.rpm",
+        "sum": "803a91a19198392e39eb4d11adbd216c241c6aa614e0f8809c6a2f8d4b6fb22d",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -48,18 +72,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "buildah-tests",
-        "version": "1.29.1",
-        "release": "1.el9",
-        "epoch": "1",
-        "arch": "x86_64",
-        "src": "buildah-1.29.1-1.el9.src.rpm",
-        "filename": "buildah-tests-1.29.1-1.el9.x86_64.rpm",
-        "sum": "ef0c18bf71f6ffa80ebdc069c85d5fc694e28a749215cdbb7e8b15c6c3301f10",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "buildah",
         "version": "1.29.1",
         "release": "1.el9",
@@ -76,22 +88,10 @@
         "version": "1.29.1",
         "release": "1.el9",
         "epoch": "1",
-        "arch": "ppc64le",
+        "arch": "x86_64",
         "src": "buildah-1.29.1-1.el9.src.rpm",
-        "filename": "buildah-tests-1.29.1-1.el9.ppc64le.rpm",
-        "sum": "f4407ec2f8c4eb829a655656ecf25787494e9d6824f68f24fdb93a123f2368ed",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "buildah",
-        "version": "1.29.1",
-        "release": "1.el9",
-        "epoch": "1",
-        "arch": "s390x",
-        "src": "buildah-1.29.1-1.el9.src.rpm",
-        "filename": "buildah-1.29.1-1.el9.s390x.rpm",
-        "sum": "5996606f57a5e8357c89d8f5f274a2d28d1c50e3a6ac393ef3791c24b2e50d9f",
+        "filename": "buildah-tests-1.29.1-1.el9.x86_64.rpm",
+        "sum": "ef0c18bf71f6ffa80ebdc069c85d5fc694e28a749215cdbb7e8b15c6c3301f10",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -100,10 +100,10 @@
         "version": "1.29.1",
         "release": "1.el9",
         "epoch": "1",
-        "arch": "s390x",
+        "arch": "ppc64le",
         "src": "buildah-1.29.1-1.el9.src.rpm",
-        "filename": "buildah-tests-1.29.1-1.el9.s390x.rpm",
-        "sum": "803a91a19198392e39eb4d11adbd216c241c6aa614e0f8809c6a2f8d4b6fb22d",
+        "filename": "buildah-tests-1.29.1-1.el9.ppc64le.rpm",
+        "sum": "f4407ec2f8c4eb829a655656ecf25787494e9d6824f68f24fdb93a123f2368ed",
         "sum_type": 5,
         "reboot_suggested": 0
       }
@@ -113,10 +113,16 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:2253",
-      "type": "rhsa",
-      "id": "RHSA-2023:2253",
-      "title": "RHSA-2023:2253"
+      "href": "https://bugzilla.redhat.com/2092793",
+      "type": "bugzilla",
+      "id": "2092793",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2161274",
+      "type": "bugzilla",
+      "id": "2161274",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-30629",
@@ -131,16 +137,10 @@
       "title": "CVE-2022-41717"
     },
     {
-      "href": "https://bugzilla.redhat.com/2092793",
-      "type": "bugzilla",
-      "id": "2092793",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2161274",
-      "type": "bugzilla",
-      "id": "2161274",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:2253",
+      "type": "rhsa",
+      "id": "RHSA-2023:2253",
+      "title": "RHSA-2023:2253"
     },
     {
       "href": "https://errata.almalinux.org/9/ALSA-2023-2253.html",

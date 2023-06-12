@@ -12,6 +12,66 @@
     "shortname": "almalinux-9-for-i686-appstream-rpms__9_default",
     "packages": [
       {
+        "name": "webkit2gtk3",
+        "version": "2.36.7",
+        "release": "1.el9_0",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
+        "filename": "webkit2gtk3-2.36.7-1.el9_0.s390x.rpm",
+        "sum": "11aaa78101539beac5638c01bd73b050b28f6f29985e1faa1ce69b24be8a961a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3-devel",
+        "version": "2.36.7",
+        "release": "1.el9_0",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
+        "filename": "webkit2gtk3-devel-2.36.7-1.el9_0.x86_64.rpm",
+        "sum": "193e4a3d1707cf7189d1725e3683cd1962c711b9cf673b4ebbbe4a33c54a3390",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3",
+        "version": "2.36.7",
+        "release": "1.el9_0",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
+        "filename": "webkit2gtk3-2.36.7-1.el9_0.aarch64.rpm",
+        "sum": "1dd4266bc585c9218e09631002d4f7219a1f579d448e3ce35e6e571770516084",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3-jsc-devel",
+        "version": "2.36.7",
+        "release": "1.el9_0",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
+        "filename": "webkit2gtk3-jsc-devel-2.36.7-1.el9_0.s390x.rpm",
+        "sum": "4408f52fa1a5c02cfb3318828f7e355fdef441f7fda1e474d1893cfb85aa38bd",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3-jsc",
+        "version": "2.36.7",
+        "release": "1.el9_0",
+        "epoch": "0",
+        "arch": "s390x",
+        "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
+        "filename": "webkit2gtk3-jsc-2.36.7-1.el9_0.s390x.rpm",
+        "sum": "4d9b0b281bfe8fbabce8f8dabab0ceaccd772a4be7d9af4b6fac989bf4e96cc6",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "webkit2gtk3-jsc",
         "version": "2.36.7",
         "release": "1.el9_0",
@@ -40,10 +100,46 @@
         "version": "2.36.7",
         "release": "1.el9_0",
         "epoch": "0",
+        "arch": "ppc64le",
+        "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
+        "filename": "webkit2gtk3-jsc-devel-2.36.7-1.el9_0.ppc64le.rpm",
+        "sum": "5eee5128bcf2b099a427f35f5d4cb36190f3ae002c127edfcd22f93615c7dbb5",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3-jsc",
+        "version": "2.36.7",
+        "release": "1.el9_0",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
+        "filename": "webkit2gtk3-jsc-2.36.7-1.el9_0.ppc64le.rpm",
+        "sum": "605305d755beeeadcc4a6e32233b376d8f0d7520288066f70aab3d3be7a864f7",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3-jsc-devel",
+        "version": "2.36.7",
+        "release": "1.el9_0",
+        "epoch": "0",
         "arch": "i686",
         "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
         "filename": "webkit2gtk3-jsc-devel-2.36.7-1.el9_0.i686.rpm",
         "sum": "62068e904b37b494ca68507602749d1c10c108eed3d15c5f8b52ac283bbca39c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "webkit2gtk3-jsc",
+        "version": "2.36.7",
+        "release": "1.el9_0",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
+        "filename": "webkit2gtk3-jsc-2.36.7-1.el9_0.aarch64.rpm",
+        "sum": "6a43464fd326618e2f880317cf4c7a16d110b048bdf61d0f0376149d0b3bc038",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -64,22 +160,10 @@
         "version": "2.36.7",
         "release": "1.el9_0",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "x86_64",
         "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
-        "filename": "webkit2gtk3-2.36.7-1.el9_0.aarch64.rpm",
-        "sum": "1dd4266bc585c9218e09631002d4f7219a1f579d448e3ce35e6e571770516084",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3-jsc",
-        "version": "2.36.7",
-        "release": "1.el9_0",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
-        "filename": "webkit2gtk3-jsc-2.36.7-1.el9_0.aarch64.rpm",
-        "sum": "6a43464fd326618e2f880317cf4c7a16d110b048bdf61d0f0376149d0b3bc038",
+        "filename": "webkit2gtk3-2.36.7-1.el9_0.x86_64.rpm",
+        "sum": "76dfc21f62311b812859c1874eb43413a80bf7e1b56c1c62dccb0e922d06faa2",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -112,22 +196,10 @@
         "version": "2.36.7",
         "release": "1.el9_0",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "ppc64le",
         "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
-        "filename": "webkit2gtk3-devel-2.36.7-1.el9_0.x86_64.rpm",
-        "sum": "193e4a3d1707cf7189d1725e3683cd1962c711b9cf673b4ebbbe4a33c54a3390",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3",
-        "version": "2.36.7",
-        "release": "1.el9_0",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
-        "filename": "webkit2gtk3-2.36.7-1.el9_0.x86_64.rpm",
-        "sum": "76dfc21f62311b812859c1874eb43413a80bf7e1b56c1c62dccb0e922d06faa2",
+        "filename": "webkit2gtk3-devel-2.36.7-1.el9_0.ppc64le.rpm",
+        "sum": "c831dd855a8ecd394771c6cfd986fff6b725fa9fe13e543e97e75cc5f628c4c7",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -144,54 +216,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "webkit2gtk3-jsc",
-        "version": "2.36.7",
-        "release": "1.el9_0",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
-        "filename": "webkit2gtk3-jsc-2.36.7-1.el9_0.x86_64.rpm",
-        "sum": "f2465f8a5ba88bb59a644e8015109cb086858254b3e14b905fa4bc37cd8ea9b1",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3-jsc-devel",
-        "version": "2.36.7",
-        "release": "1.el9_0",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
-        "filename": "webkit2gtk3-jsc-devel-2.36.7-1.el9_0.ppc64le.rpm",
-        "sum": "5eee5128bcf2b099a427f35f5d4cb36190f3ae002c127edfcd22f93615c7dbb5",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3-jsc",
-        "version": "2.36.7",
-        "release": "1.el9_0",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
-        "filename": "webkit2gtk3-jsc-2.36.7-1.el9_0.ppc64le.rpm",
-        "sum": "605305d755beeeadcc4a6e32233b376d8f0d7520288066f70aab3d3be7a864f7",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3-devel",
-        "version": "2.36.7",
-        "release": "1.el9_0",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
-        "filename": "webkit2gtk3-devel-2.36.7-1.el9_0.ppc64le.rpm",
-        "sum": "c831dd855a8ecd394771c6cfd986fff6b725fa9fe13e543e97e75cc5f628c4c7",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "webkit2gtk3",
         "version": "2.36.7",
         "release": "1.el9_0",
@@ -204,38 +228,14 @@
         "reboot_suggested": 0
       },
       {
-        "name": "webkit2gtk3",
-        "version": "2.36.7",
-        "release": "1.el9_0",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
-        "filename": "webkit2gtk3-2.36.7-1.el9_0.s390x.rpm",
-        "sum": "11aaa78101539beac5638c01bd73b050b28f6f29985e1faa1ce69b24be8a961a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "webkit2gtk3-jsc-devel",
-        "version": "2.36.7",
-        "release": "1.el9_0",
-        "epoch": "0",
-        "arch": "s390x",
-        "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
-        "filename": "webkit2gtk3-jsc-devel-2.36.7-1.el9_0.s390x.rpm",
-        "sum": "4408f52fa1a5c02cfb3318828f7e355fdef441f7fda1e474d1893cfb85aa38bd",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "webkit2gtk3-jsc",
         "version": "2.36.7",
         "release": "1.el9_0",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "x86_64",
         "src": "webkit2gtk3-2.36.7-1.el9_0.src.rpm",
-        "filename": "webkit2gtk3-jsc-2.36.7-1.el9_0.s390x.rpm",
-        "sum": "4d9b0b281bfe8fbabce8f8dabab0ceaccd772a4be7d9af4b6fac989bf4e96cc6",
+        "filename": "webkit2gtk3-jsc-2.36.7-1.el9_0.x86_64.rpm",
+        "sum": "f2465f8a5ba88bb59a644e8015109cb086858254b3e14b905fa4bc37cd8ea9b1",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -257,10 +257,10 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2022:6634",
-      "type": "rhsa",
-      "id": "RHSA-2022:6634",
-      "title": "RHSA-2022:6634"
+      "href": "https://bugzilla.redhat.com/2121645",
+      "type": "bugzilla",
+      "id": "2121645",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-32893",
@@ -269,10 +269,10 @@
       "title": "CVE-2022-32893"
     },
     {
-      "href": "https://bugzilla.redhat.com/2121645",
-      "type": "bugzilla",
-      "id": "2121645",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2022:6634",
+      "type": "rhsa",
+      "id": "RHSA-2022:6634",
+      "title": "RHSA-2022:6634"
     },
     {
       "href": "https://errata.almalinux.org/9/ALSA-2022-6634.html",
@@ -290,7 +290,7 @@
   "title": "Moderate: webkit2gtk3 security update",
   "type": "security",
   "updated_date": {
-    "$date": 1666162806000
+    "$date": 1678725332000
   },
   "version": "1"
 }

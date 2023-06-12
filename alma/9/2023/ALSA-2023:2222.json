@@ -8,18 +8,18 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
     "packages": [
       {
         "name": "conmon",
         "version": "2.1.7",
         "release": "1.el9_2",
         "epoch": "2",
-        "arch": "aarch64",
+        "arch": "ppc64le",
         "src": "conmon-2.1.7-1.el9_2.src.rpm",
-        "filename": "conmon-2.1.7-1.el9_2.aarch64.rpm",
-        "sum": "9a10ace2848d353830d503b469986b9366f4b9bd175e3940337cd5887c428e57",
+        "filename": "conmon-2.1.7-1.el9_2.ppc64le.rpm",
+        "sum": "00a4b145f234d52a4ac059972f4a9f04c61993a3821b8ea8821b752ac0745169",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -40,10 +40,10 @@
         "version": "2.1.7",
         "release": "1.el9_2",
         "epoch": "2",
-        "arch": "ppc64le",
+        "arch": "s390x",
         "src": "conmon-2.1.7-1.el9_2.src.rpm",
-        "filename": "conmon-2.1.7-1.el9_2.ppc64le.rpm",
-        "sum": "00a4b145f234d52a4ac059972f4a9f04c61993a3821b8ea8821b752ac0745169",
+        "filename": "conmon-2.1.7-1.el9_2.s390x.rpm",
+        "sum": "42cd4fc6ad7bff8a9c4280be9ad49f82a4655ec8fc725ffb4a0806490b25078b",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +52,10 @@
         "version": "2.1.7",
         "release": "1.el9_2",
         "epoch": "2",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "conmon-2.1.7-1.el9_2.src.rpm",
-        "filename": "conmon-2.1.7-1.el9_2.s390x.rpm",
-        "sum": "42cd4fc6ad7bff8a9c4280be9ad49f82a4655ec8fc725ffb4a0806490b25078b",
+        "filename": "conmon-2.1.7-1.el9_2.aarch64.rpm",
+        "sum": "9a10ace2848d353830d503b469986b9366f4b9bd175e3940337cd5887c428e57",
         "sum_type": 5,
         "reboot_suggested": 0
       }
@@ -65,10 +65,10 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:2222",
-      "type": "rhsa",
-      "id": "RHSA-2023:2222",
-      "title": "RHSA-2023:2222"
+      "href": "https://bugzilla.redhat.com/2161274",
+      "type": "bugzilla",
+      "id": "2161274",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-41717",
@@ -77,10 +77,10 @@
       "title": "CVE-2022-41717"
     },
     {
-      "href": "https://bugzilla.redhat.com/2161274",
-      "type": "bugzilla",
-      "id": "2161274",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:2222",
+      "type": "rhsa",
+      "id": "RHSA-2023:2222",
+      "title": "RHSA-2023:2222"
     },
     {
       "href": "https://errata.almalinux.org/9/ALSA-2023-2222.html",

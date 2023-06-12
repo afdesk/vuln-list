@@ -29,10 +29,10 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:2312",
-      "type": "rhsa",
-      "id": "RHSA-2023:2312",
-      "title": "RHSA-2023:2312"
+      "href": "https://bugzilla.redhat.com/2064698",
+      "type": "bugzilla",
+      "id": "2064698",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2020-36518",
@@ -41,10 +41,10 @@
       "title": "CVE-2020-36518"
     },
     {
-      "href": "https://bugzilla.redhat.com/2064698",
-      "type": "bugzilla",
-      "id": "2064698",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:2312",
+      "type": "rhsa",
+      "id": "RHSA-2023:2312",
+      "title": "RHSA-2023:2312"
     },
     {
       "href": "https://errata.almalinux.org/9/ALSA-2023-2312.html",

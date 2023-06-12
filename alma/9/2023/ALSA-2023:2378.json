@@ -29,10 +29,10 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:2378",
-      "type": "rhsa",
-      "id": "RHSA-2023:2378",
-      "title": "RHSA-2023:2378"
+      "href": "https://bugzilla.redhat.com/2153399",
+      "type": "bugzilla",
+      "id": "2153399",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-41946",
@@ -41,10 +41,10 @@
       "title": "CVE-2022-41946"
     },
     {
-      "href": "https://bugzilla.redhat.com/2153399",
-      "type": "bugzilla",
-      "id": "2153399",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:2378",
+      "type": "rhsa",
+      "id": "RHSA-2023:2378",
+      "title": "RHSA-2023:2378"
     },
     {
       "href": "https://errata.almalinux.org/9/ALSA-2023-2378.html",

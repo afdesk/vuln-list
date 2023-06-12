@@ -16,10 +16,10 @@
         "version": "0.31.1",
         "release": "65.el9",
         "epoch": "0",
-        "arch": "i686",
+        "arch": "ppc64le",
         "src": "autotrace-0.31.1-65.el9.src.rpm",
-        "filename": "autotrace-0.31.1-65.el9.i686.rpm",
-        "sum": "b91c7c0e571b4ec62eb3b8bfd3b95c5e8c2ae151b91bfca4871a9c498a59ce32",
+        "filename": "autotrace-0.31.1-65.el9.ppc64le.rpm",
+        "sum": "539a685a7c8d5f91cbeaf5ea11aa360821bc23b1b1880aec485a41bce0021591",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -28,10 +28,10 @@
         "version": "0.31.1",
         "release": "65.el9",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "s390x",
         "src": "autotrace-0.31.1-65.el9.src.rpm",
-        "filename": "autotrace-0.31.1-65.el9.ppc64le.rpm",
-        "sum": "539a685a7c8d5f91cbeaf5ea11aa360821bc23b1b1880aec485a41bce0021591",
+        "filename": "autotrace-0.31.1-65.el9.s390x.rpm",
+        "sum": "83e9c7fb1b8d97d7e9b544f1f575dbeda53e87aa97358a3b9e5d690ab4b3f218",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -64,10 +64,10 @@
         "version": "0.31.1",
         "release": "65.el9",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "i686",
         "src": "autotrace-0.31.1-65.el9.src.rpm",
-        "filename": "autotrace-0.31.1-65.el9.s390x.rpm",
-        "sum": "83e9c7fb1b8d97d7e9b544f1f575dbeda53e87aa97358a3b9e5d690ab4b3f218",
+        "filename": "autotrace-0.31.1-65.el9.i686.rpm",
+        "sum": "b91c7c0e571b4ec62eb3b8bfd3b95c5e8c2ae151b91bfca4871a9c498a59ce32",
         "sum_type": 5,
         "reboot_suggested": 0
       }
@@ -77,10 +77,10 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:2589",
-      "type": "rhsa",
-      "id": "RHSA-2023:2589",
-      "title": "RHSA-2023:2589"
+      "href": "https://bugzilla.redhat.com/2107471",
+      "type": "bugzilla",
+      "id": "2107471",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-32323",
@@ -89,10 +89,10 @@
       "title": "CVE-2022-32323"
     },
     {
-      "href": "https://bugzilla.redhat.com/2107471",
-      "type": "bugzilla",
-      "id": "2107471",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:2589",
+      "type": "rhsa",
+      "id": "RHSA-2023:2589",
+      "title": "RHSA-2023:2589"
     },
     {
       "href": "https://errata.almalinux.org/9/ALSA-2023-2589.html",
@@ -110,7 +110,7 @@
   "title": "Moderate: autotrace security update",
   "type": "security",
   "updated_date": {
-    "$date": 1683848415000
+    "$date": 1683848416000
   },
   "version": "1"
 }

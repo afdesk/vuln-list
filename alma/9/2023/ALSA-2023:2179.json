@@ -8,18 +8,18 @@
     "$date": 1683590400000
   },
   "pkglist": {
-    "name": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
-    "shortname": "almalinux-9-for-aarch64-appstream-rpms__9_2_default",
+    "name": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
+    "shortname": "almalinux-9-for-s390x-appstream-rpms__9_2_default",
     "packages": [
       {
         "name": "libguestfs-winsupport",
         "version": "9.2",
         "release": "1.el9",
         "epoch": "0",
-        "arch": "aarch64",
+        "arch": "s390x",
         "src": "libguestfs-winsupport-9.2-1.el9.src.rpm",
-        "filename": "libguestfs-winsupport-9.2-1.el9.aarch64.rpm",
-        "sum": "cbdad0105d99296745c14e4b3cff7d3464b874147c4d63a862491b446a11c2d2",
+        "filename": "libguestfs-winsupport-9.2-1.el9.s390x.rpm",
+        "sum": "78f47919ebf8581920dc6abadfaa3300cc42dfdf528f5628897e84b8b32b364a",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -40,10 +40,10 @@
         "version": "9.2",
         "release": "1.el9",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "aarch64",
         "src": "libguestfs-winsupport-9.2-1.el9.src.rpm",
-        "filename": "libguestfs-winsupport-9.2-1.el9.s390x.rpm",
-        "sum": "78f47919ebf8581920dc6abadfaa3300cc42dfdf528f5628897e84b8b32b364a",
+        "filename": "libguestfs-winsupport-9.2-1.el9.aarch64.rpm",
+        "sum": "cbdad0105d99296745c14e4b3cff7d3464b874147c4d63a862491b446a11c2d2",
         "sum_type": 5,
         "reboot_suggested": 0
       }
@@ -53,10 +53,34 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:2179",
-      "type": "rhsa",
-      "id": "RHSA-2023:2179",
-      "title": "RHSA-2023:2179"
+      "href": "https://bugzilla.redhat.com/2093314",
+      "type": "bugzilla",
+      "id": "2093314",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2093326",
+      "type": "bugzilla",
+      "id": "2093326",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2093340",
+      "type": "bugzilla",
+      "id": "2093340",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2093348",
+      "type": "bugzilla",
+      "id": "2093348",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2093358",
+      "type": "bugzilla",
+      "id": "2093358",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2021-46790",
@@ -89,34 +113,10 @@
       "title": "CVE-2022-30789"
     },
     {
-      "href": "https://bugzilla.redhat.com/2093314",
-      "type": "bugzilla",
-      "id": "2093314",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2093326",
-      "type": "bugzilla",
-      "id": "2093326",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2093340",
-      "type": "bugzilla",
-      "id": "2093340",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2093348",
-      "type": "bugzilla",
-      "id": "2093348",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2093358",
-      "type": "bugzilla",
-      "id": "2093358",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:2179",
+      "type": "rhsa",
+      "id": "RHSA-2023:2179",
+      "title": "RHSA-2023:2179"
     },
     {
       "href": "https://errata.almalinux.org/9/ALSA-2023-2179.html",

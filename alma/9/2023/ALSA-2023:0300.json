@@ -161,10 +161,40 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:0300",
-      "type": "rhsa",
-      "id": "RHSA-2023:0300",
-      "title": "RHSA-2023:0300"
+      "href": "https://bugzilla.redhat.com/2067482",
+      "type": "bugzilla",
+      "id": "2067482",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2085300",
+      "type": "bugzilla",
+      "id": "2085300",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2103681",
+      "type": "bugzilla",
+      "id": "2103681",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2123309",
+      "type": "bugzilla",
+      "id": "2123309",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2141752",
+      "type": "bugzilla",
+      "id": "2141752",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2147572",
+      "type": "bugzilla",
+      "id": "2147572",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-2959",
@@ -203,40 +233,10 @@
       "title": "CVE-2022-43945"
     },
     {
-      "href": "https://bugzilla.redhat.com/2067482",
-      "type": "bugzilla",
-      "id": "2067482",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2085300",
-      "type": "bugzilla",
-      "id": "2085300",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2103681",
-      "type": "bugzilla",
-      "id": "2103681",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2123309",
-      "type": "bugzilla",
-      "id": "2123309",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2141752",
-      "type": "bugzilla",
-      "id": "2141752",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2147572",
-      "type": "bugzilla",
-      "id": "2147572",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:0300",
+      "type": "rhsa",
+      "id": "RHSA-2023:0300",
+      "title": "RHSA-2023:0300"
     },
     {
       "href": "https://errata.almalinux.org/9/ALSA-2023-0300.html",
