@@ -76,11 +76,6 @@
       "Name": "json-smart"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232454001",
-      "Version": "636",
-      "Name": "postgresql"
-    },
-    {
       "ID": "oval:com.redhat.rhsa:obj:20190886001",
       "Version": "638",
       "Name": "python-qpid-proton"
@@ -309,6 +304,11 @@
       "ID": "oval:com.redhat.unaffected:obj:202321971001",
       "Version": "635",
       "Name": "mysql-connector-java"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20232454001",
+      "Version": "635",
+      "Name": "postgresql"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202324815001",
