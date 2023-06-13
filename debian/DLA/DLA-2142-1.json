@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Mar 2020] DLA-2142-1 slirp - security update",
-    "Line": 3989,
+    "Line": 3992,
     "ID": "DLA-2142-1",
     "Description": "slirp - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-8608}",
-      "Line": 3990,
+      "Line": 3993,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-8608"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - slirp 1:1.0.17-7+deb8u2",
-      "Line": 3991,
+      "Line": 3994,
       "Type": "package",
       "Release": "jessie",
       "Package": "slirp",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Jun 2019] DLA-1818-1 dbus - security update",
-    "Line": 5007,
+    "Line": 5010,
     "ID": "DLA-1818-1",
     "Description": "dbus - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-12749}",
-      "Line": 5008,
+      "Line": 5011,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-12749"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - dbus 1.8.22-0+deb8u2",
-      "Line": 5009,
+      "Line": 5012,
       "Type": "package",
       "Release": "jessie",
       "Package": "dbus",

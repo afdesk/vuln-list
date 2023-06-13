@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Jul 2018] DLA-1444-1 vim-syntastic - security update",
-    "Line": 6150,
+    "Line": 6153,
     "ID": "DLA-1444-1",
     "Description": "vim-syntastic - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-11319}",
-      "Line": 6151,
+      "Line": 6154,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-11319"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - vim-syntastic 3.5.0-1+deb8u1",
-      "Line": 6152,
+      "Line": 6155,
       "Type": "package",
       "Release": "jessie",
       "Package": "vim-syntastic",

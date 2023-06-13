@@ -4341,28 +4341,28 @@
   },
   {
     "Architecture": [
-      "any all"
+      "all"
     ],
     "Autobuild": [
       "yes"
     ],
     "Binary": [
-      "ldraw-parts, ldraw-mklist"
+      "ldraw-parts"
     ],
     "Build-Depends": [
-      "debhelper-compat (= 13)"
+      "debhelper-compat (= 13), python3:native"
     ],
     "Checksums-Sha256": [
-      "850d8552b76821a7a77bb33a15de2be56314d7c90b9c981b413c5b1323aa8a00 2188 ldraw-parts_2206+ds-1.dsc 9cca57487b92e342c856664778e0e11781a56388a066e3eb9ed55993fa29c11e 48756768 ldraw-parts_2206+ds.orig.tar.xz b73ced327028375b8e214cf67842de255c9213a73185f2d10c7ce52751bb1603 13176 ldraw-parts_2206+ds-1.debian.tar.xz"
+      "ebad0784782615694a31def892e6a52a49bd24d2d2a14321fbc8436508ddcb6a 2134 ldraw-parts_2302+ds-1.dsc a4812e5dc64653abdbeed402d2a7d636cf3534043946ba227686b87ff27fad36 50322940 ldraw-parts_2302+ds.orig.tar.xz 7217bd2d71f67e285b53006913424ca6a3fed9adc6d9d237d052843600582828 5412 ldraw-parts_2302+ds-1.debian.tar.xz"
     ],
     "Dgit": [
-      "0d85bafa749733e2db4280c6a46e7791ea434ffe debian archive/debian/2206+ds-1 https://git.dgit.debian.org/ldraw-parts"
+      "81b63f1414b33916c46a614e77e443cbe2ed2460 debian archive/debian/2302+ds-1 https://git.dgit.debian.org/ldraw-parts"
     ],
     "Directory": [
       "pool/non-free/l/ldraw-parts"
     ],
     "Files": [
-      "a1039d0e826f4ca1372e542cb3fe9f7a 2188 ldraw-parts_2206+ds-1.dsc cfbbdc5e54bd4534529875183458256e 48756768 ldraw-parts_2206+ds.orig.tar.xz 63dc6549354c8afe936d2a09151b13aa 13176 ldraw-parts_2206+ds-1.debian.tar.xz"
+      "081b9b0cf3742ca04dd54a47f9500189 2134 ldraw-parts_2302+ds-1.dsc 9f38ca7377d5bae5eb274c6c0ec57e38 50322940 ldraw-parts_2302+ds.orig.tar.xz 3d07f84a3d8c15124644284abe2dfa03 5412 ldraw-parts_2302+ds-1.debian.tar.xz"
     ],
     "Format": [
       "3.0 (quilt)"
@@ -4377,7 +4377,7 @@
       "ldraw-parts"
     ],
     "Package-List": [
-      "ldraw-mklist deb non-free/misc optional arch=any ldraw-parts deb non-free/misc optional arch=all"
+      "ldraw-parts deb non-free/misc optional arch=all"
     ],
     "Priority": [
       "optional"
@@ -4389,7 +4389,7 @@
       "4.6.1"
     ],
     "Uploaders": [
-      "Johannes Schauer Marin Rodrigues \u003cjosch@debian.org\u003e"
+      "Johannes Schauer Marin Rodrigues \u003cjosch@debian.org\u003e,"
     ],
     "Vcs-Browser": [
       "https://salsa.debian.org/debian/ldraw-parts"
@@ -4398,7 +4398,7 @@
       "https://salsa.debian.org/debian/ldraw-parts.git"
     ],
     "Version": [
-      "2206+ds-1"
+      "2302+ds-1"
     ]
   },
   {

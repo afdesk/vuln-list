@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Apr 2021] DLA-2626-1 clamav - security update",
-    "Line": 2506,
+    "Line": 2509,
     "ID": "DLA-2626-1",
     "Description": "clamav - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-1405}",
-      "Line": 2507,
+      "Line": 2510,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-1405"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - clamav 0.102.4+dfsg-0+deb9u2",
-      "Line": 2508,
+      "Line": 2511,
       "Type": "package",
       "Release": "stretch",
       "Package": "clamav",
