@@ -1,6 +1,6 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2023-04-19T18:15:47Z",
+  "UpdatedAt": "2023-06-12T23:54:39Z",
   "Package": {
     "Ecosystem": "MAVEN",
     "Name": "org.eclipse.jetty:jetty-server"
@@ -32,6 +32,9 @@
         "Url": "https://security.netapp.com/advisory/ntap-20230526-0001/"
       },
       {
+        "Url": "https://github.com/eclipse/jetty.project/releases/tag/jetty-9.4.51.v20230217"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-qw69-rqj8-6qw8"
       }
     ],
@@ -50,7 +53,7 @@
     "PublishedAt": "2023-04-19T18:15:45Z",
     "Severity": "MODERATE",
     "Summary": "OutOfMemoryError for large multipart without filename in Eclipse Jetty",
-    "UpdatedAt": "2023-05-26T21:48:50Z",
+    "UpdatedAt": "2023-06-12T23:54:39Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.3,
@@ -58,6 +61,12 @@
     }
   },
   "Versions": [
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "9.4.51.v20230217"
+      },
+      "VulnerableVersionRange": "\u003c 9.4.51.v20230217"
+    },
     {
       "FirstPatchedVersion": {
         "Identifier": "11.0.14"
@@ -69,12 +78,6 @@
         "Identifier": "10.0.14"
       },
       "VulnerableVersionRange": "\u003e= 10.0.0, \u003c 10.0.14"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "9.4.51"
-      },
-      "VulnerableVersionRange": "\u003c 9.4.51"
     }
   ]
 }

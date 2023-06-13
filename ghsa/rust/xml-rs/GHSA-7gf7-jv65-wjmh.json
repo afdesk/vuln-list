@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-06-06T02:07:00Z",
   "Package": {
     "Ecosystem": "RUST",
@@ -42,13 +42,13 @@
     "Description": "The xml-rs crate before 0.8.14 for Rust and Crab allows a denial of service (panic) via an invalid \u003c! token (such as \u003c!DOCTYPEs/%\u003c!A nesting) in an XML document.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-05T06:30:15Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "xml-rs vulnerable to denial of service via invalid token in XML document",
-    "UpdatedAt": "2023-06-06T02:07:00Z",
+    "UpdatedAt": "2023-06-12T20:09:48Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 7.5,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
     }
   },
   "Versions": [

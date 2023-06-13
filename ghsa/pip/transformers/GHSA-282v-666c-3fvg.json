@@ -1,6 +1,6 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2023-05-19T13:27:43Z",
+  "UpdatedAt": "2023-06-12T21:26:03Z",
   "Package": {
     "Ecosystem": "PIP",
     "Name": "transformers"
@@ -20,6 +20,9 @@
         "Url": "https://huntr.dev/bounties/a3867b4e-6701-4418-8c20-3c6e7084a44a"
       },
       {
+        "Url": "https://github.com/huggingface/transformers/pull/23372"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-282v-666c-3fvg"
       }
     ],
@@ -33,12 +36,12 @@
         "Value": "CVE-2023-2800"
       }
     ],
-    "Description": "Insecure Temporary File in GitHub repository huggingface/transformers 4.29.2 and prior. A fix is available at commit 80ca92470938bbcc348e2d9cf4734c7c25cb1c43 and anticipated to be part of version 4.30.0.",
+    "Description": "Insecure Temporary File in GitHub repository huggingface/transformers 4.29.2 and prior. A fix is available at commit 80ca92470938bbcc348e2d9cf4734c7c25cb1c43 and has been released as part of version 4.30.0.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-18T18:30:35Z",
     "Severity": "MODERATE",
     "Summary": "transformers has Insecure Temporary File",
-    "UpdatedAt": "2023-05-26T19:30:41Z",
+    "UpdatedAt": "2023-06-12T21:26:03Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.7,
@@ -48,9 +51,9 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": ""
+        "Identifier": "4.30.0"
       },
-      "VulnerableVersionRange": "\u003c= 4.29.2"
+      "VulnerableVersionRange": "\u003c 4.30.0"
     }
   ]
 }

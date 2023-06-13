@@ -1,9 +1,9 @@
 {
   "Severity": "CRITICAL",
-  "UpdatedAt": "2022-10-13T20:22:18Z",
+  "UpdatedAt": "2023-06-12T22:02:11Z",
   "Package": {
     "Ecosystem": "MAVEN",
-    "Name": "org.apache.commons:commons-text"
+    "Name": "com.guicedee.services:commons-text"
   },
   "Advisory": {
     "DatabaseId": 193786,
@@ -72,9 +72,9 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": "1.10.0"
+        "Identifier": ""
       },
-      "VulnerableVersionRange": "\u003e= 1.5, \u003c 1.10.0"
+      "VulnerableVersionRange": "\u003c= 1.2.2.1-jre17"
     }
   ]
 }

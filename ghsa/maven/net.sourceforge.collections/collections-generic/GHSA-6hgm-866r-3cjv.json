@@ -1,9 +1,9 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2020-06-11T15:58:45Z",
+  "UpdatedAt": "2023-06-12T21:58:57Z",
   "Package": {
     "Ecosystem": "MAVEN",
-    "Name": "org.apache.commons:commons-collections4"
+    "Name": "net.sourceforge.collections:collections-generic"
   },
   "Advisory": {
     "DatabaseId": 2169,
@@ -72,9 +72,9 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": "4.1"
+        "Identifier": ""
       },
-      "VulnerableVersionRange": "\u003c 4.1"
+      "VulnerableVersionRange": "\u003c= 4.0.1"
     }
   ]
 }

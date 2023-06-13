@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-06-06T20:27:31Z",
   "Package": {
     "Ecosystem": "RUBYGEMS",
@@ -26,6 +26,9 @@
         "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/RedCloth/CVE-2023-31606.yml"
       },
       {
+        "Url": "https://github.com/jgarber/redcloth"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-qcm3-vfq5-wfr2"
       }
     ],
@@ -42,13 +45,13 @@
     "Description": "A Regular Expression Denial of Service (ReDoS) issue was discovered in the `sanitize_html` function of RedCloth gem v4.0.0. This vulnerability allows attackers to cause a Denial of Service (DoS) via supplying a crafted payload.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-06T18:30:20Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "RedCloth Regular Expression Denial of Service issue",
-    "UpdatedAt": "2023-06-09T15:03:40Z",
+    "UpdatedAt": "2023-06-12T20:09:32Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 7.5,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
     }
   },
   "Versions": [
