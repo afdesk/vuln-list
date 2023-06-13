@@ -1,10 +1,11 @@
 {
   "id": "GO-2022-0220",
-  "modified": "2023-05-18T20:38:56Z",
+  "modified": "2023-06-12T18:45:41Z",
   "published": "2022-05-25T18:01:46Z",
   "aliases": [
     "CVE-2019-9634"
   ],
+  "summary": "DLL injection on Windows in runtime and syscall",
   "details": "Go on Windows misused certain LoadLibrary functionality, leading to DLL injection.",
   "affected": [
     {

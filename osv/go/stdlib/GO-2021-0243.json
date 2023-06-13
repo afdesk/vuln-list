@@ -1,10 +1,11 @@
 {
   "id": "GO-2021-0243",
-  "modified": "2023-05-11T15:31:00Z",
+  "modified": "2023-06-12T18:45:41Z",
   "published": "2022-02-17T17:32:57Z",
   "aliases": [
     "CVE-2021-34558"
   ],
+  "summary": "Panic on certain certificates in crypto/tls",
   "details": "crypto/tls clients can panic when provided a certificate of the wrong type for the negotiated parameters. net/http clients performing HTTPS requests are also affected.",
   "affected": [
     {

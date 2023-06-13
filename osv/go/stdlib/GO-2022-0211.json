@@ -1,10 +1,11 @@
 {
   "id": "GO-2022-0211",
-  "modified": "2023-05-18T20:38:56Z",
+  "modified": "2023-06-12T18:45:41Z",
   "published": "2022-07-01T20:15:30Z",
   "aliases": [
     "CVE-2019-14809"
   ],
+  "summary": "Incorrect parsing validation in net/url",
   "details": "The url.Parse function accepts URLs with malformed hosts, such that the Host field can have arbitrary suffixes that appear in neither Hostname() nor Port(), allowing authorization bypasses in certain applications.",
   "affected": [
     {

@@ -1,10 +1,11 @@
 {
   "id": "GO-2021-0240",
-  "modified": "2023-05-18T20:38:56Z",
+  "modified": "2023-06-12T18:45:41Z",
   "published": "2022-02-17T17:33:25Z",
   "aliases": [
     "CVE-2021-33196"
   ],
+  "summary": "Panic when reading certain archives in archive/zip",
   "details": "NewReader and OpenReader can cause a panic or an unrecoverable fatal error when reading an archive that claims to contain a large number of files, regardless of its actual size.",
   "affected": [
     {

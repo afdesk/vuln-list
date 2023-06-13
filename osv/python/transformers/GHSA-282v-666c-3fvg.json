@@ -1,12 +1,12 @@
 {
   "id": "GHSA-282v-666c-3fvg",
-  "modified": "2023-05-26T19:49:10.416943Z",
+  "modified": "2023-06-12T21:30:49.800130Z",
   "published": "2023-05-18T18:30:35Z",
   "aliases": [
     "CVE-2023-2800"
   ],
   "summary": "transformers has Insecure Temporary File",
-  "details": "Insecure Temporary File in GitHub repository huggingface/transformers 4.29.2 and prior. A fix is available at commit 80ca92470938bbcc348e2d9cf4734c7c25cb1c43 and anticipated to be part of version 4.30.0.",
+  "details": "Insecure Temporary File in GitHub repository huggingface/transformers 4.29.2 and prior. A fix is available at commit 80ca92470938bbcc348e2d9cf4734c7c25cb1c43 and has been released as part of version 4.30.0.",
   "affected": [
     {
       "package": {
@@ -21,7 +21,9 @@
             {
               "introduced": "0"
             },
-            {}
+            {
+              "fixed": "4.30.0"
+            }
           ]
         }
       ],
@@ -137,6 +139,11 @@
         "4.9.1",
         "4.9.2"
       ],
+      "ecosystem_specific": {
+        "affected_functions": [
+          "transformers.utils.hub.download_url"
+        ]
+      },
       "database_specific": {
         "source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2023/05/GHSA-282v-666c-3fvg/GHSA-282v-666c-3fvg.json"
       }
@@ -146,6 +153,10 @@
     {
       "type": "ADVISORY",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-2800"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/huggingface/transformers/pull/23372"
     },
     {
       "type": "WEB",

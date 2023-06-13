@@ -1,10 +1,11 @@
 {
   "id": "GO-2022-0203",
-  "modified": "2023-05-11T15:31:00Z",
+  "modified": "2023-06-12T18:45:41Z",
   "published": "2022-08-09T23:19:00Z",
   "aliases": [
     "CVE-2018-7187"
   ],
+  "summary": "Remote command execution via \"go get\" command with \"-insecure\" option in cmd/go",
   "details": "The \"go get\" command is vulnerable to remote code execution.\n\nWhen the -insecure command-line option is used, \"go get\" does not validate the import path (get/vcs.go only checks for \"://\" anywhere in the string), which allows remote attackers to execute arbitrary OS commands via a crafted web site.",
   "affected": [
     {

@@ -1,10 +1,11 @@
 {
   "id": "GO-2022-0527",
-  "modified": "2023-05-11T15:31:00Z",
+  "modified": "2023-06-12T18:45:41Z",
   "published": "2022-07-20T20:52:22Z",
   "aliases": [
     "CVE-2022-30630"
   ],
+  "summary": "Stack exhaustion in Glob on certain paths in io/fs",
   "details": "Calling Glob on a path which contains a large number of path separators can cause a panic due to stack exhaustion.",
   "affected": [
     {

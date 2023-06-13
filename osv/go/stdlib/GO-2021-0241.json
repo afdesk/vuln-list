@@ -1,10 +1,11 @@
 {
   "id": "GO-2021-0241",
-  "modified": "2023-05-18T20:38:56Z",
+  "modified": "2023-06-12T18:45:41Z",
   "published": "2022-02-17T17:33:16Z",
   "aliases": [
     "CVE-2021-33197"
   ],
+  "summary": "Attacker can drop certain headers in net/http/httputil",
   "details": "ReverseProxy can be made to forward certain hop-by-hop headers, including Connection. If the target of the ReverseProxy is itself a reverse proxy, this lets an attacker drop arbitrary headers, including those set by the ReverseProxy.Director.",
   "affected": [
     {

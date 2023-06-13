@@ -1,10 +1,11 @@
 {
   "id": "GO-2022-0515",
-  "modified": "2023-05-11T15:31:00Z",
+  "modified": "2023-06-12T18:45:41Z",
   "published": "2022-07-20T17:01:45Z",
   "aliases": [
     "CVE-2022-1962"
   ],
+  "summary": "Stack exhaustion due to deeply nested types in go/parser",
   "details": "Calling any of the Parse functions on Go source code which contains deeply nested types or declarations can cause a panic due to stack exhaustion.",
   "affected": [
     {

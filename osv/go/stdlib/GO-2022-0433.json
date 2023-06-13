@@ -1,10 +1,11 @@
 {
   "id": "GO-2022-0433",
-  "modified": "2023-05-11T15:31:00Z",
+  "modified": "2023-06-12T18:45:41Z",
   "published": "2022-05-20T21:17:25Z",
   "aliases": [
     "CVE-2022-24675"
   ],
+  "summary": "Stack overflow from a large amount of PEM data in encoding/pem",
   "details": "encoding/pem in Go before 1.17.9 and 1.18.x before 1.18.1 has a Decode stack overflow via a large amount of PEM data.",
   "affected": [
     {
