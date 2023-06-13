@@ -5,7 +5,7 @@
     "date": "2023-05-25 17:41"
   },
   "updated": {
-    "date": "2023-05-25 17:41"
+    "date": "2023-06-06 18:36"
   },
   "severity": "important",
   "description": "Package updates are available for Amazon Linux AMI that fix the following vulnerabilities:\nCVE-2022-47629:\n\tLibksba before 1.6.3 is prone to an integer overflow vulnerability in the CRL signature parser.\n",
