@@ -10801,13 +10801,13 @@
       "python3, imagemagick, intltool, sqlite3, dh-sequence-python3"
     ],
     "Checksums-Sha256": [
-      "54a378a82ef937b8e1b6e5147af35778773f7900651efee5a8d0ca3d8c497c4e 2118 othman_0.6.0-3.dsc 5a40ca72496b5b28e82206904b92721fe5f6e42c4741bdc08220b2289afe4fd1 841964 othman_0.6.0.orig.tar.gz c0f730f5c1366a4cf75a006010bd2c9a3a3664a36ed889f84964822b58a06397 13992 othman_0.6.0-3.debian.tar.xz"
+      "dbd11a2f57c76262680fcff737c6d3498cd91fe7073978d2be4b5d049c7838d3 1818 othman_1.0.0-2.dsc 2938b874146d3453b20d9cd96db7381bc3472943d4fca6eb16f28700a5ac0065 752320 othman_1.0.0.orig.tar.gz 6aaa42986304820970f4ae4abff602b5917e93bf7dc11e4979d1fa54e6696e33 12932 othman_1.0.0-2.debian.tar.xz"
     ],
     "Directory": [
       "pool/non-free/o/othman"
     ],
     "Files": [
-      "aedc914f1013c2c75115a599db95b353 2118 othman_0.6.0-3.dsc 5042a80757ca53dd5acced426b1429e5 841964 othman_0.6.0.orig.tar.gz cf3c4cef07cd79b3725ae6f8307696e5 13992 othman_0.6.0-3.debian.tar.xz"
+      "556ab473701543dadf5497cf693eef03 1818 othman_1.0.0-2.dsc 4a75569a96367af3e8915510e0576f3d 752320 othman_1.0.0.orig.tar.gz 3d499724d6c583b45b5c5c0bdb3ecbe4 12932 othman_1.0.0-2.debian.tar.xz"
     ],
     "Format": [
       "3.0 (quilt)"
@@ -10843,7 +10843,7 @@
       "https://salsa.debian.org/islamic-team/othman.git"
     ],
     "Version": [
-      "0.6.0-3"
+      "1.0.0-2"
     ]
   },
   {
@@ -11702,13 +11702,13 @@
       "debhelper-compat (= 13), dh-sequence-dkms"
     ],
     "Checksums-Sha256": [
-      "1762a24d9ca9ae01eb217cd37fded34726f9a68367e246e1f6e9d3fd185fe277 1989 r8125_9.011.00-3.dsc 0c54165f271aca43b1ef4ceedfc27b1d3183f6452024d99f3014b5226b40a1e2 95060 r8125_9.011.00.orig.tar.xz c98830819eafe1529fa9210f106eba17090cb8971fbcaa031f5ea5b393ed5314 3504 r8125_9.011.00-3.debian.tar.xz"
+      "d6ca5736c61b4da564f931b87b3fe41c44480e9b69966f7a9c27b67336e3fd90 1989 r8125_9.011.00-4.dsc 0c54165f271aca43b1ef4ceedfc27b1d3183f6452024d99f3014b5226b40a1e2 95060 r8125_9.011.00.orig.tar.xz 47e7427d33f17cd163a18025bbe47c4d06b4ff1ba09d149dc45187179118e241 3516 r8125_9.011.00-4.debian.tar.xz"
     ],
     "Directory": [
       "pool/non-free/r/r8125"
     ],
     "Files": [
-      "d399691a4cfe948bd51d86ea63c54dc3 1989 r8125_9.011.00-3.dsc e798f9219a04604f4803b70075701bad 95060 r8125_9.011.00.orig.tar.xz f0445c385e8675dcb9310a8aefa94cc7 3504 r8125_9.011.00-3.debian.tar.xz"
+      "6e6b3d54d1d8b9f5710f0c030c034796 1989 r8125_9.011.00-4.dsc e798f9219a04604f4803b70075701bad 95060 r8125_9.011.00.orig.tar.xz c99841de49fda8bc8170afabe5da860b 3516 r8125_9.011.00-4.debian.tar.xz"
     ],
     "Format": [
       "3.0 (quilt)"
@@ -11744,7 +11744,7 @@
       "https://salsa.debian.org/debian/r8125.git"
     ],
     "Version": [
-      "9.011.00-3"
+      "9.011.00-4"
     ]
   },
   {
@@ -13606,13 +13606,13 @@
       "debhelper-compat (= 13), dh-exec"
     ],
     "Checksums-Sha256": [
-      "b984e12a57b617643e724a26ebdebb0f2f352d9c56ed5c8cd5422bcff975684c 2309 unrar-nonfree_6.2.6-1.dsc 0c2d4cbc8b34d0e3bec7b474e0f52bbcc6c4320ec089b4141223ee355f63c318 246212 unrar-nonfree_6.2.6.orig.tar.gz c4ae01da0e96ab05981d5766d38bd5e06bee64e86f90e99c4ddec5f4fa58df6e 14176 unrar-nonfree_6.2.6-1.debian.tar.xz"
+      "8214dc19d3955c2caaf0f2a03f0d5f4942fb9d8fb86f7f0aba40d20a8b031faf 2309 unrar-nonfree_6.2.8-1.dsc 1777e3d3b073815ff68a411ddb1ab76d0a4e1f58ecc7080035b27b52967ff911 246249 unrar-nonfree_6.2.8.orig.tar.gz d4867e2c4a9b66f8320912a9d9fdd6cf2d5a43262f6826aa30275594c2ea5444 14228 unrar-nonfree_6.2.8-1.debian.tar.xz"
     ],
     "Directory": [
       "pool/non-free/u/unrar-nonfree"
     ],
     "Files": [
-      "ed76f1545a42f2dd7b83dc94487f146b 2309 unrar-nonfree_6.2.6-1.dsc 6c68f2bbcd9f06f9d37801ad4256e680 246212 unrar-nonfree_6.2.6.orig.tar.gz 7647b4be05ab152f97c33ad3c434bd2d 14176 unrar-nonfree_6.2.6-1.debian.tar.xz"
+      "5bffc1d9c8084a3a7fc44ca55a71713b 2309 unrar-nonfree_6.2.8-1.dsc 6d0238afd4a1718788f6dff5c2647268 246249 unrar-nonfree_6.2.8.orig.tar.gz 916f2b8f6ea5d729afba292893681ebb 14228 unrar-nonfree_6.2.8-1.debian.tar.xz"
     ],
     "Format": [
       "3.0 (quilt)"
@@ -13651,7 +13651,7 @@
       "https://github.com/debian-calibre/unrar-nonfree.git"
     ],
     "Version": [
-      "1:6.2.6-1"
+      "1:6.2.8-1"
     ]
   },
   {
@@ -13907,13 +13907,13 @@
       "debhelper-compat (= 12)"
     ],
     "Checksums-Sha256": [
-      "d3348c809c9b63f93b7322b653674a094f3716c58c96b52d32179d9f06268314 2240 virtualbox-guest-additions-iso_7.0.6-1.dsc 8220cd9e14690a35280d675376b5ba8ce2fe8910785b11c0b82bf23ee340a335 38961724 virtualbox-guest-additions-iso_7.0.6.orig.tar.xz 0cbafd003254eef6aa051f80d95d3faad4a5f6cb56d3f221bf3ff76343e3a726 9328 virtualbox-guest-additions-iso_7.0.6-1.debian.tar.xz"
+      "22fb3ef085b71dbd3be3a0152a4d7f873d01b73cd5a3088874b68140b30d010e 2240 virtualbox-guest-additions-iso_7.0.8-1.dsc fb5f730bad6a25bd63c658b58505a0155cbe8403af8253bc55a9c79eaf313297 39429336 virtualbox-guest-additions-iso_7.0.8.orig.tar.xz ea3cf3a00cba951345c41e32119111e7a06f957872712a9c28a8407523747bf7 9356 virtualbox-guest-additions-iso_7.0.8-1.debian.tar.xz"
     ],
     "Directory": [
       "pool/non-free/v/virtualbox-guest-additions-iso"
     ],
     "Files": [
-      "787718e2569c2bd780968109e350376c 2240 virtualbox-guest-additions-iso_7.0.6-1.dsc dfa6a69af7c760eb65a264e18089184b 38961724 virtualbox-guest-additions-iso_7.0.6.orig.tar.xz 3a49808927f736e1f14d98c7156bc18b 9328 virtualbox-guest-additions-iso_7.0.6-1.debian.tar.xz"
+      "ea6fc2b78876b962d9c74a304bd971b3 2240 virtualbox-guest-additions-iso_7.0.8-1.dsc 1bd4d532c2b8cc6f5002ea6769138478 39429336 virtualbox-guest-additions-iso_7.0.8.orig.tar.xz f28586d68b42a6298e4f3f5f50359110 9356 virtualbox-guest-additions-iso_7.0.8-1.debian.tar.xz"
     ],
     "Format": [
       "3.0 (quilt)"
@@ -13949,7 +13949,7 @@
       "https://salsa.debian.org/pkg-virtualbox-team/virtualbox-guest-additions-iso.git"
     ],
     "Version": [
-      "7.0.6-1"
+      "7.0.8-1"
     ]
   },
   {

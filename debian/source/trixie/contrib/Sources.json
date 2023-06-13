@@ -2328,6 +2328,68 @@
   },
   {
     "Architecture": [
+      "all"
+    ],
+    "Binary": [
+      "ruby-kas-grpc"
+    ],
+    "Build-Depends": [
+      "debhelper-compat (= 13), gem2deb (\u003e= 1), ruby-grpc (\u003e= 1.0)"
+    ],
+    "Checksums-Sha256": [
+      "9a887b5c11fef416a4f9aba251e3c27b1fcd0834ed345c4c9d4c936b37adb3ea 2085 gitlab-agent_14.1.0-1.dsc 0bb44ef239b1b71574d857178598d00bdffe1d4881bd6050c1429cc118c10d9a 465776 gitlab-agent_14.1.0.orig.tar.gz de306938471b2325380a6a3920fec3a3d5f67f73c1e94b8b4ed6977287981417 2272 gitlab-agent_14.1.0-1.debian.tar.xz"
+    ],
+    "Directory": [
+      "pool/contrib/g/gitlab-agent"
+    ],
+    "Files": [
+      "accfccd14986a36f0de8f5647010c8c5 2085 gitlab-agent_14.1.0-1.dsc efbc2aee75f87bf2d8a5ec1e687f1bbf 465776 gitlab-agent_14.1.0.orig.tar.gz 6a5e4844948de82b00d68eebb3d8f49e 2272 gitlab-agent_14.1.0-1.debian.tar.xz"
+    ],
+    "Format": [
+      "3.0 (quilt)"
+    ],
+    "Homepage": [
+      "https://gitlab.com/gitlab-org/cluster-integration/gitlab-agent"
+    ],
+    "Maintainer": [
+      "Debian Ruby Team \u003cpkg-ruby-extras-maintainers@lists.alioth.debian.org\u003e"
+    ],
+    "Package": [
+      "gitlab-agent"
+    ],
+    "Package-List": [
+      "ruby-kas-grpc deb contrib/ruby optional arch=all"
+    ],
+    "Priority": [
+      "optional"
+    ],
+    "Ruby-Versions": [
+      "all"
+    ],
+    "Section": [
+      "contrib/misc"
+    ],
+    "Standards-Version": [
+      "4.5.1"
+    ],
+    "Testsuite": [
+      "autopkgtest-pkg-ruby"
+    ],
+    "Uploaders": [
+      "Sruthi Chandran \u003csrud@debian.org\u003e"
+    ],
+    "Vcs-Browser": [
+      "https://salsa.debian.org/ruby-team/gitlab-agent"
+    ],
+    "Vcs-Git": [
+      "https://salsa.debian.org/ruby-team/gitlab-agent.git"
+    ],
+    "Version": [
+      "14.1.0-1"
+    ]
+  },
+  {
+    "Architecture": [
       "i386 amd64 armhf arm64 ppc64el"
     ],
     "Binary": [
@@ -4559,6 +4621,118 @@
   },
   {
     "Architecture": [
+      "all"
+    ],
+    "Binary": [
+      "libcudnn-frontend-dev"
+    ],
+    "Build-Depends": [
+      "debhelper-compat (= 13)"
+    ],
+    "Checksums-Sha256": [
+      "79f6dcd8e9325a2f7b19c3e45d4908a38c3f409f241654b80aa855a944b020c4 2098 nvidia-cudnn-frontend_0.8+ds-1.dsc e7e06ec23e8263b6a6fda174880e7e1d09e4e6af56c6952bb3305f0deb72811d 248972 nvidia-cudnn-frontend_0.8+ds.orig.tar.xz c29488200dd26ce8ec6df69de37a106e6956509aa2b61b301e44264a8aff8640 5284 nvidia-cudnn-frontend_0.8+ds-1.debian.tar.xz"
+    ],
+    "Directory": [
+      "pool/contrib/n/nvidia-cudnn-frontend"
+    ],
+    "Files": [
+      "ff1d7190ac04c8b708274c523a6a8338 2098 nvidia-cudnn-frontend_0.8+ds-1.dsc 52ced552ea9e82a86b4de32410bab776 248972 nvidia-cudnn-frontend_0.8+ds.orig.tar.xz 165bfd5444d4d19f429299acbd78ecf7 5284 nvidia-cudnn-frontend_0.8+ds-1.debian.tar.xz"
+    ],
+    "Format": [
+      "3.0 (quilt)"
+    ],
+    "Homepage": [
+      "https://github.com/NVIDIA/cudnn-frontend"
+    ],
+    "Maintainer": [
+      "Debian NVIDIA Maintainers \u003cpkg-nvidia-devel@lists.alioth.debian.org\u003e"
+    ],
+    "Package": [
+      "nvidia-cudnn-frontend"
+    ],
+    "Package-List": [
+      "libcudnn-frontend-dev deb contrib/libdevel optional arch=all"
+    ],
+    "Priority": [
+      "optional"
+    ],
+    "Section": [
+      "contrib/misc"
+    ],
+    "Standards-Version": [
+      "4.6.0"
+    ],
+    "Uploaders": [
+      "Mo Zhou \u003clumin@debian.org\u003e,"
+    ],
+    "Vcs-Browser": [
+      "https://salsa.debian.org/nvidia-team/nvidia-cudnn-frontend"
+    ],
+    "Vcs-Git": [
+      "https://salsa.debian.org/nvidia-team/nvidia-cudnn-frontend.git"
+    ],
+    "Version": [
+      "0.8+ds-1"
+    ]
+  },
+  {
+    "Architecture": [
+      "all"
+    ],
+    "Binary": [
+      "libcutlass-dev"
+    ],
+    "Build-Depends": [
+      "debhelper-compat (= 13)"
+    ],
+    "Checksums-Sha256": [
+      "ddbad79b4dc38cb12f5d102e18526e5016d1b3e635ab9880ea10c46dd5464c8c 2038 nvidia-cutlass_2.10.0+ds-1.dsc 3e3a50fd9982656ea4de337f765d8b42409c4d1d07eb033aa2cf534a6dd1bc32 7665028 nvidia-cutlass_2.10.0+ds.orig.tar.xz d8f0e3e310ed0da92d48c07496a1397b28f11702a17573f0452793f0e1fad6b9 3164 nvidia-cutlass_2.10.0+ds-1.debian.tar.xz"
+    ],
+    "Directory": [
+      "pool/contrib/n/nvidia-cutlass"
+    ],
+    "Files": [
+      "e750b3488524c4c83b5921c6465be06e 2038 nvidia-cutlass_2.10.0+ds-1.dsc 65975916e94c7ffcadda21c4bacc9245 7665028 nvidia-cutlass_2.10.0+ds.orig.tar.xz 1e54a9df916c5bbe657213dba2234fab 3164 nvidia-cutlass_2.10.0+ds-1.debian.tar.xz"
+    ],
+    "Format": [
+      "3.0 (quilt)"
+    ],
+    "Homepage": [
+      "https://github.com/NVIDIA/cutlass"
+    ],
+    "Maintainer": [
+      "Debian NVIDIA Maintainers \u003cpkg-nvidia-devel@lists.alioth.debian.org\u003e"
+    ],
+    "Package": [
+      "nvidia-cutlass"
+    ],
+    "Package-List": [
+      "libcutlass-dev deb contrib/libdevel optional arch=all"
+    ],
+    "Priority": [
+      "optional"
+    ],
+    "Section": [
+      "contrib/misc"
+    ],
+    "Standards-Version": [
+      "4.6.0"
+    ],
+    "Uploaders": [
+      "Mo Zhou \u003clumin@debian.org\u003e,"
+    ],
+    "Vcs-Browser": [
+      "https://salsa.debian.org/nvidia-team/nvidia-cutlass"
+    ],
+    "Vcs-Git": [
+      "https://salsa.debian.org/nvidia-team/nvidia-cutlass.git"
+    ],
+    "Version": [
+      "2.10.0+ds-1"
+    ]
+  },
+  {
+    "Architecture": [
       "amd64 i386 arm64 ppc64el"
     ],
     "Binary": [
@@ -4667,6 +4841,62 @@
     ],
     "Version": [
       "530.30.02-2"
+    ]
+  },
+  {
+    "Architecture": [
+      "amd64 arm64 ppc64el"
+    ],
+    "Binary": [
+      "libnccl2, libnccl-dev"
+    ],
+    "Build-Depends": [
+      "debhelper-compat (= 13), dh-exec, nvidia-cuda-toolkit, nvidia-cuda-toolkit-gcc"
+    ],
+    "Checksums-Sha256": [
+      "220cc6b199f93c4f72e9dfd8f933c55f1e8d09b60d712cc2239d6f26a3d80e9d 2149 nvidia-nccl_2.16.5-1-1.dsc 0e3d7b6295beed81dc15002e88abf7a3b45b5c686b13b779ceac056f5612087f 327261 nvidia-nccl_2.16.5-1.orig.tar.gz 716c4e72ddd15db812581bcae4e562496ed562a532d1f4cf3a9cfdcb1c124325 3300 nvidia-nccl_2.16.5-1-1.debian.tar.xz"
+    ],
+    "Directory": [
+      "pool/contrib/n/nvidia-nccl"
+    ],
+    "Files": [
+      "79204cfdec8f06b0940c20a636d6d70d 2149 nvidia-nccl_2.16.5-1-1.dsc fb8f8db0cba20da362a3ee7ed978ae30 327261 nvidia-nccl_2.16.5-1.orig.tar.gz 916d0c1b1ae27ffd448fda300397abd2 3300 nvidia-nccl_2.16.5-1-1.debian.tar.xz"
+    ],
+    "Format": [
+      "3.0 (quilt)"
+    ],
+    "Homepage": [
+      "https://github.com/NVIDIA/nccl"
+    ],
+    "Maintainer": [
+      "Debian NVIDIA Maintainers \u003cpkg-nvidia-devel@lists.alioth.debian.org\u003e"
+    ],
+    "Package": [
+      "nvidia-nccl"
+    ],
+    "Package-List": [
+      "libnccl-dev deb contrib/libdevel optional arch=amd64,arm64,ppc64el libnccl2 deb contrib/libs optional arch=amd64,arm64,ppc64el"
+    ],
+    "Priority": [
+      "optional"
+    ],
+    "Section": [
+      "contrib/misc"
+    ],
+    "Standards-Version": [
+      "4.6.0"
+    ],
+    "Uploaders": [
+      "Mo Zhou \u003clumin@debian.org\u003e"
+    ],
+    "Vcs-Browser": [
+      "https://salsa.debian.org/nvidia-team/nvidia-nccl"
+    ],
+    "Vcs-Git": [
+      "https://salsa.debian.org/nvidia-team/nvidia-nccl.git"
+    ],
+    "Version": [
+      "2.16.5-1-1"
     ]
   },
   {
@@ -5348,6 +5578,112 @@
     ],
     "Version": [
       "1.3.7+dfsg-1"
+    ]
+  },
+  {
+    "Architecture": [
+      "all"
+    ],
+    "Binary": [
+      "openrct2-openmsx"
+    ],
+    "Build-Depends": [
+      "debhelper-compat (= 13), ffmpeg, nodejs, zip"
+    ],
+    "Checksums-Sha256": [
+      "536fbac6053621661826c876181121b5ca51f09e40f30a0cadce636acf98ae85 1961 openrct2-openmsx_1.3.1-2.dsc be9edae077bf8b37a89f347701ed18ccaf26b25fd80f0d4815f623828a7ef63d 625387477 openrct2-openmsx_1.3.1.orig.tar.gz fdd7a1d8d3767ed4effda6a8f359a4539788fa0a5e5dc98b88bafd263c3c2c39 7536 openrct2-openmsx_1.3.1-2.debian.tar.xz"
+    ],
+    "Directory": [
+      "pool/contrib/o/openrct2-openmsx"
+    ],
+    "Files": [
+      "02a8823bcd96ff5058d120de4679a7c7 1961 openrct2-openmsx_1.3.1-2.dsc 42aa752b60360f46a8b30c95f51c5b49 625387477 openrct2-openmsx_1.3.1.orig.tar.gz f62b1c195a5c38d39edca491f65a63c2 7536 openrct2-openmsx_1.3.1-2.debian.tar.xz"
+    ],
+    "Format": [
+      "3.0 (quilt)"
+    ],
+    "Homepage": [
+      "https://openrct2.io/"
+    ],
+    "Maintainer": [
+      "Mathias Gibbens \u003cgibmat@debian.org\u003e"
+    ],
+    "Package": [
+      "openrct2-openmsx"
+    ],
+    "Package-List": [
+      "openrct2-openmsx deb contrib/games optional arch=all"
+    ],
+    "Priority": [
+      "optional"
+    ],
+    "Section": [
+      "contrib/misc"
+    ],
+    "Standards-Version": [
+      "4.6.2"
+    ],
+    "Vcs-Browser": [
+      "https://salsa.debian.org/gibmat/openrct2-openmsx"
+    ],
+    "Vcs-Git": [
+      "https://salsa.debian.org/gibmat/openrct2-openmsx.git"
+    ],
+    "Version": [
+      "1.3.1-2"
+    ]
+  },
+  {
+    "Architecture": [
+      "all"
+    ],
+    "Binary": [
+      "openrct2-opensfx"
+    ],
+    "Build-Depends": [
+      "debhelper-compat (= 13), ffmpeg, nodejs, zip"
+    ],
+    "Checksums-Sha256": [
+      "0f8fd693d462cdfa0e8b80e4e415b1081ddde0e8302424789e729ea219452d7d 1955 openrct2-opensfx_1.0.3-2.dsc 19b734bf91397323d1e214239e80018d7d1f434094b1875ee1af8904ed7edcb3 8909032 openrct2-opensfx_1.0.3.orig.tar.gz 27f95363c9d9367fa16ea50ce89d80d09978d0e6cd737d4497b9fdb9f78e00f8 7588 openrct2-opensfx_1.0.3-2.debian.tar.xz"
+    ],
+    "Directory": [
+      "pool/contrib/o/openrct2-opensfx"
+    ],
+    "Files": [
+      "84529903fb160b9ffc131148b4fba90f 1955 openrct2-opensfx_1.0.3-2.dsc 272e910e0bfbdee98972ea0ad50823f1 8909032 openrct2-opensfx_1.0.3.orig.tar.gz 5bf8c7991d7a8a3e4d4e917dec7504df 7588 openrct2-opensfx_1.0.3-2.debian.tar.xz"
+    ],
+    "Format": [
+      "3.0 (quilt)"
+    ],
+    "Homepage": [
+      "https://openrct2.io/"
+    ],
+    "Maintainer": [
+      "Mathias Gibbens \u003cgibmat@debian.org\u003e"
+    ],
+    "Package": [
+      "openrct2-opensfx"
+    ],
+    "Package-List": [
+      "openrct2-opensfx deb contrib/games optional arch=all"
+    ],
+    "Priority": [
+      "optional"
+    ],
+    "Section": [
+      "contrib/misc"
+    ],
+    "Standards-Version": [
+      "4.6.2"
+    ],
+    "Vcs-Browser": [
+      "https://salsa.debian.org/gibmat/openrct2-opensfx"
+    ],
+    "Vcs-Git": [
+      "https://salsa.debian.org/gibmat/openrct2-opensfx.git"
+    ],
+    "Version": [
+      "1.0.3-2"
     ]
   },
   {
@@ -6266,13 +6602,13 @@
       "debhelper-compat (= 13), dh-python, python3-all, python3-setuptools, python3-dateutil, python3-tz"
     ],
     "Checksums-Sha256": [
-      "5c998738d07eb7a23236d0c9a7a2842ed3d55c85dfd212647c17edad4b01a571 2263 python-vertica_1.3.0-1.dsc 42b9ec3b39080e3270b3ac7b0282964080163a8f3c69a451b65e40210b34663e 100360 python-vertica_1.3.0.orig.tar.gz 69eb29f5296e8445dc5bc618c863bdacc6fff601b237816994189b719b3491c7 4156 python-vertica_1.3.0-1.debian.tar.xz"
+      "533e97dcfd737ab40e942ebb196be88172b22b30996c33538c4a8ff5d5e7cc4b 2263 python-vertica_1.3.2-1.dsc 2176ba6df09e7a6b17460adb4c92af7b6ff424eb96aa78211c408b96dfa484e4 104402 python-vertica_1.3.2.orig.tar.gz d7c7fa65fc8fa1faf0118af235862da2eaa1b78ba3356c4846ebe6016ee3ff5d 4176 python-vertica_1.3.2-1.debian.tar.xz"
     ],
     "Directory": [
       "pool/contrib/p/python-vertica"
     ],
     "Files": [
-      "772bc5cccdd1e067e5ccf6b8277c76e3 2263 python-vertica_1.3.0-1.dsc 25122cf11b1126f8f601f6c41e5b1bda 100360 python-vertica_1.3.0.orig.tar.gz b40f90a0f7c3d52d95aca2f69cd2a76c 4156 python-vertica_1.3.0-1.debian.tar.xz"
+      "6d9aa9631788e6a958b4a52b56ac52da 2263 python-vertica_1.3.2-1.dsc 3bbc502ade3748b8f10a6502f203ffec 104402 python-vertica_1.3.2.orig.tar.gz 79071e003d6604e1c41a1d0ac4e69c57 4176 python-vertica_1.3.2-1.debian.tar.xz"
     ],
     "Format": [
       "3.0 (quilt)"
@@ -6314,7 +6650,7 @@
       "https://salsa.debian.org/python-team/packages/python-vertica.git"
     ],
     "Version": [
-      "1.3.0-1"
+      "1.3.2-1"
     ]
   },
   {
@@ -7481,6 +7817,65 @@
   },
   {
     "Architecture": [
+      "any"
+    ],
+    "Binary": [
+      "python3-stravalib"
+    ],
+    "Build-Depends": [
+      "debhelper-compat (= 13), dh-python, python3-arrow, python3-all-dev, python3-pytest, python3-setuptools, python3-sphinx, python3-wheel, python3-sphinx-copybutton, python3-sphinx-remove-toctrees, python3-sphinxext-opengraph, python3-sphinx-inline-tabs, python3-myst-parser, python3-pytest-cov, python3-pydantic, python3-pint, python3-pytzdata"
+    ],
+    "Checksums-Sha256": [
+      "b758d3e812a3dd5693f2e02e0cf3aa3d26b6bd66e5b7bb21f39ae298238715a6 2323 stravalib_1.3.0-1.dsc a42b3e513a988f73e83f1255bf8c6dad39252a170a3b2070a713b345c1c10532 222277 stravalib_1.3.0.orig.tar.gz 76f54169b87fdbf1085a9a24a9cdf4f52e719dd30fa009df29ef1af4ac7ee2cc 2172 stravalib_1.3.0-1.debian.tar.xz"
+    ],
+    "Directory": [
+      "pool/contrib/s/stravalib"
+    ],
+    "Files": [
+      "9fe74847fd50206a0aff2915e9dfa2e9 2323 stravalib_1.3.0-1.dsc fc13ce338a29f1faff62674f7d93619e 222277 stravalib_1.3.0.orig.tar.gz 59076baf5fc522e7f3096facf15a1819 2172 stravalib_1.3.0-1.debian.tar.xz"
+    ],
+    "Format": [
+      "3.0 (quilt)"
+    ],
+    "Homepage": [
+      "https://github.com/stravalib/stravalib"
+    ],
+    "Maintainer": [
+      "Anton Gladky \u003cgladk@debian.org\u003e"
+    ],
+    "Package": [
+      "stravalib"
+    ],
+    "Package-List": [
+      "python3-stravalib deb contrib/python optional arch=any"
+    ],
+    "Priority": [
+      "optional"
+    ],
+    "Section": [
+      "contrib/misc"
+    ],
+    "Standards-Version": [
+      "4.6.1"
+    ],
+    "Testsuite": [
+      "autopkgtest-pkg-python"
+    ],
+    "Uploaders": [
+      "Debian Python Team \u003cteam+python@tracker.debian.org\u003e"
+    ],
+    "Vcs-Browser": [
+      "https://salsa.debian.org/python-team/packages/stravalib"
+    ],
+    "Vcs-Git": [
+      "https://salsa.debian.org/python-team/packages/stravalib"
+    ],
+    "Version": [
+      "1.3.0-1"
+    ]
+  },
+  {
+    "Architecture": [
       "all"
     ],
     "Binary": [
@@ -7882,13 +8277,13 @@
       "debhelper-compat (= 13), dh-python, python3-all-dev, python3-setuptools, libunrar-dev"
     ],
     "Checksums-Sha256": [
-      "9f230e2fd2f230abe57b8faf09b4640f52a9a059407e659c339afb4b5a44dd11 2336 unrardll_0.1.5-6.dsc 8bebb480b96cd49d4290d814914f39cff75cf0fa0514c4790bb32b1757227c78 10777613 unrardll_0.1.5.orig.tar.gz d0a4aeed449f358ec245227387a12a722738ca7dba4063893dcd825caee11fe7 833 unrardll_0.1.5.orig.tar.gz.asc a4b597b5b7ce54e1ac205e8f46d3371c8f989e677585cd772a79b66e35213ab7 8956 unrardll_0.1.5-6.debian.tar.xz"
+      "cacc22eebdf825b0c6ea4bf4afbfeca0c2b6ced642d454d3aee959d6d73ab14c 2336 unrardll_0.1.7-1.dsc e1067fe27bb4de204ef8f3692f23d93c5d3b4292f78b292c6fc7dc4f75749f76 10780032 unrardll_0.1.7.orig.tar.gz f77e45832dd5ae3346e9fa267847ad9bc606cd5fba718519cd2be3ad751e11e0 833 unrardll_0.1.7.orig.tar.gz.asc 2db64f690d09326100bac6bda3321e89d09a57bd4baebfda123453fc54ff8a08 6116 unrardll_0.1.7-1.debian.tar.xz"
     ],
     "Directory": [
       "pool/contrib/u/unrardll"
     ],
     "Files": [
-      "57d232becf8697d3a5b8727729b33b21 2336 unrardll_0.1.5-6.dsc fbfb72e32775e63819699a76903d4b57 10777613 unrardll_0.1.5.orig.tar.gz 8a01894d8918f58f97e1cb9fdc4969d9 833 unrardll_0.1.5.orig.tar.gz.asc 4b56bd70085c1fb9567ce73c23767172 8956 unrardll_0.1.5-6.debian.tar.xz"
+      "b265a1d60af67df91680efd2e7f81a03 2336 unrardll_0.1.7-1.dsc 41fc5231e04426b15e2c2916b263a3bc 10780032 unrardll_0.1.7.orig.tar.gz 81293afc6b496fb49099485894578bad 833 unrardll_0.1.7.orig.tar.gz.asc c8da005477328fcc4d9260a8745b37d7 6116 unrardll_0.1.7-1.debian.tar.xz"
     ],
     "Format": [
       "3.0 (quilt)"
@@ -7924,7 +8319,7 @@
       "https://github.com/debian-calibre/unrardll.git"
     ],
     "Version": [
-      "0.1.5-6"
+      "0.1.7-1"
     ]
   },
   {
