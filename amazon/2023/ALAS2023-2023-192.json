@@ -5,7 +5,7 @@
     "date": "2023-06-05 16:38"
   },
   "updated": {
-    "date": "2023-06-05 16:38"
+    "date": "2023-06-07 20:09"
   },
   "severity": "Medium",
   "description": "Package updates are available for Amazon Linux 2023 that fix the following vulnerabilities:\nCVE-2023-28450:\n\tAn issue was discovered in Dnsmasq before 2.90. The default maximum EDNS.0 UDP packet size was set to 4096 but should be 1232 because of DNS Flag Day 2020.\n",

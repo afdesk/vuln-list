@@ -5,7 +5,7 @@
     "date": "2023-05-25 17:41"
   },
   "updated": {
-    "date": "2023-05-25 17:41"
+    "date": "2023-06-07 20:05"
   },
   "severity": "Important",
   "description": "Package updates are available for Amazon Linux 2023 that fix the following vulnerabilities:\nCVE-2023-31484:\n\tHTTP::Tiny 0.082, a Perl core module since 5.13.9 and available standalone on CPAN, has an insecure default TLS configuration where users must opt in to verify certificates.\n",
