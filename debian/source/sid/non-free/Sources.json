@@ -4665,68 +4665,6 @@
   },
   {
     "Architecture": [
-      "any all"
-    ],
-    "Autobuild": [
-      "yes"
-    ],
-    "Binary": [
-      "ldraw-mklist, ldraw-parts"
-    ],
-    "Build-Depends": [
-      "debhelper-compat (= 13), python3:native"
-    ],
-    "Checksums-Sha256": [
-      "ca32923a38ed99fa1d9968a0c3d5e92d8f4c927863b3adc04b4451173ff94f30 2202 ldraw-parts_2301+ds-1.dsc 5385ccaedccc3f772c4567f62c31ca41623c5deb93adb29a42ec9142bf7313f8 48212616 ldraw-parts_2301+ds.orig.tar.xz 4147f5d739e4fa12861eccefd1d77b49dc408bfb6848661c066b1c33794646b6 6072 ldraw-parts_2301+ds-1.debian.tar.xz"
-    ],
-    "Dgit": [
-      "4998de7b94a7e5bdf55062d754927343a08b99bf debian archive/debian/2301+ds-1 https://git.dgit.debian.org/ldraw-parts"
-    ],
-    "Directory": [
-      "pool/non-free/l/ldraw-parts"
-    ],
-    "Files": [
-      "289784725a9222745b306718d1e58982 2202 ldraw-parts_2301+ds-1.dsc addc5685df1062ba5067f657c4e946b9 48212616 ldraw-parts_2301+ds.orig.tar.xz 39c3a61a1f9e5cdf60cf70b1cf8b1f6e 6072 ldraw-parts_2301+ds-1.debian.tar.xz"
-    ],
-    "Format": [
-      "3.0 (quilt)"
-    ],
-    "Homepage": [
-      "https://www.ldraw.org/parts/latest-parts.html"
-    ],
-    "Maintainer": [
-      "Debian LEGO Team \u003cdebian-lego-team@lists.alioth.debian.org\u003e"
-    ],
-    "Package": [
-      "ldraw-parts"
-    ],
-    "Package-List": [
-      "ldraw-mklist deb non-free/misc optional arch=any ldraw-parts deb non-free/misc optional arch=all"
-    ],
-    "Priority": [
-      "optional"
-    ],
-    "Section": [
-      "non-free/misc"
-    ],
-    "Standards-Version": [
-      "4.6.1"
-    ],
-    "Uploaders": [
-      "Johannes Schauer Marin Rodrigues \u003cjosch@debian.org\u003e,"
-    ],
-    "Vcs-Browser": [
-      "https://salsa.debian.org/debian/ldraw-parts"
-    ],
-    "Vcs-Git": [
-      "https://salsa.debian.org/debian/ldraw-parts.git"
-    ],
-    "Version": [
-      "2301+ds-1"
-    ]
-  },
-  {
-    "Architecture": [
       "all"
     ],
     "Autobuild": [
