@@ -4023,27 +4023,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:202127290001",
       "Version": "636",
-      "Name": "nodejs-full-i18n"
+      "Name": "nodejs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202127290002",
       "Version": "636",
-      "Name": "nodejs-docs"
+      "Name": "npm"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202127290003",
       "Version": "636",
-      "Name": "nodejs"
+      "Name": "nodejs-full-i18n"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202127290004",
       "Version": "636",
-      "Name": "nodejs-libs"
+      "Name": "nodejs-docs"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202127290006",
+      "ID": "oval:com.redhat.cve:obj:202127290007",
       "Version": "636",
-      "Name": "npm"
+      "Name": "nodejs-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202128544001",
@@ -7156,17 +7156,17 @@
       "Name": "python3-configobj"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232650002",
+      "ID": "oval:com.redhat.cve:obj:20232650001",
       "Version": "636",
       "Name": "edk2"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232650006",
+      "ID": "oval:com.redhat.cve:obj:20232650007",
       "Version": "636",
       "Name": "edk2-tools-doc"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232650013",
+      "ID": "oval:com.redhat.cve:obj:20232650010",
       "Version": "636",
       "Name": "edk2-tools"
     },
@@ -7318,52 +7318,52 @@
     {
       "ID": "oval:com.redhat.cve:obj:202327522001",
       "Version": "636",
-      "Name": "httpd-devel"
+      "Name": "mod_ssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522002",
       "Version": "636",
-      "Name": "mod_session"
+      "Name": "mod_proxy_html"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522003",
       "Version": "636",
-      "Name": "mod_lua"
+      "Name": "httpd-filesystem"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522004",
       "Version": "636",
-      "Name": "httpd-filesystem"
+      "Name": "httpd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522005",
       "Version": "636",
-      "Name": "mod_ssl"
+      "Name": "mod_lua"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522006",
       "Version": "636",
-      "Name": "mod_ldap"
+      "Name": "httpd-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522007",
       "Version": "636",
-      "Name": "mod_proxy_html"
+      "Name": "httpd-manual"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522008",
       "Version": "636",
-      "Name": "httpd-core"
+      "Name": "mod_ldap"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522009",
       "Version": "636",
-      "Name": "httpd-manual"
+      "Name": "mod_session"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522010",
       "Version": "636",
-      "Name": "httpd"
+      "Name": "httpd-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522011",

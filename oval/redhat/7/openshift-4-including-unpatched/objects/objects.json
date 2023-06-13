@@ -211,6 +211,11 @@
       "Name": "conmon-rs"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20231428001",
+      "Version": "636",
+      "Name": "grpc"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202323934001",
       "Version": "636",
       "Name": "python-werkzeug"
@@ -269,11 +274,6 @@
       "ID": "oval:com.redhat.cve:obj:20233153008",
       "Version": "636",
       "Name": "ovn21.12"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332731001",
-      "Version": "636",
-      "Name": "grpc"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:201911360001",

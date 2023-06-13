@@ -1,6 +1,71 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.redhat.cve:obj:12341234001",
+      "Version": "636",
+      "Name": "aspnetcore-targeting-pack-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234002",
+      "Version": "636",
+      "Name": "dotnet-targeting-pack-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234003",
+      "Version": "636",
+      "Name": "dotnet-hostfxr-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234004",
+      "Version": "636",
+      "Name": "netstandard-targeting-pack-2.1"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234005",
+      "Version": "636",
+      "Name": "dotnet"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234006",
+      "Version": "636",
+      "Name": "aspnetcore-runtime-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234007",
+      "Version": "636",
+      "Name": "dotnet-runtime-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234008",
+      "Version": "636",
+      "Name": "dotnet7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234009",
+      "Version": "636",
+      "Name": "dotnet-apphost-pack-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234010",
+      "Version": "636",
+      "Name": "dotnet-sdk-7.0-source-built-artifacts"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234011",
+      "Version": "636",
+      "Name": "dotnet-sdk-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234012",
+      "Version": "636",
+      "Name": "dotnet-host"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234013",
+      "Version": "636",
+      "Name": "dotnet-templates-7.0"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20052541001",
       "Version": "636",
       "Name": "tar"
@@ -7596,6 +7661,11 @@
       "Name": "plexus-cipher"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202127290005",
+      "Version": "636",
+      "Name": "nodejs-packaging-bundler"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202128902001",
       "Version": "636",
       "Name": "libyang"
@@ -8136,11 +8206,6 @@
       "Name": "dotnet-sdk-3.1"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20214231011",
-      "Version": "636",
-      "Name": "netstandard-targeting-pack-2.1"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20214231012",
       "Version": "636",
       "Name": "aspnetcore-runtime-3.1"
@@ -8159,16 +8224,6 @@
       "ID": "oval:com.redhat.cve:obj:20214231017",
       "Version": "636",
       "Name": "dotnet-sdk-3.1-source-built-artifacts"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20214231018",
-      "Version": "636",
-      "Name": "dotnet"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20214231019",
-      "Version": "636",
-      "Name": "dotnet-host"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202142574001",
@@ -8279,11 +8334,6 @@
       "ID": "oval:com.redhat.cve:obj:202143618003",
       "Version": "636",
       "Name": "gmp-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202144906002",
-      "Version": "636",
-      "Name": "nodejs-packaging-bundler"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202145078007",
@@ -10341,34 +10391,29 @@
       "Name": "python3-configobj"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202326464001",
-      "Version": "636",
-      "Name": "slf4j-javadoc"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:202326464002",
       "Version": "636",
       "Name": "slf4j-jcl"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202326464004",
+      "ID": "oval:com.redhat.cve:obj:202326464003",
       "Version": "636",
-      "Name": "jul-to-slf4j"
+      "Name": "log4j-over-slf4j"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464005",
       "Version": "636",
-      "Name": "slf4j-log4j12"
+      "Name": "slf4j-javadoc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464006",
       "Version": "636",
-      "Name": "slf4j-sources"
+      "Name": "slf4j-ext"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464007",
       "Version": "636",
-      "Name": "slf4j-ext"
+      "Name": "slf4j-manual"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464008",
@@ -10376,14 +10421,19 @@
       "Name": "slf4j-jdk14"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202326464009",
+      "Version": "636",
+      "Name": "jul-to-slf4j"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202326464010",
       "Version": "636",
-      "Name": "slf4j-manual"
+      "Name": "slf4j-sources"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326464011",
       "Version": "636",
-      "Name": "log4j-over-slf4j"
+      "Name": "slf4j-log4j12"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232700001",
@@ -18526,51 +18576,6 @@
       "Name": "mingw64-zlib-static"
     },
     {
-      "ID": "oval:com.redhat.rhsa:obj:20227826001",
-      "Version": "638",
-      "Name": "aspnetcore-runtime-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20227826002",
-      "Version": "638",
-      "Name": "aspnetcore-targeting-pack-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20227826004",
-      "Version": "638",
-      "Name": "dotnet-apphost-pack-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20227826006",
-      "Version": "638",
-      "Name": "dotnet-hostfxr-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20227826007",
-      "Version": "638",
-      "Name": "dotnet-runtime-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20227826008",
-      "Version": "638",
-      "Name": "dotnet-sdk-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20227826009",
-      "Version": "638",
-      "Name": "dotnet-sdk-7.0-source-built-artifacts"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20227826010",
-      "Version": "638",
-      "Name": "dotnet-targeting-pack-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20227826011",
-      "Version": "638",
-      "Name": "dotnet-templates-7.0"
-    },
-    {
       "ID": "oval:com.redhat.rhsa:obj:20230087001",
       "Version": "635",
       "Name": "usbguard"
@@ -20441,11 +20446,6 @@
       "Name": "cockpit-session-recording"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202226929001",
-      "Version": "635",
-      "Name": "dotnet7.0"
-    },
-    {
       "ID": "oval:com.redhat.unaffected:obj:202226929030",
       "Version": "635",
       "Name": "dotnet7.0-debugsource"
@@ -20598,7 +20598,7 @@
   ],
   "RpmverifyfileObjects": [
     {
-      "ID": "oval:com.redhat.cve:obj:20052541002",
+      "ID": "oval:com.redhat.cve:obj:12341234014",
       "AttrVersion": "636",
       "Behaviors": {
         "Noconfigfiles": "true",

@@ -196,6 +196,31 @@
       "Name": "haproxy"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20231428001",
+      "Version": "636",
+      "Name": "python3-grpcio"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20231428002",
+      "Version": "636",
+      "Name": "grpc-plugins"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20231428003",
+      "Version": "636",
+      "Name": "grpc-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20231428004",
+      "Version": "636",
+      "Name": "grpc"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20231428005",
+      "Version": "636",
+      "Name": "grpc-cli"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202323934001",
       "Version": "636",
       "Name": "python-werkzeug"
@@ -274,31 +299,6 @@
       "ID": "oval:com.redhat.cve:obj:20233153008",
       "Version": "636",
       "Name": "ovn21.12"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332731001",
-      "Version": "636",
-      "Name": "python3-grpcio"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332731002",
-      "Version": "636",
-      "Name": "grpc-plugins"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332731003",
-      "Version": "636",
-      "Name": "grpc-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332731004",
-      "Version": "636",
-      "Name": "grpc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332731005",
-      "Version": "636",
-      "Name": "grpc-cli"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20231325008",
