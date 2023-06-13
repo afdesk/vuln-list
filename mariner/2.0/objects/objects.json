@@ -1,6 +1,11 @@
 {
   "RpminfoObjects": [
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:27009001",
+      "Version": "0",
+      "Name": "kata-containers-cc"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26784001",
       "Version": "1",
       "Name": "sysstat"

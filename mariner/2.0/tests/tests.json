@@ -2,6 +2,18 @@
   "RpminfoTests": [
     {
       "Check": "at least one",
+      "Comment": "Package kata-containers-cc is earlier than 0.4.1-2, affected by CVE-2023-2650",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:27009000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:27009001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:27009002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package sysstat is earlier than 12.7.1-2, affected by CVE-2023-33204",
       "ID": "oval:com.microsoft.cbl-mariner:tst:26784000",
       "Version": "1",
@@ -1622,7 +1634,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.25.8-1 or earlier",
+      "Comment": "Package k3s is installed with version 1.24.6-4 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13819000",
       "Version": "0",
       "Object": {
@@ -1958,7 +1970,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13732000",
       "Version": "0",
       "Object": {
@@ -1970,7 +1982,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13731000",
       "Version": "0",
       "Object": {
@@ -1982,7 +1994,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13730000",
       "Version": "0",
       "Object": {
@@ -2486,7 +2498,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.25.8-1 or earlier",
+      "Comment": "Package k3s is installed with version 1.24.6-4 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13572000",
       "Version": "0",
       "Object": {
@@ -2498,7 +2510,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.25.8-1 or earlier",
+      "Comment": "Package k3s is installed with version 1.24.6-4 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13571000",
       "Version": "0",
       "Object": {
@@ -2510,7 +2522,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.25.8-1 or earlier",
+      "Comment": "Package k3s is installed with version 1.24.6-4 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13570000",
       "Version": "0",
       "Object": {
@@ -6266,7 +6278,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11130000",
       "Version": "0",
       "Object": {
@@ -6278,7 +6290,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11129000",
       "Version": "0",
       "Object": {
@@ -6290,7 +6302,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11128000",
       "Version": "0",
       "Object": {
@@ -7214,7 +7226,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10855000",
       "Version": "0",
       "Object": {
@@ -21662,7 +21674,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:6449000",
       "Version": "0",
       "Object": {
@@ -21674,7 +21686,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.19.8-1 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:6448000",
       "Version": "0",
       "Object": {
