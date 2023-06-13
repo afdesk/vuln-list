@@ -1,7 +1,7 @@
 {
   "RpminfoState": [
     {
-      "ID": "oval:com.redhat.cve:ste:12341234001",
+      "ID": "oval:com.redhat.cve:ste:12340007001",
       "Version": "636",
       "Arch": {},
       "Evr": {},
@@ -55671,7 +55671,7 @@
   ],
   "RpmverifyfileStates": [
     {
-      "ID": "oval:com.redhat.cve:ste:12341234002",
+      "ID": "oval:com.redhat.cve:ste:12340007002",
       "AttrVersion": "636",
       "Name": {
         "Text": "^redhat-release",
@@ -55683,7 +55683,7 @@
       }
     },
     {
-      "ID": "oval:com.redhat.cve:ste:12341234003",
+      "ID": "oval:com.redhat.cve:ste:12340007003",
       "AttrVersion": "636",
       "Name": {
         "Text": "^redhat-release",
@@ -56090,18 +56090,18 @@
       }
     },
     {
-      "ID": "oval:com.redhat.cve:ste:20232454002",
-      "Version": "636",
-      "Text": {
-        "Text": "\\nstream\\s*=\\s*15\\b[\\w\\W]*\\nstate\\s*=\\s*(enabled|1|true)|\\nstate\\s*=\\s*(enabled|1|true)[\\w\\W]*\\nstream\\s*=\\s*15\\b",
-        "Operation": "pattern match"
-      }
-    },
-    {
       "ID": "oval:com.redhat.cve:ste:20232454004",
       "Version": "636",
       "Text": {
         "Text": "\\nstream\\s*=\\s*13\\b[\\w\\W]*\\nstate\\s*=\\s*(enabled|1|true)|\\nstate\\s*=\\s*(enabled|1|true)[\\w\\W]*\\nstream\\s*=\\s*13\\b",
+        "Operation": "pattern match"
+      }
+    },
+    {
+      "ID": "oval:com.redhat.cve:ste:20232454005",
+      "Version": "636",
+      "Text": {
+        "Text": "\\nstream\\s*=\\s*15\\b[\\w\\W]*\\nstate\\s*=\\s*(enabled|1|true)|\\nstate\\s*=\\s*(enabled|1|true)[\\w\\W]*\\nstream\\s*=\\s*15\\b",
         "Operation": "pattern match"
       }
     },

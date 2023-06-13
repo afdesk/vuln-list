@@ -299,7 +299,7 @@
                   },
                   {
                     "Comment": "podman-docker is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202138561018"
+                    "TestRef": "oval:com.redhat.cve:tst:202138561004"
                   }
                 ]
               },
@@ -325,7 +325,7 @@
                   },
                   {
                     "Comment": "podman-plugins is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202138561006"
+                    "TestRef": "oval:com.redhat.cve:tst:202138561012"
                   }
                 ]
               },
@@ -338,7 +338,7 @@
                   },
                   {
                     "Comment": "podman-remote is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202138561004"
+                    "TestRef": "oval:com.redhat.cve:tst:202138561010"
                   }
                 ]
               },
@@ -351,7 +351,7 @@
                   },
                   {
                     "Comment": "podman-tests is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202138561012"
+                    "TestRef": "oval:com.redhat.cve:tst:202138561008"
                   }
                 ]
               },
@@ -403,7 +403,7 @@
                   },
                   {
                     "Comment": "openshift-clients-redistributable is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202138561002"
+                    "TestRef": "oval:com.redhat.cve:tst:202125743006"
                   }
                 ]
               },
@@ -416,7 +416,7 @@
                   },
                   {
                     "Comment": "openshift-hyperkube is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202138561010"
+                    "TestRef": "oval:com.redhat.cve:tst:202125743004"
                   }
                 ]
               }

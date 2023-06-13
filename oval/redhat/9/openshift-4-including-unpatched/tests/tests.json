@@ -1102,6 +1102,50 @@
     },
     {
       "Check": "at least one",
+      "Comment": "openshift-hyperkube is installed",
+      "ID": "oval:com.redhat.cve:tst:202125743003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202125743002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openshift-hyperkube is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202125743004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202125743002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20143577001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openshift-clients-redistributable is installed",
+      "ID": "oval:com.redhat.cve:tst:202125743005",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202125743003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "openshift-clients-redistributable is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202125743006",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202125743003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20143577001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "kata-containers is installed",
       "ID": "oval:com.redhat.cve:tst:202129923005",
       "Version": "636",
@@ -1146,29 +1190,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "openshift-clients-redistributable is installed",
-      "ID": "oval:com.redhat.cve:tst:202138561001",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "openshift-clients-redistributable is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202138561002",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561001"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20143577001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "podman-remote is installed",
+      "Comment": "podman-docker is installed",
       "ID": "oval:com.redhat.cve:tst:202138561003",
       "Version": "636",
       "Object": {
@@ -1178,7 +1200,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-remote is signed with Red Hat redhatrelease2 key",
+      "Comment": "podman-docker is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202138561004",
       "Version": "636",
       "Object": {
@@ -1190,21 +1212,21 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-plugins is installed",
-      "ID": "oval:com.redhat.cve:tst:202138561005",
+      "Comment": "podman-tests is installed",
+      "ID": "oval:com.redhat.cve:tst:202138561007",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561004"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "podman-plugins is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202138561006",
+      "Comment": "podman-tests is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202138561008",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561004"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20143577001"
@@ -1212,7 +1234,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "openshift-hyperkube is installed",
+      "Comment": "podman-remote is installed",
       "ID": "oval:com.redhat.cve:tst:202138561009",
       "Version": "636",
       "Object": {
@@ -1222,7 +1244,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "openshift-hyperkube is signed with Red Hat redhatrelease2 key",
+      "Comment": "podman-remote is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202138561010",
       "Version": "636",
       "Object": {
@@ -1234,7 +1256,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-tests is installed",
+      "Comment": "podman-plugins is installed",
       "ID": "oval:com.redhat.cve:tst:202138561011",
       "Version": "636",
       "Object": {
@@ -1244,7 +1266,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-tests is signed with Red Hat redhatrelease2 key",
+      "Comment": "podman-plugins is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202138561012",
       "Version": "636",
       "Object": {
@@ -1271,28 +1293,6 @@
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202138561008"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20143577001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "podman-docker is installed",
-      "ID": "oval:com.redhat.cve:tst:202138561017",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561009"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "podman-docker is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202138561018",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561009"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20143577001"
@@ -1956,7 +1956,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231325007",
       "Version": "642",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561009"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231325004"
@@ -1980,7 +1980,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231325011",
       "Version": "642",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561006"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231325003"
@@ -1992,7 +1992,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231325013",
       "Version": "642",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231325003"
@@ -2004,7 +2004,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231325015",
       "Version": "642",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561006"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561004"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231325003"
@@ -2052,7 +2052,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231325023",
       "Version": "642",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202125743003"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231325007"
@@ -2064,7 +2064,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20231325025",
       "Version": "642",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202125743002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20231325008"
@@ -2172,7 +2172,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20233366005",
       "Version": "640",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202125743003"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20233366004"
@@ -2244,7 +2244,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20233366017",
       "Version": "640",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561009"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20233366008"
@@ -2268,7 +2268,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20233366021",
       "Version": "640",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561006"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20233366007"
@@ -2280,7 +2280,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20233366023",
       "Version": "640",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20233366007"
@@ -2292,7 +2292,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20233366025",
       "Version": "640",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561006"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561004"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20233366007"
@@ -2304,7 +2304,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20233366027",
       "Version": "640",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202125743002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20233366009"
@@ -2422,23 +2422,23 @@
     },
     {
       "Check": "at least one",
-      "Comment": "microshift-release-info is not installed",
+      "Comment": "microshift-networking is not installed",
       "ID": "oval:com.redhat.unaffected:tst:201817419004",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20231260007"
+        "ObjectRef": "oval:com.redhat.cve:obj:20231260006"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "microshift-networking is not installed",
+      "Comment": "microshift-release-info is not installed",
       "ID": "oval:com.redhat.unaffected:tst:201817419006",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20231260006"
+        "ObjectRef": "oval:com.redhat.cve:obj:20231260007"
       },
       "State": {}
     },
@@ -2916,7 +2916,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202125743002"
       },
       "State": {}
     },
@@ -2927,7 +2927,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202125743003"
       },
       "State": {}
     },
@@ -2938,7 +2938,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
       },
       "State": {}
     },
@@ -2949,7 +2949,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561009"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561002"
       },
       "State": {}
     },
@@ -2971,7 +2971,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561006"
       },
       "State": {}
     },
@@ -2993,7 +2993,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561006"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561004"
       },
       "State": {}
     },

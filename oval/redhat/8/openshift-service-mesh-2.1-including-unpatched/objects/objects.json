@@ -13,12 +13,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138561001",
       "Version": "636",
-      "Name": "servicemesh-cni"
+      "Name": "servicemesh-pilot-discovery"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561002",
       "Version": "636",
-      "Name": "servicemesh-pilot-discovery"
+      "Name": "servicemesh-cni"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561003",

@@ -4683,27 +4683,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138561001",
       "Version": "636",
-      "Name": "podman-catatonit"
+      "Name": "podman"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561002",
       "Version": "636",
-      "Name": "podman-remote"
+      "Name": "podman-tests"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561003",
       "Version": "636",
-      "Name": "podman-plugins"
+      "Name": "podman-docker"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561004",
       "Version": "636",
-      "Name": "podman-tests"
+      "Name": "podman-remote"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561005",
       "Version": "636",
-      "Name": "osbuild-composer"
+      "Name": "podman-plugins"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561006",
@@ -4713,27 +4713,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138561007",
       "Version": "636",
-      "Name": "podman"
+      "Name": "osbuild-composer-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561008",
       "Version": "636",
-      "Name": "podman-gvproxy"
+      "Name": "osbuild-composer-worker"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561009",
       "Version": "636",
-      "Name": "osbuild-composer-core"
+      "Name": "osbuild-composer"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561010",
       "Version": "636",
-      "Name": "podman-docker"
+      "Name": "podman-gvproxy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561011",
       "Version": "636",
-      "Name": "osbuild-composer-worker"
+      "Name": "podman-catatonit"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138593001",
@@ -7058,67 +7058,67 @@
     {
       "ID": "oval:com.redhat.cve:obj:20232454002",
       "Version": "636",
-      "Name": "postgresql-server-devel"
+      "Name": "postgresql-upgrade-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454003",
       "Version": "636",
-      "Name": "postgresql-static"
+      "Name": "postgresql-server-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454004",
       "Version": "636",
-      "Name": "postgresql-contrib"
+      "Name": "postgresql-upgrade"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454005",
       "Version": "636",
-      "Name": "postgresql-upgrade"
+      "Name": "postgresql-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454006",
       "Version": "636",
-      "Name": "postgresql-upgrade-devel"
+      "Name": "postgresql-plpython3"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454007",
       "Version": "636",
-      "Name": "postgresql-docs"
+      "Name": "postgresql-private-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454008",
       "Version": "636",
-      "Name": "postgresql-private-libs"
+      "Name": "postgresql-server"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454009",
       "Version": "636",
-      "Name": "postgresql-test"
+      "Name": "postgresql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454010",
       "Version": "636",
-      "Name": "postgresql-private-devel"
+      "Name": "postgresql-static"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454011",
       "Version": "636",
-      "Name": "postgresql-plpython3"
+      "Name": "postgresql-contrib"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454012",
       "Version": "636",
-      "Name": "postgresql-server"
+      "Name": "postgresql-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454013",
       "Version": "636",
-      "Name": "postgresql"
+      "Name": "postgresql-pltcl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454014",
       "Version": "636",
-      "Name": "postgresql-pltcl"
+      "Name": "postgresql-private-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202325193001",
@@ -7616,14 +7616,14 @@
       "Name": "dmidecode"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202331124005",
-      "Version": "636",
-      "Name": "c-ares"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202331124006",
+      "ID": "oval:com.redhat.cve:obj:202331124001",
       "Version": "636",
       "Name": "c-ares-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202331124002",
+      "Version": "636",
+      "Name": "c-ares"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202332681001",

@@ -14811,7 +14811,7 @@
       "Name": "mod_security_crs"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202240023008",
+      "ID": "oval:com.redhat.cve:obj:202240023002",
       "Version": "636",
       "Name": "python-mako"
     },

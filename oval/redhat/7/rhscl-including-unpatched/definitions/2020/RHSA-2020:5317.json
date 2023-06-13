@@ -130,7 +130,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454010"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454022"
                   }
                 ]
               },
@@ -143,7 +143,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-contrib is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454048"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454032"
                   }
                 ]
               },
@@ -156,7 +156,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-contrib-syspaths is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454044"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454026"
                   }
                 ]
               },
@@ -169,7 +169,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454046"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454052"
                   }
                 ]
               },
@@ -182,7 +182,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-docs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454058"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454036"
                   }
                 ]
               },
@@ -195,7 +195,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-libs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454018"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454038"
                   }
                 ]
               },
@@ -208,7 +208,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-plperl is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454030"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454048"
                   }
                 ]
               },
@@ -221,7 +221,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-plpython is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454054"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454044"
                   }
                 ]
               },
@@ -234,7 +234,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-pltcl is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454002"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454020"
                   }
                 ]
               },
@@ -247,7 +247,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-server is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454008"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454024"
                   }
                 ]
               },
@@ -260,7 +260,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-server-syspaths is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454036"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454034"
                   }
                 ]
               },
@@ -273,7 +273,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-static is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454004"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454040"
                   }
                 ]
               },
@@ -286,7 +286,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-syspaths is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454020"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454012"
                   }
                 ]
               },
@@ -299,7 +299,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-test is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454056"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454002"
                   }
                 ]
               }
@@ -328,7 +328,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454010"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454022"
                   }
                 ]
               },
@@ -341,7 +341,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-contrib is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454048"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454032"
                   }
                 ]
               },
@@ -354,7 +354,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-contrib-syspaths is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454044"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454026"
                   }
                 ]
               },
@@ -367,7 +367,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454046"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454052"
                   }
                 ]
               },
@@ -380,7 +380,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-docs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454058"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454036"
                   }
                 ]
               },
@@ -393,7 +393,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-libs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454018"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454038"
                   }
                 ]
               },
@@ -406,7 +406,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-plperl is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454030"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454048"
                   }
                 ]
               },
@@ -419,7 +419,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-plpython is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454054"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454044"
                   }
                 ]
               },
@@ -432,7 +432,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-pltcl is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454002"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454020"
                   }
                 ]
               },
@@ -445,7 +445,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-server is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454008"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454024"
                   }
                 ]
               },
@@ -458,7 +458,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-server-syspaths is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454036"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454034"
                   }
                 ]
               },
@@ -471,7 +471,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-static is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454004"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454040"
                   }
                 ]
               },
@@ -484,7 +484,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-syspaths is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454020"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454012"
                   }
                 ]
               },
@@ -497,7 +497,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-test is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454056"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454002"
                   }
                 ]
               }
@@ -526,7 +526,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454010"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454022"
                   }
                 ]
               },
@@ -539,7 +539,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-contrib is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454048"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454032"
                   }
                 ]
               },
@@ -552,7 +552,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-contrib-syspaths is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454044"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454026"
                   }
                 ]
               },
@@ -565,7 +565,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-devel is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454046"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454052"
                   }
                 ]
               },
@@ -578,7 +578,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-docs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454058"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454036"
                   }
                 ]
               },
@@ -591,7 +591,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-libs is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454018"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454038"
                   }
                 ]
               },
@@ -604,7 +604,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-plperl is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454030"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454048"
                   }
                 ]
               },
@@ -617,7 +617,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-plpython is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454054"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454044"
                   }
                 ]
               },
@@ -630,7 +630,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-pltcl is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454002"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454020"
                   }
                 ]
               },
@@ -643,7 +643,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-server is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454008"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454024"
                   }
                 ]
               },
@@ -656,7 +656,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-server-syspaths is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454036"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454034"
                   }
                 ]
               },
@@ -669,7 +669,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-static is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454004"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454040"
                   }
                 ]
               },
@@ -682,7 +682,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-syspaths is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454020"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454012"
                   }
                 ]
               },
@@ -695,7 +695,7 @@
                   },
                   {
                     "Comment": "rh-postgresql12-postgresql-test is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:20232454056"
+                    "TestRef": "oval:com.redhat.cve:tst:20232454002"
                   }
                 ]
               }
