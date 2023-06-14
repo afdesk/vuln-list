@@ -116,34 +116,34 @@
       "Name": "skopeo"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202138561002",
-      "Version": "636",
-      "Name": "podman-docker"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202138561004",
-      "Version": "636",
-      "Name": "podman-tests"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202138561005",
-      "Version": "636",
-      "Name": "podman-remote"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202138561006",
+      "ID": "oval:com.redhat.cve:obj:202138561003",
       "Version": "636",
       "Name": "podman-plugins"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202138561005",
+      "Version": "636",
+      "Name": "podman-catatonit"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202138561006",
+      "Version": "636",
+      "Name": "podman-docker"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202138561007",
+      "Version": "636",
+      "Name": "podman-tests"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202138561008",
       "Version": "636",
-      "Name": "podman-gvproxy"
+      "Name": "podman-remote"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561009",
       "Version": "636",
-      "Name": "podman-catatonit"
+      "Name": "podman-gvproxy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20214041001",
@@ -248,42 +248,42 @@
     {
       "ID": "oval:com.redhat.cve:obj:20233153001",
       "Version": "636",
-      "Name": "ovn-2021"
+      "Name": "ovn22.12"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20233153002",
       "Version": "636",
-      "Name": "ovn21.09"
+      "Name": "ovn21.12"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20233153003",
       "Version": "636",
-      "Name": "ovn23.03"
+      "Name": "ovn22.06"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20233153004",
       "Version": "636",
-      "Name": "ovn22.09"
+      "Name": "ovn-2021"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20233153005",
       "Version": "636",
-      "Name": "ovn21.12"
+      "Name": "ovn22.03"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20233153006",
       "Version": "636",
-      "Name": "ovn22.03"
+      "Name": "ovn23.03"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20233153007",
       "Version": "636",
-      "Name": "ovn22.06"
+      "Name": "ovn21.09"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20233153008",
       "Version": "636",
-      "Name": "ovn22.12"
+      "Name": "ovn22.09"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20231325008",

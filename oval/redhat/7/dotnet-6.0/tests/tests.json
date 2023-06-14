@@ -1439,6 +1439,150 @@
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20230078003"
       }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-dotnet60-aspnetcore-runtime-6.0 is earlier than 0:6.0.18-1.el7_9",
+      "ID": "oval:com.redhat.rhsa:tst:20233580001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20225721001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233580001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-dotnet60-aspnetcore-targeting-pack-6.0 is earlier than 0:6.0.18-1.el7_9",
+      "ID": "oval:com.redhat.rhsa:tst:20233580003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20225721002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233580001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-dotnet60-dotnet is earlier than 0:6.0.118-1.el7_9",
+      "ID": "oval:com.redhat.rhsa:tst:20233580005",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20225721003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233580003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-dotnet60-dotnet-apphost-pack-6.0 is earlier than 0:6.0.18-1.el7_9",
+      "ID": "oval:com.redhat.rhsa:tst:20233580007",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20225721004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233580001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-dotnet60-dotnet-host is earlier than 0:6.0.18-1.el7_9",
+      "ID": "oval:com.redhat.rhsa:tst:20233580009",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20225721005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233580001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-dotnet60-dotnet-hostfxr-6.0 is earlier than 0:6.0.18-1.el7_9",
+      "ID": "oval:com.redhat.rhsa:tst:20233580011",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20225721006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233580001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-dotnet60-dotnet-runtime-6.0 is earlier than 0:6.0.18-1.el7_9",
+      "ID": "oval:com.redhat.rhsa:tst:20233580013",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20225721007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233580001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-dotnet60-dotnet-sdk-6.0 is earlier than 0:6.0.118-1.el7_9",
+      "ID": "oval:com.redhat.rhsa:tst:20233580015",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20225721008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233580003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-dotnet60-dotnet-sdk-6.0-source-built-artifacts is earlier than 0:6.0.118-1.el7_9",
+      "ID": "oval:com.redhat.rhsa:tst:20233580017",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20225721009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233580003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-dotnet60-dotnet-targeting-pack-6.0 is earlier than 0:6.0.18-1.el7_9",
+      "ID": "oval:com.redhat.rhsa:tst:20233580019",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20225721010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233580001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-dotnet60-dotnet-templates-6.0 is earlier than 0:6.0.118-1.el7_9",
+      "ID": "oval:com.redhat.rhsa:tst:20233580021",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20225721011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233580003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rh-dotnet60-netstandard-targeting-pack-2.1 is earlier than 0:6.0.118-1.el7_9",
+      "ID": "oval:com.redhat.rhsa:tst:20233580023",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20225721012"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233580003"
+      }
     }
   ],
   "RpmverifyfileTests": [

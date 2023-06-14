@@ -271,24 +271,24 @@
       "Name": "butane"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202138561002",
+      "ID": "oval:com.redhat.cve:obj:202138561003",
       "Version": "636",
-      "Name": "podman-docker"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202138561004",
-      "Version": "636",
-      "Name": "podman-tests"
+      "Name": "podman-plugins"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561005",
       "Version": "636",
-      "Name": "podman-remote"
+      "Name": "podman-docker"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561006",
       "Version": "636",
-      "Name": "podman-plugins"
+      "Name": "podman-tests"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202138561007",
+      "Version": "636",
+      "Name": "podman-remote"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561008",
@@ -393,42 +393,42 @@
     {
       "ID": "oval:com.redhat.cve:obj:20233153001",
       "Version": "636",
-      "Name": "ovn22.12-vtep"
+      "Name": "ovn22.12"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20233153002",
       "Version": "636",
-      "Name": "ovn23.03-host"
+      "Name": "ovn22.12-host"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20233153003",
       "Version": "636",
-      "Name": "ovn23.03"
+      "Name": "ovn23.03-central"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20233153004",
       "Version": "636",
-      "Name": "ovn22.12-central"
+      "Name": "ovn23.03-host"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20233153005",
       "Version": "636",
-      "Name": "ovn22.12-host"
+      "Name": "ovn22.12-vtep"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20233153006",
       "Version": "636",
-      "Name": "ovn22.12"
+      "Name": "ovn23.03"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20233153007",
       "Version": "636",
-      "Name": "ovn23.03-central"
+      "Name": "ovn23.03-vtep"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20233153008",
       "Version": "636",
-      "Name": "ovn23.03-vtep"
+      "Name": "ovn22.12-central"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:20191010083001",

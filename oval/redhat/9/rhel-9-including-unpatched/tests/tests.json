@@ -20594,7 +20594,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman is installed",
+      "Comment": "podman-plugins is installed",
       "ID": "oval:com.redhat.cve:tst:202138561001",
       "Version": "636",
       "Object": {
@@ -20604,7 +20604,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman is signed with Red Hat redhatrelease2 key",
+      "Comment": "podman-plugins is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202138561002",
       "Version": "636",
       "Object": {
@@ -20616,7 +20616,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-tests is installed",
+      "Comment": "podman is installed",
       "ID": "oval:com.redhat.cve:tst:202138561003",
       "Version": "636",
       "Object": {
@@ -20626,7 +20626,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-tests is signed with Red Hat redhatrelease2 key",
+      "Comment": "podman is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202138561004",
       "Version": "636",
       "Object": {
@@ -20638,7 +20638,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-docker is installed",
+      "Comment": "osbuild-composer-worker is installed",
       "ID": "oval:com.redhat.cve:tst:202138561005",
       "Version": "636",
       "Object": {
@@ -20648,7 +20648,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-docker is signed with Red Hat redhatrelease2 key",
+      "Comment": "osbuild-composer-worker is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202138561006",
       "Version": "636",
       "Object": {
@@ -20660,7 +20660,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-remote is installed",
+      "Comment": "podman-catatonit is installed",
       "ID": "oval:com.redhat.cve:tst:202138561007",
       "Version": "636",
       "Object": {
@@ -20670,7 +20670,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-remote is signed with Red Hat redhatrelease2 key",
+      "Comment": "podman-catatonit is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202138561008",
       "Version": "636",
       "Object": {
@@ -20682,7 +20682,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-plugins is installed",
+      "Comment": "podman-docker is installed",
       "ID": "oval:com.redhat.cve:tst:202138561009",
       "Version": "636",
       "Object": {
@@ -20692,7 +20692,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-plugins is signed with Red Hat redhatrelease2 key",
+      "Comment": "podman-docker is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202138561010",
       "Version": "636",
       "Object": {
@@ -20748,7 +20748,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "osbuild-composer-worker is installed",
+      "Comment": "podman-tests is installed",
       "ID": "oval:com.redhat.cve:tst:202138561015",
       "Version": "636",
       "Object": {
@@ -20758,7 +20758,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "osbuild-composer-worker is signed with Red Hat redhatrelease2 key",
+      "Comment": "podman-tests is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202138561016",
       "Version": "636",
       "Object": {
@@ -20770,7 +20770,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "osbuild-composer is installed",
+      "Comment": "podman-gvproxy is installed",
       "ID": "oval:com.redhat.cve:tst:202138561017",
       "Version": "636",
       "Object": {
@@ -20780,7 +20780,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "osbuild-composer is signed with Red Hat redhatrelease2 key",
+      "Comment": "podman-gvproxy is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202138561018",
       "Version": "636",
       "Object": {
@@ -20792,7 +20792,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-gvproxy is installed",
+      "Comment": "podman-remote is installed",
       "ID": "oval:com.redhat.cve:tst:202138561019",
       "Version": "636",
       "Object": {
@@ -20802,7 +20802,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-gvproxy is signed with Red Hat redhatrelease2 key",
+      "Comment": "podman-remote is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202138561020",
       "Version": "636",
       "Object": {
@@ -20814,7 +20814,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-catatonit is installed",
+      "Comment": "osbuild-composer is installed",
       "ID": "oval:com.redhat.cve:tst:202138561021",
       "Version": "636",
       "Object": {
@@ -20824,7 +20824,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "podman-catatonit is signed with Red Hat redhatrelease2 key",
+      "Comment": "osbuild-composer is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202138561022",
       "Version": "636",
       "Object": {
@@ -30516,6 +30516,94 @@
     },
     {
       "Check": "at least one",
+      "Comment": "open-vm-tools-desktop is installed",
+      "ID": "oval:com.redhat.cve:tst:202320867001",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "open-vm-tools-desktop is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202320867002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "open-vm-tools is installed",
+      "ID": "oval:com.redhat.cve:tst:202320867003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "open-vm-tools is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202320867004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "open-vm-tools-test is installed",
+      "ID": "oval:com.redhat.cve:tst:202320867005",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867003"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "open-vm-tools-test is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202320867006",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "open-vm-tools-sdmp is installed",
+      "ID": "oval:com.redhat.cve:tst:202320867007",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867004"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "open-vm-tools-sdmp is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202320867008",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "mysql is installed",
       "ID": "oval:com.redhat.cve:tst:202321911001",
       "Version": "636",
@@ -30868,160 +30956,6 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3.11 is installed",
-      "ID": "oval:com.redhat.cve:tst:202324329001",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11 is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324329002",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329001"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11-debug is installed",
-      "ID": "oval:com.redhat.cve:tst:202324329003",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329002"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11-debug is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324329004",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329002"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11-libs is installed",
-      "ID": "oval:com.redhat.cve:tst:202324329005",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11-libs is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324329006",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329003"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11-tkinter is installed",
-      "ID": "oval:com.redhat.cve:tst:202324329015",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329008"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11-tkinter is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324329016",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329008"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11-devel is installed",
-      "ID": "oval:com.redhat.cve:tst:202324329021",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329011"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11-devel is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324329022",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329011"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11-test is installed",
-      "ID": "oval:com.redhat.cve:tst:202324329027",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329014"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11-test is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324329028",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329014"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11-idle is installed",
-      "ID": "oval:com.redhat.cve:tst:202324329029",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329015"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python3.11-idle is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324329030",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324329015"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
       "Comment": "postgresql-docs is installed",
       "ID": "oval:com.redhat.cve:tst:20232454001",
       "Version": "636",
@@ -31323,226 +31257,6 @@
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20232454014"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "aspnetcore-targeting-pack-7.0 is installed",
-      "ID": "oval:com.redhat.cve:tst:202324936001",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "aspnetcore-targeting-pack-7.0 is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324936002",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936001"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "dotnet-targeting-pack-7.0 is installed",
-      "ID": "oval:com.redhat.cve:tst:202324936005",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936003"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "dotnet-targeting-pack-7.0 is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324936006",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936003"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "dotnet-templates-7.0 is installed",
-      "ID": "oval:com.redhat.cve:tst:202324936007",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936004"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "dotnet-templates-7.0 is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324936008",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936004"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "dotnet-sdk-7.0-source-built-artifacts is installed",
-      "ID": "oval:com.redhat.cve:tst:202324936009",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936005"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "dotnet-sdk-7.0-source-built-artifacts is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324936010",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936005"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "dotnet-sdk-7.0 is installed",
-      "ID": "oval:com.redhat.cve:tst:202324936013",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936007"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "dotnet-sdk-7.0 is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324936014",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936007"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "dotnet-apphost-pack-7.0 is installed",
-      "ID": "oval:com.redhat.cve:tst:202324936015",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936008"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "dotnet-apphost-pack-7.0 is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324936016",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936008"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "dotnet-hostfxr-7.0 is installed",
-      "ID": "oval:com.redhat.cve:tst:202324936031",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936016"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "dotnet-hostfxr-7.0 is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324936032",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936016"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "dotnet7.0 is installed",
-      "ID": "oval:com.redhat.cve:tst:202324936035",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936018"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "dotnet7.0 is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324936036",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936018"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "dotnet-runtime-7.0 is installed",
-      "ID": "oval:com.redhat.cve:tst:202324936041",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936021"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "dotnet-runtime-7.0 is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324936042",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936021"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "aspnetcore-runtime-7.0 is installed",
-      "ID": "oval:com.redhat.cve:tst:202324936043",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936022"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "aspnetcore-runtime-7.0 is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202324936044",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936022"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -32335,6 +32049,160 @@
       "Version": "636",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20232700025"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11 is installed",
+      "ID": "oval:com.redhat.cve:tst:202327043003",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202327043004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-devel is installed",
+      "ID": "oval:com.redhat.cve:tst:202327043011",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043006"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202327043012",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-libs is installed",
+      "ID": "oval:com.redhat.cve:tst:202327043015",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043008"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-libs is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202327043016",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-tkinter is installed",
+      "ID": "oval:com.redhat.cve:tst:202327043017",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043009"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-tkinter is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202327043018",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-test is installed",
+      "ID": "oval:com.redhat.cve:tst:202327043019",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043010"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-test is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202327043020",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-idle is installed",
+      "ID": "oval:com.redhat.cve:tst:202327043021",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043011"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-idle is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202327043022",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-debug is installed",
+      "ID": "oval:com.redhat.cve:tst:202327043025",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043013"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-debug is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202327043026",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043013"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -40041,22 +39909,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20226358001",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20226358001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20226358001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "open-vm-tools is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20226358002",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20226358001"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -40065,22 +39921,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20226358003",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20226358002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20226358001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "open-vm-tools-desktop is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20226358004",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20226358002"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -40089,22 +39933,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20226358005",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20226358003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867004"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20226358003"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "open-vm-tools-sdmp is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20226358006",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20226358003"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -40113,22 +39945,10 @@
       "ID": "oval:com.redhat.rhsa:tst:20226358007",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20226358004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867003"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20226358001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "open-vm-tools-test is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.rhsa:tst:20226358008",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20226358004"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -44202,7 +44022,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20227954001",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20227954001"
@@ -44214,7 +44034,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20227954003",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20227954003"
@@ -44226,7 +44046,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20227954005",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561010"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561009"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20227954001"
@@ -44238,7 +44058,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20227954007",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20227954001"
@@ -44250,7 +44070,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20227954009",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561010"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20227954001"
@@ -44262,7 +44082,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20227954011",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561008"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20227954001"
@@ -49050,7 +48870,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228431001",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228431001"
@@ -49062,7 +48882,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228431003",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561011"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561004"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228431001"
@@ -49074,7 +48894,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228431005",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228431003"
@@ -49086,7 +48906,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228431007",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561010"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561009"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228431001"
@@ -49098,7 +48918,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228431009",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228431001"
@@ -49110,7 +48930,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228431011",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561010"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228431001"
@@ -49122,7 +48942,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20228431013",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561008"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228431001"
@@ -49134,10 +48954,22 @@
       "ID": "oval:com.redhat.rhsa:tst:20228434001",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936022"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228434001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "aspnetcore-runtime-7.0 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20228434002",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -49146,10 +48978,22 @@
       "ID": "oval:com.redhat.rhsa:tst:20228434003",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936001"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228434001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "aspnetcore-targeting-pack-7.0 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20228434004",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -49158,10 +49002,22 @@
       "ID": "oval:com.redhat.rhsa:tst:20228434005",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936008"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434003"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228434001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-apphost-pack-7.0 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20228434006",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -49182,10 +49038,22 @@
       "ID": "oval:com.redhat.rhsa:tst:20228434009",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936016"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434005"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228434001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-hostfxr-7.0 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20228434010",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -49194,10 +49062,22 @@
       "ID": "oval:com.redhat.rhsa:tst:20228434011",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936021"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434006"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228434001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-runtime-7.0 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20228434012",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -49206,10 +49086,22 @@
       "ID": "oval:com.redhat.rhsa:tst:20228434013",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936007"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434007"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228434003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-sdk-7.0 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20228434014",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -49218,10 +49110,22 @@
       "ID": "oval:com.redhat.rhsa:tst:20228434015",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936005"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434008"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228434003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-sdk-7.0-source-built-artifacts is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20228434016",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -49230,10 +49134,22 @@
       "ID": "oval:com.redhat.rhsa:tst:20228434017",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936003"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434009"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228434001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-targeting-pack-7.0 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20228434018",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -49242,10 +49158,22 @@
       "ID": "oval:com.redhat.rhsa:tst:20228434019",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936004"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434010"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20228434003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-templates-7.0 is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20228434020",
+      "Version": "636",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.cve:ste:20052541001"
       }
     },
     {
@@ -61454,7 +61382,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232204003",
       "Version": "641",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561009"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561011"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232204003"
@@ -61490,7 +61418,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232204009",
       "Version": "641",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561008"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561003"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232204003"
@@ -62162,7 +62090,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232282001",
       "Version": "638",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232282001"
@@ -62174,7 +62102,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232282003",
       "Version": "638",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232282003"
@@ -62186,7 +62114,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232282005",
       "Version": "638",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561010"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561009"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232282001"
@@ -62198,7 +62126,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232282007",
       "Version": "638",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232282001"
@@ -62210,7 +62138,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232282009",
       "Version": "638",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561010"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232282001"
@@ -62222,7 +62150,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20232282011",
       "Version": "638",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561008"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232282001"
@@ -66346,6 +66274,582 @@
     },
     {
       "Check": "at least one",
+      "Comment": "nodejs is earlier than 1:18.14.2-3.module+el9.2.0.z+18964+42696395",
+      "ID": "oval:com.redhat.rhsa:tst:20233577001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202127290001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233577001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs-devel is earlier than 1:18.14.2-3.module+el9.2.0.z+18964+42696395",
+      "ID": "oval:com.redhat.rhsa:tst:20233577003",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228832002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233577001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs-docs is earlier than 1:18.14.2-3.module+el9.2.0.z+18964+42696395",
+      "ID": "oval:com.redhat.rhsa:tst:20233577005",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202127290004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233577003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs-full-i18n is earlier than 1:18.14.2-3.module+el9.2.0.z+18964+42696395",
+      "ID": "oval:com.redhat.rhsa:tst:20233577007",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202127290003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233577001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "npm is earlier than 1:9.5.0-1.18.14.2.3.module+el9.2.0.z+18964+42696395",
+      "ID": "oval:com.redhat.rhsa:tst:20233577015",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202127290002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233577006"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "aspnetcore-runtime-6.0 is earlier than 0:6.0.18-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233581001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202225881004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233581001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "aspnetcore-targeting-pack-6.0 is earlier than 0:6.0.18-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233581003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202225881009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233581001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-apphost-pack-6.0 is earlier than 0:6.0.18-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233581005",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202225881007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233581001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-hostfxr-6.0 is earlier than 0:6.0.18-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233581007",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202225881012"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233581001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-runtime-6.0 is earlier than 0:6.0.18-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233581009",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202225881008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233581001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-sdk-6.0 is earlier than 0:6.0.118-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233581011",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202225881005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233581003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-sdk-6.0-source-built-artifacts is earlier than 0:6.0.118-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233581013",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202225881011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233581003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-targeting-pack-6.0 is earlier than 0:6.0.18-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233581015",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202225881010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233581001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-templates-6.0 is earlier than 0:6.0.118-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233581017",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202225881001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233581003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11 is earlier than 0:3.11.2-2.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233585001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233585001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-debug is earlier than 0:3.11.2-2.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233585003",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043013"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233585001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-devel is earlier than 0:3.11.2-2.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233585005",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233585001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-idle is earlier than 0:3.11.2-2.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233585007",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233585001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-libs is earlier than 0:3.11.2-2.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233585009",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233585001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-test is earlier than 0:3.11.2-2.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233585011",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233585001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3.11-tkinter is earlier than 0:3.11.2-2.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233585013",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202327043009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233585001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs is earlier than 1:16.19.1-2.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233586001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202127290001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233586001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs-docs is earlier than 1:16.19.1-2.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233586003",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202127290004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233586003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs-full-i18n is earlier than 1:16.19.1-2.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233586005",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202127290003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233586001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs-libs is earlier than 1:16.19.1-2.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233586007",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202127290007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233586004"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "npm is earlier than 1:8.19.3-1.16.19.1.2.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233586009",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202127290002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233586005"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "thunderbird is earlier than 0:102.12.0-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233587001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20214231003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233587001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "firefox is earlier than 0:102.12.0-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233589001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20214231006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233587001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "firefox-x11 is earlier than 0:102.12.0-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233589003",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202225313001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233587001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "aspnetcore-runtime-7.0 is earlier than 0:7.0.7-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233592001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233592001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "aspnetcore-targeting-pack-7.0 is earlier than 0:7.0.7-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233592003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233592001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-apphost-pack-7.0 is earlier than 0:7.0.7-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233592005",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233592001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-host is earlier than 0:7.0.7-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233592007",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202225881006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233592001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-hostfxr-7.0 is earlier than 0:7.0.7-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233592009",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233592001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-runtime-7.0 is earlier than 0:7.0.7-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233592011",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233592001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-sdk-7.0 is earlier than 0:7.0.107-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233592013",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233592003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-sdk-7.0-source-built-artifacts is earlier than 0:7.0.107-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233592015",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233592003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-targeting-pack-7.0 is earlier than 0:7.0.7-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233592017",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233592001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-templates-7.0 is earlier than 0:7.0.107-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233592019",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233592003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "netstandard-targeting-pack-2.1 is earlier than 0:7.0.107-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233592021",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202225881003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233592003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python-unversioned-command is earlier than 0:3.9.16-1.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233595001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20074559001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233595001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3 is earlier than 0:3.9.16-1.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233595003",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20074559002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233595003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-debug is earlier than 0:3.9.16-1.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233595005",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20074559009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233595003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-devel is earlier than 0:3.9.16-1.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233595007",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20074559008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233595003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-idle is earlier than 0:3.9.16-1.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233595009",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20074559006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233595003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-libs is earlier than 0:3.9.16-1.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233595011",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20074559004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233595003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-test is earlier than 0:3.9.16-1.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233595013",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20074559007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233595003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "python3-tkinter is earlier than 0:3.9.16-1.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233595015",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20074559003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233595003"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "zlib-static is installed",
       "ID": "oval:com.redhat.unaffected:tst:20020059001",
       "Version": "635",
@@ -66496,32 +67000,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "open-vm-tools-desktop is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20091142001",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20226358002"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "open-vm-tools-desktop is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20091142002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20226358002"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "open-vm-tools is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20091142003",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20226358001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867001"
       },
       "State": {}
     },
@@ -66532,17 +67016,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20226358001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "open-vm-tools-test is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20091142005",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20226358004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867002"
       },
       "State": {}
     },
@@ -66553,17 +67027,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20226358004"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "open-vm-tools-sdmp is installed",
-      "ID": "oval:com.redhat.unaffected:tst:20091142007",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20226358003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867003"
       },
       "State": {}
     },
@@ -66574,7 +67038,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.rhsa:obj:20226358003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867004"
       },
       "State": {}
     },
@@ -68564,7 +69028,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561011"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561004"
       },
       "State": {}
     },
@@ -68586,7 +69050,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561010"
       },
       "State": {}
     },
@@ -68597,7 +69061,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561001"
       },
       "State": {}
     },
@@ -68608,7 +69072,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561002"
       },
       "State": {}
     },
@@ -68619,7 +69083,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561010"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561009"
       },
       "State": {}
     },
@@ -68630,7 +69094,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
       },
       "State": {}
     },
@@ -68641,7 +69105,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561008"
       },
       "State": {}
     },
@@ -96871,12 +97335,32 @@
     },
     {
       "Check": "at least one",
+      "Comment": "dotnet7.0 is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202226929001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202226929001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "dotnet7.0 is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202226929002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936018"
+        "ObjectRef": "oval:com.redhat.unaffected:obj:202226929001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "aspnetcore-targeting-pack-7.0 is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202226929007",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434002"
       },
       "State": {}
     },
@@ -96887,7 +97371,17 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936001"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "aspnetcore-runtime-7.0 is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202226929011",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434001"
       },
       "State": {}
     },
@@ -96898,7 +97392,17 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936022"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-sdk-7.0 is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202226929013",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434007"
       },
       "State": {}
     },
@@ -96909,7 +97413,17 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936007"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434007"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-hostfxr-7.0 is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202226929017",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434005"
       },
       "State": {}
     },
@@ -96920,7 +97434,17 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936016"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434005"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-runtime-7.0 is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202226929027",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434006"
       },
       "State": {}
     },
@@ -96931,7 +97455,17 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936021"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434006"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-templates-7.0 is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202226929029",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434010"
       },
       "State": {}
     },
@@ -96942,7 +97476,17 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936004"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434010"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-targeting-pack-7.0 is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202226929031",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434009"
       },
       "State": {}
     },
@@ -96953,7 +97497,17 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936003"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434009"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "dotnet-apphost-pack-7.0 is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202226929033",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434003"
       },
       "State": {}
     },
@@ -96964,7 +97518,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936008"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434003"
       },
       "State": {}
     },
@@ -96991,12 +97545,22 @@
     },
     {
       "Check": "at least one",
+      "Comment": "dotnet-sdk-7.0-source-built-artifacts is installed",
+      "ID": "oval:com.redhat.unaffected:tst:202226929045",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434008"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "dotnet-sdk-7.0-source-built-artifacts is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202226929046",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202324936005"
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20228434008"
       },
       "State": {}
     },
@@ -97285,7 +97849,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561009"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561011"
       },
       "State": {}
     },
@@ -97361,7 +97925,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561008"
+        "ObjectRef": "oval:com.redhat.cve:obj:202138561003"
       },
       "State": {}
     },

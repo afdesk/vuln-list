@@ -5454,6 +5454,41 @@
       "ID": "oval:com.redhat.rhsa:obj:20233559002",
       "Version": "635",
       "Name": "c-ares-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233585001",
+      "Version": "635",
+      "Name": "python3.11"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233585002",
+      "Version": "635",
+      "Name": "python3.11-debug"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233585003",
+      "Version": "635",
+      "Name": "python3.11-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233585004",
+      "Version": "635",
+      "Name": "python3.11-idle"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233585005",
+      "Version": "635",
+      "Name": "python3.11-libs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233585006",
+      "Version": "635",
+      "Name": "python3.11-test"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233585007",
+      "Version": "635",
+      "Name": "python3.11-tkinter"
     }
   ],
   "RpmverifyfileObjects": [

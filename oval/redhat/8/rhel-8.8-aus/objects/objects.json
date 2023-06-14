@@ -13819,6 +13819,46 @@
       "ID": "oval:com.redhat.rhsa:obj:20233425003",
       "Version": "636",
       "Name": "cups-filters-libs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233594001",
+      "Version": "635",
+      "Name": "python3.11"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233594002",
+      "Version": "635",
+      "Name": "python3.11-debug"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233594003",
+      "Version": "635",
+      "Name": "python3.11-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233594004",
+      "Version": "635",
+      "Name": "python3.11-idle"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233594005",
+      "Version": "635",
+      "Name": "python3.11-libs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233594006",
+      "Version": "635",
+      "Name": "python3.11-rpm-macros"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233594007",
+      "Version": "635",
+      "Name": "python3.11-test"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233594008",
+      "Version": "635",
+      "Name": "python3.11-tkinter"
     }
   ],
   "RpmverifyfileObjects": [

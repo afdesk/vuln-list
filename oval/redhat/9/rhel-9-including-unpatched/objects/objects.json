@@ -4683,27 +4683,27 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138561001",
       "Version": "636",
-      "Name": "podman"
+      "Name": "podman-plugins"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561002",
       "Version": "636",
-      "Name": "podman-tests"
+      "Name": "podman"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561003",
       "Version": "636",
-      "Name": "podman-docker"
+      "Name": "osbuild-composer-worker"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561004",
       "Version": "636",
-      "Name": "podman-remote"
+      "Name": "podman-catatonit"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561005",
       "Version": "636",
-      "Name": "podman-plugins"
+      "Name": "podman-docker"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561006",
@@ -4718,22 +4718,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:202138561008",
       "Version": "636",
-      "Name": "osbuild-composer-worker"
+      "Name": "podman-tests"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561009",
       "Version": "636",
-      "Name": "osbuild-composer"
+      "Name": "podman-gvproxy"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561010",
       "Version": "636",
-      "Name": "podman-gvproxy"
+      "Name": "podman-remote"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138561011",
       "Version": "636",
-      "Name": "podman-catatonit"
+      "Name": "osbuild-composer"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202138593001",
@@ -6936,6 +6936,26 @@
       "Name": "libtiff-debugsource"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202320867001",
+      "Version": "636",
+      "Name": "open-vm-tools-desktop"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202320867002",
+      "Version": "636",
+      "Name": "open-vm-tools"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202320867003",
+      "Version": "636",
+      "Name": "open-vm-tools-test"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202320867004",
+      "Version": "636",
+      "Name": "open-vm-tools-sdmp"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202321911001",
       "Version": "636",
       "Name": "mysql"
@@ -7016,41 +7036,6 @@
       "Name": "pkgconf-m4"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324329001",
-      "Version": "636",
-      "Name": "python3.11"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324329002",
-      "Version": "636",
-      "Name": "python3.11-debug"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324329003",
-      "Version": "636",
-      "Name": "python3.11-libs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324329008",
-      "Version": "636",
-      "Name": "python3.11-tkinter"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324329011",
-      "Version": "636",
-      "Name": "python3.11-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324329014",
-      "Version": "636",
-      "Name": "python3.11-test"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324329015",
-      "Version": "636",
-      "Name": "python3.11-idle"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20232454001",
       "Version": "636",
       "Name": "postgresql-docs"
@@ -7119,56 +7104,6 @@
       "ID": "oval:com.redhat.cve:obj:20232454014",
       "Version": "636",
       "Name": "postgresql-plpython3"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324936001",
-      "Version": "636",
-      "Name": "aspnetcore-targeting-pack-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324936003",
-      "Version": "636",
-      "Name": "dotnet-targeting-pack-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324936004",
-      "Version": "636",
-      "Name": "dotnet-templates-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324936005",
-      "Version": "636",
-      "Name": "dotnet-sdk-7.0-source-built-artifacts"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324936007",
-      "Version": "636",
-      "Name": "dotnet-sdk-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324936008",
-      "Version": "636",
-      "Name": "dotnet-apphost-pack-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324936016",
-      "Version": "636",
-      "Name": "dotnet-hostfxr-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324936018",
-      "Version": "636",
-      "Name": "dotnet7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324936021",
-      "Version": "636",
-      "Name": "dotnet-runtime-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324936022",
-      "Version": "636",
-      "Name": "aspnetcore-runtime-7.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202325193001",
@@ -7349,6 +7284,41 @@
       "ID": "oval:com.redhat.cve:obj:20232700025",
       "Version": "636",
       "Name": "libvirt-daemon-driver-nodedev"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202327043002",
+      "Version": "636",
+      "Name": "python3.11"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202327043006",
+      "Version": "636",
+      "Name": "python3.11-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202327043008",
+      "Version": "636",
+      "Name": "python3.11-libs"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202327043009",
+      "Version": "636",
+      "Name": "python3.11-tkinter"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202327043010",
+      "Version": "636",
+      "Name": "python3.11-test"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202327043011",
+      "Version": "636",
+      "Name": "python3.11-idle"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202327043013",
+      "Version": "636",
+      "Name": "python3.11-debug"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327371001",
@@ -7929,26 +7899,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20225257003",
       "Version": "635",
       "Name": "libinput-utils"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20226358001",
-      "Version": "635",
-      "Name": "open-vm-tools"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20226358002",
-      "Version": "635",
-      "Name": "open-vm-tools-desktop"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20226358003",
-      "Version": "635",
-      "Name": "open-vm-tools-sdmp"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20226358004",
-      "Version": "635",
-      "Name": "open-vm-tools-test"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20226580001",
@@ -8594,6 +8544,51 @@
       "ID": "oval:com.redhat.rhsa:obj:20228420004",
       "Version": "636",
       "Name": "mingw64-zlib-static"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20228434001",
+      "Version": "636",
+      "Name": "aspnetcore-runtime-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20228434002",
+      "Version": "636",
+      "Name": "aspnetcore-targeting-pack-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20228434003",
+      "Version": "636",
+      "Name": "dotnet-apphost-pack-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20228434005",
+      "Version": "636",
+      "Name": "dotnet-hostfxr-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20228434006",
+      "Version": "636",
+      "Name": "dotnet-runtime-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20228434007",
+      "Version": "636",
+      "Name": "dotnet-sdk-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20228434008",
+      "Version": "636",
+      "Name": "dotnet-sdk-7.0-source-built-artifacts"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20228434009",
+      "Version": "636",
+      "Name": "dotnet-targeting-pack-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20228434010",
+      "Version": "636",
+      "Name": "dotnet-templates-7.0"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20228444001",
@@ -13469,6 +13464,11 @@
       "ID": "oval:com.redhat.unaffected:obj:20222526011",
       "Version": "635",
       "Name": "systemd-debugsource"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202226929001",
+      "Version": "635",
+      "Name": "dotnet7.0"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202226929019",
