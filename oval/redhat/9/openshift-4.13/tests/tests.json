@@ -635,6 +635,54 @@
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20233366009"
       }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift is earlier than 0:4.13.3-202306081201.p0.g16708cc.assembly.4.13.3.el9",
+      "ID": "oval:com.redhat.rhsa:tst:20233540001",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231329001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233540001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-networking is earlier than 0:4.13.3-202306081201.p0.g16708cc.assembly.4.13.3.el9",
+      "ID": "oval:com.redhat.rhsa:tst:20233540003",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231329003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233540001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-release-info is earlier than 0:4.13.3-202306081201.p0.g16708cc.assembly.4.13.3.el9",
+      "ID": "oval:com.redhat.rhsa:tst:20233540005",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231329004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233540003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-selinux is earlier than 0:4.13.3-202306081201.p0.g16708cc.assembly.4.13.3.el9",
+      "ID": "oval:com.redhat.rhsa:tst:20233540007",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20231329005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233540003"
+      }
     }
   ],
   "RpmverifyfileTests": [

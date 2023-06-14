@@ -41595,6 +41595,54 @@
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20233432001"
       }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "c-ares is earlier than 0:1.17.1-5.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233559001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233559001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233559001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "c-ares is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20233559002",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233559001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "c-ares-devel is earlier than 0:1.17.1-5.el9_2.1",
+      "ID": "oval:com.redhat.rhsa:tst:20233559003",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233559002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233559001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "c-ares-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20233559004",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233559002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
     }
   ],
   "RpmverifyfileTests": [

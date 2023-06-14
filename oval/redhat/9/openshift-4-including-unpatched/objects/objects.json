@@ -391,11 +391,6 @@
       "Name": "python-sqlparse"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202330861001",
-      "Version": "636",
-      "Name": "python-flask"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20233153001",
       "Version": "636",
       "Name": "ovn22.12-vtep"
@@ -434,6 +429,11 @@
       "ID": "oval:com.redhat.cve:obj:20233153008",
       "Version": "636",
       "Name": "ovn23.03-vtep"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:20191010083001",
+      "Version": "635",
+      "Name": "python-flask"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:201911360001",

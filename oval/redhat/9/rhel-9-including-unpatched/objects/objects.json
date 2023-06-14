@@ -4956,7 +4956,7 @@
       "Name": "firefox"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202143138003",
+      "ID": "oval:com.redhat.cve:obj:202143138002",
       "Version": "636",
       "Name": "grafana"
     },
@@ -7053,72 +7053,122 @@
     {
       "ID": "oval:com.redhat.cve:obj:20232454001",
       "Version": "636",
-      "Name": "postgresql-plperl"
+      "Name": "postgresql-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454002",
       "Version": "636",
-      "Name": "postgresql-upgrade-devel"
+      "Name": "postgresql-plperl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454003",
       "Version": "636",
-      "Name": "postgresql-server-devel"
+      "Name": "postgresql-contrib"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454004",
       "Version": "636",
-      "Name": "postgresql-upgrade"
+      "Name": "postgresql-server"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454005",
       "Version": "636",
-      "Name": "postgresql-test"
+      "Name": "postgresql-static"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454006",
       "Version": "636",
-      "Name": "postgresql-plpython3"
+      "Name": "postgresql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454007",
       "Version": "636",
-      "Name": "postgresql-private-libs"
+      "Name": "postgresql-private-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454008",
       "Version": "636",
-      "Name": "postgresql-server"
+      "Name": "postgresql-upgrade"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454009",
       "Version": "636",
-      "Name": "postgresql"
+      "Name": "postgresql-pltcl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454010",
       "Version": "636",
-      "Name": "postgresql-static"
+      "Name": "postgresql-upgrade-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454011",
       "Version": "636",
-      "Name": "postgresql-contrib"
+      "Name": "postgresql-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454012",
       "Version": "636",
-      "Name": "postgresql-docs"
+      "Name": "postgresql-private-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454013",
       "Version": "636",
-      "Name": "postgresql-pltcl"
+      "Name": "postgresql-server-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454014",
       "Version": "636",
-      "Name": "postgresql-private-devel"
+      "Name": "postgresql-plpython3"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324936001",
+      "Version": "636",
+      "Name": "dotnet-runtime-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324936002",
+      "Version": "636",
+      "Name": "dotnet-targeting-pack-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324936004",
+      "Version": "636",
+      "Name": "aspnetcore-runtime-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324936008",
+      "Version": "636",
+      "Name": "dotnet-sdk-7.0-source-built-artifacts"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324936009",
+      "Version": "636",
+      "Name": "dotnet-sdk-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324936010",
+      "Version": "636",
+      "Name": "dotnet-hostfxr-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324936012",
+      "Version": "636",
+      "Name": "dotnet-templates-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324936018",
+      "Version": "636",
+      "Name": "dotnet-apphost-pack-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324936020",
+      "Version": "636",
+      "Name": "aspnetcore-targeting-pack-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324936021",
+      "Version": "636",
+      "Name": "dotnet7.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202325193001",
@@ -8544,51 +8594,6 @@
       "ID": "oval:com.redhat.rhsa:obj:20228420004",
       "Version": "636",
       "Name": "mingw64-zlib-static"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20228434001",
-      "Version": "636",
-      "Name": "aspnetcore-runtime-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20228434002",
-      "Version": "636",
-      "Name": "aspnetcore-targeting-pack-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20228434003",
-      "Version": "636",
-      "Name": "dotnet-apphost-pack-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20228434005",
-      "Version": "636",
-      "Name": "dotnet-hostfxr-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20228434006",
-      "Version": "636",
-      "Name": "dotnet-runtime-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20228434007",
-      "Version": "636",
-      "Name": "dotnet-sdk-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20228434008",
-      "Version": "636",
-      "Name": "dotnet-sdk-7.0-source-built-artifacts"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20228434009",
-      "Version": "636",
-      "Name": "dotnet-targeting-pack-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.rhsa:obj:20228434010",
-      "Version": "636",
-      "Name": "dotnet-templates-7.0"
     },
     {
       "ID": "oval:com.redhat.rhsa:obj:20228444001",
@@ -13464,11 +13469,6 @@
       "ID": "oval:com.redhat.unaffected:obj:20222526011",
       "Version": "635",
       "Name": "systemd-debugsource"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202226929001",
-      "Version": "635",
-      "Name": "dotnet7.0"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202226929019",

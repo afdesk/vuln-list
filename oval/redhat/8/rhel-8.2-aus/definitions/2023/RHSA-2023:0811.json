@@ -96,7 +96,7 @@
         },
         {
           "CveID": "CVE-2023-25729",
-          "Cvss3": "6.1/CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+          "Cvss3": "8.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-84",
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2023-25729",
@@ -112,7 +112,7 @@
         },
         {
           "CveID": "CVE-2023-25732",
-          "Cvss3": "6.1/CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+          "Cvss3": "8.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-787",
           "Impact": "moderate",
           "Href": "https://access.redhat.com/security/cve/CVE-2023-25732",
@@ -120,7 +120,7 @@
         },
         {
           "CveID": "CVE-2023-25735",
-          "Cvss3": "7.5/CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H",
+          "Cvss3": "8.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-416",
           "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2023-25735",
@@ -128,7 +128,7 @@
         },
         {
           "CveID": "CVE-2023-25737",
-          "Cvss3": "7.5/CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H",
+          "Cvss3": "8.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-704",
           "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2023-25737",
@@ -136,7 +136,7 @@
         },
         {
           "CveID": "CVE-2023-25739",
-          "Cvss3": "7.5/CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H",
+          "Cvss3": "8.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-416",
           "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2023-25739",
@@ -160,7 +160,7 @@
         },
         {
           "CveID": "CVE-2023-25744",
-          "Cvss3": "7.5/CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H",
+          "Cvss3": "8.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-120",
           "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2023-25744",
@@ -168,7 +168,7 @@
         },
         {
           "CveID": "CVE-2023-25746",
-          "Cvss3": "7.5/CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H",
+          "Cvss3": "8.8/CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
           "Cwe": "CWE-120",
           "Impact": "important",
           "Href": "https://access.redhat.com/security/cve/CVE-2023-25746",

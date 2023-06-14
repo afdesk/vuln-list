@@ -513,7 +513,7 @@
         },
         {
           "CveID": "CVE-2022-3105",
-          "Cvss3": "3.6/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:N/I:L/A:L",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Cwe": "CWE-476",
           "Impact": "low",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-3105",
@@ -521,7 +521,7 @@
         },
         {
           "CveID": "CVE-2022-3106",
-          "Cvss3": "3.6/CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:N/I:L/A:L",
+          "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
           "Cwe": "CWE-476",
           "Impact": "low",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-3106",
@@ -530,7 +530,7 @@
         {
           "CveID": "CVE-2022-3108",
           "Cvss3": "5.5/CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
-          "Cwe": "CWE-252",
+          "Cwe": "CWE-252-\u003eCWE-476",
           "Impact": "low",
           "Href": "https://access.redhat.com/security/cve/CVE-2022-3108",
           "Public": "20221213"

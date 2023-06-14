@@ -5444,6 +5444,16 @@
       "ID": "oval:com.redhat.rhsa:obj:20233423003",
       "Version": "636",
       "Name": "cups-filters-libs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233559001",
+      "Version": "635",
+      "Name": "c-ares"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233559002",
+      "Version": "635",
+      "Name": "c-ares-devel"
     }
   ],
   "RpmverifyfileObjects": [

@@ -1718,28 +1718,6 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python-flask is installed",
-      "ID": "oval:com.redhat.cve:tst:202330861001",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202330861001"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "python-flask is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202330861002",
-      "Version": "636",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202330861001"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.cve:ste:20143577001"
-      }
-    },
-    {
-      "Check": "at least one",
       "Comment": "ovn22.12-vtep is installed",
       "ID": "oval:com.redhat.cve:tst:20233153001",
       "Version": "636",
@@ -2312,6 +2290,54 @@
     },
     {
       "Check": "at least one",
+      "Comment": "microshift is earlier than 0:4.13.3-202306081201.p0.g16708cc.assembly.4.13.3.el9",
+      "ID": "oval:com.redhat.rhsa:tst:20233540001",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20223294001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233540001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-networking is earlier than 0:4.13.3-202306081201.p0.g16708cc.assembly.4.13.3.el9",
+      "ID": "oval:com.redhat.rhsa:tst:20233540003",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20231260006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233540001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-release-info is earlier than 0:4.13.3-202306081201.p0.g16708cc.assembly.4.13.3.el9",
+      "ID": "oval:com.redhat.rhsa:tst:20233540005",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20231260007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233540003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "microshift-selinux is earlier than 0:4.13.3-202306081201.p0.g16708cc.assembly.4.13.3.el9",
+      "ID": "oval:com.redhat.rhsa:tst:20233540007",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:20231260002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233540003"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "haproxy is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20130169002",
       "Version": "635",
@@ -2477,12 +2503,22 @@
     },
     {
       "Check": "at least one",
+      "Comment": "python-flask is installed",
+      "ID": "oval:com.redhat.unaffected:tst:20191010083001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.unaffected:obj:20191010083001"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
       "Comment": "python-flask is not installed",
       "ID": "oval:com.redhat.unaffected:tst:20191010083002",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202330861001"
+        "ObjectRef": "oval:com.redhat.unaffected:obj:20191010083001"
       },
       "State": {}
     },
