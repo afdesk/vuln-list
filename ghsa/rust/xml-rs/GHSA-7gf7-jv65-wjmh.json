@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2023-06-06T02:07:00Z",
+  "UpdatedAt": "2023-06-13T22:40:02Z",
   "Package": {
     "Ecosystem": "RUST",
     "Name": "xml-rs"
@@ -26,6 +26,9 @@
         "Url": "https://github.com/netvl/xml-rs/compare/0.8.13...0.8.14"
       },
       {
+        "Url": "https://github.com/netvl/xml-rs/commit/014d808be900c85a0afc5ccdfe668be040d175aa"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-7gf7-jv65-wjmh"
       }
     ],
@@ -39,12 +42,12 @@
         "Value": "CVE-2023-34411"
       }
     ],
-    "Description": "The xml-rs crate before 0.8.14 for Rust and Crab allows a denial of service (panic) via an invalid \u003c! token (such as \u003c!DOCTYPEs/%\u003c!A nesting) in an XML document.",
+    "Description": "The xml-rs crate \u003e= 0.8.9 and \u003c 0.8.14 for Rust and Crab allows a denial of service (panic) via an invalid \u003c! token (such as \u003c!DOCTYPEs/%\u003c!A nesting) in an XML document.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-05T06:30:15Z",
     "Severity": "HIGH",
     "Summary": "xml-rs vulnerable to denial of service via invalid token in XML document",
-    "UpdatedAt": "2023-06-12T20:09:48Z",
+    "UpdatedAt": "2023-06-13T22:40:02Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,
@@ -56,7 +59,7 @@
       "FirstPatchedVersion": {
         "Identifier": "0.8.14"
       },
-      "VulnerableVersionRange": "\u003c 0.8.14"
+      "VulnerableVersionRange": "\u003e= 0.8.9, \u003c 0.8.14"
     }
   ]
 }

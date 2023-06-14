@@ -35,7 +35,7 @@
     "PublishedAt": "2023-06-06T21:30:18Z",
     "Severity": "HIGH",
     "Summary": "Grafana Missing Synchronization vulnerability",
-    "UpdatedAt": "2023-06-07T15:08:09Z",
+    "UpdatedAt": "2023-06-13T23:56:05Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,

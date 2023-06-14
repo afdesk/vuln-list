@@ -40,8 +40,8 @@
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-05-30T06:30:25Z",
     "Severity": "CRITICAL",
-    "Summary": "Moov signedxml vulnerable to signature wrapping attack",
-    "UpdatedAt": "2023-06-07T20:56:32Z",
+    "Summary": "Signature validation bypass in github.com/moov-io/signedxml",
+    "UpdatedAt": "2023-06-13T23:50:14Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.1,
