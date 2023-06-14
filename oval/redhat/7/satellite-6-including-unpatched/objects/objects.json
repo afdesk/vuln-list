@@ -601,7 +601,7 @@
       "Name": "rubygem-activerecord"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202245693001",
+      "ID": "oval:com.redhat.cve:obj:202245685001",
       "Version": "636",
       "Name": "jettison"
     },

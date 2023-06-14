@@ -421,20 +421,20 @@
     {
       "Check": "at least one",
       "Comment": "jettison is installed",
-      "ID": "oval:com.redhat.cve:tst:20231436001",
+      "ID": "oval:com.redhat.cve:tst:202245685001",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20231436001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202245685001"
       },
       "State": {}
     },
     {
       "Check": "at least one",
       "Comment": "jettison is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:20231436002",
+      "ID": "oval:com.redhat.cve:tst:202245685002",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:20231436001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202245685001"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:201712161001"
