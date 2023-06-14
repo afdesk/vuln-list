@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Apr 2003] DSA-284 kdegraphics - insecure execution",
-    "Line": 17820,
+    "Line": 17823,
     "ID": "DSA-284",
     "Description": "kdegraphics - insecure execution"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0204}",
-      "Line": 17821,
+      "Line": 17824,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0204"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - kdegraphics 3.8.10-1.2",
-      "Line": 17822,
+      "Line": 17825,
       "Type": "package",
       "Release": "woody",
       "Package": "kdegraphics",

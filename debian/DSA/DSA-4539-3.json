@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Oct 2019] DSA-4539-3 openssl - regression update",
-    "Line": 2923,
+    "Line": 2926,
     "ID": "DSA-4539-3",
     "Description": "openssl - regression update"
   },
   "Annotations": [
     {
       "Original": "[buster] - openssl 1.1.1d-0+deb10u2",
-      "Line": 2924,
+      "Line": 2927,
       "Type": "package",
       "Release": "buster",
       "Package": "openssl",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Jul 2011] DSA-2286-1 phpymadmin - several",
-    "Line": 10559,
+    "Line": 10562,
     "ID": "DSA-2286-1",
     "Description": "phpymadmin - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2011-2505 CVE-2011-2506 CVE-2011-2507 CVE-2011-2508 CVE-2011-2642 CVE-2011-2719}",
-      "Line": 10560,
+      "Line": 10563,
       "Type": "xref",
       "Bugs": [
         "CVE-2011-2505",
@@ -21,7 +21,7 @@
     },
     {
       "Original": "[squeeze] - phpmyadmin 4:3.3.7-6",
-      "Line": 10561,
+      "Line": 10564,
       "Type": "package",
       "Release": "squeeze",
       "Package": "phpmyadmin",
@@ -30,7 +30,7 @@
     },
     {
       "Original": "[lenny] - phpmyadmin 4:2.11.8.1-5+lenny9",
-      "Line": 10562,
+      "Line": 10565,
       "Type": "package",
       "Release": "lenny",
       "Package": "phpmyadmin",

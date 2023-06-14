@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Apr 2016] DSA-3485-2 didiwiki - regression update",
-    "Line": 6246,
+    "Line": 6249,
     "ID": "DSA-3485-2",
     "Description": "didiwiki - regression update"
   },
   "Annotations": [
     {
       "Original": "[wheezy] - didiwiki 0.5-11+deb7u2",
-      "Line": 6247,
+      "Line": 6250,
       "Type": "package",
       "Release": "wheezy",
       "Package": "didiwiki",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - didiwiki 0.5-11+deb8u2",
-      "Line": 6248,
+      "Line": 6251,
       "Type": "package",
       "Release": "jessie",
       "Package": "didiwiki",

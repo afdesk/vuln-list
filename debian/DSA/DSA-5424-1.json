@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Jun 2023] DSA-5424-1 php7.4 - security update",
-    "Line": 3,
+    "Line": 6,
     "ID": "DSA-5424-1",
     "Description": "php7.4 - security update"
   },
   "Annotations": [
     {
       "Original": "[bullseye] - php7.4 7.4.33-1+deb11u4",
-      "Line": 4,
+      "Line": 7,
       "Type": "package",
       "Release": "bullseye",
       "Package": "php7.4",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Jan 2003] DSA-237 kdenetwork - several vulnerabilities",
-    "Line": 17964,
+    "Line": 17967,
     "ID": "DSA-237",
     "Description": "kdenetwork - several vulnerabilities"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-1393}",
-      "Line": 17965,
+      "Line": 17968,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-1393"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - kdenetwork 2.2.2-14.6",
-      "Line": 17966,
+      "Line": 17969,
       "Type": "package",
       "Release": "woody",
       "Package": "kdenetwork",
