@@ -1,6 +1,6 @@
 {
   "id": "GHSA-26c5-ppr8-f33p",
-  "modified": "2023-06-07T14:20:21.164734Z",
+  "modified": "2023-06-14T00:02:48.453191Z",
   "published": "2023-06-06T16:40:42Z",
   "aliases": [
     "CVE-2023-32682"
@@ -389,6 +389,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/matrix-org/synapse/releases/tag/v1.85.0"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/pypa/advisory-database/tree/main/vulns/matrix-synapse/PYSEC-2023-84.yaml"
     },
     {
       "type": "WEB",
