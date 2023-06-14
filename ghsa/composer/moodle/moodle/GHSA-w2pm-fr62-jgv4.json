@@ -20,6 +20,9 @@
         "Url": "https://github.com/p4nk4jv/CVEs-Assigned/blob/master/Moodle-3.10.1-CVE-2021-27131.md"
       },
       {
+        "Url": "https://docs.moodle.org/402/en/Risks"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-w2pm-fr62-jgv4"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2023-05-16T21:30:23Z",
     "Severity": "MODERATE",
     "Summary": "Moodle vulnerable to stored Cross-site Scripting",
-    "UpdatedAt": "2023-05-25T19:07:53Z",
+    "UpdatedAt": "2023-06-14T17:11:57Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.4,

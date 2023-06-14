@@ -1,5 +1,5 @@
 {
-  "Severity": "LOW",
+  "Severity": "MODERATE",
   "UpdatedAt": "2023-06-09T22:53:00Z",
   "Package": {
     "Ecosystem": "COMPOSER",
@@ -36,13 +36,13 @@
     "Description": "Microweber 1.3.4 and prior is vulnerable to stored cross-site scripting via an alert on the `Editing` page. This issue is fixed in commit 42efa981a2239d042d910069952d6276497bdcf1.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-07T15:30:18Z",
-    "Severity": "LOW",
+    "Severity": "MODERATE",
     "Summary": "Microweber Cross-site Scripting vulnerability",
-    "UpdatedAt": "2023-06-09T22:53:00Z",
+    "UpdatedAt": "2023-06-14T16:42:15Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 3.8,
-      "VectorString": "CVSS:3.0/AV:L/AC:H/PR:H/UI:R/S:U/C:L/I:L/A:L"
+      "Score": 5.4,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [
