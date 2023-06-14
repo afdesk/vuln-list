@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Feb 2006] DSA-978-1 gnupg - invalid success return",
-    "Line": 15113,
+    "Line": 15115,
     "ID": "DSA-978-1",
     "Description": "gnupg - invalid success return"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-0455}",
-      "Line": 15114,
+      "Line": 15116,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-0455"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - gnupg 1.0.6-4woody4",
-      "Line": 15115,
+      "Line": 15117,
       "Type": "package",
       "Release": "woody",
       "Package": "gnupg",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[sarge] - gnupg 1.4.1-1sarge1",
-      "Line": 15116,
+      "Line": 15118,
       "Type": "package",
       "Release": "sarge",
       "Package": "gnupg",
@@ -34,7 +34,7 @@
     },
     {
       "Original": "NOTE: not fixed in sid at the time of DSA",
-      "Line": 15117,
+      "Line": 15119,
       "Type": "NOTE",
       "Description": "not fixed in sid at the time of DSA"
     }
