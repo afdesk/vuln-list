@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Jul 2007] DSA-1329-1 gfax - insecure temporary files",
-    "Line": 13950,
+    "Line": 13954,
     "ID": "DSA-1329-1",
     "Description": "gfax - insecure temporary files"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-2839}",
-      "Line": 13951,
+      "Line": 13955,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-2839"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - gfax 0.4.2-11sarge1",
-      "Line": 13952,
+      "Line": 13956,
       "Type": "package",
       "Release": "sarge",
       "Package": "gfax",

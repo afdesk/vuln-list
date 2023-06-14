@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Jan 2005] DSA-638-1 gopher - several",
-    "Line": 16666,
+    "Line": 16670,
     "ID": "DSA-638-1",
     "Description": "gopher - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0560 CVE-2004-0561}",
-      "Line": 16667,
+      "Line": 16671,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0560",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[woody] - gopher 3.0.3woody2",
-      "Line": 16668,
+      "Line": 16672,
       "Type": "package",
       "Release": "woody",
       "Package": "gopher",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "NOTE: gopherd binary package removed post-woody",
-      "Line": 16669,
+      "Line": 16673,
       "Type": "NOTE",
       "Description": "gopherd binary package removed post-woody"
     }

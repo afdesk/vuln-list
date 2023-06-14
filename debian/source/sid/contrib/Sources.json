@@ -608,6 +608,62 @@
   },
   {
     "Architecture": [
+      "any"
+    ],
+    "Binary": [
+      "basilisk2"
+    ],
+    "Build-Depends": [
+      "cdbs (\u003e= 0.4.123~), autotools-dev, automake, autoconf, debhelper (\u003e= 10~), libgtk2.0-dev, libsdl2-dev, libtinyxml2-dev, libxxf86dga-dev, libxxf86vm-dev, libvdeplug-dev"
+    ],
+    "Checksums-Sha256": [
+      "7b32095c961bb2078ff32f5d82ef19b3ce48479e05678413c35246677c65bef0 2150 basilisk2_0.9.20230516-1.dsc c032aa0b6bae7c60e018feafe5e880e5ef0cadafe9ff460be89b10be2ddfc7da 2114548 basilisk2_0.9.20230516.orig.tar.xz 03c3ec64a2d5058f1ce4e364b45c9656cc27acbced74a68e17687ae201200246 160448 basilisk2_0.9.20230516-1.debian.tar.xz"
+    ],
+    "Directory": [
+      "pool/contrib/b/basilisk2"
+    ],
+    "Files": [
+      "7ef57ca1ed30deae076e229b176f4fe8 2150 basilisk2_0.9.20230516-1.dsc 71760485308c654fa4cd4b20d3d971d8 2114548 basilisk2_0.9.20230516.orig.tar.xz cdb45bba52d91e822eac9a88bbe45cc9 160448 basilisk2_0.9.20230516-1.debian.tar.xz"
+    ],
+    "Format": [
+      "3.0 (quilt)"
+    ],
+    "Homepage": [
+      "https://basilisk.cebix.net/"
+    ],
+    "Maintainer": [
+      "Jonas Smedegaard \u003cdr@jones.dk\u003e"
+    ],
+    "Package": [
+      "basilisk2"
+    ],
+    "Package-List": [
+      "basilisk2 deb contrib/otherosfs optional arch=any"
+    ],
+    "Priority": [
+      "source"
+    ],
+    "Section": [
+      "contrib/otherosfs"
+    ],
+    "Standards-Version": [
+      "3.9.3"
+    ],
+    "Uploaders": [
+      "Giulio Paci \u003cgiuliopaci@gmail.com\u003e, Jérémy Lal \u003ckapouer@melix.org\u003e, Stephen Kitt \u003cskitt@debian.org\u003e"
+    ],
+    "Vcs-Browser": [
+      "https://salsa.debian.org/debian/basilisk2"
+    ],
+    "Vcs-Git": [
+      "https://salsa.debian.org/debian/basilisk2.git"
+    ],
+    "Version": [
+      "0.9.20230516-1"
+    ]
+  },
+  {
+    "Architecture": [
       "all"
     ],
     "Autobuild": [
@@ -4108,62 +4164,6 @@
       "debhelper-compat (= 13), appstream, flake8, help2man, python3, python3-coloredlogs, python3-jenkins, python3-requests, python3-tqdm, python3-yaml"
     ],
     "Checksums-Sha256": [
-      "dc223bb4d445c3591c157a7cc92c79da3a06f35a45f4e8b16475e819458951a9 2248 librem5-flash-image_0.0.3-1.dsc a926b838fe09164c9766f312435900f0de71390b9878d3616da9c45198ae81dd 21692 librem5-flash-image_0.0.3.orig.tar.gz 762080ba5bbdc983809be468ad166e64dfc192ca95cb99729ada48fe07d87d01 2932 librem5-flash-image_0.0.3-1.debian.tar.xz"
-    ],
-    "Directory": [
-      "pool/contrib/libr/librem5-flash-image"
-    ],
-    "Files": [
-      "1ad5a98c174cdaead01188d97fbed269 2248 librem5-flash-image_0.0.3-1.dsc 1f7650cfe4c0adaa6721d5342cd18274 21692 librem5-flash-image_0.0.3.orig.tar.gz 466f0534eccb419fbbb462f02015ebe0 2932 librem5-flash-image_0.0.3-1.debian.tar.xz"
-    ],
-    "Format": [
-      "3.0 (quilt)"
-    ],
-    "Homepage": [
-      "https://source.puri.sm/Librem5/librem5-flash-image"
-    ],
-    "Maintainer": [
-      "DebianOnMobile Maintainers \u003cdebian-on-mobile-maintainers@alioth-lists.debian.net\u003e"
-    ],
-    "Package": [
-      "librem5-flash-image"
-    ],
-    "Package-List": [
-      "librem5-flash-image deb contrib/admin optional arch=all"
-    ],
-    "Priority": [
-      "optional"
-    ],
-    "Section": [
-      "contrib/misc"
-    ],
-    "Standards-Version": [
-      "4.6.0"
-    ],
-    "Uploaders": [
-      "Henry-Nicolas Tourneur \u003cdebian@nilux.be\u003e, Guido Günther \u003cagx@sigxcpu.org\u003e,"
-    ],
-    "Vcs-Browser": [
-      "https://salsa.debian.org/DebianOnMobile-team/librem5-flash-image"
-    ],
-    "Vcs-Git": [
-      "https://salsa.debian.org/DebianOnMobile-team/librem5-flash-image.git"
-    ],
-    "Version": [
-      "0.0.3-1"
-    ]
-  },
-  {
-    "Architecture": [
-      "all"
-    ],
-    "Binary": [
-      "librem5-flash-image"
-    ],
-    "Build-Depends": [
-      "debhelper-compat (= 13), appstream, flake8, help2man, python3, python3-coloredlogs, python3-jenkins, python3-requests, python3-tqdm, python3-yaml"
-    ],
-    "Checksums-Sha256": [
       "aec89e88a1a76e014f8c55eed23e5468b88a97620b882bb54ef0f7f4864bc823 2248 librem5-flash-image_0.0.4-1.dsc b1c392d62cba84e1c056062ed329e87bcf67cd27f3050fb057865f141d5072f0 22134 librem5-flash-image_0.0.4.orig.tar.gz a651177290d6e4d18a03479e5c44dc90381dfca305fb961af98cff62db3b4e0b 2952 librem5-flash-image_0.0.4-1.debian.tar.xz"
     ],
     "Directory": [
@@ -7028,6 +7028,65 @@
     ],
     "Version": [
       "0.0+git20230207.c1bd4a0-1"
+    ]
+  },
+  {
+    "Architecture": [
+      "any"
+    ],
+    "Binary": [
+      "python3-libzfs"
+    ],
+    "Build-Depends": [
+      "debhelper-compat (= 13), dh-python, cython3, libzfslinux-dev, python3-all, python3-all-dev, python3-setuptools"
+    ],
+    "Checksums-Sha256": [
+      "bb0630af270c3a3f2418cdb9223e9b65195a95e532e1779e677bb5ec5b5a12e1 2187 py-libzfs_0.0+git20230425.a78d6fc-1.dsc 6b52369e8177bdb6761a55a5b3736b385343ee9db1e65477b0182fb98bc22356 75924 py-libzfs_0.0+git20230425.a78d6fc.orig.tar.xz 844647358e94e9d043798a74e8dcd3389cd33c1f2b5d27d51a3dcebb2b0a4eea 2900 py-libzfs_0.0+git20230425.a78d6fc-1.debian.tar.xz"
+    ],
+    "Directory": [
+      "pool/contrib/p/py-libzfs"
+    ],
+    "Files": [
+      "9a487ca53983cdbbeae3c0ac61135bda 2187 py-libzfs_0.0+git20230425.a78d6fc-1.dsc 48899eaadcbb4fdbac5ca83e713e4c6b 75924 py-libzfs_0.0+git20230425.a78d6fc.orig.tar.xz b5d3288aabedee99dcd83fb7e70ab10b 2900 py-libzfs_0.0+git20230425.a78d6fc-1.debian.tar.xz"
+    ],
+    "Format": [
+      "3.0 (quilt)"
+    ],
+    "Homepage": [
+      "https://github.com/truenas/py-libzfs"
+    ],
+    "Maintainer": [
+      "Debian Python Team \u003cteam+python@tracker.debian.org\u003e"
+    ],
+    "Package": [
+      "py-libzfs"
+    ],
+    "Package-List": [
+      "python3-libzfs deb contrib/python optional arch=any"
+    ],
+    "Priority": [
+      "extra"
+    ],
+    "Section": [
+      "contrib/misc"
+    ],
+    "Standards-Version": [
+      "4.6.2"
+    ],
+    "Testsuite": [
+      "autopkgtest-pkg-python"
+    ],
+    "Uploaders": [
+      "Boyuan Yang \u003cbyang@debian.org\u003e,"
+    ],
+    "Vcs-Browser": [
+      "https://salsa.debian.org/python-team/packages/py-libzfs"
+    ],
+    "Vcs-Git": [
+      "https://salsa.debian.org/python-team/packages/py-libzfs.git"
+    ],
+    "Version": [
+      "0.0+git20230425.a78d6fc-1"
     ]
   },
   {

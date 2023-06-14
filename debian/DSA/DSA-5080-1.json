@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Feb 2022] DSA-5080-1 snapd - security update",
-    "Line": 1108,
+    "Line": 1112,
     "ID": "DSA-5080-1",
     "Description": "snapd - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-44730 CVE-2021-44731}",
-      "Line": 1109,
+      "Line": 1113,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-44730",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[buster] - snapd 2.37.4-1+deb10u1",
-      "Line": 1110,
+      "Line": 1114,
       "Type": "package",
       "Release": "buster",
       "Package": "snapd",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[bullseye] - snapd 2.49-1+deb11u1",
-      "Line": 1111,
+      "Line": 1115,
       "Type": "package",
       "Release": "bullseye",
       "Package": "snapd",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Oct 2004] DSA-600-1 samba - arbitrary file access",
-    "Line": 16920,
+    "Line": 16924,
     "ID": "DSA-600-1",
     "Description": "samba - arbitrary file access"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0815}",
-      "Line": 16921,
+      "Line": 16925,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0815"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - samba 2.2.3a-14.1",
-      "Line": 16922,
+      "Line": 16926,
       "Type": "package",
       "Release": "woody",
       "Package": "samba",

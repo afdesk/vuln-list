@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Apr 2011] DSA-2209-1 tgt - double free",
-    "Line": 10829,
+    "Line": 10833,
     "ID": "DSA-2209-1",
     "Description": "tgt - double free"
   },
   "Annotations": [
     {
       "Original": "{CVE-2011-0001}",
-      "Line": 10830,
+      "Line": 10834,
       "Type": "xref",
       "Bugs": [
         "CVE-2011-0001"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - tgt 1:1.0.4-2squeeze1",
-      "Line": 10831,
+      "Line": 10835,
       "Type": "package",
       "Release": "squeeze",
       "Package": "tgt",

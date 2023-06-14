@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Jul 2017] DSA-3902-1 jabberd2 - security update",
-    "Line": 5116,
+    "Line": 5120,
     "ID": "DSA-3902-1",
     "Description": "jabberd2 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-10807}",
-      "Line": 5117,
+      "Line": 5121,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-10807"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - jabberd2 2.4.0-3+deb9u1",
-      "Line": 5118,
+      "Line": 5122,
       "Type": "package",
       "Release": "stretch",
       "Package": "jabberd2",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Jan 2019] DSA-4371-1 apt - security update",
-    "Line": 3492,
+    "Line": 3496,
     "ID": "DSA-4371-1",
     "Description": "apt - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-3462}",
-      "Line": 3493,
+      "Line": 3497,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-3462"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - apt 1.4.9",
-      "Line": 3494,
+      "Line": 3498,
       "Type": "package",
       "Release": "stretch",
       "Package": "apt",

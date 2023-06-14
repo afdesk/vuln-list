@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Apr 2016] DSA-3550-1 openssh - security update",
-    "Line": 6229,
+    "Line": 6233,
     "ID": "DSA-3550-1",
     "Description": "openssh - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-8325}",
-      "Line": 6230,
+      "Line": 6234,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-8325"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - openssh 1:6.0p1-4+deb7u4",
-      "Line": 6231,
+      "Line": 6235,
       "Type": "package",
       "Release": "wheezy",
       "Package": "openssh",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[jessie] - openssh 1:6.7p1-5+deb8u2",
-      "Line": 6232,
+      "Line": 6236,
       "Type": "package",
       "Release": "jessie",
       "Package": "openssh",
