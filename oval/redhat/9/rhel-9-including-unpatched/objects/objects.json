@@ -7018,12 +7018,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:202324329001",
       "Version": "636",
-      "Name": "python3.11-debug"
+      "Name": "python3.11"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202324329002",
       "Version": "636",
-      "Name": "python3.11"
+      "Name": "python3.11-debug"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324329003",
+      "Version": "636",
+      "Name": "python3.11-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202324329008",
@@ -7031,12 +7036,7 @@
       "Name": "python3.11-tkinter"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324329009",
-      "Version": "636",
-      "Name": "python3.11-libs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324329010",
+      "ID": "oval:com.redhat.cve:obj:202324329011",
       "Version": "636",
       "Name": "python3.11-devel"
     },
@@ -7123,52 +7123,52 @@
     {
       "ID": "oval:com.redhat.cve:obj:202324936001",
       "Version": "636",
-      "Name": "dotnet-runtime-7.0"
+      "Name": "aspnetcore-targeting-pack-7.0"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324936002",
+      "ID": "oval:com.redhat.cve:obj:202324936003",
       "Version": "636",
       "Name": "dotnet-targeting-pack-7.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202324936004",
       "Version": "636",
-      "Name": "aspnetcore-runtime-7.0"
+      "Name": "dotnet-templates-7.0"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324936008",
+      "ID": "oval:com.redhat.cve:obj:202324936005",
       "Version": "636",
       "Name": "dotnet-sdk-7.0-source-built-artifacts"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324936009",
+      "ID": "oval:com.redhat.cve:obj:202324936007",
       "Version": "636",
       "Name": "dotnet-sdk-7.0"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324936010",
-      "Version": "636",
-      "Name": "dotnet-hostfxr-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324936012",
-      "Version": "636",
-      "Name": "dotnet-templates-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202324936018",
+      "ID": "oval:com.redhat.cve:obj:202324936008",
       "Version": "636",
       "Name": "dotnet-apphost-pack-7.0"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324936020",
+      "ID": "oval:com.redhat.cve:obj:202324936016",
       "Version": "636",
-      "Name": "aspnetcore-targeting-pack-7.0"
+      "Name": "dotnet-hostfxr-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324936018",
+      "Version": "636",
+      "Name": "dotnet7.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202324936021",
       "Version": "636",
-      "Name": "dotnet7.0"
+      "Name": "dotnet-runtime-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202324936022",
+      "Version": "636",
+      "Name": "aspnetcore-runtime-7.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202325193001",
@@ -7666,14 +7666,14 @@
       "Name": "dmidecode"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202331124001",
-      "Version": "636",
-      "Name": "c-ares-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202331124002",
+      "ID": "oval:com.redhat.cve:obj:202331124003",
       "Version": "636",
       "Name": "c-ares"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202331124004",
+      "Version": "636",
+      "Name": "c-ares-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202332681001",

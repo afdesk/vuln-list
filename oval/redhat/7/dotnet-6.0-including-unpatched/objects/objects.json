@@ -68,12 +68,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202324936002",
       "Version": "636",
-      "Name": "rh-dotnet60-runtime"
+      "Name": "rh-dotnet60"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202324936003",
       "Version": "636",
-      "Name": "rh-dotnet60"
+      "Name": "rh-dotnet60-runtime"
     }
   ],
   "RpmverifyfileObjects": [

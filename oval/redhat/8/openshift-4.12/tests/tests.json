@@ -647,6 +647,174 @@
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20233409006"
       }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "podman is earlier than 3:4.2.0-4.1.rhaos4.12.el8",
+      "ID": "oval:com.redhat.rhsa:tst:20233545001",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233545001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233545001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "podman is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20233545002",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233545001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20231037002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "podman-catatonit is earlier than 3:4.2.0-4.1.rhaos4.12.el8",
+      "ID": "oval:com.redhat.rhsa:tst:20233545003",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233545002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233545001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "podman-catatonit is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20233545004",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233545002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20231037002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "podman-docker is earlier than 3:4.2.0-4.1.rhaos4.12.el8",
+      "ID": "oval:com.redhat.rhsa:tst:20233545005",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233545003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233545003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "podman-docker is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20233545006",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233545003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20231037002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "podman-gvproxy is earlier than 3:4.2.0-4.1.rhaos4.12.el8",
+      "ID": "oval:com.redhat.rhsa:tst:20233545007",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233545004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233545001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "podman-gvproxy is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20233545008",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233545004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20231037002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "podman-plugins is earlier than 3:4.2.0-4.1.rhaos4.12.el8",
+      "ID": "oval:com.redhat.rhsa:tst:20233545009",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233545005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233545001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "podman-plugins is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20233545010",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233545005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20231037002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "podman-remote is earlier than 3:4.2.0-4.1.rhaos4.12.el8",
+      "ID": "oval:com.redhat.rhsa:tst:20233545011",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233545006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233545001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "podman-remote is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20233545012",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233545006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20231037002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "podman-tests is earlier than 3:4.2.0-4.1.rhaos4.12.el8",
+      "ID": "oval:com.redhat.rhsa:tst:20233545013",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233545007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233545001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "podman-tests is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhsa:tst:20233545014",
+      "Version": "638",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhsa:obj:20233545007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20231037002"
+      }
     }
   ],
   "RpmverifyfileTests": [

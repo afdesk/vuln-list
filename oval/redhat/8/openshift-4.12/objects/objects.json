@@ -99,6 +99,41 @@
       "ID": "oval:com.redhat.rhsa:obj:20231408001",
       "Version": "637",
       "Name": "conmon-rs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233545001",
+      "Version": "638",
+      "Name": "podman"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233545002",
+      "Version": "638",
+      "Name": "podman-catatonit"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233545003",
+      "Version": "638",
+      "Name": "podman-docker"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233545004",
+      "Version": "638",
+      "Name": "podman-gvproxy"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233545005",
+      "Version": "638",
+      "Name": "podman-plugins"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233545006",
+      "Version": "638",
+      "Name": "podman-remote"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233545007",
+      "Version": "638",
+      "Name": "podman-tests"
     }
   ],
   "RpmverifyfileObjects": [
