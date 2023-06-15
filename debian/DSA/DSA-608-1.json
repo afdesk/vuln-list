@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Dec 2004] DSA-608-1 zgv - integer overflows, unsanitised input",
-    "Line": 16782,
+    "Line": 16786,
     "ID": "DSA-608-1",
     "Description": "zgv - integer overflows, unsanitised input"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-1095 CVE-2004-0999}",
-      "Line": 16783,
+      "Line": 16787,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-1095",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[woody] - zgv 5.5-3woody1",
-      "Line": 16784,
+      "Line": 16788,
       "Type": "package",
       "Release": "woody",
       "Package": "zgv",

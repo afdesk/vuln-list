@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Feb 2005] DSA-672-1 xview - buffer overflows",
-    "Line": 16534,
+    "Line": 16538,
     "ID": "DSA-672-1",
     "Description": "xview - buffer overflows"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-0076}",
-      "Line": 16535,
+      "Line": 16539,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-0076"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - xview 3.2p1.4-16woody2",
-      "Line": 16536,
+      "Line": 16540,
       "Type": "package",
       "Release": "woody",
       "Package": "xview",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA",
-      "Line": 16537,
+      "Line": 16541,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA"
     }

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Oct 2019] DSA-4509-2 subversion - update",
-    "Line": 2940,
+    "Line": 2944,
     "ID": "DSA-4509-2",
     "Description": "subversion - update"
   },
   "Annotations": [
     {
       "Original": "[stretch] - subversion 1.9.5-1+deb9u5",
-      "Line": 2941,
+      "Line": 2945,
       "Type": "package",
       "Release": "stretch",
       "Package": "subversion",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Apr 2003] DSA-275 lpr-ppd - buffer overflow",
-    "Line": 17853,
+    "Line": 17857,
     "ID": "DSA-275",
     "Description": "lpr-ppd - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0144}",
-      "Line": 17854,
+      "Line": 17858,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0144"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - lpr-ppd 0.72-2.1",
-      "Line": 17855,
+      "Line": 17859,
       "Type": "package",
       "Release": "woody",
       "Package": "lpr-ppd",

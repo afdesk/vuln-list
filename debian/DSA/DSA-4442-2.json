@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 May 2019] DSA-4442-2 cups-filters - regression update",
-    "Line": 3275,
+    "Line": 3279,
     "ID": "DSA-4442-2",
     "Description": "cups-filters - regression update"
   },
   "Annotations": [
     {
       "Original": "[stretch] - cups-filters 1.11.6-3+deb9u1",
-      "Line": 3276,
+      "Line": 3280,
       "Type": "package",
       "Release": "stretch",
       "Package": "cups-filters",

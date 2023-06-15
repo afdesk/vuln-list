@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Feb 2006] DSA-983-1 pdftohtml - several",
-    "Line": 15094,
+    "Line": 15098,
     "ID": "DSA-983-1",
     "Description": "pdftohtml - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-3191 CVE-2005-3192 CVE-2006-0301}",
-      "Line": 15095,
+      "Line": 15099,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-3191",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[sarge] - pdftohtml 0.36-11sarge2",
-      "Line": 15096,
+      "Line": 15100,
       "Type": "package",
       "Release": "sarge",
       "Package": "pdftohtml",
@@ -27,7 +27,7 @@
     },
     {
       "Original": "NOTE: sid is not affected, just a revamp of previous patches",
-      "Line": 15097,
+      "Line": 15101,
       "Type": "NOTE",
       "Description": "sid is not affected, just a revamp of previous patches"
     }

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Jan 2014] DSA-2836-1 devscripts - arbitrary code execution",
-    "Line": 8700,
+    "Line": 8704,
     "ID": "DSA-2836-1",
     "Description": "devscripts - arbitrary code execution"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-6888 CVE-2013-7325}",
-      "Line": 8701,
+      "Line": 8705,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-6888",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[wheezy] - devscripts 2.12.6+deb7u2",
-      "Line": 8702,
+      "Line": 8706,
       "Type": "package",
       "Release": "wheezy",
       "Package": "devscripts",
