@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-06-09T22:41:32Z",
   "Package": {
     "Ecosystem": "COMPOSER",
@@ -36,13 +36,13 @@
     "Description": "Path Traversal in GitHub repository froxlor/froxlor prior to 2.0.20.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-09T03:30:24Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "Froxlor vulnerable to Path Traversal",
-    "UpdatedAt": "2023-06-09T22:41:32Z",
+    "UpdatedAt": "2023-06-14T19:26:52Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 6.5,
-      "VectorString": "CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:H"
+      "Score": 7.2,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [
