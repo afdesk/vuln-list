@@ -7636,14 +7636,14 @@
       "Name": "dmidecode"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202331124003",
-      "Version": "636",
-      "Name": "c-ares"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202331124004",
+      "ID": "oval:com.redhat.cve:obj:202331124001",
       "Version": "636",
       "Name": "c-ares-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202331124002",
+      "Version": "636",
+      "Name": "c-ares"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202332681001",

@@ -344,7 +344,7 @@
                   },
                   {
                     "Comment": "rh-eclipse-jetty is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202027218006"
+                    "TestRef": "oval:com.redhat.cve:tst:202027218022"
                   }
                 ]
               },
@@ -357,7 +357,7 @@
                   },
                   {
                     "Comment": "rh-eclipse-jetty-client is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202027218012"
+                    "TestRef": "oval:com.redhat.cve:tst:202027218006"
                   }
                 ]
               },
@@ -370,7 +370,7 @@
                   },
                   {
                     "Comment": "rh-eclipse-jetty-continuation is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202027218008"
+                    "TestRef": "oval:com.redhat.cve:tst:202027218028"
                   }
                 ]
               },
@@ -383,7 +383,7 @@
                   },
                   {
                     "Comment": "rh-eclipse-jetty-http is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202027218010"
+                    "TestRef": "oval:com.redhat.cve:tst:202027218008"
                   }
                 ]
               },
@@ -396,7 +396,7 @@
                   },
                   {
                     "Comment": "rh-eclipse-jetty-io is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202027218022"
+                    "TestRef": "oval:com.redhat.cve:tst:202027218020"
                   }
                 ]
               },
@@ -409,7 +409,7 @@
                   },
                   {
                     "Comment": "rh-eclipse-jetty-jaas is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202027218024"
+                    "TestRef": "oval:com.redhat.cve:tst:202027218030"
                   }
                 ]
               },
@@ -435,7 +435,7 @@
                   },
                   {
                     "Comment": "rh-eclipse-jetty-jmx is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202027218020"
+                    "TestRef": "oval:com.redhat.cve:tst:202027218014"
                   }
                 ]
               },
@@ -448,7 +448,7 @@
                   },
                   {
                     "Comment": "rh-eclipse-jetty-security is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202027218028"
+                    "TestRef": "oval:com.redhat.cve:tst:202027218026"
                   }
                 ]
               },
@@ -461,7 +461,7 @@
                   },
                   {
                     "Comment": "rh-eclipse-jetty-server is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202027218014"
+                    "TestRef": "oval:com.redhat.cve:tst:202027218012"
                   }
                 ]
               },
@@ -474,7 +474,7 @@
                   },
                   {
                     "Comment": "rh-eclipse-jetty-servlet is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202027218002"
+                    "TestRef": "oval:com.redhat.cve:tst:202027218010"
                   }
                 ]
               },
@@ -487,7 +487,7 @@
                   },
                   {
                     "Comment": "rh-eclipse-jetty-util is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202027218030"
+                    "TestRef": "oval:com.redhat.cve:tst:202027218002"
                   }
                 ]
               },
@@ -500,7 +500,7 @@
                   },
                   {
                     "Comment": "rh-eclipse-jetty-util-ajax is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202027218004"
+                    "TestRef": "oval:com.redhat.cve:tst:202027218024"
                   }
                 ]
               },
@@ -513,7 +513,7 @@
                   },
                   {
                     "Comment": "rh-eclipse-jetty-webapp is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202027218016"
+                    "TestRef": "oval:com.redhat.cve:tst:202027218004"
                   }
                 ]
               },
@@ -526,7 +526,7 @@
                   },
                   {
                     "Comment": "rh-eclipse-jetty-xml is signed with Red Hat redhatrelease2 key",
-                    "TestRef": "oval:com.redhat.cve:tst:202027218026"
+                    "TestRef": "oval:com.redhat.cve:tst:202027218016"
                   }
                 ]
               },

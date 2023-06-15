@@ -226,7 +226,7 @@
       "Name": "python-werkzeug"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324534010",
+      "ID": "oval:com.redhat.cve:obj:202324534011",
       "Version": "636",
       "Name": "conmon"
     },
@@ -386,7 +386,7 @@
       "Name": "kata-containers"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202241720006",
+      "ID": "oval:com.redhat.unaffected:obj:202241724001",
       "Version": "635",
       "Name": "butane"
     },

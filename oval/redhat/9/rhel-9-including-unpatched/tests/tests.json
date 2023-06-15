@@ -33596,21 +33596,21 @@
     },
     {
       "Check": "at least one",
-      "Comment": "c-ares is installed",
-      "ID": "oval:com.redhat.cve:tst:202331124005",
+      "Comment": "c-ares-devel is installed",
+      "ID": "oval:com.redhat.cve:tst:202331124001",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202331124003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202331124001"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "c-ares is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202331124006",
+      "Comment": "c-ares-devel is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202331124002",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202331124003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202331124001"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -33618,21 +33618,21 @@
     },
     {
       "Check": "at least one",
-      "Comment": "c-ares-devel is installed",
-      "ID": "oval:com.redhat.cve:tst:202331124007",
+      "Comment": "c-ares is installed",
+      "ID": "oval:com.redhat.cve:tst:202331124003",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202331124004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202331124002"
       },
       "State": {}
     },
     {
       "Check": "at least one",
-      "Comment": "c-ares-devel is signed with Red Hat redhatrelease2 key",
-      "ID": "oval:com.redhat.cve:tst:202331124008",
+      "Comment": "c-ares is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.cve:tst:202331124004",
       "Version": "636",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202331124004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202331124002"
       },
       "State": {
         "StateRef": "oval:com.redhat.cve:ste:20052541001"
@@ -66254,7 +66254,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20233559001",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202331124003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202331124002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20233559001"
@@ -66266,7 +66266,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20233559003",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202331124004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202331124001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20233559001"
@@ -70028,6 +70028,226 @@
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.unaffected:obj:201918874002"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-64k-debug-modules is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794006",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089008"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-64k-modules-core is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794008",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089028"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-64k is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794010",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089048"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-64k-core is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794022",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089009"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-modules-core is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794024",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089024"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-debug-modules-core is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794032",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089044"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-64k-debug is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794034",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089025"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-zfcpdump-modules-core is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794042",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089010"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-64k-debug-devel is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794046",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089011"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "rtla is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794048",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089013"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-64k-debug-devel-matched is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794060",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089034"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-64k-modules is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794064",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089018"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-64k-debug-core is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794070",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089005"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-64k-devel-matched is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794074",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089033"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-64k-devel is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794076",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089047"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-uki-virt is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794078",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089039"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-64k-modules-extra is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794080",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089041"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-debug-uki-virt is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794082",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089021"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-64k-debug-modules-extra is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794084",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089030"
+      },
+      "State": {}
+    },
+    {
+      "Check": "at least one",
+      "Comment": "kernel-64k-debug-modules-core is not installed",
+      "ID": "oval:com.redhat.unaffected:tst:201920794086",
+      "Version": "635",
+      "CheckExistence": "none_exist",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201916089031"
       },
       "State": {}
     },
@@ -83917,182 +84137,6 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-64k-modules is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694012",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089018"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-64k-debug is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694014",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089025"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-64k is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694016",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089048"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-64k-debug-modules-core is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694018",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089031"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-zfcpdump-modules-core is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694020",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089010"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-uki-virt is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694024",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089039"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-debug-uki-virt is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694036",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089021"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-64k-debug-modules is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694060",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089008"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-64k-modules-core is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694062",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089028"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-64k-devel-matched is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694064",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089033"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-64k-debug-devel is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694066",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089011"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "rtla is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694068",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089013"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-debug-modules-core is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694070",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089044"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-64k-core is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694080",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089009"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-64k-debug-modules-extra is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694082",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089030"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-modules-core is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694088",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089024"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "kernel-rt-modules-core is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202036694094",
       "Version": "635",
@@ -84104,56 +84148,12 @@
     },
     {
       "Check": "at least one",
-      "Comment": "kernel-64k-debug-core is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694102",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089005"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-64k-debug-devel-matched is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694110",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089034"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-64k-devel is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694112",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089047"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
       "Comment": "kernel-rt-debug-modules-core is not installed",
       "ID": "oval:com.redhat.unaffected:tst:202036694116",
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:20213714050"
-      },
-      "State": {}
-    },
-    {
-      "Check": "at least one",
-      "Comment": "kernel-64k-modules-extra is not installed",
-      "ID": "oval:com.redhat.unaffected:tst:202036694124",
-      "Version": "635",
-      "CheckExistence": "none_exist",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201916089041"
       },
       "State": {}
     },
@@ -91988,7 +91988,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202331124004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202331124001"
       },
       "State": {}
     },
@@ -91999,7 +91999,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202331124003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202331124002"
       },
       "State": {}
     },
