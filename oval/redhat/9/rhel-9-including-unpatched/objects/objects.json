@@ -4936,19 +4936,19 @@
       "Name": "unzip"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20214231001",
+      "ID": "oval:com.redhat.cve:obj:20214231002",
       "Version": "636",
-      "Name": "firefox"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20214231003",
-      "Version": "636",
-      "Name": "firefox-x11"
+      "Name": "thunderbird"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20214231004",
       "Version": "636",
-      "Name": "thunderbird"
+      "Name": "firefox-x11"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20214231005",
+      "Version": "636",
+      "Name": "firefox"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202143138002",
@@ -6516,19 +6516,19 @@
       "Name": "oci-seccomp-bpf-hook"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241854001",
+      "ID": "oval:com.redhat.cve:obj:202241854003",
       "Version": "636",
-      "Name": "jackson-jaxrs-providers"
+      "Name": "pki-jackson-jaxrs-providers"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241854003",
+      "ID": "oval:com.redhat.cve:obj:202241854004",
       "Version": "636",
       "Name": "pki-jackson-jaxrs-json-provider"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241854006",
+      "ID": "oval:com.redhat.cve:obj:202241854005",
       "Version": "636",
-      "Name": "pki-jackson-jaxrs-providers"
+      "Name": "jackson-jaxrs-providers"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202241862001",
@@ -6926,6 +6926,11 @@
       "Name": "libssh-config"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20231672001",
+      "Version": "636",
+      "Name": "tang"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:20231786001",
       "Version": "636",
       "Name": "cloud-init"
@@ -6938,7 +6943,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202320867001",
       "Version": "636",
-      "Name": "open-vm-tools-test"
+      "Name": "open-vm-tools-desktop"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202320867002",
@@ -6948,12 +6953,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202320867003",
       "Version": "636",
-      "Name": "open-vm-tools-sdmp"
+      "Name": "open-vm-tools-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202320867004",
       "Version": "636",
-      "Name": "open-vm-tools-desktop"
+      "Name": "open-vm-tools-sdmp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202321911001",
@@ -13164,11 +13169,6 @@
       "ID": "oval:com.redhat.unaffected:obj:20214048012",
       "Version": "635",
       "Name": "openblas-serial"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:20214076001",
-      "Version": "635",
-      "Name": "tang"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202141190001",

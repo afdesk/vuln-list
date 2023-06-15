@@ -14931,6 +14931,16 @@
       "Name": "haproxy"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:20231672001",
+      "Version": "636",
+      "Name": "tang"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20231672002",
+      "Version": "636",
+      "Name": "tang-nagios"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202322745001",
       "Version": "636",
       "Name": "tpm2-tss"
@@ -20719,16 +20729,6 @@
       "ID": "oval:com.redhat.unaffected:obj:20213798009",
       "Version": "635",
       "Name": "opencryptoki-devel"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:20214076001",
-      "Version": "635",
-      "Name": "tang"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:20214076002",
-      "Version": "635",
-      "Name": "tang-nagios"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202142523002",
