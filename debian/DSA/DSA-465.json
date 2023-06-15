@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Mar 2004] DSA-465 openssl - several vulnerabilities",
-    "Line": 17246,
+    "Line": 17253,
     "ID": "DSA-465",
     "Description": "openssl - several vulnerabilities"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0079 CVE-2004-0081}",
-      "Line": 17247,
+      "Line": 17254,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0079",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[woody] - openssl 0.9.6c-2.woody.6",
-      "Line": 17248,
+      "Line": 17255,
       "Type": "package",
       "Release": "woody",
       "Package": "openssl",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[woody] - openssl094 0.9.4-6.woody.4",
-      "Line": 17249,
+      "Line": 17256,
       "Type": "package",
       "Release": "woody",
       "Package": "openssl094",
@@ -35,7 +35,7 @@
     },
     {
       "Original": "[woody] - openssl095 0.9.5a-6.woody.5",
-      "Line": 17250,
+      "Line": 17257,
       "Type": "package",
       "Release": "woody",
       "Package": "openssl095",

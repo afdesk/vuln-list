@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Feb 2019] DSA-4388-2 mosquitto - regression update",
-    "Line": 3438,
+    "Line": 3445,
     "ID": "DSA-4388-2",
     "Description": "mosquitto - regression update"
   },
   "Annotations": [
     {
       "Original": "[stretch] - mosquitto 1.4.10-3+deb9u4",
-      "Line": 3439,
+      "Line": 3446,
       "Type": "package",
       "Release": "stretch",
       "Package": "mosquitto",

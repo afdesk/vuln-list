@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[31 Oct 2019] DSA-4557-1 libarchive - security update",
-    "Line": 2875,
+    "Line": 2882,
     "ID": "DSA-4557-1",
     "Description": "libarchive - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-18408}",
-      "Line": 2876,
+      "Line": 2883,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-18408"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - libarchive 3.2.2-2+deb9u2",
-      "Line": 2877,
+      "Line": 2884,
       "Type": "package",
       "Release": "stretch",
       "Package": "libarchive",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[buster] - libarchive 3.3.3-4+deb10u1",
-      "Line": 2878,
+      "Line": 2885,
       "Type": "package",
       "Release": "buster",
       "Package": "libarchive",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Sep 2013] DSA-2749-1 asterisk - several",
-    "Line": 9017,
+    "Line": 9024,
     "ID": "DSA-2749-1",
     "Description": "asterisk - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-5641 CVE-2013-5642}",
-      "Line": 9018,
+      "Line": 9025,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-5641",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[squeeze] - asterisk 1:1.6.2.9-2+squeeze11",
-      "Line": 9019,
+      "Line": 9026,
       "Type": "package",
       "Release": "squeeze",
       "Package": "asterisk",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[wheezy] - asterisk 1:1.8.13.1~dfsg-3+deb7u1",
-      "Line": 9020,
+      "Line": 9027,
       "Type": "package",
       "Release": "wheezy",
       "Package": "asterisk",

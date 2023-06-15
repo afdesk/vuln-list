@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Nov 2002] DSA-197 courier - buffer overflow",
-    "Line": 18094,
+    "Line": 18101,
     "ID": "DSA-197",
     "Description": "courier - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-1311}",
-      "Line": 18095,
+      "Line": 18102,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-1311"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - courier 0.37.3-2.3",
-      "Line": 18096,
+      "Line": 18103,
       "Type": "package",
       "Release": "woody",
       "Package": "courier",

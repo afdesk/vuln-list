@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Sep 2012] DSA-2546-1 freeradius - code execution",
-    "Line": 9685,
+    "Line": 9692,
     "ID": "DSA-2546-1",
     "Description": "freeradius - code execution"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-3547}",
-      "Line": 9686,
+      "Line": 9693,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-3547"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - freeradius 2.1.10+dfsg-2+squeeze1",
-      "Line": 9687,
+      "Line": 9694,
       "Type": "package",
       "Release": "squeeze",
       "Package": "freeradius",

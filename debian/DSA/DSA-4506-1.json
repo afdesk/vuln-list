@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Aug 2019] DSA-4506-1 qemu - security update",
-    "Line": 3063,
+    "Line": 3070,
     "ID": "DSA-4506-1",
     "Description": "qemu - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-20815 CVE-2019-13164 CVE-2019-14378}",
-      "Line": 3064,
+      "Line": 3071,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-20815",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[stretch] - qemu 1:2.8+dfsg-6+deb9u8",
-      "Line": 3065,
+      "Line": 3072,
       "Type": "package",
       "Release": "stretch",
       "Package": "qemu",

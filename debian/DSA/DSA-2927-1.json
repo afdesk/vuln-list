@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 May 2014] DSA-2927-1 libxfont - security update",
-    "Line": 8374,
+    "Line": 8381,
     "ID": "DSA-2927-1",
     "Description": "libxfont - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-0209 CVE-2014-0210 CVE-2014-0211}",
-      "Line": 8375,
+      "Line": 8382,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-0209",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[squeeze] - libxfont 1:1.4.1-5",
-      "Line": 8376,
+      "Line": 8383,
       "Type": "package",
       "Release": "squeeze",
       "Package": "libxfont",
@@ -27,7 +27,7 @@
     },
     {
       "Original": "[wheezy] - libxfont 1:1.4.5-4",
-      "Line": 8377,
+      "Line": 8384,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libxfont",

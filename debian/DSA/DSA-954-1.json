@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[25 Jan 2006] DSA-954-1 wine - design flaw",
-    "Line": 15226,
+    "Line": 15233,
     "ID": "DSA-954-1",
     "Description": "wine - design flaw"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-0106}",
-      "Line": 15227,
+      "Line": 15234,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-0106"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - wine 0.0.20050310-1.2",
-      "Line": 15228,
+      "Line": 15235,
       "Type": "package",
       "Release": "sarge",
       "Package": "wine",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA (too young, 1/10)",
-      "Line": 15229,
+      "Line": 15236,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA (too young, 1/10)"
     }
