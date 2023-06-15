@@ -36,6 +36,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "aspnetcore-runtime-6.0",
+        "version": "6.0.8",
+        "release": "1.el8_6",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
+        "filename": "aspnetcore-runtime-6.0-6.0.8-1.el8_6.aarch64.rpm",
+        "sum": "0af456074f940fd56172055add0f4e3d6330aa5bdeaeb40fb84ccfc45ec7088b",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "dotnet-sdk-6.0",
         "version": "6.0.108",
         "release": "1.el8_6",
@@ -48,6 +60,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "dotnet-host",
+        "version": "6.0.8",
+        "release": "1.el8_6",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
+        "filename": "dotnet-host-6.0.8-1.el8_6.aarch64.rpm",
+        "sum": "1fb204ab1093eb348cc44002c39584f85a787790da4cf07bfb76a68348dbaf32",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "aspnetcore-targeting-pack-6.0",
         "version": "6.0.8",
         "release": "1.el8_6",
@@ -56,6 +80,18 @@
         "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
         "filename": "aspnetcore-targeting-pack-6.0-6.0.8-1.el8_6.x86_64.rpm",
         "sum": "22cf1073630449213a5b207eca5d9d162665e2d7afb325203f3e103d3982364f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dotnet-hostfxr-6.0",
+        "version": "6.0.8",
+        "release": "1.el8_6",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
+        "filename": "dotnet-hostfxr-6.0-6.0.8-1.el8_6.aarch64.rpm",
+        "sum": "28d0fc7cedd566e3166c7849a6a8e1e9f68877d94bff1ce7131a298dcdd76f72",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -84,114 +120,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "dotnet-host",
-        "version": "6.0.8",
-        "release": "1.el8_6",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
-        "filename": "dotnet-host-6.0.8-1.el8_6.x86_64.rpm",
-        "sum": "4ed248d0e34b311a3911341868ed83615f89e96be2f96ef76e12d50d180c60e9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dotnet-templates-6.0",
-        "version": "6.0.108",
-        "release": "1.el8_6",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
-        "filename": "dotnet-templates-6.0-6.0.108-1.el8_6.x86_64.rpm",
-        "sum": "b77327acee67ac72f81dca53e14b5ee25dbf95d192afe75764a4f5f9d8e43a31",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dotnet-hostfxr-6.0",
-        "version": "6.0.8",
-        "release": "1.el8_6",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
-        "filename": "dotnet-hostfxr-6.0-6.0.8-1.el8_6.x86_64.rpm",
-        "sum": "d8fe80002a55900325ac4273c91e7693eb62f11b7a2f098ecd46f0a611e83c6d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "aspnetcore-runtime-6.0",
-        "version": "6.0.8",
-        "release": "1.el8_6",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
-        "filename": "aspnetcore-runtime-6.0-6.0.8-1.el8_6.x86_64.rpm",
-        "sum": "e87789e846bee133c6d5c71c9251ea86d2c5d7a29fb496bd8617ab0662cb9fb9",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dotnet-targeting-pack-6.0",
-        "version": "6.0.8",
-        "release": "1.el8_6",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
-        "filename": "dotnet-targeting-pack-6.0-6.0.8-1.el8_6.x86_64.rpm",
-        "sum": "e92050008aa51e2a8b5648a4d5c35029b3856cf56979178a7e5cf977e8b56b4d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dotnet-runtime-6.0",
-        "version": "6.0.8",
-        "release": "1.el8_6",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
-        "filename": "dotnet-runtime-6.0-6.0.8-1.el8_6.x86_64.rpm",
-        "sum": "eff401e84bd4e44be353a0ebc8952f9fed1d42b8141f69eac0ca5bee951b2ed7",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "aspnetcore-runtime-6.0",
-        "version": "6.0.8",
-        "release": "1.el8_6",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
-        "filename": "aspnetcore-runtime-6.0-6.0.8-1.el8_6.aarch64.rpm",
-        "sum": "0af456074f940fd56172055add0f4e3d6330aa5bdeaeb40fb84ccfc45ec7088b",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dotnet-host",
-        "version": "6.0.8",
-        "release": "1.el8_6",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
-        "filename": "dotnet-host-6.0.8-1.el8_6.aarch64.rpm",
-        "sum": "1fb204ab1093eb348cc44002c39584f85a787790da4cf07bfb76a68348dbaf32",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dotnet-hostfxr-6.0",
-        "version": "6.0.8",
-        "release": "1.el8_6",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
-        "filename": "dotnet-hostfxr-6.0-6.0.8-1.el8_6.aarch64.rpm",
-        "sum": "28d0fc7cedd566e3166c7849a6a8e1e9f68877d94bff1ce7131a298dcdd76f72",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "dotnet-sdk-6.0",
         "version": "6.0.108",
         "release": "1.el8_6",
@@ -200,6 +128,18 @@
         "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
         "filename": "dotnet-sdk-6.0-6.0.108-1.el8_6.aarch64.rpm",
         "sum": "4e29b85c84133fafe42b6748e960a7bcfdc6e878d2418d730fb6f976424fa84c",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dotnet-host",
+        "version": "6.0.8",
+        "release": "1.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
+        "filename": "dotnet-host-6.0.8-1.el8_6.x86_64.rpm",
+        "sum": "4ed248d0e34b311a3911341868ed83615f89e96be2f96ef76e12d50d180c60e9",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -224,6 +164,18 @@
         "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
         "filename": "netstandard-targeting-pack-2.1-6.0.108-1.el8_6.aarch64.rpm",
         "sum": "8e910986dc686553f446778d80fcf3a8fe052b93b6f28696e9e3b46f8a2b811a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dotnet-templates-6.0",
+        "version": "6.0.108",
+        "release": "1.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
+        "filename": "dotnet-templates-6.0-6.0.108-1.el8_6.x86_64.rpm",
+        "sum": "b77327acee67ac72f81dca53e14b5ee25dbf95d192afe75764a4f5f9d8e43a31",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -264,6 +216,18 @@
         "reboot_suggested": 0
       },
       {
+        "name": "dotnet-hostfxr-6.0",
+        "version": "6.0.8",
+        "release": "1.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
+        "filename": "dotnet-hostfxr-6.0-6.0.8-1.el8_6.x86_64.rpm",
+        "sum": "d8fe80002a55900325ac4273c91e7693eb62f11b7a2f098ecd46f0a611e83c6d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "dotnet",
         "version": "6.0.108",
         "release": "1.el8_6",
@@ -276,6 +240,30 @@
         "reboot_suggested": 0
       },
       {
+        "name": "aspnetcore-runtime-6.0",
+        "version": "6.0.8",
+        "release": "1.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
+        "filename": "aspnetcore-runtime-6.0-6.0.8-1.el8_6.x86_64.rpm",
+        "sum": "e87789e846bee133c6d5c71c9251ea86d2c5d7a29fb496bd8617ab0662cb9fb9",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dotnet-targeting-pack-6.0",
+        "version": "6.0.8",
+        "release": "1.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
+        "filename": "dotnet-targeting-pack-6.0-6.0.8-1.el8_6.x86_64.rpm",
+        "sum": "e92050008aa51e2a8b5648a4d5c35029b3856cf56979178a7e5cf977e8b56b4d",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
         "name": "aspnetcore-targeting-pack-6.0",
         "version": "6.0.8",
         "release": "1.el8_6",
@@ -284,6 +272,18 @@
         "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
         "filename": "aspnetcore-targeting-pack-6.0-6.0.8-1.el8_6.aarch64.rpm",
         "sum": "ed540d65088654f8018c263652940d4c71a58c03254aeac9ce2f0ba90433a2f5",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "dotnet-runtime-6.0",
+        "version": "6.0.8",
+        "release": "1.el8_6",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "dotnet6.0-6.0.108-1.el8_6.src.rpm",
+        "filename": "dotnet-runtime-6.0-6.0.8-1.el8_6.x86_64.rpm",
+        "sum": "eff401e84bd4e44be353a0ebc8952f9fed1d42b8141f69eac0ca5bee951b2ed7",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -305,10 +305,10 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2022:6058",
-      "type": "rhsa",
-      "id": "RHSA-2022:6058",
-      "title": "RHSA-2022:6058"
+      "href": "https://bugzilla.redhat.com/2115183",
+      "type": "bugzilla",
+      "id": "2115183",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-34716",
@@ -317,10 +317,10 @@
       "title": "CVE-2022-34716"
     },
     {
-      "href": "https://bugzilla.redhat.com/2115183",
-      "type": "bugzilla",
-      "id": "2115183",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2022:6058",
+      "type": "rhsa",
+      "id": "RHSA-2022:6058",
+      "title": "RHSA-2022:6058"
     },
     {
       "href": "https://errata.almalinux.org/8/ALSA-2022-6058.html",
@@ -338,7 +338,7 @@
   "title": "Moderate: .NET 6.0 security, bug fix, and enhancement update",
   "type": "security",
   "updated_date": {
-    "$date": 1660733860000
+    "$date": 1660733868000
   },
   "version": "1"
 }

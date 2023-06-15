@@ -16,34 +16,22 @@
         "version": "0.31.1",
         "release": "55.el8",
         "epoch": "0",
-        "arch": "i686",
-        "src": "autotrace-0.31.1-55.el8.src.rpm",
-        "filename": "autotrace-0.31.1-55.el8.i686.rpm",
-        "sum": "7f747f187b201e03cb3858f0e61028c00f109140eac1aa0f90e17ba8ba13db2f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "autotrace",
-        "version": "0.31.1",
-        "release": "55.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "autotrace-0.31.1-55.el8.src.rpm",
-        "filename": "autotrace-0.31.1-55.el8.x86_64.rpm",
-        "sum": "debafaf3e05d2b6309531620b020b75475ff8bd64856e92e8d80489545956c28",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "autotrace",
-        "version": "0.31.1",
-        "release": "55.el8",
-        "epoch": "0",
         "arch": "aarch64",
         "src": "autotrace-0.31.1-55.el8.src.rpm",
         "filename": "autotrace-0.31.1-55.el8.aarch64.rpm",
         "sum": "2b58af203751c8fa23b751c31bff9811d184697797e4b6da7adcf481c2aeb9e5",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "autotrace",
+        "version": "0.31.1",
+        "release": "55.el8",
+        "epoch": "0",
+        "arch": "i686",
+        "src": "autotrace-0.31.1-55.el8.src.rpm",
+        "filename": "autotrace-0.31.1-55.el8.i686.rpm",
+        "sum": "7f747f187b201e03cb3858f0e61028c00f109140eac1aa0f90e17ba8ba13db2f",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -70,6 +58,18 @@
         "sum": "c57ca6220e49b2ce3ec4b3975c9b493271d571a322e2910cfc7910e57dbb58ba",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "autotrace",
+        "version": "0.31.1",
+        "release": "55.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "autotrace-0.31.1-55.el8.src.rpm",
+        "filename": "autotrace-0.31.1-55.el8.x86_64.rpm",
+        "sum": "debafaf3e05d2b6309531620b020b75475ff8bd64856e92e8d80489545956c28",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {}
@@ -77,10 +77,10 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:3067",
-      "type": "rhsa",
-      "id": "RHSA-2023:3067",
-      "title": "RHSA-2023:3067"
+      "href": "https://bugzilla.redhat.com/2107471",
+      "type": "bugzilla",
+      "id": "2107471",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-32323",
@@ -89,10 +89,10 @@
       "title": "CVE-2022-32323"
     },
     {
-      "href": "https://bugzilla.redhat.com/2107471",
-      "type": "bugzilla",
-      "id": "2107471",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:3067",
+      "type": "rhsa",
+      "id": "RHSA-2023:3067",
+      "title": "RHSA-2023:3067"
     },
     {
       "href": "https://errata.almalinux.org/8/ALSA-2023-3067.html",
@@ -110,7 +110,7 @@
   "title": "Moderate: autotrace security update",
   "type": "security",
   "updated_date": {
-    "$date": 1684533628000
+    "$date": 1684533650000
   },
   "version": "1"
 }

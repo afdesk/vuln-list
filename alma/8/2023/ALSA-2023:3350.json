@@ -161,10 +161,10 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:3350",
-      "type": "rhsa",
-      "id": "RHSA-2023:3350",
-      "title": "RHSA-2023:3350"
+      "href": "https://bugzilla.redhat.com/2196105",
+      "type": "bugzilla",
+      "id": "2196105",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2023-32233",
@@ -173,10 +173,10 @@
       "title": "CVE-2023-32233"
     },
     {
-      "href": "https://bugzilla.redhat.com/2196105",
-      "type": "bugzilla",
-      "id": "2196105",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:3350",
+      "type": "rhsa",
+      "id": "RHSA-2023:3350",
+      "title": "RHSA-2023:3350"
     },
     {
       "href": "https://errata.almalinux.org/8/ALSA-2023-3350.html",

@@ -12,54 +12,6 @@
     "shortname": "almalinux-8-for-x86_64-highavailability-rpms__8_8_default",
     "packages": [
       {
-        "name": "pcs-snmp",
-        "version": "0.10.15",
-        "release": "4.el8_8.1.alma",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "pcs-0.10.15-4.el8_8.1.alma.src.rpm",
-        "filename": "pcs-snmp-0.10.15-4.el8_8.1.alma.x86_64.rpm",
-        "sum": "70335604fb56095d52f6f636b706dce9662302550ecf7a21eccee26858129325",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "pcs",
-        "version": "0.10.15",
-        "release": "4.el8_8.1.alma",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "pcs-0.10.15-4.el8_8.1.alma.src.rpm",
-        "filename": "pcs-0.10.15-4.el8_8.1.alma.x86_64.rpm",
-        "sum": "eb23d13831ac1359e51e566c96e6fd4406ae532dad7270802bdac0315f6d015d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "pcs-snmp",
-        "version": "0.10.15",
-        "release": "4.el8_8.1.alma",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "pcs-0.10.15-4.el8_8.1.alma.src.rpm",
-        "filename": "pcs-snmp-0.10.15-4.el8_8.1.alma.aarch64.rpm",
-        "sum": "66ef34d8a5590d5be4bdf1f9b65aedf5292b947279c2938db3ba1f9daa7f8ce0",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "pcs",
-        "version": "0.10.15",
-        "release": "4.el8_8.1.alma",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "pcs-0.10.15-4.el8_8.1.alma.src.rpm",
-        "filename": "pcs-0.10.15-4.el8_8.1.alma.aarch64.rpm",
-        "sum": "b815d36aec29271f1586cd832d65300c9b585c77d4d99aca3f969596bacfa841",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "pcs",
         "version": "0.10.15",
         "release": "4.el8_8.1.alma",
@@ -76,10 +28,10 @@
         "version": "0.10.15",
         "release": "4.el8_8.1.alma",
         "epoch": "0",
-        "arch": "ppc64le",
+        "arch": "aarch64",
         "src": "pcs-0.10.15-4.el8_8.1.alma.src.rpm",
-        "filename": "pcs-snmp-0.10.15-4.el8_8.1.alma.ppc64le.rpm",
-        "sum": "ab329415c6518432e363cadb0d8492e6cc5dac7a1e809aa30585427fe175c79f",
+        "filename": "pcs-snmp-0.10.15-4.el8_8.1.alma.aarch64.rpm",
+        "sum": "66ef34d8a5590d5be4bdf1f9b65aedf5292b947279c2938db3ba1f9daa7f8ce0",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -106,6 +58,54 @@
         "sum": "6d0a028d15caa51274b3d750f6533fd25c025f462df16db1b0933cc523e0b00e",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "pcs-snmp",
+        "version": "0.10.15",
+        "release": "4.el8_8.1.alma",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "pcs-0.10.15-4.el8_8.1.alma.src.rpm",
+        "filename": "pcs-snmp-0.10.15-4.el8_8.1.alma.x86_64.rpm",
+        "sum": "70335604fb56095d52f6f636b706dce9662302550ecf7a21eccee26858129325",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "pcs-snmp",
+        "version": "0.10.15",
+        "release": "4.el8_8.1.alma",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "pcs-0.10.15-4.el8_8.1.alma.src.rpm",
+        "filename": "pcs-snmp-0.10.15-4.el8_8.1.alma.ppc64le.rpm",
+        "sum": "ab329415c6518432e363cadb0d8492e6cc5dac7a1e809aa30585427fe175c79f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "pcs",
+        "version": "0.10.15",
+        "release": "4.el8_8.1.alma",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "pcs-0.10.15-4.el8_8.1.alma.src.rpm",
+        "filename": "pcs-0.10.15-4.el8_8.1.alma.aarch64.rpm",
+        "sum": "b815d36aec29271f1586cd832d65300c9b585c77d4d99aca3f969596bacfa841",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "pcs",
+        "version": "0.10.15",
+        "release": "4.el8_8.1.alma",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "pcs-0.10.15-4.el8_8.1.alma.src.rpm",
+        "filename": "pcs-0.10.15-4.el8_8.1.alma.x86_64.rpm",
+        "sum": "eb23d13831ac1359e51e566c96e6fd4406ae532dad7270802bdac0315f6d015d",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {}
@@ -113,10 +113,16 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:3082",
-      "type": "rhsa",
-      "id": "RHSA-2023:3082",
-      "title": "RHSA-2023:3082"
+      "href": "https://bugzilla.redhat.com/2176477",
+      "type": "bugzilla",
+      "id": "2176477",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2179649",
+      "type": "bugzilla",
+      "id": "2179649",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2023-27530",
@@ -131,16 +137,10 @@
       "title": "CVE-2023-27539"
     },
     {
-      "href": "https://bugzilla.redhat.com/2176477",
-      "type": "bugzilla",
-      "id": "2176477",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2179649",
-      "type": "bugzilla",
-      "id": "2179649",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:3082",
+      "type": "rhsa",
+      "id": "RHSA-2023:3082",
+      "title": "RHSA-2023:3082"
     },
     {
       "href": "https://errata.almalinux.org/8/ALSA-2023-3082.html",
@@ -158,7 +158,7 @@
   "title": "Moderate: pcs security and bug fix update",
   "type": "security",
   "updated_date": {
-    "$date": 1684533628000
+    "$date": 1684533629000
   },
   "version": "1"
 }

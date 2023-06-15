@@ -41,10 +41,10 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:2867",
-      "type": "rhsa",
-      "id": "RHSA-2023:2867",
-      "title": "RHSA-2023:2867"
+      "href": "https://bugzilla.redhat.com/2153399",
+      "type": "bugzilla",
+      "id": "2153399",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-41946",
@@ -53,10 +53,10 @@
       "title": "CVE-2022-41946"
     },
     {
-      "href": "https://bugzilla.redhat.com/2153399",
-      "type": "bugzilla",
-      "id": "2153399",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:2867",
+      "type": "rhsa",
+      "id": "RHSA-2023:2867",
+      "title": "RHSA-2023:2867"
     },
     {
       "href": "https://errata.almalinux.org/8/ALSA-2023-2867.html",
@@ -74,7 +74,7 @@
   "title": "Moderate: postgresql-jdbc security update",
   "type": "security",
   "updated_date": {
-    "$date": 1684534149000
+    "$date": 1684534150000
   },
   "version": "1"
 }

@@ -8,8 +8,8 @@
     "$date": 1674604800000
   },
   "pkglist": {
-    "name": "almalinux-8-for-aarch64-appstream-rpms__8_7_default",
-    "shortname": "almalinux-8-for-aarch64-appstream-rpms__8_7_default",
+    "name": "almalinux-8-for-x86_64-appstream-rpms__8_7_default",
+    "shortname": "almalinux-8-for-x86_64-appstream-rpms__8_7_default",
     "packages": [
       {
         "name": "thunderbird",
@@ -28,10 +28,10 @@
         "version": "102.7.1",
         "release": "1.el8_7.alma",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "s390x",
         "src": "thunderbird-102.7.1-1.el8_7.alma.src.rpm",
-        "filename": "thunderbird-102.7.1-1.el8_7.alma.x86_64.rpm",
-        "sum": "1974718db0ea0aec71902aeb7be2aab28705a3651e30ed27e75217ac021172c9",
+        "filename": "thunderbird-102.7.1-1.el8_7.alma.s390x.rpm",
+        "sum": "1301169d0b8493795320fecd481ee8e4b47a9533109fdfdf034130df8e375d45",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -40,10 +40,10 @@
         "version": "102.7.1",
         "release": "1.el8_7.alma",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "x86_64",
         "src": "thunderbird-102.7.1-1.el8_7.alma.src.rpm",
-        "filename": "thunderbird-102.7.1-1.el8_7.alma.s390x.rpm",
-        "sum": "1301169d0b8493795320fecd481ee8e4b47a9533109fdfdf034130df8e375d45",
+        "filename": "thunderbird-102.7.1-1.el8_7.alma.x86_64.rpm",
+        "sum": "1974718db0ea0aec71902aeb7be2aab28705a3651e30ed27e75217ac021172c9",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -65,10 +65,52 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:0463",
-      "type": "rhsa",
-      "id": "RHSA-2023:0463",
-      "title": "RHSA-2023:0463"
+      "href": "https://bugzilla.redhat.com/2162336",
+      "type": "bugzilla",
+      "id": "2162336",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2162338",
+      "type": "bugzilla",
+      "id": "2162338",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2162339",
+      "type": "bugzilla",
+      "id": "2162339",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2162340",
+      "type": "bugzilla",
+      "id": "2162340",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2162341",
+      "type": "bugzilla",
+      "id": "2162341",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2162342",
+      "type": "bugzilla",
+      "id": "2162342",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2162343",
+      "type": "bugzilla",
+      "id": "2162343",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2162344",
+      "type": "bugzilla",
+      "id": "2162344",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-46871",
@@ -119,52 +161,10 @@
       "title": "CVE-2023-23605"
     },
     {
-      "href": "https://bugzilla.redhat.com/2162336",
-      "type": "bugzilla",
-      "id": "2162336",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2162338",
-      "type": "bugzilla",
-      "id": "2162338",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2162339",
-      "type": "bugzilla",
-      "id": "2162339",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2162340",
-      "type": "bugzilla",
-      "id": "2162340",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2162341",
-      "type": "bugzilla",
-      "id": "2162341",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2162342",
-      "type": "bugzilla",
-      "id": "2162342",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2162343",
-      "type": "bugzilla",
-      "id": "2162343",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2162344",
-      "type": "bugzilla",
-      "id": "2162344",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:0463",
+      "type": "rhsa",
+      "id": "RHSA-2023:0463",
+      "title": "RHSA-2023:0463"
     },
     {
       "href": "https://errata.almalinux.org/8/ALSA-2023-0463.html",
@@ -182,7 +182,7 @@
   "title": "Important: thunderbird security update",
   "type": "security",
   "updated_date": {
-    "$date": 1674800173000
+    "$date": 1674800174000
   },
   "version": "1"
 }

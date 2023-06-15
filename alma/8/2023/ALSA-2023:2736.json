@@ -161,10 +161,238 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:2736",
-      "type": "rhsa",
-      "id": "RHSA-2023:2736",
-      "title": "RHSA-2023:2736"
+      "href": "https://bugzilla.redhat.com/2055499",
+      "type": "bugzilla",
+      "id": "2055499",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2061703",
+      "type": "bugzilla",
+      "id": "2061703",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2078466",
+      "type": "bugzilla",
+      "id": "2078466",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2084125",
+      "type": "bugzilla",
+      "id": "2084125",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2085300",
+      "type": "bugzilla",
+      "id": "2085300",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2090723",
+      "type": "bugzilla",
+      "id": "2090723",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2108691",
+      "type": "bugzilla",
+      "id": "2108691",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2108696",
+      "type": "bugzilla",
+      "id": "2108696",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2114937",
+      "type": "bugzilla",
+      "id": "2114937",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2122228",
+      "type": "bugzilla",
+      "id": "2122228",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2122960",
+      "type": "bugzilla",
+      "id": "2122960",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2123056",
+      "type": "bugzilla",
+      "id": "2123056",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2124788",
+      "type": "bugzilla",
+      "id": "2124788",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2127985",
+      "type": "bugzilla",
+      "id": "2127985",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2130141",
+      "type": "bugzilla",
+      "id": "2130141",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2133483",
+      "type": "bugzilla",
+      "id": "2133483",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2134377",
+      "type": "bugzilla",
+      "id": "2134377",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2134451",
+      "type": "bugzilla",
+      "id": "2134451",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2134506",
+      "type": "bugzilla",
+      "id": "2134506",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2134517",
+      "type": "bugzilla",
+      "id": "2134517",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2134528",
+      "type": "bugzilla",
+      "id": "2134528",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2137979",
+      "type": "bugzilla",
+      "id": "2137979",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2143893",
+      "type": "bugzilla",
+      "id": "2143893",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2143943",
+      "type": "bugzilla",
+      "id": "2143943",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2144720",
+      "type": "bugzilla",
+      "id": "2144720",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2150947",
+      "type": "bugzilla",
+      "id": "2150947",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2150960",
+      "type": "bugzilla",
+      "id": "2150960",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2150979",
+      "type": "bugzilla",
+      "id": "2150979",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2150999",
+      "type": "bugzilla",
+      "id": "2150999",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2151270",
+      "type": "bugzilla",
+      "id": "2151270",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2154171",
+      "type": "bugzilla",
+      "id": "2154171",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2154235",
+      "type": "bugzilla",
+      "id": "2154235",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2160023",
+      "type": "bugzilla",
+      "id": "2160023",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2162120",
+      "type": "bugzilla",
+      "id": "2162120",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2165721",
+      "type": "bugzilla",
+      "id": "2165721",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2168246",
+      "type": "bugzilla",
+      "id": "2168246",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2168297",
+      "type": "bugzilla",
+      "id": "2168297",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2176192",
+      "type": "bugzilla",
+      "id": "2176192",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2180936",
+      "type": "bugzilla",
+      "id": "2180936",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2021-26341",
@@ -401,238 +629,10 @@
       "title": "CVE-2023-23454"
     },
     {
-      "href": "https://bugzilla.redhat.com/2055499",
-      "type": "bugzilla",
-      "id": "2055499",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2061703",
-      "type": "bugzilla",
-      "id": "2061703",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2078466",
-      "type": "bugzilla",
-      "id": "2078466",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2084125",
-      "type": "bugzilla",
-      "id": "2084125",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2085300",
-      "type": "bugzilla",
-      "id": "2085300",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2090723",
-      "type": "bugzilla",
-      "id": "2090723",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2108691",
-      "type": "bugzilla",
-      "id": "2108691",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2108696",
-      "type": "bugzilla",
-      "id": "2108696",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2114937",
-      "type": "bugzilla",
-      "id": "2114937",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2122228",
-      "type": "bugzilla",
-      "id": "2122228",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2122960",
-      "type": "bugzilla",
-      "id": "2122960",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2123056",
-      "type": "bugzilla",
-      "id": "2123056",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2124788",
-      "type": "bugzilla",
-      "id": "2124788",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2127985",
-      "type": "bugzilla",
-      "id": "2127985",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2130141",
-      "type": "bugzilla",
-      "id": "2130141",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2133483",
-      "type": "bugzilla",
-      "id": "2133483",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2134377",
-      "type": "bugzilla",
-      "id": "2134377",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2134451",
-      "type": "bugzilla",
-      "id": "2134451",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2134506",
-      "type": "bugzilla",
-      "id": "2134506",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2134517",
-      "type": "bugzilla",
-      "id": "2134517",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2134528",
-      "type": "bugzilla",
-      "id": "2134528",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2137979",
-      "type": "bugzilla",
-      "id": "2137979",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2143893",
-      "type": "bugzilla",
-      "id": "2143893",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2143943",
-      "type": "bugzilla",
-      "id": "2143943",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2144720",
-      "type": "bugzilla",
-      "id": "2144720",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2150947",
-      "type": "bugzilla",
-      "id": "2150947",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2150960",
-      "type": "bugzilla",
-      "id": "2150960",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2150979",
-      "type": "bugzilla",
-      "id": "2150979",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2150999",
-      "type": "bugzilla",
-      "id": "2150999",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2151270",
-      "type": "bugzilla",
-      "id": "2151270",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2154171",
-      "type": "bugzilla",
-      "id": "2154171",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2154235",
-      "type": "bugzilla",
-      "id": "2154235",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2160023",
-      "type": "bugzilla",
-      "id": "2160023",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2162120",
-      "type": "bugzilla",
-      "id": "2162120",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2165721",
-      "type": "bugzilla",
-      "id": "2165721",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2168246",
-      "type": "bugzilla",
-      "id": "2168246",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2168297",
-      "type": "bugzilla",
-      "id": "2168297",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2176192",
-      "type": "bugzilla",
-      "id": "2176192",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2180936",
-      "type": "bugzilla",
-      "id": "2180936",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:2736",
+      "type": "rhsa",
+      "id": "RHSA-2023:2736",
+      "title": "RHSA-2023:2736"
     },
     {
       "href": "https://errata.almalinux.org/8/ALSA-2023-2736.html",

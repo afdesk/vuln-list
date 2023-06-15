@@ -8,33 +8,9 @@
     "$date": 1684195200000
   },
   "pkglist": {
-    "name": "almalinux-8-for-aarch64-appstream-rpms__8_8_default",
-    "shortname": "almalinux-8-for-aarch64-appstream-rpms__8_8_default",
+    "name": "almalinux-8-for-x86_64-appstream-rpms__8_8_default",
+    "shortname": "almalinux-8-for-x86_64-appstream-rpms__8_8_default",
     "packages": [
-      {
-        "name": "xorg-x11-server-Xwayland",
-        "version": "21.1.3",
-        "release": "10.el8",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "xorg-x11-server-Xwayland-21.1.3-10.el8.src.rpm",
-        "filename": "xorg-x11-server-Xwayland-21.1.3-10.el8.aarch64.rpm",
-        "sum": "bf6b2371af982e29c1ffafb090d85924fbaae8ed4e2dbf7af69aa3678c55844d",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "xorg-x11-server-Xwayland",
-        "version": "21.1.3",
-        "release": "10.el8",
-        "epoch": "0",
-        "arch": "x86_64",
-        "src": "xorg-x11-server-Xwayland-21.1.3-10.el8.src.rpm",
-        "filename": "xorg-x11-server-Xwayland-21.1.3-10.el8.x86_64.rpm",
-        "sum": "80a87bb781d69413375e32b4ae6167fb37d37db9b667c313c612b50765e8fd3a",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
       {
         "name": "xorg-x11-server-Xwayland",
         "version": "21.1.3",
@@ -58,6 +34,30 @@
         "sum": "1cf232ba3d28ea43c8fe473d9b154529449220aed755d803d52e1ea381a701e8",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "xorg-x11-server-Xwayland",
+        "version": "21.1.3",
+        "release": "10.el8",
+        "epoch": "0",
+        "arch": "x86_64",
+        "src": "xorg-x11-server-Xwayland-21.1.3-10.el8.src.rpm",
+        "filename": "xorg-x11-server-Xwayland-21.1.3-10.el8.x86_64.rpm",
+        "sum": "80a87bb781d69413375e32b4ae6167fb37d37db9b667c313c612b50765e8fd3a",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
+      {
+        "name": "xorg-x11-server-Xwayland",
+        "version": "21.1.3",
+        "release": "10.el8",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "xorg-x11-server-Xwayland-21.1.3-10.el8.src.rpm",
+        "filename": "xorg-x11-server-Xwayland-21.1.3-10.el8.aarch64.rpm",
+        "sum": "bf6b2371af982e29c1ffafb090d85924fbaae8ed4e2dbf7af69aa3678c55844d",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {}
@@ -65,10 +65,58 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:2805",
-      "type": "rhsa",
-      "id": "RHSA-2023:2805",
-      "title": "RHSA-2023:2805"
+      "href": "https://bugzilla.redhat.com/2140698",
+      "type": "bugzilla",
+      "id": "2140698",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2140701",
+      "type": "bugzilla",
+      "id": "2140701",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2151755",
+      "type": "bugzilla",
+      "id": "2151755",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2151756",
+      "type": "bugzilla",
+      "id": "2151756",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2151757",
+      "type": "bugzilla",
+      "id": "2151757",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2151758",
+      "type": "bugzilla",
+      "id": "2151758",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2151760",
+      "type": "bugzilla",
+      "id": "2151760",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2151761",
+      "type": "bugzilla",
+      "id": "2151761",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2165995",
+      "type": "bugzilla",
+      "id": "2165995",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-3550",
@@ -125,58 +173,10 @@
       "title": "CVE-2023-0494"
     },
     {
-      "href": "https://bugzilla.redhat.com/2140698",
-      "type": "bugzilla",
-      "id": "2140698",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2140701",
-      "type": "bugzilla",
-      "id": "2140701",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2151755",
-      "type": "bugzilla",
-      "id": "2151755",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2151756",
-      "type": "bugzilla",
-      "id": "2151756",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2151757",
-      "type": "bugzilla",
-      "id": "2151757",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2151758",
-      "type": "bugzilla",
-      "id": "2151758",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2151760",
-      "type": "bugzilla",
-      "id": "2151760",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2151761",
-      "type": "bugzilla",
-      "id": "2151761",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2165995",
-      "type": "bugzilla",
-      "id": "2165995",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:2805",
+      "type": "rhsa",
+      "id": "RHSA-2023:2805",
+      "title": "RHSA-2023:2805"
     },
     {
       "href": "https://errata.almalinux.org/8/ALSA-2023-2805.html",

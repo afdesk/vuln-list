@@ -12,18 +12,6 @@
     "shortname": "almalinux-8-for-x86_64-devel-rpms__8_8_default",
     "packages": [
       {
-        "name": "edk2-aarch64",
-        "version": "20220126gitbb1bba3d77",
-        "release": "4.el8",
-        "epoch": "0",
-        "arch": "noarch",
-        "src": "edk2-20220126gitbb1bba3d77-4.el8.src.rpm",
-        "filename": "edk2-aarch64-20220126gitbb1bba3d77-4.el8.noarch.rpm",
-        "sum": "742ed9bc65003fe39e049d73c5712c71468e63fe0cfef03e431adb61c21c4c77",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "edk2-ovmf",
         "version": "20220126gitbb1bba3d77",
         "release": "4.el8",
@@ -34,6 +22,18 @@
         "sum": "683b24853c8a0ce16403dbe844ee8c53651ad8ef3c57df9bd62c68f723da127c",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "edk2-aarch64",
+        "version": "20220126gitbb1bba3d77",
+        "release": "4.el8",
+        "epoch": "0",
+        "arch": "noarch",
+        "src": "edk2-20220126gitbb1bba3d77-4.el8.src.rpm",
+        "filename": "edk2-aarch64-20220126gitbb1bba3d77-4.el8.noarch.rpm",
+        "sum": "742ed9bc65003fe39e049d73c5712c71468e63fe0cfef03e431adb61c21c4c77",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {}
@@ -41,10 +41,28 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2023:2932",
-      "type": "rhsa",
-      "id": "RHSA-2023:2932",
-      "title": "RHSA-2023:2932"
+      "href": "https://bugzilla.redhat.com/2164440",
+      "type": "bugzilla",
+      "id": "2164440",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2164487",
+      "type": "bugzilla",
+      "id": "2164487",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2164492",
+      "type": "bugzilla",
+      "id": "2164492",
+      "title": ""
+    },
+    {
+      "href": "https://bugzilla.redhat.com/2164494",
+      "type": "bugzilla",
+      "id": "2164494",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-4304",
@@ -71,28 +89,10 @@
       "title": "CVE-2023-0286"
     },
     {
-      "href": "https://bugzilla.redhat.com/2164440",
-      "type": "bugzilla",
-      "id": "2164440",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2164487",
-      "type": "bugzilla",
-      "id": "2164487",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2164492",
-      "type": "bugzilla",
-      "id": "2164492",
-      "title": ""
-    },
-    {
-      "href": "https://bugzilla.redhat.com/2164494",
-      "type": "bugzilla",
-      "id": "2164494",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2023:2932",
+      "type": "rhsa",
+      "id": "RHSA-2023:2932",
+      "title": "RHSA-2023:2932"
     },
     {
       "href": "https://errata.almalinux.org/8/ALSA-2023-2932.html",

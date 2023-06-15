@@ -8,9 +8,21 @@
     "$date": 1667865600000
   },
   "pkglist": {
-    "name": "almalinux-8-for-aarch64-appstream-rpms__8_6_default",
-    "shortname": "almalinux-8-for-aarch64-appstream-rpms__8_6_default",
+    "name": "almalinux-8-for-x86_64-appstream-rpms__8_6_default",
+    "shortname": "almalinux-8-for-x86_64-appstream-rpms__8_6_default",
     "packages": [
+      {
+        "name": "dnsmasq",
+        "version": "2.79",
+        "release": "24.el8",
+        "epoch": "0",
+        "arch": "ppc64le",
+        "src": "dnsmasq-2.79-24.el8.src.rpm",
+        "filename": "dnsmasq-2.79-24.el8.ppc64le.rpm",
+        "sum": "29ceb4628d3919c6c17e8110557bb6a809cb1aabf890fb3451da2138267b907f",
+        "sum_type": 5,
+        "reboot_suggested": 0
+      },
       {
         "name": "dnsmasq-utils",
         "version": "2.79",
@@ -20,18 +32,6 @@
         "src": "dnsmasq-2.79-24.el8.src.rpm",
         "filename": "dnsmasq-utils-2.79-24.el8.aarch64.rpm",
         "sum": "4cfa81ce15f31fdde618c59d8ccf314b6a4503c4c8d9687f2b9cb4b8b9e1dc45",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
-        "name": "dnsmasq",
-        "version": "2.79",
-        "release": "24.el8",
-        "epoch": "0",
-        "arch": "aarch64",
-        "src": "dnsmasq-2.79-24.el8.src.rpm",
-        "filename": "dnsmasq-2.79-24.el8.aarch64.rpm",
-        "sum": "fe5578b839e108d12447725e9e060db70e74389e1bc47b90105552d10f3d8033",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -52,10 +52,10 @@
         "version": "2.79",
         "release": "24.el8",
         "epoch": "0",
-        "arch": "x86_64",
+        "arch": "s390x",
         "src": "dnsmasq-2.79-24.el8.src.rpm",
-        "filename": "dnsmasq-utils-2.79-24.el8.x86_64.rpm",
-        "sum": "6384ed12c6879918a92bb14b6d13fd86ec9348d0810f05660cea3568fdd25c10",
+        "filename": "dnsmasq-utils-2.79-24.el8.s390x.rpm",
+        "sum": "58407a692d5db06f92f9e9667855783c6a9ee66c2f63b6f5e7409aeb97d83c2f",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -64,10 +64,10 @@
         "version": "2.79",
         "release": "24.el8",
         "epoch": "0",
-        "arch": "s390x",
+        "arch": "x86_64",
         "src": "dnsmasq-2.79-24.el8.src.rpm",
-        "filename": "dnsmasq-utils-2.79-24.el8.s390x.rpm",
-        "sum": "58407a692d5db06f92f9e9667855783c6a9ee66c2f63b6f5e7409aeb97d83c2f",
+        "filename": "dnsmasq-utils-2.79-24.el8.x86_64.rpm",
+        "sum": "6384ed12c6879918a92bb14b6d13fd86ec9348d0810f05660cea3568fdd25c10",
         "sum_type": 5,
         "reboot_suggested": 0
       },
@@ -84,18 +84,6 @@
         "reboot_suggested": 0
       },
       {
-        "name": "dnsmasq",
-        "version": "2.79",
-        "release": "24.el8",
-        "epoch": "0",
-        "arch": "ppc64le",
-        "src": "dnsmasq-2.79-24.el8.src.rpm",
-        "filename": "dnsmasq-2.79-24.el8.ppc64le.rpm",
-        "sum": "29ceb4628d3919c6c17e8110557bb6a809cb1aabf890fb3451da2138267b907f",
-        "sum_type": 5,
-        "reboot_suggested": 0
-      },
-      {
         "name": "dnsmasq-utils",
         "version": "2.79",
         "release": "24.el8",
@@ -106,6 +94,18 @@
         "sum": "7fd77afa059978aeb0d634407e4c17c147b8f57fdbfaa8130fd4340ce29514ca",
         "sum_type": 5,
         "reboot_suggested": 0
+      },
+      {
+        "name": "dnsmasq",
+        "version": "2.79",
+        "release": "24.el8",
+        "epoch": "0",
+        "arch": "aarch64",
+        "src": "dnsmasq-2.79-24.el8.src.rpm",
+        "filename": "dnsmasq-2.79-24.el8.aarch64.rpm",
+        "sum": "fe5578b839e108d12447725e9e060db70e74389e1bc47b90105552d10f3d8033",
+        "sum_type": 5,
+        "reboot_suggested": 0
       }
     ],
     "module": {}
@@ -113,10 +113,10 @@
   "pushcount": "1",
   "references": [
     {
-      "href": "https://access.redhat.com/errata/RHSA-2022:7633",
-      "type": "rhsa",
-      "id": "RHSA-2022:7633",
-      "title": "RHSA-2022:7633"
+      "href": "https://bugzilla.redhat.com/2057075",
+      "type": "bugzilla",
+      "id": "2057075",
+      "title": ""
     },
     {
       "href": "https://access.redhat.com/security/cve/CVE-2022-0934",
@@ -125,10 +125,10 @@
       "title": "CVE-2022-0934"
     },
     {
-      "href": "https://bugzilla.redhat.com/2057075",
-      "type": "bugzilla",
-      "id": "2057075",
-      "title": ""
+      "href": "https://access.redhat.com/errata/RHSA-2022:7633",
+      "type": "rhsa",
+      "id": "RHSA-2022:7633",
+      "title": "RHSA-2022:7633"
     },
     {
       "href": "https://errata.almalinux.org/8/ALSA-2022-7633.html",
