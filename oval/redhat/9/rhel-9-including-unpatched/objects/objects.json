@@ -4938,22 +4938,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20214231001",
       "Version": "636",
-      "Name": "thunderbird-debugsource"
+      "Name": "firefox"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20214231003",
       "Version": "636",
+      "Name": "firefox-x11"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20214231004",
+      "Version": "636",
       "Name": "thunderbird"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20214231005",
-      "Version": "636",
-      "Name": "firefox-debugsource"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20214231006",
-      "Version": "636",
-      "Name": "firefox"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202143138002",
@@ -5114,6 +5109,11 @@
       "ID": "oval:com.redhat.cve:obj:202146823001",
       "Version": "636",
       "Name": "python3-ldap"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20220235006",
+      "Version": "636",
+      "Name": "thunderbird-debugsource"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20220391003",
@@ -5304,11 +5304,6 @@
       "ID": "oval:com.redhat.cve:obj:202224805007",
       "Version": "636",
       "Name": "net-snmp-perl"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202225313001",
-      "Version": "636",
-      "Name": "firefox-x11"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202225881001",
@@ -5524,6 +5519,11 @@
       "ID": "oval:com.redhat.cve:obj:202227943026",
       "Version": "636",
       "Name": "libasan"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202229167005",
+      "Version": "636",
+      "Name": "firefox-debugsource"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217001",
@@ -7038,37 +7038,37 @@
     {
       "ID": "oval:com.redhat.cve:obj:20232454001",
       "Version": "636",
-      "Name": "postgresql-docs"
+      "Name": "postgresql-server-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454002",
       "Version": "636",
-      "Name": "postgresql-plperl"
+      "Name": "postgresql-private-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454003",
       "Version": "636",
-      "Name": "postgresql-contrib"
+      "Name": "postgresql-pltcl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454004",
       "Version": "636",
-      "Name": "postgresql-server"
+      "Name": "postgresql-plpython3"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454005",
       "Version": "636",
-      "Name": "postgresql-static"
+      "Name": "postgresql-private-libs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454006",
       "Version": "636",
-      "Name": "postgresql"
+      "Name": "postgresql-plperl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454007",
       "Version": "636",
-      "Name": "postgresql-private-devel"
+      "Name": "postgresql-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454008",
@@ -7078,32 +7078,32 @@
     {
       "ID": "oval:com.redhat.cve:obj:20232454009",
       "Version": "636",
-      "Name": "postgresql-pltcl"
+      "Name": "postgresql-upgrade-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454010",
       "Version": "636",
-      "Name": "postgresql-upgrade-devel"
+      "Name": "postgresql"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454011",
       "Version": "636",
-      "Name": "postgresql-test"
+      "Name": "postgresql-contrib"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454012",
       "Version": "636",
-      "Name": "postgresql-private-libs"
+      "Name": "postgresql-static"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454013",
       "Version": "636",
-      "Name": "postgresql-server-devel"
+      "Name": "postgresql-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232454014",
       "Version": "636",
-      "Name": "postgresql-plpython3"
+      "Name": "postgresql-server"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202325193001",
@@ -13521,14 +13521,14 @@
       "Name": "toolbox-debugsource"
     },
     {
-      "ID": "oval:com.redhat.unaffected:obj:202231129003",
-      "Version": "635",
-      "Name": "subscription-manager-cockpit"
-    },
-    {
-      "ID": "oval:com.redhat.unaffected:obj:202231129011",
+      "ID": "oval:com.redhat.unaffected:obj:202231129005",
       "Version": "635",
       "Name": "rhsm-icons"
+    },
+    {
+      "ID": "oval:com.redhat.unaffected:obj:202231129007",
+      "Version": "635",
+      "Name": "subscription-manager-cockpit"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:202234903001",
@@ -13786,7 +13786,7 @@
       }
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20214231007",
+      "ID": "oval:com.redhat.cve:obj:20214231006",
       "Version": "636",
       "Filepath": {
         "Text": "/etc/dnf/modules.d/firefox.module",
@@ -13802,7 +13802,7 @@
       }
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20214231008",
+      "ID": "oval:com.redhat.cve:obj:20214231007",
       "Version": "636",
       "Filepath": {
         "Text": "/etc/dnf/modules.d/thunderbird.module",

@@ -8168,12 +8168,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20214231001",
       "Version": "636",
-      "Name": "dotnet-apphost-pack-3.1"
+      "Name": "dotnet-sdk-3.1"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20214231002",
       "Version": "636",
-      "Name": "dotnet3.1-debugsource"
+      "Name": "aspnetcore-runtime-3.1"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20214231003",
@@ -8183,12 +8183,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20214231004",
       "Version": "636",
-      "Name": "dotnet3.1"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20214231005",
-      "Version": "636",
-      "Name": "dotnet-hostfxr-3.1"
+      "Name": "dotnet-apphost-pack-3.1"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20214231006",
@@ -8196,34 +8191,29 @@
       "Name": "dotnet-templates-3.1"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20214231009",
+      "ID": "oval:com.redhat.cve:obj:20214231007",
       "Version": "636",
-      "Name": "mozjs60-debugsource"
+      "Name": "dotnet3.1"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20214231008",
+      "Version": "636",
+      "Name": "dotnet-hostfxr-3.1"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20214231010",
       "Version": "636",
-      "Name": "dotnet-sdk-3.1"
+      "Name": "dotnet-sdk-3.1-source-built-artifacts"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20214231012",
-      "Version": "636",
-      "Name": "aspnetcore-runtime-3.1"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20214231013",
-      "Version": "636",
-      "Name": "aspnetcore-targeting-pack-3.1"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20214231016",
+      "ID": "oval:com.redhat.cve:obj:20214231011",
       "Version": "636",
       "Name": "dotnet-runtime-3.1"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20214231017",
+      "ID": "oval:com.redhat.cve:obj:20214231012",
       "Version": "636",
-      "Name": "dotnet-sdk-3.1-source-built-artifacts"
+      "Name": "aspnetcore-targeting-pack-3.1"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202142574001",
@@ -8549,6 +8539,11 @@
       "ID": "oval:com.redhat.cve:obj:20220235015",
       "Version": "636",
       "Name": "python3-subscription-manager-rhsm"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20220235016",
+      "Version": "636",
+      "Name": "dotnet3.1-debugsource"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20220235017",
@@ -9049,6 +9044,11 @@
       "ID": "oval:com.redhat.cve:obj:202227943058",
       "Version": "636",
       "Name": "gcc-toolset-10-libtsan-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:202229167001",
+      "Version": "636",
+      "Name": "mozjs60-debugsource"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202229217001",
@@ -21146,7 +21146,7 @@
       }
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20214231022",
+      "ID": "oval:com.redhat.cve:obj:20214231018",
       "Version": "636",
       "Filepath": {
         "Text": "/etc/dnf/modules.d/thunderbird.module",

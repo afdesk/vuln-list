@@ -226,7 +226,7 @@
       "Name": "python-werkzeug"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202324534011",
+      "ID": "oval:com.redhat.cve:obj:202324534004",
       "Version": "636",
       "Name": "conmon"
     },
