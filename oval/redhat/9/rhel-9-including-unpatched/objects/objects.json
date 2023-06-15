@@ -6938,7 +6938,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202320867001",
       "Version": "636",
-      "Name": "open-vm-tools-desktop"
+      "Name": "open-vm-tools-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202320867002",
@@ -6948,12 +6948,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202320867003",
       "Version": "636",
-      "Name": "open-vm-tools-test"
+      "Name": "open-vm-tools-sdmp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202320867004",
       "Version": "636",
-      "Name": "open-vm-tools-sdmp"
+      "Name": "open-vm-tools-desktop"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202321911001",

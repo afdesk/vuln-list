@@ -46,6 +46,11 @@
       "Name": "apache-ivy"
     },
     {
+      "ID": "oval:com.redhat.cve:obj:202240150001",
+      "Version": "636",
+      "Name": "jettison"
+    },
+    {
       "ID": "oval:com.redhat.cve:obj:202241854001",
       "Version": "636",
       "Name": "dev-java-snakeyaml"
@@ -59,11 +64,6 @@
       "ID": "oval:com.redhat.cve:obj:20224244001",
       "Version": "636",
       "Name": "codehaus-plexus"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202245685001",
-      "Version": "636",
-      "Name": "jettison"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230482001",
