@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Jul 2005] DSA-738-1 razor - email header parsing error",
-    "Line": 16258,
+    "Line": 16262,
     "ID": "DSA-738-1",
     "Description": "razor - email header parsing error"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2024}",
-      "Line": 16259,
+      "Line": 16263,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2024"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - razor \u003cnot-affected\u003e (not affected according to DSA)",
-      "Line": 16260,
+      "Line": 16264,
       "Type": "package",
       "Release": "woody",
       "Package": "razor",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[sarge] - razor 2.670-1sarge2 (low)",
-      "Line": 16261,
+      "Line": 16265,
       "Type": "package",
       "Release": "sarge",
       "Package": "razor",
@@ -35,7 +35,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA (not built on arm)",
-      "Line": 16262,
+      "Line": 16266,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA (not built on arm)"
     }

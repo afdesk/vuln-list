@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Sep 2007] DSA-1288-2 pptpd - regression",
-    "Line": 13843,
+    "Line": 13847,
     "ID": "DSA-1288-2",
     "Description": "pptpd - regression"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-0244}",
-      "Line": 13844,
+      "Line": 13848,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-0244"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - pptpd 1.3.0-2etch2",
-      "Line": 13845,
+      "Line": 13849,
       "Type": "package",
       "Release": "etch",
       "Package": "pptpd",

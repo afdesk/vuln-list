@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Sep 2014] DSA-3036-1 mediawiki - security update",
-    "Line": 8048,
+    "Line": 8052,
     "ID": "DSA-3036-1",
     "Description": "mediawiki - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-7199}",
-      "Line": 8049,
+      "Line": 8053,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-7199"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - mediawiki 1:1.19.19+dfsg-0+deb7u1",
-      "Line": 8050,
+      "Line": 8054,
       "Type": "package",
       "Release": "wheezy",
       "Package": "mediawiki",

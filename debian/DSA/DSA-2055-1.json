@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Jun 2010] DSA-2055-1 openoffice.org - arbitrary code execution",
-    "Line": 11338,
+    "Line": 11342,
     "ID": "DSA-2055-1",
     "Description": "openoffice.org - arbitrary code execution"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-0395}",
-      "Line": 11339,
+      "Line": 11343,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-0395"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - openoffice.org 1:2.4.1+dfsg-1+lenny7",
-      "Line": 11340,
+      "Line": 11344,
       "Type": "package",
       "Release": "lenny",
       "Package": "openoffice.org",

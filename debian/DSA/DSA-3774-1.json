@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Jan 2017] DSA-3774-1 lcms2 - security update",
-    "Line": 5555,
+    "Line": 5559,
     "ID": "DSA-3774-1",
     "Description": "lcms2 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-10165}",
-      "Line": 5556,
+      "Line": 5560,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-10165"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - lcms2 2.6-3+deb8u1",
-      "Line": 5557,
+      "Line": 5561,
       "Type": "package",
       "Release": "jessie",
       "Package": "lcms2",

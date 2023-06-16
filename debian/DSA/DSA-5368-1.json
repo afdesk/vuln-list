@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Mar 2023] DSA-5368-1 libreswan - security update",
-    "Line": 192,
+    "Line": 196,
     "ID": "DSA-5368-1",
     "Description": "libreswan - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2023-23009}",
-      "Line": 193,
+      "Line": 197,
       "Type": "xref",
       "Bugs": [
         "CVE-2023-23009"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[bullseye] - libreswan 4.3-1+deb11u3",
-      "Line": 194,
+      "Line": 198,
       "Type": "package",
       "Release": "bullseye",
       "Package": "libreswan",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[17 Apr 2008] DSA-1550-1 suphp",
-    "Line": 13124,
+    "Line": 13128,
     "ID": "DSA-1550-1",
     "Description": "suphp"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-1614}",
-      "Line": 13125,
+      "Line": 13129,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-1614"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - suphp 0.6.2-1+etch0",
-      "Line": 13126,
+      "Line": 13130,
       "Type": "package",
       "Release": "etch",
       "Package": "suphp",

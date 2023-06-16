@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Sep 2018] DSA-4291-1 mgetty - security update",
-    "Line": 3760,
+    "Line": 3764,
     "ID": "DSA-4291-1",
     "Description": "mgetty - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-16741}",
-      "Line": 3761,
+      "Line": 3765,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-16741"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - mgetty 1.1.36-3+deb9u1",
-      "Line": 3762,
+      "Line": 3766,
       "Type": "package",
       "Release": "stretch",
       "Package": "mgetty",

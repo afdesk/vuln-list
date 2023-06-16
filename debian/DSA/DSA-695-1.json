@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Mar 2005] DSA-695-1 xli - buffer overflow, input sanitising, integer overflow",
-    "Line": 16446,
+    "Line": 16450,
     "ID": "DSA-695-1",
     "Description": "xli - buffer overflow, input sanitising, integer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2001-0775 CVE-2005-0638 CVE-2005-0639}",
-      "Line": 16447,
+      "Line": 16451,
       "Type": "xref",
       "Bugs": [
         "CVE-2001-0775",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[woody] - xli 1.17.0-11woody1",
-      "Line": 16448,
+      "Line": 16452,
       "Type": "package",
       "Release": "woody",
       "Package": "xli",
@@ -27,7 +27,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA",
-      "Line": 16449,
+      "Line": 16453,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA"
     }

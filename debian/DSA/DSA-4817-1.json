@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 Dec 2020] DSA-4817-1 php-pear - security update",
-    "Line": 2001,
+    "Line": 2005,
     "ID": "DSA-4817-1",
     "Description": "php-pear - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-28948 CVE-2020-28949}",
-      "Line": 2002,
+      "Line": 2006,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-28948",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[buster] - php-pear 1:1.10.6+submodules+notgz-1.1+deb10u1",
-      "Line": 2003,
+      "Line": 2007,
       "Type": "package",
       "Release": "buster",
       "Package": "php-pear",
