@@ -198,7 +198,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:20231428001",
       "Version": "636",
-      "Name": "python3-grpcio"
+      "Name": "grpc"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231428002",
@@ -208,17 +208,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:20231428003",
       "Version": "636",
-      "Name": "grpc-devel"
+      "Name": "grpc-plugins"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231428004",
       "Version": "636",
-      "Name": "grpc-plugins"
+      "Name": "grpc-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231428005",
       "Version": "636",
-      "Name": "grpc"
+      "Name": "python3-grpcio"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202323934001",
