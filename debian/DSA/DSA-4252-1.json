@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Jul 2018] DSA-4252-1 znc - security update",
-    "Line": 3882,
+    "Line": 3885,
     "ID": "DSA-4252-1",
     "Description": "znc - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-14055 CVE-2018-14056}",
-      "Line": 3883,
+      "Line": 3886,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-14055",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[stretch] - znc 1.6.5-1+deb9u1",
-      "Line": 3884,
+      "Line": 3887,
       "Type": "package",
       "Release": "stretch",
       "Package": "znc",

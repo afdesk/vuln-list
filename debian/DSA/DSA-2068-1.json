@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Jul 2010] DSA-2068-1 python-cjson - denial of service",
-    "Line": 11303,
+    "Line": 11306,
     "ID": "DSA-2068-1",
     "Description": "python-cjson - denial of service"
   },
   "Annotations": [
     {
       "Original": "{CVE-2010-1666}",
-      "Line": 11304,
+      "Line": 11307,
       "Type": "xref",
       "Bugs": [
         "CVE-2010-1666"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - python-cjson 1.0.5-1+lenny1",
-      "Line": 11305,
+      "Line": 11308,
       "Type": "package",
       "Release": "lenny",
       "Package": "python-cjson",

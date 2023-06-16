@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Jan 2021] DSA-4830-2 flatpak - regression update",
-    "Line": 1940,
+    "Line": 1943,
     "ID": "DSA-4830-2",
     "Description": "flatpak - regression update"
   },
   "Annotations": [
     {
       "Original": "[buster] - flatpak 1.2.5-0+deb10u3",
-      "Line": 1941,
+      "Line": 1944,
       "Type": "package",
       "Release": "buster",
       "Package": "flatpak",

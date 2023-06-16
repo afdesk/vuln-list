@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Apr 2008] DSA-1561-1 ltsp - information disclosure",
-    "Line": 13092,
+    "Line": 13095,
     "ID": "DSA-1561-1",
     "Description": "ltsp - information disclosure"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-1293}",
-      "Line": 13093,
+      "Line": 13096,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-1293"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - ltsp 0.99debian11+etch1",
-      "Line": 13094,
+      "Line": 13097,
       "Type": "package",
       "Release": "etch",
       "Package": "ltsp",

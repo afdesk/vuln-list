@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 Jan 2005] DSA-645-1 cupsys - buffer overflow",
-    "Line": 16658,
+    "Line": 16661,
     "ID": "DSA-645-1",
     "Description": "cupsys - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-0064}",
-      "Line": 16659,
+      "Line": 16662,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-0064"
@@ -16,19 +16,19 @@
     },
     {
       "Original": "NOTE: cupsys not affected in sarge, though other programs are vulnerable",
-      "Line": 16660,
+      "Line": 16663,
       "Type": "NOTE",
       "Description": "cupsys not affected in sarge, though other programs are vulnerable"
     },
     {
       "Original": "NOTE: see CVE/list",
-      "Line": 16661,
+      "Line": 16664,
       "Type": "NOTE",
       "Description": "see CVE/list"
     },
     {
       "Original": "[woody] - cupsys 1.1.14-5woody12",
-      "Line": 16662,
+      "Line": 16665,
       "Type": "package",
       "Release": "woody",
       "Package": "cupsys",
@@ -37,7 +37,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA",
-      "Line": 16663,
+      "Line": 16666,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA"
     }
