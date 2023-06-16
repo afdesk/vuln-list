@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "CRITICAL",
   "UpdatedAt": "2023-06-09T22:52:49Z",
   "Package": {
     "Ecosystem": "MAVEN",
@@ -33,13 +33,13 @@
     "Description": "xxl-rpc v1.7.0 was discovered to contain a deserialization vulnerability via the component `com.xxl.rpc.core.remoting.net.impl.netty.codec.NettyDecode#decode`.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-07T21:30:18Z",
-    "Severity": "MODERATE",
+    "Severity": "CRITICAL",
     "Summary": "xxl-rpc deserialization vulnerability",
-    "UpdatedAt": "2023-06-09T22:52:49Z",
+    "UpdatedAt": "2023-06-16T17:47:40Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 9.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [

@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2023-05-11T20:39:56Z",
+  "UpdatedAt": "2023-06-16T17:42:10Z",
   "Package": {
     "Ecosystem": "GO",
     "Name": "github.com/ipfs/go-bitswap"
@@ -23,6 +23,12 @@
         "Url": "https://nvd.nist.gov/vuln/detail/CVE-2023-25568"
       },
       {
+        "Url": "https://github.com/ipfs/boxo/commit/62cbac40b96f49e39cd7fedc77ee6b56adce4916"
+      },
+      {
+        "Url": "https://github.com/ipfs/boxo/commit/9cb5cb54d40b57084d1221ba83b9e6bb3fcc3197"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-q3j6-22wf-3jh9"
       }
     ],
@@ -37,7 +43,7 @@
     "PublishedAt": "2023-05-11T20:39:55Z",
     "Severity": "HIGH",
     "Summary": "github.com/ipfs/go-bitswap vulnerable to DOS unbounded persistent memory leak",
-    "UpdatedAt": "2023-05-11T20:39:56Z",
+    "UpdatedAt": "2023-06-16T17:42:10Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.5,

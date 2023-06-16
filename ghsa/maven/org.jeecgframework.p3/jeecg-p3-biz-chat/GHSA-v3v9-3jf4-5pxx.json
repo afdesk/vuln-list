@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-06-09T22:54:04Z",
   "Package": {
     "Ecosystem": "MAVEN",
@@ -33,13 +33,13 @@
     "Description": "Jeecg P3 Biz Chat 1.0.5 allows remote attackers to read arbitrary files through specific parameters.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-07T21:30:18Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "Jeecg P3 Biz Chat allows remote attackers to read arbitrary files",
-    "UpdatedAt": "2023-06-09T22:54:04Z",
+    "UpdatedAt": "2023-06-16T17:55:56Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 7.5,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
     }
   },
   "Versions": [

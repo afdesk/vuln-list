@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2023-05-11T20:32:19Z",
+  "UpdatedAt": "2023-06-16T17:42:48Z",
   "Package": {
     "Ecosystem": "GO",
     "Name": "github.com/ipfs/go-libipfs"
@@ -47,7 +47,7 @@
     "PublishedAt": "2023-05-11T20:32:18Z",
     "Severity": "HIGH",
     "Summary": "Boxo bitswap/server: DOS unbounded persistent memory leak",
-    "UpdatedAt": "2023-05-11T20:32:19Z",
+    "UpdatedAt": "2023-06-16T17:42:48Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.2,
@@ -57,15 +57,15 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": "0.6.0"
+        "Identifier": "0.4.1"
       },
-      "VulnerableVersionRange": "= 0.5.0"
+      "VulnerableVersionRange": "\u003c 0.4.1"
     },
     {
       "FirstPatchedVersion": {
-        "Identifier": "0.4.1"
+        "Identifier": "0.6.0"
       },
-      "VulnerableVersionRange": "= 0.4.0"
+      "VulnerableVersionRange": "\u003e= 0.5.0, \u003c 0.6.0"
     }
   ]
 }

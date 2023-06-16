@@ -30,6 +30,9 @@
       },
       {
         "Url": "https://github.com/advisories/GHSA-7w2c-w47h-789w"
+      },
+      {
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/doorkeeper/CVE-2023-34246.yml"
       }
     ],
     "Identifiers": [
@@ -47,7 +50,7 @@
     "PublishedAt": "2023-06-12T19:50:34Z",
     "Severity": "MODERATE",
     "Summary": "Doorkeeper Improper Authentication vulnerability",
-    "UpdatedAt": "2023-06-12T19:50:35Z",
+    "UpdatedAt": "2023-06-16T17:55:18Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.2,
