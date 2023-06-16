@@ -41,6 +41,17 @@
       "SignatureKeyID": {}
     },
     {
+      "ID": "oval:com.redhat.rhba:ste:20228077001",
+      "Version": "635",
+      "Arch": {},
+      "Evr": {
+        "Text": "1:9.0.50-1.el9",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      },
+      "SignatureKeyID": {}
+    },
+    {
       "ID": "oval:com.redhat.rhba:ste:20228256001",
       "Version": "635",
       "Arch": {

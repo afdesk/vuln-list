@@ -266,6 +266,54 @@
     },
     {
       "Check": "at least one",
+      "Comment": "pki-servlet-4.0-api is earlier than 1:9.0.50-1.el9",
+      "ID": "oval:com.redhat.rhba:tst:20228077001",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20228077001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20228077001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "pki-servlet-4.0-api is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhba:tst:20228077002",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20228077001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "pki-servlet-engine is earlier than 1:9.0.50-1.el9",
+      "ID": "oval:com.redhat.rhba:tst:20228077003",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20228077002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20228077001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "pki-servlet-engine is signed with Red Hat redhatrelease2 key",
+      "ID": "oval:com.redhat.rhba:tst:20228077004",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.rhba:obj:20228077002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhba:ste:20225749002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "qatzip is earlier than 0:1.0.9-1.el9",
       "ID": "oval:com.redhat.rhba:tst:20228256001",
       "Version": "635",

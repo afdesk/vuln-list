@@ -56,6 +56,16 @@
       "Name": "netstandard-targeting-pack-2.1"
     },
     {
+      "ID": "oval:com.redhat.rhba:obj:20228077001",
+      "Version": "635",
+      "Name": "pki-servlet-4.0-api"
+    },
+    {
+      "ID": "oval:com.redhat.rhba:obj:20228077002",
+      "Version": "635",
+      "Name": "pki-servlet-engine"
+    },
+    {
       "ID": "oval:com.redhat.rhba:obj:20228256001",
       "Version": "635",
       "Name": "qatzip"

@@ -5161,19 +5161,19 @@
       "Name": "compat-openssl11"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221705002",
+      "ID": "oval:com.redhat.cve:obj:20221705007",
       "Version": "636",
-      "Name": "weldr-client"
+      "Name": "ignition"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221705004",
+      "ID": "oval:com.redhat.cve:obj:20221705012",
       "Version": "636",
       "Name": "butane"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221705006",
+      "ID": "oval:com.redhat.cve:obj:20221705020",
       "Version": "636",
-      "Name": "ignition"
+      "Name": "weldr-client"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20221708001",
@@ -6511,7 +6511,7 @@
       "Name": "squid-debugsource"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241715008",
+      "ID": "oval:com.redhat.cve:obj:202241715013",
       "Version": "636",
       "Name": "oci-seccomp-bpf-hook"
     },
