@@ -6943,12 +6943,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202320867001",
       "Version": "636",
-      "Name": "open-vm-tools"
+      "Name": "open-vm-tools-desktop"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202320867002",
       "Version": "636",
-      "Name": "open-vm-tools-desktop"
+      "Name": "open-vm-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202320867003",
@@ -7343,47 +7343,47 @@
     {
       "ID": "oval:com.redhat.cve:obj:202327522001",
       "Version": "636",
-      "Name": "mod_ssl"
+      "Name": "httpd-filesystem"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522002",
       "Version": "636",
-      "Name": "mod_proxy_html"
+      "Name": "httpd-core"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522003",
       "Version": "636",
-      "Name": "httpd-filesystem"
+      "Name": "mod_ssl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522004",
       "Version": "636",
-      "Name": "httpd"
+      "Name": "mod_proxy_html"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522005",
       "Version": "636",
-      "Name": "mod_lua"
+      "Name": "mod_session"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522006",
       "Version": "636",
-      "Name": "httpd-core"
+      "Name": "httpd-manual"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522007",
       "Version": "636",
-      "Name": "httpd-manual"
+      "Name": "httpd"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522008",
       "Version": "636",
-      "Name": "mod_ldap"
+      "Name": "httpd-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522009",
       "Version": "636",
-      "Name": "mod_session"
+      "Name": "mod_ldap"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327522010",
@@ -7393,7 +7393,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202327522011",
       "Version": "636",
-      "Name": "httpd-tools"
+      "Name": "mod_lua"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202327533001",
