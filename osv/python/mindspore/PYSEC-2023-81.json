@@ -1,6 +1,6 @@
 {
   "id": "PYSEC-2023-81",
-  "modified": "2023-06-05T20:23:45.198417Z",
+  "modified": "2023-06-16T08:29:55.937187Z",
   "published": "2023-05-30T06:16:00Z",
   "aliases": [
     "CVE-2023-2970"
@@ -42,7 +42,8 @@
         "1.8.1",
         "1.9.0",
         "2.0.0a0",
-        "2.0.0rc1"
+        "2.0.0rc1",
+        "2.0.0"
       ],
       "database_specific": {
         "source": "https://github.com/pypa/advisory-database/blob/main/vulns/mindspore/PYSEC-2023-81.yaml"
