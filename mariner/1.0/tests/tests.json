@@ -1226,7 +1226,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package qt5-qtbase is installed with version 5.12.11-5 or earlier",
+      "Comment": "Package qt5-qtbase is installed with version 5.12.11-7 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13814000",
       "Version": "0",
       "Object": {
@@ -1250,7 +1250,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package nodejs is installed with version 14.21.1-2 or earlier",
+      "Comment": "Package nodejs is installed with version 14.21.1-3 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13812000",
       "Version": "0",
       "Object": {
@@ -1334,7 +1334,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13805000",
       "Version": "0",
       "Object": {
@@ -1346,7 +1346,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package grpc is installed with version 1.35.0-8 or earlier",
+      "Comment": "Package grpc is installed with version 1.35.0-9 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13804000",
       "Version": "0",
       "Object": {
@@ -1394,7 +1394,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package nodejs is installed with version 14.21.1-2 or earlier",
+      "Comment": "Package nodejs is installed with version 14.21.1-3 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13757000",
       "Version": "0",
       "Object": {
@@ -1406,7 +1406,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package nodejs is installed with version 14.21.1-2 or earlier",
+      "Comment": "Package nodejs is installed with version 14.21.1-3 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13756000",
       "Version": "0",
       "Object": {
@@ -1418,7 +1418,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package nodejs is installed with version 14.21.1-2 or earlier",
+      "Comment": "Package nodejs is installed with version 14.21.1-3 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13755000",
       "Version": "0",
       "Object": {
@@ -1454,7 +1454,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13752000",
       "Version": "0",
       "Object": {
@@ -1466,7 +1466,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13742000",
       "Version": "0",
       "Object": {
@@ -1478,7 +1478,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13720000",
       "Version": "0",
       "Object": {
@@ -1490,7 +1490,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13719000",
       "Version": "0",
       "Object": {
@@ -1502,7 +1502,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13718000",
       "Version": "0",
       "Object": {
@@ -1982,7 +1982,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13363000",
       "Version": "0",
       "Object": {
@@ -2342,7 +2342,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package qt5-qtbase is installed with version 5.12.11-5 or earlier",
+      "Comment": "Package qt5-qtbase is installed with version 5.12.11-7 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13224000",
       "Version": "0",
       "Object": {
@@ -2402,7 +2402,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package openssh is installed with version 8.9p1-1 or earlier",
+      "Comment": "Package openssh is installed with version 8.9p1-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13208000",
       "Version": "0",
       "Object": {
@@ -2510,7 +2510,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13162000",
       "Version": "0",
       "Object": {
@@ -2534,7 +2534,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13159000",
       "Version": "0",
       "Object": {
@@ -2666,7 +2666,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package grpc is installed with version 1.35.0-8 or earlier",
+      "Comment": "Package grpc is installed with version 1.35.0-9 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13141000",
       "Version": "0",
       "Object": {
@@ -3062,7 +3062,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:12981000",
       "Version": "0",
       "Object": {
@@ -3542,7 +3542,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11639000",
       "Version": "0",
       "Object": {
@@ -3602,7 +3602,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11634000",
       "Version": "0",
       "Object": {
@@ -3854,7 +3854,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11492000",
       "Version": "0",
       "Object": {
@@ -3866,7 +3866,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11491000",
       "Version": "0",
       "Object": {
@@ -3878,7 +3878,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11490000",
       "Version": "0",
       "Object": {
@@ -3890,7 +3890,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11489000",
       "Version": "0",
       "Object": {
@@ -3902,7 +3902,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11488000",
       "Version": "0",
       "Object": {
@@ -3938,7 +3938,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11472000",
       "Version": "0",
       "Object": {
@@ -4094,7 +4094,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11418000",
       "Version": "0",
       "Object": {
@@ -4106,7 +4106,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11417000",
       "Version": "0",
       "Object": {
@@ -4118,7 +4118,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11416000",
       "Version": "0",
       "Object": {
@@ -4250,7 +4250,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11359000",
       "Version": "0",
       "Object": {
@@ -4874,7 +4874,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11156000",
       "Version": "0",
       "Object": {
@@ -4886,7 +4886,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11155000",
       "Version": "0",
       "Object": {
@@ -4898,7 +4898,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11154000",
       "Version": "0",
       "Object": {
@@ -5042,7 +5042,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11085000",
       "Version": "0",
       "Object": {
@@ -5438,7 +5438,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10953000",
       "Version": "0",
       "Object": {
@@ -5450,7 +5450,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10952000",
       "Version": "0",
       "Object": {
@@ -5462,7 +5462,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10951000",
       "Version": "0",
       "Object": {
@@ -5654,7 +5654,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10873000",
       "Version": "0",
       "Object": {
@@ -5954,7 +5954,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10778000",
       "Version": "0",
       "Object": {
@@ -6158,7 +6158,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10701000",
       "Version": "0",
       "Object": {
@@ -7034,7 +7034,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package yasm is installed with version 1.3.0-13 or earlier",
+      "Comment": "Package yasm is installed with version 1.3.0-14 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10386000",
       "Version": "0",
       "Object": {
@@ -7046,7 +7046,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package yasm is installed with version 1.3.0-13 or earlier",
+      "Comment": "Package yasm is installed with version 1.3.0-14 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10385000",
       "Version": "0",
       "Object": {
@@ -7058,7 +7058,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package yasm is installed with version 1.3.0-13 or earlier",
+      "Comment": "Package yasm is installed with version 1.3.0-14 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10384000",
       "Version": "0",
       "Object": {
@@ -7070,7 +7070,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package yasm is installed with version 1.3.0-13 or earlier",
+      "Comment": "Package yasm is installed with version 1.3.0-14 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10383000",
       "Version": "0",
       "Object": {
@@ -7082,7 +7082,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package yasm is installed with version 1.3.0-13 or earlier",
+      "Comment": "Package yasm is installed with version 1.3.0-14 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10382000",
       "Version": "0",
       "Object": {
@@ -7094,7 +7094,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package yasm is installed with version 1.3.0-13 or earlier",
+      "Comment": "Package yasm is installed with version 1.3.0-14 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10381000",
       "Version": "0",
       "Object": {
@@ -7106,7 +7106,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package yasm is installed with version 1.3.0-13 or earlier",
+      "Comment": "Package yasm is installed with version 1.3.0-14 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10380000",
       "Version": "0",
       "Object": {
@@ -7118,7 +7118,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package yasm is installed with version 1.3.0-13 or earlier",
+      "Comment": "Package yasm is installed with version 1.3.0-14 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10379000",
       "Version": "0",
       "Object": {
@@ -7130,7 +7130,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package yasm is installed with version 1.3.0-13 or earlier",
+      "Comment": "Package yasm is installed with version 1.3.0-14 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10378000",
       "Version": "0",
       "Object": {
@@ -7142,7 +7142,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package yasm is installed with version 1.3.0-13 or earlier",
+      "Comment": "Package yasm is installed with version 1.3.0-14 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10377000",
       "Version": "0",
       "Object": {
@@ -7154,7 +7154,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package yasm is installed with version 1.3.0-13 or earlier",
+      "Comment": "Package yasm is installed with version 1.3.0-14 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10376000",
       "Version": "0",
       "Object": {
@@ -7166,7 +7166,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package yasm is installed with version 1.3.0-13 or earlier",
+      "Comment": "Package yasm is installed with version 1.3.0-14 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10375000",
       "Version": "0",
       "Object": {
@@ -7178,7 +7178,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package yasm is installed with version 1.3.0-13 or earlier",
+      "Comment": "Package yasm is installed with version 1.3.0-14 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10374000",
       "Version": "0",
       "Object": {
@@ -7190,7 +7190,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package yasm is installed with version 1.3.0-13 or earlier",
+      "Comment": "Package yasm is installed with version 1.3.0-14 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10373000",
       "Version": "0",
       "Object": {
@@ -7202,7 +7202,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package yasm is installed with version 1.3.0-13 or earlier",
+      "Comment": "Package yasm is installed with version 1.3.0-14 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10372000",
       "Version": "0",
       "Object": {
@@ -7370,7 +7370,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10133000",
       "Version": "0",
       "Object": {
@@ -9494,7 +9494,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kernel is installed with version 5.10.181.1-1 or earlier",
+      "Comment": "Package kernel is installed with version 5.10.183.1-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:9305000",
       "Version": "0",
       "Object": {
@@ -20510,7 +20510,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:3677000",
       "Version": "0",
       "Object": {
@@ -20522,7 +20522,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
+      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:3676000",
       "Version": "0",
       "Object": {

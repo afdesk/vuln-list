@@ -6,9 +6,49 @@
       "Name": "kata-containers-cc"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26914001",
+      "Version": "1",
+      "Name": "c-ares"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26913001",
+      "Version": "1",
+      "Name": "c-ares"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26869001",
+      "Version": "1",
+      "Name": "c-ares"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26798001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26796001",
+      "Version": "1",
+      "Name": "kernel"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26792001",
+      "Version": "1",
+      "Name": "curl"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26791001",
+      "Version": "1",
+      "Name": "cmake"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26784001",
       "Version": "1",
       "Name": "sysstat"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26782001",
+      "Version": "1",
+      "Name": "kernel"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26759001",
@@ -29,6 +69,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:26756001",
       "Version": "1",
       "Name": "libtiff"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26736001",
+      "Version": "1",
+      "Name": "libvirt"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26731001",
@@ -977,7 +1022,7 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:13650001",
-      "Version": "0",
+      "Version": "1",
       "Name": "cmake"
     },
     {
