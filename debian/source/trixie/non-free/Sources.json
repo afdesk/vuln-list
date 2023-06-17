@@ -1,6 +1,65 @@
 [
   {
     "Architecture": [
+      "any"
+    ],
+    "Autobuild": [
+      "yes"
+    ],
+    "Binary": [
+      "7zip-rar"
+    ],
+    "Build-Depends": [
+      "debhelper-compat (= 13)"
+    ],
+    "Checksums-Sha256": [
+      "ec6b71bef2d9e93a1a0c15262e8c34d2474cdd5a9e9e9816065ed60f0b5163ff 1715 7zip-rar_22.01-1.dsc bfa163ff8e288b2f07fc0e97cd10e65b68f7df363884f223a54b846519e53483 1308632 7zip-rar_22.01.orig.tar.xz fa1d4ac1bdbedc12bb215cb681f2115f9b44d7ab16ed3ffdf2c80800af118fdf 6336 7zip-rar_22.01-1.debian.tar.xz"
+    ],
+    "Directory": [
+      "pool/non-free/7/7zip-rar"
+    ],
+    "Files": [
+      "740fc1c3f0bff66fefb255ae042ff282 1715 7zip-rar_22.01-1.dsc 43d69cf5951dc14b5cae5ce782fd93a6 1308632 7zip-rar_22.01.orig.tar.xz e8e4514b6d91187fc21759b977a0ce8d 6336 7zip-rar_22.01-1.debian.tar.xz"
+    ],
+    "Format": [
+      "3.0 (quilt)"
+    ],
+    "Homepage": [
+      "https://www.7-zip.org/"
+    ],
+    "Maintainer": [
+      "YOKOTA Hiroshi \u003cyokota.hgml@gmail.com\u003e"
+    ],
+    "Package": [
+      "7zip-rar"
+    ],
+    "Package-List": [
+      "7zip-rar deb non-free/utils optional arch=any"
+    ],
+    "Priority": [
+      "optional"
+    ],
+    "Section": [
+      "non-free/misc"
+    ],
+    "Standards-Version": [
+      "4.6.2"
+    ],
+    "Testsuite": [
+      "autopkgtest"
+    ],
+    "Vcs-Browser": [
+      "https://salsa.debian.org/debian/7zip-rar"
+    ],
+    "Vcs-Git": [
+      "https://salsa.debian.org/debian/7zip-rar.git"
+    ],
+    "Version": [
+      "22.01-1"
+    ]
+  },
+  {
+    "Architecture": [
       "all"
     ],
     "Binary": [
@@ -3855,13 +3914,13 @@
       "debhelper-compat (= 13), dh-sequence-libva, cmake, libdrm-dev, libigdgmm-dev (\u003e= 21.1.1), libva-dev (\u003e= 2.12), libx11-dev, pkg-config"
     ],
     "Checksums-Sha256": [
-      "835edb5b45198a079f6338f696c6e89584a846751921bb5db19026cbc7aeb629 2342 intel-media-driver-non-free_23.1.1+ds1-1.dsc 4fe569aece25daaf2611f1c8113073aa3a539a8d3a04490b44ae1bf38ea165f6 15243944 intel-media-driver-non-free_23.1.1+ds1.orig.tar.xz d7d2d14f7403c90c5d5a3985ca7b391db71392a4de3f5c75f0bcb53ce2974b68 5724 intel-media-driver-non-free_23.1.1+ds1-1.debian.tar.xz"
+      "7c135e81bbc307088ce3a7e5c6929cc40d87fc2c9aeb4dd3621c23d2867a894e 2342 intel-media-driver-non-free_23.1.2+ds1-1.dsc 7c7f9425eaab43b7f48513a80f2dde6df6ac2d1eff121bf1d25c11df64f1971b 15245820 intel-media-driver-non-free_23.1.2+ds1.orig.tar.xz 786df24ecafe67d308102c7ee300a5c45d8b7e46dc31c136e9375b082bb89c53 5740 intel-media-driver-non-free_23.1.2+ds1-1.debian.tar.xz"
     ],
     "Directory": [
       "pool/non-free/i/intel-media-driver-non-free"
     ],
     "Files": [
-      "86886815d0de5a9b7bd44b148defd41a 2342 intel-media-driver-non-free_23.1.1+ds1-1.dsc cf596cece76e065d12c62098e7cd85ee 15243944 intel-media-driver-non-free_23.1.1+ds1.orig.tar.xz 2c6f59e7ea10f1ac8ac872cdaa49d4da 5724 intel-media-driver-non-free_23.1.1+ds1-1.debian.tar.xz"
+      "51192e5350f34c1fb3886d6a1f63ec76 2342 intel-media-driver-non-free_23.1.2+ds1-1.dsc 38d7890ddb456fef6611108ab5207ca2 15245820 intel-media-driver-non-free_23.1.2+ds1.orig.tar.xz 09b5535a7d2f389b64549c05793f7722 5740 intel-media-driver-non-free_23.1.2+ds1-1.debian.tar.xz"
     ],
     "Format": [
       "3.0 (quilt)"
@@ -3897,7 +3956,7 @@
       "https://salsa.debian.org/multimedia-team/intel-media-driver-non-free.git"
     ],
     "Version": [
-      "23.1.1+ds1-1"
+      "23.1.2+ds1-1"
     ]
   },
   {
