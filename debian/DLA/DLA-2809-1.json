@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 Nov 2021] DLA-2809-1 udisks2 - security update",
-    "Line": 1952,
+    "Line": 1955,
     "ID": "DLA-2809-1",
     "Description": "udisks2 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-3802}",
-      "Line": 1953,
+      "Line": 1956,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-3802"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - udisks2 2.1.8-1+deb9u1",
-      "Line": 1954,
+      "Line": 1957,
       "Type": "package",
       "Release": "stretch",
       "Package": "udisks2",

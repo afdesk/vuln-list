@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 Nov 2019] DLA-2001-1 libofx - security update",
-    "Line": 4429,
+    "Line": 4432,
     "ID": "DLA-2001-1",
     "Description": "libofx - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-9656}",
-      "Line": 4430,
+      "Line": 4433,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-9656"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - libofx 1:0.9.10-1+deb8u2",
-      "Line": 4431,
+      "Line": 4434,
       "Type": "package",
       "Release": "jessie",
       "Package": "libofx",

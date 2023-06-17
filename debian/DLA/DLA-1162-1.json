@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Nov 2017] DLA-1162-1 apr - security update",
-    "Line": 6999,
+    "Line": 7002,
     "ID": "DLA-1162-1",
     "Description": "apr - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-12613}",
-      "Line": 7000,
+      "Line": 7003,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-12613"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - apr 1.4.6-3+deb7u2",
-      "Line": 7001,
+      "Line": 7004,
       "Type": "package",
       "Release": "wheezy",
       "Package": "apr",

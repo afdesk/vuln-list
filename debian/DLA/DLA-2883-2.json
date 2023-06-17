@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Jan 2022] DLA-2883-2 uriparser - regression update",
-    "Line": 1666,
+    "Line": 1669,
     "ID": "DLA-2883-2",
     "Description": "uriparser - regression update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-46141}",
-      "Line": 1667,
+      "Line": 1670,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-46141"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - uriparser 0.8.4-1+deb9u4",
-      "Line": 1668,
+      "Line": 1671,
       "Type": "package",
       "Release": "stretch",
       "Package": "uriparser",
