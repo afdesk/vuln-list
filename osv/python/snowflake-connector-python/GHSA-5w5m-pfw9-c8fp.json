@@ -1,6 +1,6 @@
 {
   "id": "GHSA-5w5m-pfw9-c8fp",
-  "modified": "2023-06-09T23:13:13.464068Z",
+  "modified": "2023-06-16T22:18:16.445720Z",
   "published": "2023-06-09T22:53:14Z",
   "aliases": [
     "CVE-2023-34233"
@@ -169,6 +169,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/snowflakedb/snowflake-connector-python/commit/1cdbd3b1403c5ef520d7f4d9614fe35165e101ac"
+    },
+    {
+      "type": "WEB",
+      "url": "https://github.com/pypa/advisory-database/tree/main/vulns/snowflake-connector-python/PYSEC-2023-88.yaml"
     },
     {
       "type": "PACKAGE",
