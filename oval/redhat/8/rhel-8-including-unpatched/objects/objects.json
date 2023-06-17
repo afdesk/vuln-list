@@ -10661,7 +10661,7 @@
       "Name": "python3-flask"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202332681001",
+      "ID": "oval:com.redhat.cve:obj:202332681004",
       "Version": "636",
       "Name": "python2-requests"
     },

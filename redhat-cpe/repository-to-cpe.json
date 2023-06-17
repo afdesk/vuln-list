@@ -942,7 +942,8 @@
     "cpe:/a:redhat:ansible_on_clouds_self_managed:2.3::el8"
   ],
   "ansible-automation-platform-ee-textonly-rpms": [
-    "cpe:/a:redhat:ansible_automation_platform:ee::el8"
+    "cpe:/a:redhat:ansible_automation_platform:ee::el8",
+    "cpe:/a:redhat:ansible_automation_platform:ee::el9"
   ],
   "ansible-developer-1.0-for-rhel-8-x86_64-debug-rpms": [
     "cpe:/a:redhat:ansible_automation_platform_developer:2.3::el8",

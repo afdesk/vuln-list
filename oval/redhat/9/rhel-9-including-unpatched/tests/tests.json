@@ -33684,7 +33684,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-requests+socks is installed",
+      "Comment": "python3-requests+security is installed",
       "ID": "oval:com.redhat.cve:tst:202332681003",
       "Version": "636",
       "Object": {
@@ -33694,7 +33694,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-requests+socks is signed with Red Hat redhatrelease2 key",
+      "Comment": "python3-requests+security is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202332681004",
       "Version": "636",
       "Object": {
@@ -33706,7 +33706,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-requests+security is installed",
+      "Comment": "python3-requests+socks is installed",
       "ID": "oval:com.redhat.cve:tst:202332681005",
       "Version": "636",
       "Object": {
@@ -33716,7 +33716,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "python3-requests+security is signed with Red Hat redhatrelease2 key",
+      "Comment": "python3-requests+socks is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202332681006",
       "Version": "636",
       "Object": {
