@@ -2182,110 +2182,14 @@
     },
     {
       "Check": "at least one",
-      "Comment": "skopeo is earlier than 2:1.11.2-1.1.rhaos4.13.el9",
-      "ID": "oval:com.redhat.rhsa:tst:20233366011",
-      "Version": "640",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201910214001"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.rhsa:ste:20233366006"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "skopeo-tests is earlier than 2:1.11.2-1.1.rhaos4.13.el9",
-      "ID": "oval:com.redhat.rhsa:tst:20233366013",
-      "Version": "640",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202224675012"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.rhsa:ste:20233366006"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "podman is earlier than 3:4.4.1-4.1.rhaos4.13.el9",
-      "ID": "oval:com.redhat.rhsa:tst:20233366015",
-      "Version": "640",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:201910214002"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.rhsa:ste:20233366007"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "podman-docker is earlier than 3:4.4.1-4.1.rhaos4.13.el9",
-      "ID": "oval:com.redhat.rhsa:tst:20233366017",
-      "Version": "640",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561005"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.rhsa:ste:20233366008"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "podman-gvproxy is earlier than 3:4.4.1-4.1.rhaos4.13.el9",
-      "ID": "oval:com.redhat.rhsa:tst:20233366019",
-      "Version": "640",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561008"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.rhsa:ste:20233366007"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "podman-plugins is earlier than 3:4.4.1-4.1.rhaos4.13.el9",
-      "ID": "oval:com.redhat.rhsa:tst:20233366021",
-      "Version": "640",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561003"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.rhsa:ste:20233366007"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "podman-remote is earlier than 3:4.4.1-4.1.rhaos4.13.el9",
-      "ID": "oval:com.redhat.rhsa:tst:20233366023",
-      "Version": "640",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561007"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.rhsa:ste:20233366007"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "podman-tests is earlier than 3:4.4.1-4.1.rhaos4.13.el9",
-      "ID": "oval:com.redhat.rhsa:tst:20233366025",
-      "Version": "640",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202138561006"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.rhsa:ste:20233366007"
-      }
-    },
-    {
-      "Check": "at least one",
       "Comment": "openshift-hyperkube is earlier than 0:4.13.0-202305301919.p0.g0001a21.assembly.stream.el9",
-      "ID": "oval:com.redhat.rhsa:tst:20233366027",
+      "ID": "oval:com.redhat.rhsa:tst:20233366011",
       "Version": "640",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202125743002"
       },
       "State": {
-        "StateRef": "oval:com.redhat.rhsa:ste:20233366009"
+        "StateRef": "oval:com.redhat.rhsa:ste:20233366006"
       }
     },
     {
