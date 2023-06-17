@@ -1,5 +1,5 @@
 {
-  "Severity": "HIGH",
+  "Severity": "MODERATE",
   "UpdatedAt": "2023-06-13T12:44:51Z",
   "Package": {
     "Ecosystem": "NPM",
@@ -48,13 +48,13 @@
     "Description": "The crypto-js package before 3.2.1 for Node.js generates random numbers by concatenating the string \"0.\" with an integer, which makes the output more predictable than necessary.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-12T03:30:17Z",
-    "Severity": "HIGH",
+    "Severity": "MODERATE",
     "Summary": "crypto-js uses insecure random numbers",
-    "UpdatedAt": "2023-06-13T12:44:51Z",
+    "UpdatedAt": "2023-06-16T22:12:34Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 5.3,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N"
     }
   },
   "Versions": [
