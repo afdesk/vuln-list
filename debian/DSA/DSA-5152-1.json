@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 May 2022] DSA-5152-1 spip - security update",
-    "Line": 876,
+    "Line": 879,
     "ID": "DSA-5152-1",
     "Description": "spip - security update"
   },
   "Annotations": [
     {
       "Original": "[buster] - spip 3.2.4-1+deb10u8",
-      "Line": 877,
+      "Line": 880,
       "Type": "package",
       "Release": "buster",
       "Package": "spip",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[bullseye] - spip 3.2.11-3+deb11u4",
-      "Line": 878,
+      "Line": 881,
       "Type": "package",
       "Release": "bullseye",
       "Package": "spip",

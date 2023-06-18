@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Dec 2008] DSA-1685-1 uw-imap - multiple vulnerabilities",
-    "Line": 12715,
+    "Line": 12718,
     "ID": "DSA-1685-1",
     "Description": "uw-imap - multiple vulnerabilities"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-5005 CVE-2008-5006}",
-      "Line": 12716,
+      "Line": 12719,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-5005",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[etch] - uw-imap 7:2002edebian1-13.1+etch1",
-      "Line": 12717,
+      "Line": 12720,
       "Type": "package",
       "Release": "etch",
       "Package": "uw-imap",

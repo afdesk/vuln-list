@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Sep 2017] DLA-1115-1 debsecan - update",
-    "Line": 7141,
+    "Line": 7144,
     "ID": "DLA-1115-1",
     "Description": "debsecan - update"
   },
   "Annotations": [
     {
       "Original": "[wheezy] - debsecan 0.4.16+nmu1+deb7u1",
-      "Line": 7142,
+      "Line": 7145,
       "Type": "package",
       "Release": "wheezy",
       "Package": "debsecan",

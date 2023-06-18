@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Sep 2014] DSA-3020-1 acpi-support - security update",
-    "Line": 8103,
+    "Line": 8106,
     "ID": "DSA-3020-1",
     "Description": "acpi-support - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-0484}",
-      "Line": 8104,
+      "Line": 8107,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-0484"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - acpi-support 0.140-5+deb7u3",
-      "Line": 8105,
+      "Line": 8108,
       "Type": "package",
       "Release": "wheezy",
       "Package": "acpi-support",

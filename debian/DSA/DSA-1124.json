@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Jul 2006] DSA-1124 fbi - typo",
-    "Line": 14611,
+    "Line": 14614,
     "ID": "DSA-1124",
     "Description": "fbi - typo"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-3119}",
-      "Line": 14612,
+      "Line": 14615,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-3119"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - fbi 2.01-1.2sarge2",
-      "Line": 14613,
+      "Line": 14616,
       "Type": "package",
       "Release": "sarge",
       "Package": "fbi",

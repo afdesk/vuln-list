@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Dec 2016] DSA-3735-1 game-music-emu - security update",
-    "Line": 5685,
+    "Line": 5688,
     "ID": "DSA-3735-1",
     "Description": "game-music-emu - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-9957 CVE-2016-9958 CVE-2016-9959 CVE-2016-9960 CVE-2016-9961}",
-      "Line": 5686,
+      "Line": 5689,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-9957",
@@ -20,7 +20,7 @@
     },
     {
       "Original": "[jessie] - game-music-emu 0.5.5-2+deb8u1",
-      "Line": 5687,
+      "Line": 5690,
       "Type": "package",
       "Release": "jessie",
       "Package": "game-music-emu",

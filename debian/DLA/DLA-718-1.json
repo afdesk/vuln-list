@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Nov 2016] DLA-718-1 vim - security update",
-    "Line": 8363,
+    "Line": 8366,
     "ID": "DLA-718-1",
     "Description": "vim - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-1248}",
-      "Line": 8364,
+      "Line": 8367,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-1248"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - vim 2:7.3.547-7+deb7u1",
-      "Line": 8365,
+      "Line": 8368,
       "Type": "package",
       "Release": "wheezy",
       "Package": "vim",

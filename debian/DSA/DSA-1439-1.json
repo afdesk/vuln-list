@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[28 Dec 2007] DSA-1439-1 typo3-src",
-    "Line": 13541,
+    "Line": 13544,
     "ID": "DSA-1439-1",
     "Description": "typo3-src"
   },
   "Annotations": [
     {
       "Original": "{CVE-2007-6381}",
-      "Line": 13542,
+      "Line": 13545,
       "Type": "xref",
       "Bugs": [
         "CVE-2007-6381"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - typo3-src 4.0.2+debian-4",
-      "Line": 13543,
+      "Line": 13546,
       "Type": "package",
       "Release": "etch",
       "Package": "typo3-src",

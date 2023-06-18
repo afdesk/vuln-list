@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[02 Aug 2018] DLA-1445-2 busybox - regression update",
-    "Line": 6119,
+    "Line": 6122,
     "ID": "DLA-1445-2",
     "Description": "busybox - regression update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - busybox 1:1.22.0-9+deb8u3",
-      "Line": 6120,
+      "Line": 6123,
       "Type": "package",
       "Release": "jessie",
       "Package": "busybox",
