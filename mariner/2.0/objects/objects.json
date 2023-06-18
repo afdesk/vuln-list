@@ -121,6 +121,11 @@
       "Name": "vim"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26632001",
+      "Version": "1",
+      "Name": "yasm"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26623001",
       "Version": "1",
       "Name": "kernel"
