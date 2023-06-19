@@ -5608,12 +5608,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202331124001",
       "Version": "636",
-      "Name": "rh-nodejs14-nodejs"
+      "Name": "rh-nodejs14-nodejs-docs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202331124002",
       "Version": "636",
-      "Name": "rh-nodejs14-nodejs-docs"
+      "Name": "rh-nodejs14-nodejs-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202331124003",
@@ -5623,7 +5623,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202331124004",
       "Version": "636",
-      "Name": "rh-nodejs14-nodejs-devel"
+      "Name": "rh-nodejs14-nodejs"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202331124005",
