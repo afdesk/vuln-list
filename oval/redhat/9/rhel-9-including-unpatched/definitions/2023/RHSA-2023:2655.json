@@ -20,6 +20,11 @@
       },
       {
         "Source": "CVE",
+        "RefID": "CVE-2021-35065",
+        "RefURL": "https://access.redhat.com/security/cve/CVE-2021-35065"
+      },
+      {
+        "Source": "CVE",
         "RefID": "CVE-2022-25881",
         "RefURL": "https://access.redhat.com/security/cve/CVE-2022-25881"
       },
@@ -61,6 +66,14 @@
         "Date": "2023-05-09"
       },
       "Cves": [
+        {
+          "CveID": "CVE-2021-35065",
+          "Cvss3": "7.5/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+          "Cwe": "CWE-400",
+          "Impact": "moderate",
+          "Href": "https://access.redhat.com/security/cve/CVE-2021-35065",
+          "Public": "20221226"
+        },
         {
           "CveID": "CVE-2022-25881",
           "Cvss3": "7.5/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
@@ -111,6 +124,10 @@
         }
       ],
       "Bugzilla": [
+        {
+          "Href": "https://bugzilla.redhat.com/2156324",
+          "ID": "2156324"
+        },
         {
           "Href": "https://bugzilla.redhat.com/2165824",
           "ID": "2165824"
@@ -180,8 +197,21 @@
                 "Operator": "AND",
                 "Criterions": [
                   {
-                    "Comment": "nodejs is earlier than 1:16.19.1-1.el9_2",
+                    "Comment": "nodejs-nodemon is earlier than 0:2.0.20-3.el9_2",
                     "TestRef": "oval:com.redhat.rhsa:tst:20232655001"
+                  },
+                  {
+                    "Comment": "nodejs-nodemon is signed with Red Hat redhatrelease2 key",
+                    "TestRef": "oval:com.redhat.cve:tst:202135065004"
+                  }
+                ]
+              },
+              {
+                "Operator": "AND",
+                "Criterions": [
+                  {
+                    "Comment": "nodejs is earlier than 1:16.19.1-1.el9_2",
+                    "TestRef": "oval:com.redhat.rhsa:tst:20232655003"
                   },
                   {
                     "Comment": "nodejs is signed with Red Hat redhatrelease2 key",
@@ -194,7 +224,7 @@
                 "Criterions": [
                   {
                     "Comment": "nodejs-docs is earlier than 1:16.19.1-1.el9_2",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20232655003"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20232655005"
                   },
                   {
                     "Comment": "nodejs-docs is signed with Red Hat redhatrelease2 key",
@@ -207,7 +237,7 @@
                 "Criterions": [
                   {
                     "Comment": "nodejs-full-i18n is earlier than 1:16.19.1-1.el9_2",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20232655005"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20232655007"
                   },
                   {
                     "Comment": "nodejs-full-i18n is signed with Red Hat redhatrelease2 key",
@@ -220,7 +250,7 @@
                 "Criterions": [
                   {
                     "Comment": "nodejs-libs is earlier than 1:16.19.1-1.el9_2",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20232655007"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20232655009"
                   },
                   {
                     "Comment": "nodejs-libs is signed with Red Hat redhatrelease2 key",
@@ -233,7 +263,7 @@
                 "Criterions": [
                   {
                     "Comment": "npm is earlier than 1:8.19.3-1.16.19.1.1.el9_2",
-                    "TestRef": "oval:com.redhat.rhsa:tst:20232655009"
+                    "TestRef": "oval:com.redhat.rhsa:tst:20232655011"
                   },
                   {
                     "Comment": "npm is signed with Red Hat redhatrelease2 key",

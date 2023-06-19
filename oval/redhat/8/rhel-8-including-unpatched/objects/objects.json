@@ -10666,1601 +10666,6 @@
       "Name": "python2-requests"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202332700001",
-      "Version": "636",
-      "Name": "texlive-ifluatex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700002",
-      "Version": "636",
-      "Name": "texlive-beamer"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700003",
-      "Version": "636",
-      "Name": "texlive-tetex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700004",
-      "Version": "636",
-      "Name": "texlive-context"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700005",
-      "Version": "636",
-      "Name": "texlive-svn-prov"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700006",
-      "Version": "636",
-      "Name": "texlive-graphics"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700007",
-      "Version": "636",
-      "Name": "texlive-cjk"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700008",
-      "Version": "636",
-      "Name": "texlive-float"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700009",
-      "Version": "636",
-      "Name": "texlive-dvipdfmx"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700010",
-      "Version": "636",
-      "Name": "texlive-bidi"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700011",
-      "Version": "636",
-      "Name": "texlive-datetime"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700012",
-      "Version": "636",
-      "Name": "texlive-trimspaces"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700013",
-      "Version": "636",
-      "Name": "texlive-sepnum"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700014",
-      "Version": "636",
-      "Name": "texlive-texlive-scripts"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700015",
-      "Version": "636",
-      "Name": "texlive-rsfs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700016",
-      "Version": "636",
-      "Name": "texlive-xetex-itrans"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700017",
-      "Version": "636",
-      "Name": "texlive-sectsty"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700018",
-      "Version": "636",
-      "Name": "texlive-ltxmisc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700019",
-      "Version": "636",
-      "Name": "texlive-xetex-tibetan"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700020",
-      "Version": "636",
-      "Name": "texlive-mnsymbol"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700021",
-      "Version": "636",
-      "Name": "texlive-amscls"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700022",
-      "Version": "636",
-      "Name": "texlive-pdftex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700023",
-      "Version": "636",
-      "Name": "texlive-l3packages"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700024",
-      "Version": "636",
-      "Name": "texlive-fncychap"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700025",
-      "Version": "636",
-      "Name": "texlive-ltabptch"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700026",
-      "Version": "636",
-      "Name": "texlive-babel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700027",
-      "Version": "636",
-      "Name": "texlive-fpl"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700028",
-      "Version": "636",
-      "Name": "texlive-tex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700029",
-      "Version": "636",
-      "Name": "texlive-fancybox"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700030",
-      "Version": "636",
-      "Name": "texlive-csquotes"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700031",
-      "Version": "636",
-      "Name": "texlive-natbib"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700032",
-      "Version": "636",
-      "Name": "texlive-dvipng"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700033",
-      "Version": "636",
-      "Name": "texlive-parallel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700034",
-      "Version": "636",
-      "Name": "texlive-xstring"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700035",
-      "Version": "636",
-      "Name": "texlive-hyperref"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700036",
-      "Version": "636",
-      "Name": "texlive-texconfig"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700037",
-      "Version": "636",
-      "Name": "texlive-dvips"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700038",
-      "Version": "636",
-      "Name": "texlive-arphic"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700039",
-      "Version": "636",
-      "Name": "texlive-charter"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700040",
-      "Version": "636",
-      "Name": "texlive-texlive.infra"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700041",
-      "Version": "636",
-      "Name": "texlive-ctable"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700042",
-      "Version": "636",
-      "Name": "texlive-qstest"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700043",
-      "Version": "636",
-      "Name": "texlive-powerdot"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700044",
-      "Version": "636",
-      "Name": "texlive-unicode-data"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700045",
-      "Version": "636",
-      "Name": "texlive-utopia"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700046",
-      "Version": "636",
-      "Name": "texlive-iftex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700047",
-      "Version": "636",
-      "Name": "texlive-xmltexconfig"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700048",
-      "Version": "636",
-      "Name": "texlive-makecmds"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700049",
-      "Version": "636",
-      "Name": "texlive-translator"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700050",
-      "Version": "636",
-      "Name": "texlive-dvisvgm"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700051",
-      "Version": "636",
-      "Name": "texlive-xecjk"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700052",
-      "Version": "636",
-      "Name": "texlive-xetex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700053",
-      "Version": "636",
-      "Name": "texlive-ifmtarg"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700054",
-      "Version": "636",
-      "Name": "texlive-mathspec"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700055",
-      "Version": "636",
-      "Name": "texlive-preprint"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700056",
-      "Version": "636",
-      "Name": "texlive-metalogo"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700057",
-      "Version": "636",
-      "Name": "texlive-scheme-basic"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700058",
-      "Version": "636",
-      "Name": "texlive-tabu"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700059",
-      "Version": "636",
-      "Name": "texlive-ulem"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700060",
-      "Version": "636",
-      "Name": "texlive-etoolbox"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700061",
-      "Version": "636",
-      "Name": "texlive-pst-fill"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700062",
-      "Version": "636",
-      "Name": "texlive-changebar"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700063",
-      "Version": "636",
-      "Name": "texlive-index"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700064",
-      "Version": "636",
-      "Name": "texlive-pxfonts"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700065",
-      "Version": "636",
-      "Name": "texlive-knuth-local"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700066",
-      "Version": "636",
-      "Name": "texlive-collection-latexrecommended"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700067",
-      "Version": "636",
-      "Name": "texlive-overpic"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700068",
-      "Version": "636",
-      "Name": "texlive-base"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700069",
-      "Version": "636",
-      "Name": "texlive-pst-tree"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700070",
-      "Version": "636",
-      "Name": "texlive-plain"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700071",
-      "Version": "636",
-      "Name": "texlive-lettrine"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700072",
-      "Version": "636",
-      "Name": "texlive-collectbox"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700073",
-      "Version": "636",
-      "Name": "texlive-pst-arrow"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700074",
-      "Version": "636",
-      "Name": "texlive-texlive-docindex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700075",
-      "Version": "636",
-      "Name": "texlive-texlive-msg-translations"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700076",
-      "Version": "636",
-      "Name": "texlive-bera"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700077",
-      "Version": "636",
-      "Name": "texlive-tabulary"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700078",
-      "Version": "636",
-      "Name": "texlive-tex-gyre"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700079",
-      "Version": "636",
-      "Name": "texlive-unicode-math"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700080",
-      "Version": "636",
-      "Name": "texlive-chngcntr"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700081",
-      "Version": "636",
-      "Name": "texlive-algorithms"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700082",
-      "Version": "636",
-      "Name": "texlive-showexpl"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700083",
-      "Version": "636",
-      "Name": "texlive-manfnt-font"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700084",
-      "Version": "636",
-      "Name": "texlive-adjustbox"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700085",
-      "Version": "636",
-      "Name": "texlive-subfig"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700086",
-      "Version": "636",
-      "Name": "texlive-geometry"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700087",
-      "Version": "636",
-      "Name": "texlive-realscripts"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700088",
-      "Version": "636",
-      "Name": "texlive-xetexconfig"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700089",
-      "Version": "636",
-      "Name": "texlive-wasysym"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700090",
-      "Version": "636",
-      "Name": "texlive-caption"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700091",
-      "Version": "636",
-      "Name": "texlive-enumitem"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700092",
-      "Version": "636",
-      "Name": "texlive-section"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700093",
-      "Version": "636",
-      "Name": "texlive-was"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700094",
-      "Version": "636",
-      "Name": "texlive-collection-basic"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700095",
-      "Version": "636",
-      "Name": "texlive-titling"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700096",
-      "Version": "636",
-      "Name": "texlive-extsizes"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700097",
-      "Version": "636",
-      "Name": "texlive-attachfile"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700098",
-      "Version": "636",
-      "Name": "texlive-symbol"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700099",
-      "Version": "636",
-      "Name": "texlive-tipa"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700100",
-      "Version": "636",
-      "Name": "texlive-tools"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700101",
-      "Version": "636",
-      "Name": "texlive-texlive-en"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700102",
-      "Version": "636",
-      "Name": "texlive-memoir"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700103",
-      "Version": "636",
-      "Name": "texlive-pst-coil"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700104",
-      "Version": "636",
-      "Name": "texlive-ntgclass"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700105",
-      "Version": "636",
-      "Name": "texlive-titlesec"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700106",
-      "Version": "636",
-      "Name": "texlive-microtype"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700107",
-      "Version": "636",
-      "Name": "texlive-amsfonts"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700108",
-      "Version": "636",
-      "Name": "texlive-mathtools"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700109",
-      "Version": "636",
-      "Name": "texlive-textpos"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700110",
-      "Version": "636",
-      "Name": "texlive-pst-blur"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700111",
-      "Version": "636",
-      "Name": "texlive-beton"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700112",
-      "Version": "636",
-      "Name": "texlive-xepersian"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700113",
-      "Version": "636",
-      "Name": "texlive-luatex85"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700114",
-      "Version": "636",
-      "Name": "texlive-underscore"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700115",
-      "Version": "636",
-      "Name": "texlive-ucs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700116",
-      "Version": "636",
-      "Name": "texlive-hyphen-base"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700117",
-      "Version": "636",
-      "Name": "texlive-ncctools"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700118",
-      "Version": "636",
-      "Name": "texlive-bibtex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700119",
-      "Version": "636",
-      "Name": "texlive-xesearch"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700120",
-      "Version": "636",
-      "Name": "texlive-texlive-common-doc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700121",
-      "Version": "636",
-      "Name": "texlive-mfware"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700122",
-      "Version": "636",
-      "Name": "texlive-tex-gyre-math"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700123",
-      "Version": "636",
-      "Name": "texlive"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700124",
-      "Version": "636",
-      "Name": "texlive-luatex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700125",
-      "Version": "636",
-      "Name": "texlive-fontwrap"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700126",
-      "Version": "636",
-      "Name": "texlive-sansmath"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700127",
-      "Version": "636",
-      "Name": "texlive-makeindex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700128",
-      "Version": "636",
-      "Name": "texlive-placeins"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700129",
-      "Version": "636",
-      "Name": "texlive-lineno"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700130",
-      "Version": "636",
-      "Name": "texlive-wadalab"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700131",
-      "Version": "636",
-      "Name": "texlive-avantgar"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700132",
-      "Version": "636",
-      "Name": "texlive-collection-latex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700133",
-      "Version": "636",
-      "Name": "texlive-lib-devel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700134",
-      "Version": "636",
-      "Name": "texlive-ifxetex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700135",
-      "Version": "636",
-      "Name": "texlive-latex2man"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700136",
-      "Version": "636",
-      "Name": "texlive-ncntrsbk"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700137",
-      "Version": "636",
-      "Name": "texlive-fmtcount"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700138",
-      "Version": "636",
-      "Name": "texlive-xecyr"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700139",
-      "Version": "636",
-      "Name": "texlive-finstrut"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700140",
-      "Version": "636",
-      "Name": "texlive-xetexfontinfo"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700141",
-      "Version": "636",
-      "Name": "texlive-fix2col"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700142",
-      "Version": "636",
-      "Name": "texlive-hyph-utf8"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700143",
-      "Version": "636",
-      "Name": "texlive-needspace"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700144",
-      "Version": "636",
-      "Name": "texlive-xeindex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700145",
-      "Version": "636",
-      "Name": "texlive-breakurl"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700146",
-      "Version": "636",
-      "Name": "texlive-stmaryrd"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700147",
-      "Version": "636",
-      "Name": "texlive-collection-htmlxml"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700148",
-      "Version": "636",
-      "Name": "texlive-xkeyval"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700149",
-      "Version": "636",
-      "Name": "texlive-jadetex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700150",
-      "Version": "636",
-      "Name": "texlive-xecolor"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700151",
-      "Version": "636",
-      "Name": "texlive-l3experimental"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700152",
-      "Version": "636",
-      "Name": "texlive-tex4ht"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700153",
-      "Version": "636",
-      "Name": "texlive-mflogo-font"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700154",
-      "Version": "636",
-      "Name": "texlive-epsf"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700155",
-      "Version": "636",
-      "Name": "texlive-ec"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700156",
-      "Version": "636",
-      "Name": "texlive-footmisc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700157",
-      "Version": "636",
-      "Name": "texlive-ifoddpage"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700158",
-      "Version": "636",
-      "Name": "texlive-graphics-def"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700159",
-      "Version": "636",
-      "Name": "texlive-zapfding"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700160",
-      "Version": "636",
-      "Name": "texlive-kpathsea"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700161",
-      "Version": "636",
-      "Name": "texlive-tocloft"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700162",
-      "Version": "636",
-      "Name": "texlive-tex-ini-files"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700163",
-      "Version": "636",
-      "Name": "texlive-updmap-map"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700164",
-      "Version": "636",
-      "Name": "texlive-xdvi"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700165",
-      "Version": "636",
-      "Name": "texlive-knuth-lib"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700166",
-      "Version": "636",
-      "Name": "texlive-seminar"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700167",
-      "Version": "636",
-      "Name": "texlive-url"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700168",
-      "Version": "636",
-      "Name": "texlive-etex-pkg"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700169",
-      "Version": "636",
-      "Name": "texlive-glyphlist"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700170",
-      "Version": "636",
-      "Name": "texlive-ctablestack"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700171",
-      "Version": "636",
-      "Name": "texlive-sauerj"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700172",
-      "Version": "636",
-      "Name": "texlive-changepage"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700173",
-      "Version": "636",
-      "Name": "texlive-norasi-c90"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700174",
-      "Version": "636",
-      "Name": "texlive-pgf"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700175",
-      "Version": "636",
-      "Name": "texlive-wasy"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700176",
-      "Version": "636",
-      "Name": "texlive-pst-eps"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700177",
-      "Version": "636",
-      "Name": "texlive-pspicture"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700178",
-      "Version": "636",
-      "Name": "texlive-environ"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700179",
-      "Version": "636",
-      "Name": "texlive-xunicode"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700180",
-      "Version": "636",
-      "Name": "texlive-xetex-pstricks"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700181",
-      "Version": "636",
-      "Name": "texlive-cmextra"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700182",
-      "Version": "636",
-      "Name": "texlive-cm"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700183",
-      "Version": "636",
-      "Name": "texlive-marvosym"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700184",
-      "Version": "636",
-      "Name": "texlive-mfnfss"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700185",
-      "Version": "636",
-      "Name": "texlive-fontware"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700186",
-      "Version": "636",
-      "Name": "texlive-pst-plot"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700187",
-      "Version": "636",
-      "Name": "texlive-fancyhdr"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700188",
-      "Version": "636",
-      "Name": "texlive-multirow"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700189",
-      "Version": "636",
-      "Name": "texlive-subfigure"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700190",
-      "Version": "636",
-      "Name": "texlive-multido"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700191",
-      "Version": "636",
-      "Name": "texlive-times"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700192",
-      "Version": "636",
-      "Name": "texlive-awesomebox"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700193",
-      "Version": "636",
-      "Name": "texlive-pst-grad"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700194",
-      "Version": "636",
-      "Name": "texlive-euler"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700195",
-      "Version": "636",
-      "Name": "texlive-carlisle"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700196",
-      "Version": "636",
-      "Name": "texlive-typehtml"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700197",
-      "Version": "636",
-      "Name": "texlive-bibtopic"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700198",
-      "Version": "636",
-      "Name": "texlive-paralist"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700199",
-      "Version": "636",
-      "Name": "texlive-palatino"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700200",
-      "Version": "636",
-      "Name": "texlive-metafont"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700201",
-      "Version": "636",
-      "Name": "texlive-xcolor"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700202",
-      "Version": "636",
-      "Name": "texlive-breqn"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700203",
-      "Version": "636",
-      "Name": "texlive-cns"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700204",
-      "Version": "636",
-      "Name": "texlive-fontspec"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700205",
-      "Version": "636",
-      "Name": "texlive-framed"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700206",
-      "Version": "636",
-      "Name": "texlive-ifetex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700207",
-      "Version": "636",
-      "Name": "texlive-currfile"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700208",
-      "Version": "636",
-      "Name": "texlive-fancyref"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700209",
-      "Version": "636",
-      "Name": "texlive-lm"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700210",
-      "Version": "636",
-      "Name": "texlive-ms"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700211",
-      "Version": "636",
-      "Name": "texlive-pst-node"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700212",
-      "Version": "636",
-      "Name": "texlive-lastpage"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700213",
-      "Version": "636",
-      "Name": "texlive-collection-fontsrecommended"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700214",
-      "Version": "636",
-      "Name": "texlive-fontbook"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700215",
-      "Version": "636",
-      "Name": "texlive-parskip"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700216",
-      "Version": "636",
-      "Name": "texlive-pst-math"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700217",
-      "Version": "636",
-      "Name": "texlive-koma-script"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700218",
-      "Version": "636",
-      "Name": "texlive-eso-pic"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700219",
-      "Version": "636",
-      "Name": "texlive-amsmath"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700220",
-      "Version": "636",
-      "Name": "texlive-ae"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700221",
-      "Version": "636",
-      "Name": "texlive-fancyvrb"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700222",
-      "Version": "636",
-      "Name": "texlive-cmap"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700223",
-      "Version": "636",
-      "Name": "texlive-fonts-tlwg"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700224",
-      "Version": "636",
-      "Name": "texlive-mdwtools"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700225",
-      "Version": "636",
-      "Name": "texlive-filehook"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700226",
-      "Version": "636",
-      "Name": "texlive-epstopdf"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700227",
-      "Version": "636",
-      "Name": "texlive-filecontents"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700228",
-      "Version": "636",
-      "Name": "texlive-psfrag"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700229",
-      "Version": "636",
-      "Name": "texlive-mptopdf"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700230",
-      "Version": "636",
-      "Name": "texlive-latexconfig"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700231",
-      "Version": "636",
-      "Name": "texlive-garuda-c90"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700232",
-      "Version": "636",
-      "Name": "texlive-pst-3d"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700233",
-      "Version": "636",
-      "Name": "texlive-soul"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700234",
-      "Version": "636",
-      "Name": "texlive-psnfss"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700235",
-      "Version": "636",
-      "Name": "texlive-eqparbox"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700236",
-      "Version": "636",
-      "Name": "texlive-latex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700237",
-      "Version": "636",
-      "Name": "texlive-anysize"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700238",
-      "Version": "636",
-      "Name": "texlive-lib"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700239",
-      "Version": "636",
-      "Name": "texlive-type1cm"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700240",
-      "Version": "636",
-      "Name": "texlive-linegoal"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700241",
-      "Version": "636",
-      "Name": "texlive-mflogo"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700242",
-      "Version": "636",
-      "Name": "texlive-gsftopk"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700243",
-      "Version": "636",
-      "Name": "texlive-bookman"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700244",
-      "Version": "636",
-      "Name": "texlive-babel-english"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700245",
-      "Version": "636",
-      "Name": "texlive-pstricks-add"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700246",
-      "Version": "636",
-      "Name": "texlive-ucharclasses"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700247",
-      "Version": "636",
-      "Name": "texlive-babelbib"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700248",
-      "Version": "636",
-      "Name": "texlive-pstricks"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700249",
-      "Version": "636",
-      "Name": "texlive-zapfchan"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700250",
-      "Version": "636",
-      "Name": "texlive-capt-of"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700251",
-      "Version": "636",
-      "Name": "texlive-mathpazo"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700252",
-      "Version": "636",
-      "Name": "texlive-passivetex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700253",
-      "Version": "636",
-      "Name": "texlive-textcase"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700254",
-      "Version": "636",
-      "Name": "texlive-polyglossia"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700255",
-      "Version": "636",
-      "Name": "texlive-eurosym"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700256",
-      "Version": "636",
-      "Name": "texlive-oberdiek"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700257",
-      "Version": "636",
-      "Name": "texlive-enctex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700258",
-      "Version": "636",
-      "Name": "texlive-luaotfload"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700259",
-      "Version": "636",
-      "Name": "texlive-unisugar"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700260",
-      "Version": "636",
-      "Name": "texlive-jknapltx"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700261",
-      "Version": "636",
-      "Name": "texlive-helvetic"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700262",
-      "Version": "636",
-      "Name": "texlive-collection-xetex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700263",
-      "Version": "636",
-      "Name": "texlive-t2"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700264",
-      "Version": "636",
-      "Name": "texlive-pdfpages"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700265",
-      "Version": "636",
-      "Name": "texlive-mparhack"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700266",
-      "Version": "636",
-      "Name": "texlive-upquote"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700267",
-      "Version": "636",
-      "Name": "texlive-pst-text"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700268",
-      "Version": "636",
-      "Name": "texlive-setspace"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700269",
-      "Version": "636",
-      "Name": "texlive-cm-lgc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700270",
-      "Version": "636",
-      "Name": "texlive-uhc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700271",
-      "Version": "636",
-      "Name": "texlive-lm-math"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700272",
-      "Version": "636",
-      "Name": "texlive-fp"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700273",
-      "Version": "636",
-      "Name": "texlive-booktabs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700274",
-      "Version": "636",
-      "Name": "texlive-eepic"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700275",
-      "Version": "636",
-      "Name": "texlive-wasy2-ps"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700276",
-      "Version": "636",
-      "Name": "texlive-xltxtra"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700277",
-      "Version": "636",
-      "Name": "texlive-varwidth"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700278",
-      "Version": "636",
-      "Name": "texlive-appendix"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700279",
-      "Version": "636",
-      "Name": "texlive-lua-alt-getopt"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700280",
-      "Version": "636",
-      "Name": "texlive-pst-slpe"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700281",
-      "Version": "636",
-      "Name": "texlive-hyphenat"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700282",
-      "Version": "636",
-      "Name": "texlive-luatexbase"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700283",
-      "Version": "636",
-      "Name": "texlive-crop"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700284",
-      "Version": "636",
-      "Name": "texlive-thumbpdf"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700285",
-      "Version": "636",
-      "Name": "texlive-xifthen"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700286",
-      "Version": "636",
-      "Name": "texlive-anyfontsize"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700287",
-      "Version": "636",
-      "Name": "texlive-metapost"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700288",
-      "Version": "636",
-      "Name": "texlive-rcs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700289",
-      "Version": "636",
-      "Name": "texlive-pslatex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700290",
-      "Version": "636",
-      "Name": "texlive-pst-tools"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700291",
-      "Version": "636",
-      "Name": "texlive-kastrup"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700292",
-      "Version": "636",
-      "Name": "texlive-listings"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700293",
-      "Version": "636",
-      "Name": "texlive-fixlatvian"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700294",
-      "Version": "636",
-      "Name": "texlive-lualatex-math"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700295",
-      "Version": "636",
-      "Name": "texlive-bigfoot"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700296",
-      "Version": "636",
-      "Name": "texlive-wrapfig"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700297",
-      "Version": "636",
-      "Name": "texlive-etex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700298",
-      "Version": "636",
-      "Name": "texlive-l3kernel"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700299",
-      "Version": "636",
-      "Name": "texlive-latex-fonts"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700300",
-      "Version": "636",
-      "Name": "texlive-txfonts"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700301",
-      "Version": "636",
-      "Name": "texlive-cm-super"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700302",
-      "Version": "636",
-      "Name": "texlive-import"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700303",
-      "Version": "636",
-      "Name": "texlive-philokalia"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700304",
-      "Version": "636",
-      "Name": "texlive-graphics-cfg"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700305",
-      "Version": "636",
-      "Name": "texlive-courier"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700306",
-      "Version": "636",
-      "Name": "texlive-kerkis"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700307",
-      "Version": "636",
-      "Name": "texlive-fontawesome"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700308",
-      "Version": "636",
-      "Name": "texlive-xmltex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700309",
-      "Version": "636",
-      "Name": "texlive-cite"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700310",
-      "Version": "636",
-      "Name": "texlive-lualibs"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700311",
-      "Version": "636",
-      "Name": "texlive-arabxetex"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700312",
-      "Version": "636",
-      "Name": "texlive-colortbl"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700313",
-      "Version": "636",
-      "Name": "texlive-euenc"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700314",
-      "Version": "636",
-      "Name": "texlive-threeparttable"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700315",
-      "Version": "636",
-      "Name": "texlive-ptext"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700316",
-      "Version": "636",
-      "Name": "texlive-euro"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700317",
-      "Version": "636",
-      "Name": "texlive-marginnote"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700318",
-      "Version": "636",
-      "Name": "texlive-xtab"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:202332700319",
-      "Version": "636",
-      "Name": "texlive-classpack"
-    },
-    {
       "ID": "oval:com.redhat.rhba:obj:20193416001",
       "Version": "637",
       "Name": "apache-commons-collections"
@@ -18844,6 +17249,1601 @@
       "ID": "oval:com.redhat.rhsa:obj:20233425003",
       "Version": "636",
       "Name": "cups-filters-libs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661001",
+      "Version": "637",
+      "Name": "texlive"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661002",
+      "Version": "637",
+      "Name": "texlive-adjustbox"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661003",
+      "Version": "637",
+      "Name": "texlive-ae"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661004",
+      "Version": "637",
+      "Name": "texlive-algorithms"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661005",
+      "Version": "637",
+      "Name": "texlive-amscls"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661006",
+      "Version": "637",
+      "Name": "texlive-amsfonts"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661007",
+      "Version": "637",
+      "Name": "texlive-amsmath"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661008",
+      "Version": "637",
+      "Name": "texlive-anyfontsize"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661009",
+      "Version": "637",
+      "Name": "texlive-anysize"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661010",
+      "Version": "637",
+      "Name": "texlive-appendix"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661011",
+      "Version": "637",
+      "Name": "texlive-arabxetex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661012",
+      "Version": "637",
+      "Name": "texlive-arphic"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661013",
+      "Version": "637",
+      "Name": "texlive-attachfile"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661014",
+      "Version": "637",
+      "Name": "texlive-avantgar"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661015",
+      "Version": "637",
+      "Name": "texlive-awesomebox"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661016",
+      "Version": "637",
+      "Name": "texlive-babel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661017",
+      "Version": "637",
+      "Name": "texlive-babel-english"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661018",
+      "Version": "637",
+      "Name": "texlive-babelbib"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661019",
+      "Version": "637",
+      "Name": "texlive-base"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661020",
+      "Version": "637",
+      "Name": "texlive-beamer"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661021",
+      "Version": "637",
+      "Name": "texlive-bera"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661022",
+      "Version": "637",
+      "Name": "texlive-beton"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661023",
+      "Version": "637",
+      "Name": "texlive-bibtex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661024",
+      "Version": "637",
+      "Name": "texlive-bibtopic"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661025",
+      "Version": "637",
+      "Name": "texlive-bidi"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661026",
+      "Version": "637",
+      "Name": "texlive-bigfoot"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661027",
+      "Version": "637",
+      "Name": "texlive-bookman"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661028",
+      "Version": "637",
+      "Name": "texlive-booktabs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661029",
+      "Version": "637",
+      "Name": "texlive-breakurl"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661030",
+      "Version": "637",
+      "Name": "texlive-breqn"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661031",
+      "Version": "637",
+      "Name": "texlive-capt-of"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661032",
+      "Version": "637",
+      "Name": "texlive-caption"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661033",
+      "Version": "637",
+      "Name": "texlive-carlisle"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661034",
+      "Version": "637",
+      "Name": "texlive-changebar"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661035",
+      "Version": "637",
+      "Name": "texlive-changepage"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661036",
+      "Version": "637",
+      "Name": "texlive-charter"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661037",
+      "Version": "637",
+      "Name": "texlive-chngcntr"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661038",
+      "Version": "637",
+      "Name": "texlive-cite"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661039",
+      "Version": "637",
+      "Name": "texlive-cjk"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661040",
+      "Version": "637",
+      "Name": "texlive-classpack"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661041",
+      "Version": "637",
+      "Name": "texlive-cm"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661042",
+      "Version": "637",
+      "Name": "texlive-cm-lgc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661043",
+      "Version": "637",
+      "Name": "texlive-cm-super"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661044",
+      "Version": "637",
+      "Name": "texlive-cmap"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661045",
+      "Version": "637",
+      "Name": "texlive-cmextra"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661046",
+      "Version": "637",
+      "Name": "texlive-cns"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661047",
+      "Version": "637",
+      "Name": "texlive-collectbox"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661048",
+      "Version": "637",
+      "Name": "texlive-collection-basic"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661049",
+      "Version": "637",
+      "Name": "texlive-collection-fontsrecommended"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661050",
+      "Version": "637",
+      "Name": "texlive-collection-htmlxml"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661051",
+      "Version": "637",
+      "Name": "texlive-collection-latex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661052",
+      "Version": "637",
+      "Name": "texlive-collection-latexrecommended"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661053",
+      "Version": "637",
+      "Name": "texlive-collection-xetex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661054",
+      "Version": "637",
+      "Name": "texlive-colortbl"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661055",
+      "Version": "637",
+      "Name": "texlive-context"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661056",
+      "Version": "637",
+      "Name": "texlive-courier"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661057",
+      "Version": "637",
+      "Name": "texlive-crop"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661058",
+      "Version": "637",
+      "Name": "texlive-csquotes"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661059",
+      "Version": "637",
+      "Name": "texlive-ctable"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661060",
+      "Version": "637",
+      "Name": "texlive-ctablestack"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661061",
+      "Version": "637",
+      "Name": "texlive-currfile"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661062",
+      "Version": "637",
+      "Name": "texlive-datetime"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661063",
+      "Version": "637",
+      "Name": "texlive-dvipdfmx"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661064",
+      "Version": "637",
+      "Name": "texlive-dvipng"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661065",
+      "Version": "637",
+      "Name": "texlive-dvips"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661066",
+      "Version": "637",
+      "Name": "texlive-dvisvgm"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661067",
+      "Version": "637",
+      "Name": "texlive-ec"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661068",
+      "Version": "637",
+      "Name": "texlive-eepic"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661069",
+      "Version": "637",
+      "Name": "texlive-enctex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661070",
+      "Version": "637",
+      "Name": "texlive-enumitem"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661071",
+      "Version": "637",
+      "Name": "texlive-environ"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661072",
+      "Version": "637",
+      "Name": "texlive-epsf"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661073",
+      "Version": "637",
+      "Name": "texlive-epstopdf"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661074",
+      "Version": "637",
+      "Name": "texlive-eqparbox"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661075",
+      "Version": "637",
+      "Name": "texlive-eso-pic"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661076",
+      "Version": "637",
+      "Name": "texlive-etex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661077",
+      "Version": "637",
+      "Name": "texlive-etex-pkg"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661078",
+      "Version": "637",
+      "Name": "texlive-etoolbox"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661079",
+      "Version": "637",
+      "Name": "texlive-euenc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661080",
+      "Version": "637",
+      "Name": "texlive-euler"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661081",
+      "Version": "637",
+      "Name": "texlive-euro"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661082",
+      "Version": "637",
+      "Name": "texlive-eurosym"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661083",
+      "Version": "637",
+      "Name": "texlive-extsizes"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661084",
+      "Version": "637",
+      "Name": "texlive-fancybox"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661085",
+      "Version": "637",
+      "Name": "texlive-fancyhdr"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661086",
+      "Version": "637",
+      "Name": "texlive-fancyref"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661087",
+      "Version": "637",
+      "Name": "texlive-fancyvrb"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661088",
+      "Version": "637",
+      "Name": "texlive-filecontents"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661089",
+      "Version": "637",
+      "Name": "texlive-filehook"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661090",
+      "Version": "637",
+      "Name": "texlive-finstrut"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661091",
+      "Version": "637",
+      "Name": "texlive-fix2col"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661092",
+      "Version": "637",
+      "Name": "texlive-fixlatvian"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661093",
+      "Version": "637",
+      "Name": "texlive-float"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661094",
+      "Version": "637",
+      "Name": "texlive-fmtcount"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661095",
+      "Version": "637",
+      "Name": "texlive-fncychap"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661096",
+      "Version": "637",
+      "Name": "texlive-fontawesome"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661097",
+      "Version": "637",
+      "Name": "texlive-fontbook"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661098",
+      "Version": "637",
+      "Name": "texlive-fonts-tlwg"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661099",
+      "Version": "637",
+      "Name": "texlive-fontspec"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661100",
+      "Version": "637",
+      "Name": "texlive-fontware"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661101",
+      "Version": "637",
+      "Name": "texlive-fontwrap"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661102",
+      "Version": "637",
+      "Name": "texlive-footmisc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661103",
+      "Version": "637",
+      "Name": "texlive-fp"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661104",
+      "Version": "637",
+      "Name": "texlive-fpl"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661105",
+      "Version": "637",
+      "Name": "texlive-framed"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661106",
+      "Version": "637",
+      "Name": "texlive-garuda-c90"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661107",
+      "Version": "637",
+      "Name": "texlive-geometry"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661108",
+      "Version": "637",
+      "Name": "texlive-glyphlist"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661109",
+      "Version": "637",
+      "Name": "texlive-graphics"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661110",
+      "Version": "637",
+      "Name": "texlive-graphics-cfg"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661111",
+      "Version": "637",
+      "Name": "texlive-graphics-def"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661112",
+      "Version": "637",
+      "Name": "texlive-gsftopk"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661113",
+      "Version": "637",
+      "Name": "texlive-helvetic"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661114",
+      "Version": "637",
+      "Name": "texlive-hyperref"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661115",
+      "Version": "637",
+      "Name": "texlive-hyph-utf8"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661116",
+      "Version": "637",
+      "Name": "texlive-hyphen-base"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661117",
+      "Version": "637",
+      "Name": "texlive-hyphenat"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661118",
+      "Version": "637",
+      "Name": "texlive-ifetex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661119",
+      "Version": "637",
+      "Name": "texlive-ifluatex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661120",
+      "Version": "637",
+      "Name": "texlive-ifmtarg"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661121",
+      "Version": "637",
+      "Name": "texlive-ifoddpage"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661122",
+      "Version": "637",
+      "Name": "texlive-iftex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661123",
+      "Version": "637",
+      "Name": "texlive-ifxetex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661124",
+      "Version": "637",
+      "Name": "texlive-import"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661125",
+      "Version": "637",
+      "Name": "texlive-index"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661126",
+      "Version": "637",
+      "Name": "texlive-jadetex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661127",
+      "Version": "637",
+      "Name": "texlive-jknapltx"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661128",
+      "Version": "637",
+      "Name": "texlive-kastrup"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661129",
+      "Version": "637",
+      "Name": "texlive-kerkis"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661130",
+      "Version": "637",
+      "Name": "texlive-knuth-lib"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661131",
+      "Version": "637",
+      "Name": "texlive-knuth-local"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661132",
+      "Version": "637",
+      "Name": "texlive-koma-script"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661133",
+      "Version": "637",
+      "Name": "texlive-kpathsea"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661134",
+      "Version": "637",
+      "Name": "texlive-l3experimental"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661135",
+      "Version": "637",
+      "Name": "texlive-l3kernel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661136",
+      "Version": "637",
+      "Name": "texlive-l3packages"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661137",
+      "Version": "637",
+      "Name": "texlive-lastpage"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661138",
+      "Version": "637",
+      "Name": "texlive-latex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661139",
+      "Version": "637",
+      "Name": "texlive-latex-fonts"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661140",
+      "Version": "637",
+      "Name": "texlive-latex2man"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661141",
+      "Version": "637",
+      "Name": "texlive-latexconfig"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661142",
+      "Version": "637",
+      "Name": "texlive-lettrine"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661143",
+      "Version": "637",
+      "Name": "texlive-lib"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661144",
+      "Version": "637",
+      "Name": "texlive-lib-devel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661145",
+      "Version": "637",
+      "Name": "texlive-linegoal"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661146",
+      "Version": "637",
+      "Name": "texlive-lineno"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661147",
+      "Version": "637",
+      "Name": "texlive-listings"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661148",
+      "Version": "637",
+      "Name": "texlive-lm"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661149",
+      "Version": "637",
+      "Name": "texlive-lm-math"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661150",
+      "Version": "637",
+      "Name": "texlive-ltabptch"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661151",
+      "Version": "637",
+      "Name": "texlive-ltxmisc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661152",
+      "Version": "637",
+      "Name": "texlive-lua-alt-getopt"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661153",
+      "Version": "637",
+      "Name": "texlive-lualatex-math"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661154",
+      "Version": "637",
+      "Name": "texlive-lualibs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661155",
+      "Version": "637",
+      "Name": "texlive-luaotfload"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661156",
+      "Version": "637",
+      "Name": "texlive-luatex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661157",
+      "Version": "637",
+      "Name": "texlive-luatex85"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661158",
+      "Version": "637",
+      "Name": "texlive-luatexbase"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661159",
+      "Version": "637",
+      "Name": "texlive-makecmds"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661160",
+      "Version": "637",
+      "Name": "texlive-makeindex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661161",
+      "Version": "637",
+      "Name": "texlive-manfnt-font"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661162",
+      "Version": "637",
+      "Name": "texlive-marginnote"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661163",
+      "Version": "637",
+      "Name": "texlive-marvosym"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661164",
+      "Version": "637",
+      "Name": "texlive-mathpazo"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661165",
+      "Version": "637",
+      "Name": "texlive-mathspec"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661166",
+      "Version": "637",
+      "Name": "texlive-mathtools"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661167",
+      "Version": "637",
+      "Name": "texlive-mdwtools"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661168",
+      "Version": "637",
+      "Name": "texlive-memoir"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661169",
+      "Version": "637",
+      "Name": "texlive-metafont"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661170",
+      "Version": "637",
+      "Name": "texlive-metalogo"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661171",
+      "Version": "637",
+      "Name": "texlive-metapost"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661172",
+      "Version": "637",
+      "Name": "texlive-mflogo"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661173",
+      "Version": "637",
+      "Name": "texlive-mflogo-font"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661174",
+      "Version": "637",
+      "Name": "texlive-mfnfss"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661175",
+      "Version": "637",
+      "Name": "texlive-mfware"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661176",
+      "Version": "637",
+      "Name": "texlive-microtype"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661177",
+      "Version": "637",
+      "Name": "texlive-mnsymbol"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661178",
+      "Version": "637",
+      "Name": "texlive-mparhack"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661179",
+      "Version": "637",
+      "Name": "texlive-mptopdf"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661180",
+      "Version": "637",
+      "Name": "texlive-ms"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661181",
+      "Version": "637",
+      "Name": "texlive-multido"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661182",
+      "Version": "637",
+      "Name": "texlive-multirow"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661183",
+      "Version": "637",
+      "Name": "texlive-natbib"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661184",
+      "Version": "637",
+      "Name": "texlive-ncctools"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661185",
+      "Version": "637",
+      "Name": "texlive-ncntrsbk"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661186",
+      "Version": "637",
+      "Name": "texlive-needspace"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661187",
+      "Version": "637",
+      "Name": "texlive-norasi-c90"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661188",
+      "Version": "637",
+      "Name": "texlive-ntgclass"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661189",
+      "Version": "637",
+      "Name": "texlive-oberdiek"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661190",
+      "Version": "637",
+      "Name": "texlive-overpic"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661191",
+      "Version": "637",
+      "Name": "texlive-palatino"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661192",
+      "Version": "637",
+      "Name": "texlive-paralist"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661193",
+      "Version": "637",
+      "Name": "texlive-parallel"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661194",
+      "Version": "637",
+      "Name": "texlive-parskip"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661195",
+      "Version": "637",
+      "Name": "texlive-passivetex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661196",
+      "Version": "637",
+      "Name": "texlive-pdfpages"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661197",
+      "Version": "637",
+      "Name": "texlive-pdftex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661198",
+      "Version": "637",
+      "Name": "texlive-pgf"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661199",
+      "Version": "637",
+      "Name": "texlive-philokalia"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661200",
+      "Version": "637",
+      "Name": "texlive-placeins"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661201",
+      "Version": "637",
+      "Name": "texlive-plain"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661202",
+      "Version": "637",
+      "Name": "texlive-polyglossia"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661203",
+      "Version": "637",
+      "Name": "texlive-powerdot"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661204",
+      "Version": "637",
+      "Name": "texlive-preprint"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661205",
+      "Version": "637",
+      "Name": "texlive-psfrag"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661206",
+      "Version": "637",
+      "Name": "texlive-pslatex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661207",
+      "Version": "637",
+      "Name": "texlive-psnfss"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661208",
+      "Version": "637",
+      "Name": "texlive-pspicture"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661209",
+      "Version": "637",
+      "Name": "texlive-pst-3d"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661210",
+      "Version": "637",
+      "Name": "texlive-pst-arrow"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661211",
+      "Version": "637",
+      "Name": "texlive-pst-blur"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661212",
+      "Version": "637",
+      "Name": "texlive-pst-coil"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661213",
+      "Version": "637",
+      "Name": "texlive-pst-eps"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661214",
+      "Version": "637",
+      "Name": "texlive-pst-fill"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661215",
+      "Version": "637",
+      "Name": "texlive-pst-grad"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661216",
+      "Version": "637",
+      "Name": "texlive-pst-math"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661217",
+      "Version": "637",
+      "Name": "texlive-pst-node"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661218",
+      "Version": "637",
+      "Name": "texlive-pst-plot"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661219",
+      "Version": "637",
+      "Name": "texlive-pst-slpe"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661220",
+      "Version": "637",
+      "Name": "texlive-pst-text"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661221",
+      "Version": "637",
+      "Name": "texlive-pst-tools"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661222",
+      "Version": "637",
+      "Name": "texlive-pst-tree"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661223",
+      "Version": "637",
+      "Name": "texlive-pstricks"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661224",
+      "Version": "637",
+      "Name": "texlive-pstricks-add"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661225",
+      "Version": "637",
+      "Name": "texlive-ptext"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661226",
+      "Version": "637",
+      "Name": "texlive-pxfonts"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661227",
+      "Version": "637",
+      "Name": "texlive-qstest"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661228",
+      "Version": "637",
+      "Name": "texlive-rcs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661229",
+      "Version": "637",
+      "Name": "texlive-realscripts"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661230",
+      "Version": "637",
+      "Name": "texlive-rsfs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661231",
+      "Version": "637",
+      "Name": "texlive-sansmath"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661232",
+      "Version": "637",
+      "Name": "texlive-sauerj"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661233",
+      "Version": "637",
+      "Name": "texlive-scheme-basic"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661234",
+      "Version": "637",
+      "Name": "texlive-section"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661235",
+      "Version": "637",
+      "Name": "texlive-sectsty"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661236",
+      "Version": "637",
+      "Name": "texlive-seminar"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661237",
+      "Version": "637",
+      "Name": "texlive-sepnum"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661238",
+      "Version": "637",
+      "Name": "texlive-setspace"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661239",
+      "Version": "637",
+      "Name": "texlive-showexpl"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661240",
+      "Version": "637",
+      "Name": "texlive-soul"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661241",
+      "Version": "637",
+      "Name": "texlive-stmaryrd"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661242",
+      "Version": "637",
+      "Name": "texlive-subfig"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661243",
+      "Version": "637",
+      "Name": "texlive-subfigure"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661244",
+      "Version": "637",
+      "Name": "texlive-svn-prov"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661245",
+      "Version": "637",
+      "Name": "texlive-symbol"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661246",
+      "Version": "637",
+      "Name": "texlive-t2"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661247",
+      "Version": "637",
+      "Name": "texlive-tabu"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661248",
+      "Version": "637",
+      "Name": "texlive-tabulary"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661249",
+      "Version": "637",
+      "Name": "texlive-tetex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661250",
+      "Version": "637",
+      "Name": "texlive-tex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661251",
+      "Version": "637",
+      "Name": "texlive-tex-gyre"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661252",
+      "Version": "637",
+      "Name": "texlive-tex-gyre-math"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661253",
+      "Version": "637",
+      "Name": "texlive-tex-ini-files"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661254",
+      "Version": "637",
+      "Name": "texlive-tex4ht"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661255",
+      "Version": "637",
+      "Name": "texlive-texconfig"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661256",
+      "Version": "637",
+      "Name": "texlive-texlive-common-doc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661257",
+      "Version": "637",
+      "Name": "texlive-texlive-docindex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661258",
+      "Version": "637",
+      "Name": "texlive-texlive-en"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661259",
+      "Version": "637",
+      "Name": "texlive-texlive-msg-translations"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661260",
+      "Version": "637",
+      "Name": "texlive-texlive-scripts"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661261",
+      "Version": "637",
+      "Name": "texlive-texlive.infra"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661262",
+      "Version": "637",
+      "Name": "texlive-textcase"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661263",
+      "Version": "637",
+      "Name": "texlive-textpos"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661264",
+      "Version": "637",
+      "Name": "texlive-threeparttable"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661265",
+      "Version": "637",
+      "Name": "texlive-thumbpdf"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661266",
+      "Version": "637",
+      "Name": "texlive-times"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661267",
+      "Version": "637",
+      "Name": "texlive-tipa"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661268",
+      "Version": "637",
+      "Name": "texlive-titlesec"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661269",
+      "Version": "637",
+      "Name": "texlive-titling"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661270",
+      "Version": "637",
+      "Name": "texlive-tocloft"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661271",
+      "Version": "637",
+      "Name": "texlive-tools"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661272",
+      "Version": "637",
+      "Name": "texlive-translator"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661273",
+      "Version": "637",
+      "Name": "texlive-trimspaces"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661274",
+      "Version": "637",
+      "Name": "texlive-txfonts"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661275",
+      "Version": "637",
+      "Name": "texlive-type1cm"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661276",
+      "Version": "637",
+      "Name": "texlive-typehtml"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661277",
+      "Version": "637",
+      "Name": "texlive-ucharclasses"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661278",
+      "Version": "637",
+      "Name": "texlive-ucs"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661279",
+      "Version": "637",
+      "Name": "texlive-uhc"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661280",
+      "Version": "637",
+      "Name": "texlive-ulem"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661281",
+      "Version": "637",
+      "Name": "texlive-underscore"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661282",
+      "Version": "637",
+      "Name": "texlive-unicode-data"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661283",
+      "Version": "637",
+      "Name": "texlive-unicode-math"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661284",
+      "Version": "637",
+      "Name": "texlive-unisugar"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661285",
+      "Version": "637",
+      "Name": "texlive-updmap-map"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661286",
+      "Version": "637",
+      "Name": "texlive-upquote"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661287",
+      "Version": "637",
+      "Name": "texlive-url"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661288",
+      "Version": "637",
+      "Name": "texlive-utopia"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661289",
+      "Version": "637",
+      "Name": "texlive-varwidth"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661290",
+      "Version": "637",
+      "Name": "texlive-wadalab"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661291",
+      "Version": "637",
+      "Name": "texlive-was"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661292",
+      "Version": "637",
+      "Name": "texlive-wasy"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661293",
+      "Version": "637",
+      "Name": "texlive-wasy2-ps"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661294",
+      "Version": "637",
+      "Name": "texlive-wasysym"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661295",
+      "Version": "637",
+      "Name": "texlive-wrapfig"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661296",
+      "Version": "637",
+      "Name": "texlive-xcolor"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661297",
+      "Version": "637",
+      "Name": "texlive-xdvi"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661298",
+      "Version": "637",
+      "Name": "texlive-xecjk"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661299",
+      "Version": "637",
+      "Name": "texlive-xecolor"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661300",
+      "Version": "637",
+      "Name": "texlive-xecyr"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661301",
+      "Version": "637",
+      "Name": "texlive-xeindex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661302",
+      "Version": "637",
+      "Name": "texlive-xepersian"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661303",
+      "Version": "637",
+      "Name": "texlive-xesearch"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661304",
+      "Version": "637",
+      "Name": "texlive-xetex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661305",
+      "Version": "637",
+      "Name": "texlive-xetex-itrans"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661306",
+      "Version": "637",
+      "Name": "texlive-xetex-pstricks"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661307",
+      "Version": "637",
+      "Name": "texlive-xetex-tibetan"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661308",
+      "Version": "637",
+      "Name": "texlive-xetexconfig"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661309",
+      "Version": "637",
+      "Name": "texlive-xetexfontinfo"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661310",
+      "Version": "637",
+      "Name": "texlive-xifthen"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661311",
+      "Version": "637",
+      "Name": "texlive-xkeyval"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661312",
+      "Version": "637",
+      "Name": "texlive-xltxtra"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661313",
+      "Version": "637",
+      "Name": "texlive-xmltex"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661314",
+      "Version": "637",
+      "Name": "texlive-xmltexconfig"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661315",
+      "Version": "637",
+      "Name": "texlive-xstring"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661316",
+      "Version": "637",
+      "Name": "texlive-xtab"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661317",
+      "Version": "637",
+      "Name": "texlive-xunicode"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661318",
+      "Version": "637",
+      "Name": "texlive-zapfchan"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233661319",
+      "Version": "637",
+      "Name": "texlive-zapfding"
     },
     {
       "ID": "oval:com.redhat.unaffected:obj:19990428005",

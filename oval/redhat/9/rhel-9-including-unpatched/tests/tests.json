@@ -20220,7 +20220,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apache-commons-net is installed",
+      "Comment": "log4j-jcl is installed",
       "ID": "oval:com.redhat.cve:tst:202137533001",
       "Version": "636",
       "Object": {
@@ -20230,7 +20230,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "apache-commons-net is signed with Red Hat redhatrelease2 key",
+      "Comment": "log4j-jcl is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202137533002",
       "Version": "636",
       "Object": {
@@ -20242,7 +20242,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "log4j-slf4j is installed",
+      "Comment": "apache-commons-net is installed",
       "ID": "oval:com.redhat.cve:tst:202137533003",
       "Version": "636",
       "Object": {
@@ -20252,7 +20252,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "log4j-slf4j is signed with Red Hat redhatrelease2 key",
+      "Comment": "apache-commons-net is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202137533004",
       "Version": "636",
       "Object": {
@@ -20264,7 +20264,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "log4j-jcl is installed",
+      "Comment": "log4j is installed",
       "ID": "oval:com.redhat.cve:tst:202137533005",
       "Version": "636",
       "Object": {
@@ -20274,7 +20274,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "log4j-jcl is signed with Red Hat redhatrelease2 key",
+      "Comment": "log4j is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202137533006",
       "Version": "636",
       "Object": {
@@ -20286,7 +20286,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "log4j is installed",
+      "Comment": "log4j-slf4j is installed",
       "ID": "oval:com.redhat.cve:tst:202137533007",
       "Version": "636",
       "Object": {
@@ -20296,7 +20296,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "log4j is signed with Red Hat redhatrelease2 key",
+      "Comment": "log4j-slf4j is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202137533008",
       "Version": "636",
       "Object": {
@@ -30538,7 +30538,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "open-vm-tools-sdmp is installed",
+      "Comment": "open-vm-tools-desktop is installed",
       "ID": "oval:com.redhat.cve:tst:202320867001",
       "Version": "636",
       "Object": {
@@ -30548,7 +30548,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "open-vm-tools-sdmp is signed with Red Hat redhatrelease2 key",
+      "Comment": "open-vm-tools-desktop is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202320867002",
       "Version": "636",
       "Object": {
@@ -30604,7 +30604,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "open-vm-tools-desktop is installed",
+      "Comment": "open-vm-tools-sdmp is installed",
       "ID": "oval:com.redhat.cve:tst:202320867007",
       "Version": "636",
       "Object": {
@@ -30614,7 +30614,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "open-vm-tools-desktop is signed with Red Hat redhatrelease2 key",
+      "Comment": "open-vm-tools-sdmp is signed with Red Hat redhatrelease2 key",
       "ID": "oval:com.redhat.cve:tst:202320867008",
       "Version": "636",
       "Object": {
@@ -39967,7 +39967,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20226358003",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202320867004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20226358001"
@@ -39979,7 +39979,7 @@
       "ID": "oval:com.redhat.rhsa:tst:20226358005",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202320867001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867004"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20226358003"
@@ -65576,11 +65576,11 @@
     },
     {
       "Check": "at least one",
-      "Comment": "nodejs is earlier than 1:16.19.1-1.el9_2",
+      "Comment": "nodejs-nodemon is earlier than 0:2.0.20-3.el9_2",
       "ID": "oval:com.redhat.rhsa:tst:20232655001",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202127290001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202135065002"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232655001"
@@ -65588,11 +65588,11 @@
     },
     {
       "Check": "at least one",
-      "Comment": "nodejs-docs is earlier than 1:16.19.1-1.el9_2",
+      "Comment": "nodejs is earlier than 1:16.19.1-1.el9_2",
       "ID": "oval:com.redhat.rhsa:tst:20232655003",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202127290004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202127290001"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232655003"
@@ -65600,23 +65600,11 @@
     },
     {
       "Check": "at least one",
-      "Comment": "nodejs-full-i18n is earlier than 1:16.19.1-1.el9_2",
+      "Comment": "nodejs-docs is earlier than 1:16.19.1-1.el9_2",
       "ID": "oval:com.redhat.rhsa:tst:20232655005",
       "Version": "635",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202127290003"
-      },
-      "State": {
-        "StateRef": "oval:com.redhat.rhsa:ste:20232655001"
-      }
-    },
-    {
-      "Check": "at least one",
-      "Comment": "nodejs-libs is earlier than 1:16.19.1-1.el9_2",
-      "ID": "oval:com.redhat.rhsa:tst:20232655007",
-      "Version": "635",
-      "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202127290007"
+        "ObjectRef": "oval:com.redhat.cve:obj:202127290004"
       },
       "State": {
         "StateRef": "oval:com.redhat.rhsa:ste:20232655004"
@@ -65624,14 +65612,38 @@
     },
     {
       "Check": "at least one",
-      "Comment": "npm is earlier than 1:8.19.3-1.16.19.1.1.el9_2",
+      "Comment": "nodejs-full-i18n is earlier than 1:16.19.1-1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20232655007",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202127290003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232655003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "nodejs-libs is earlier than 1:16.19.1-1.el9_2",
       "ID": "oval:com.redhat.rhsa:tst:20232655009",
+      "Version": "635",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:202127290007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20232655005"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "npm is earlier than 1:8.19.3-1.16.19.1.1.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20232655011",
       "Version": "635",
       "Object": {
         "ObjectRef": "oval:com.redhat.cve:obj:202127290002"
       },
       "State": {
-        "StateRef": "oval:com.redhat.rhsa:ste:20232655005"
+        "StateRef": "oval:com.redhat.rhsa:ste:20232655006"
       }
     },
     {
@@ -66896,6 +66908,4458 @@
     },
     {
       "Check": "at least one",
+      "Comment": "texlive is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661001",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513229"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-adjustbox is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661003",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513044"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ae is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661005",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513170"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-algorithms is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661007",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513016"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-alphalph is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661009",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513280"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-amscls is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661011",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513121"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-amsfonts is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661013",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513328"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-amsmath is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661015",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513337"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-anyfontsize is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661017",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513267"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-anysize is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661019",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513289"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-appendix is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661021",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513190"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-arabxetex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661023",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513243"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-arphic is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661025",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513217"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-atbegshi is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661027",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513251"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-attachfile is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661029",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513124"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-attachfile2 is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661031",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513185"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-atveryend is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661033",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513249"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-auxhook is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661035",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513238"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-avantgar is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661037",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513061"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-awesomebox is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661039",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513343"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-babel is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661041",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513160"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-babel-english is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661043",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513281"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-babelbib is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661045",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513119"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-base is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661047",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513128"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-beamer is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661049",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513188"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-bera is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661051",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513293"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-beton is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661053",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513315"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-bibtex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661055",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513288"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-bibtopic is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661057",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513037"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-bidi is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661059",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513065"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-bigfoot is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661061",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513136"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-bigintcalc is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661063",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513351"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-bitset is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661065",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513172"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-bookman is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661067",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513075"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-bookmark is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661069",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513284"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-booktabs is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661071",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513363"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-breakurl is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661073",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513279"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-breqn is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661075",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513245"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-capt-of is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661077",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513021"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-caption is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661079",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513049"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-carlisle is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661081",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513368"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-catchfile is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661083",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513178"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-changebar is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661085",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513227"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-changepage is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661087",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513115"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-charter is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661089",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513079"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-chngcntr is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661091",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513211"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-cite is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661093",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513072"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-cjk is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661095",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513347"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-classpack is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661097",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513154"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-cm is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661099",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513307"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-cm-lgc is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661101",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513024"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-cm-super is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661103",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513244"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-cmap is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661105",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513010"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-cmextra is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661107",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513252"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-cns is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661109",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513017"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-collectbox is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661111",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513175"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-collection-basic is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661113",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513164"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-collection-fontsrecommended is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661115",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513254"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-collection-htmlxml is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661117",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513268"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-collection-latex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661119",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513193"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-collection-latexrecommended is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661121",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513070"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-collection-xetex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661123",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513064"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-colorprofiles is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661125",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513348"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-colortbl is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661127",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513196"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-context is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661129",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513142"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-courier is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661131",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513237"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-crop is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661133",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513068"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-csquotes is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661135",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513054"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ctable is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661137",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513301"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ctablestack is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661139",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513096"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-currfile is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661141",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513285"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-datetime is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661143",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513161"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-dehyph is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661145",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513352"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-dvipdfmx is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661147",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513266"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-dvipng is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661149",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513341"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-dvips is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661151",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513048"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-dvisvgm is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661153",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513300"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ec is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661155",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513019"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-eepic is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661157",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513187"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-enctex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661159",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513091"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-enumitem is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661161",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513236"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-environ is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661163",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513103"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-epsf is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661165",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513140"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-epstopdf is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661167",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513123"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-epstopdf-pkg is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661169",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513216"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-eqparbox is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661171",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513105"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-eso-pic is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661173",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513287"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-etex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661175",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513036"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-etex-pkg is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661177",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513080"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-etexcmds is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661179",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513197"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-etoc is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661181",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513082"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-etoolbox is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661183",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513296"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-euenc is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661185",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513234"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-euler is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661187",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513356"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-euro is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661189",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513329"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-eurosym is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661191",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513367"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-extsizes is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661193",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513339"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-fancybox is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661195",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513221"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-fancyhdr is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661197",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513277"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-fancyref is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661199",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513117"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-fancyvrb is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661201",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513106"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-filecontents is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661203",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513025"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-filehook is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661205",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513322"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-finstrut is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661207",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513162"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-fix2col is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661209",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513110"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-fixlatvian is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661211",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513182"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-float is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661213",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513180"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-fmtcount is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661215",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513153"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-fncychap is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661217",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513355"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-fontawesome is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661219",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513362"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-fontbook is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661221",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513174"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-fonts-tlwg is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661223",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513321"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-fontspec is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661225",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513004"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-fontware is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661227",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513089"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-fontwrap is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661229",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513231"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-footmisc is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661231",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513274"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-footnotehyper is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661233",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513345"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-fp is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661235",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513303"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-fpl is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661237",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513069"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-framed is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661239",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513146"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-garuda-c90 is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661241",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513213"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-geometry is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661243",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513371"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-gettitlestring is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661245",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513176"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-glyphlist is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661247",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513324"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-gnu-freefont is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661249",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513350"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-graphics is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661251",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513332"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-graphics-cfg is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661253",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513132"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-graphics-def is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661255",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513015"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-grfext is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661257",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513116"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-grffile is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661259",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513152"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-gsftopk is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661261",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513094"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-hanging is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661263",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513295"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-helvetic is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661265",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513320"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-hobsub is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661267",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513327"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-hologo is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661269",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513005"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-hycolor is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661271",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513361"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-hyperref is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661273",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513208"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-hyph-utf8 is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661275",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513342"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-hyphen-base is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661277",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513099"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-hyphenat is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661279",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513081"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-hyphenex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661281",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513155"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ifmtarg is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661283",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513302"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ifoddpage is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661285",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513129"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ifplatform is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661287",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513028"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-iftex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661289",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513314"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-import is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661291",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513308"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-index is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661293",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513305"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-infwarerr is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661295",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513168"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-intcalc is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661297",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513042"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-jadetex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661299",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513264"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-jknapltx is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661301",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513189"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-kastrup is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661303",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513278"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-kerkis is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661305",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513159"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-knuth-lib is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661307",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513298"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-knuth-local is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661309",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513223"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-koma-script is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661311",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513073"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-kpathsea is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661313",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513060"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-kvdefinekeys is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661315",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513097"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-kvoptions is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661317",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513292"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-kvsetkeys is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661319",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513074"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-l3backend is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661321",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513125"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-l3experimental is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661323",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513141"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-l3kernel is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661325",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513030"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-l3packages is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661327",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513050"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-lastpage is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661329",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513029"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-latex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661331",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513226"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-latex-fonts is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661333",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513014"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-latex2man is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661335",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513273"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-latexbug is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661337",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513043"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-latexconfig is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661339",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513212"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-letltxmacro is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661341",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513253"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-lettrine is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661343",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513265"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-lib is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661345",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513039"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661004"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-lib-devel is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661347",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513177"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661004"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-linegoal is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661349",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513092"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-lineno is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661351",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513210"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-listings is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661353",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513130"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-listofitems is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661355",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513085"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-lm is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661357",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513127"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-lm-math is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661359",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513109"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ltabptch is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661361",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513165"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ltxcmds is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661363",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513240"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ltxmisc is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661365",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513095"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-lua-alt-getopt is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661367",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513344"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-luahbtex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661369",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513331"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-lualatex-math is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661371",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513203"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-lualibs is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661373",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513083"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-luaotfload is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661375",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513247"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-luatex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661377",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513148"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-luatex85 is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661379",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513022"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-luatexbase is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661381",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513255"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-lwarp is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661383",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513041"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-makecmds is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661385",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513204"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-makeindex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661387",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513224"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-manfnt-font is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661389",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513027"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-marginnote is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661391",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513366"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-marvosym is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661393",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513067"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-mathpazo is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661395",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513258"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-mathspec is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661397",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513225"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-mathtools is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661399",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513134"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-mdwtools is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661401",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513098"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-memoir is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661403",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513256"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-metafont is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661405",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513032"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-metalogo is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661407",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513001"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-metapost is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661409",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513102"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-mflogo is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661411",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513145"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-mflogo-font is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661413",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513357"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-mfnfss is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661415",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513179"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-mfware is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661417",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513219"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-microtype is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661419",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513163"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-minitoc is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661421",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513151"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-mnsymbol is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661423",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513335"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-modes is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661425",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513143"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-mparhack is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661427",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513026"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-mptopdf is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661429",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513184"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ms is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661431",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513059"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-multido is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661433",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513192"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-multirow is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661435",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513006"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-natbib is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661437",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513003"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ncctools is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661439",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513071"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ncntrsbk is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661441",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513100"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-needspace is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661443",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513261"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-newfloat is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661445",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513078"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-newunicodechar is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661447",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513031"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-norasi-c90 is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661449",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513149"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-notoccite is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661451",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513248"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ntgclass is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661453",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513306"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-oberdiek is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661455",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513066"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-obsolete is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661457",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513057"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-overpic is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661459",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513222"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-palatino is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661461",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513058"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-paralist is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661463",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513269"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-parallel is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661465",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513325"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-parskip is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661467",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513186"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-passivetex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661469",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513023"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pdfcolmk is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661471",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513230"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pdfescape is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661473",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513147"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pdflscape is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661475",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513304"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pdfpages is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661477",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513018"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pdftex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661479",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513040"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pdftexcmds is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661481",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513354"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pgf is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661483",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513035"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-philokalia is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661485",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513297"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-placeins is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661487",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513299"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-plain is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661489",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513270"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-polyglossia is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661491",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513360"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-powerdot is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661493",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513118"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-preprint is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661495",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513364"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-psfrag is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661497",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513235"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pslatex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661499",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513052"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-psnfss is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661501",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513246"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pspicture is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661503",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513166"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pst-3d is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661505",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513144"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pst-arrow is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661507",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513263"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pst-blur is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661509",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513173"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pst-coil is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661511",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513112"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pst-eps is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661513",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513055"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pst-fill is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661515",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513207"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pst-grad is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661517",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513199"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pst-math is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661519",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513340"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pst-node is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661521",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513169"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pst-plot is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661523",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513181"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pst-slpe is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661525",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513126"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pst-text is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661527",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513139"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pst-tools is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661529",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513201"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pst-tree is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661531",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513191"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pstricks is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661533",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513232"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pstricks-add is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661535",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513063"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ptext is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661537",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513317"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-pxfonts is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661539",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513002"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-qstest is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661541",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513310"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ragged2e is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661543",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513137"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-rcs is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661545",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513346"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-realscripts is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661547",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513093"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-refcount is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661549",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513194"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-rerunfilecheck is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661551",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513336"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-rsfs is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661553",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513120"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-sansmath is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661555",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513286"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-sansmathaccent is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661557",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513020"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-sauerj is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661559",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513111"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-scheme-basic is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661561",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513156"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-section is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661563",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513276"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-sectsty is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661565",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513259"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-seminar is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661567",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513309"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-sepnum is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661569",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513214"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-setspace is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661571",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513077"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-showexpl is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661573",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513198"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-soul is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661575",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513158"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-stackengine is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661577",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513209"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-stmaryrd is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661579",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513312"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-stringenc is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661581",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513047"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-subfig is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661583",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513167"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-subfigure is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661585",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513294"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-svn-prov is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661587",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513358"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-symbol is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661589",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513233"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-t2 is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661591",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513228"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-tabu is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661593",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513107"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-tabulary is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661595",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513133"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-tex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661597",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513220"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-tex-gyre is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661599",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513062"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-tex-gyre-math is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661601",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513101"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-tex-ini-files is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661603",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513291"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-tex4ht is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661605",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513150"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-texlive-common-doc is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661607",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513038"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-texlive-docindex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661609",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513045"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-texlive-en is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661611",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513013"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-texlive-msg-translations is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661613",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513135"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-texlive-scripts is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661615",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513257"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-texlive-scripts-extra is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661617",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513250"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-texlive.infra is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661619",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513157"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-textcase is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661621",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513113"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-textpos is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661623",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513290"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-threeparttable is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661625",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513012"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-thumbpdf is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661627",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513262"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-times is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661629",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513205"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-tipa is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661631",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513108"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-titlesec is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661633",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513034"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-titling is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661635",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513009"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-tocloft is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661637",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513218"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-tools is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661639",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513051"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-translator is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661641",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513122"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-trimspaces is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661643",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513318"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-txfonts is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661645",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513086"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-type1cm is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661647",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513319"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-typehtml is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661649",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513011"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ucharcat is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661651",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513183"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ucharclasses is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661653",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513326"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ucs is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661655",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513046"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-uhc is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661657",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513206"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-ulem is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661659",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513311"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-underscore is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661661",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513316"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-unicode-data is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661663",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513056"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-unicode-math is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661665",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513338"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-uniquecounter is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661667",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513202"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-unisugar is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661669",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513369"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-updmap-map is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661671",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513241"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-upquote is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661673",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513271"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-url is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661675",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513053"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-utopia is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661677",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513283"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-varwidth is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661679",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513090"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-wadalab is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661681",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513008"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-was is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661683",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513104"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-wasy is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661685",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513033"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-wasy-type1 is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661687",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513007"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-wasysym is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661689",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513275"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-wrapfig is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661691",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513330"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xcolor is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661693",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513349"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xdvi is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661695",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513131"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xecjk is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661697",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513313"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xecolor is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661699",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513260"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xecyr is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661701",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513195"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xeindex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661703",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513334"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xepersian is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661705",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513088"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xesearch is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661707",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513282"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xetex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661709",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513272"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661001"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xetex-itrans is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661711",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513365"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xetex-pstricks is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661713",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513359"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xetex-tibetan is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661715",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513353"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xetexconfig is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661717",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513200"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xetexfontinfo is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661719",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513370"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xifthen is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661721",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513087"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xkeyval is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661723",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513323"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xltxtra is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661725",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513114"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xmltex is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661727",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513084"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xmltexconfig is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661729",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513333"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xstring is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661731",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513215"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xtab is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661733",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513076"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-xunicode is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661735",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513242"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-zapfchan is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661737",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513239"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-zapfding is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661739",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513138"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "texlive-zref is earlier than 9:20200406-26.el9_2",
+      "ID": "oval:com.redhat.rhsa:tst:20233661741",
+      "Version": "637",
+      "Object": {
+        "ObjectRef": "oval:com.redhat.cve:obj:201717513171"
+      },
+      "State": {
+        "StateRef": "oval:com.redhat.rhsa:ste:20233661003"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "zlib-static is installed",
       "ID": "oval:com.redhat.unaffected:tst:20020059001",
       "Version": "635",
@@ -67051,7 +71515,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202320867004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867001"
       },
       "State": {}
     },
@@ -67084,7 +71548,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202320867001"
+        "ObjectRef": "oval:com.redhat.cve:obj:202320867004"
       },
       "State": {}
     },
@@ -86649,7 +91113,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202137533004"
+        "ObjectRef": "oval:com.redhat.cve:obj:202137533003"
       },
       "State": {}
     },
@@ -86660,7 +91124,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202137533002"
+        "ObjectRef": "oval:com.redhat.cve:obj:202137533004"
       },
       "State": {}
     },
@@ -86671,7 +91135,7 @@
       "Version": "635",
       "CheckExistence": "none_exist",
       "Object": {
-        "ObjectRef": "oval:com.redhat.cve:obj:202137533003"
+        "ObjectRef": "oval:com.redhat.cve:obj:202137533001"
       },
       "State": {}
     },

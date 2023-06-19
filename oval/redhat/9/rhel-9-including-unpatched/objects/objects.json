@@ -4598,22 +4598,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:202137533001",
       "Version": "636",
-      "Name": "apache-commons-net"
+      "Name": "log4j-jcl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137533002",
       "Version": "636",
-      "Name": "log4j-slf4j"
+      "Name": "apache-commons-net"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137533003",
       "Version": "636",
-      "Name": "log4j-jcl"
+      "Name": "log4j"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137533004",
       "Version": "636",
-      "Name": "log4j"
+      "Name": "log4j-slf4j"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202137714001",
@@ -6943,7 +6943,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202320867001",
       "Version": "636",
-      "Name": "open-vm-tools-sdmp"
+      "Name": "open-vm-tools-desktop"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202320867002",
@@ -6958,7 +6958,7 @@
     {
       "ID": "oval:com.redhat.cve:obj:202320867004",
       "Version": "636",
-      "Name": "open-vm-tools-desktop"
+      "Name": "open-vm-tools-sdmp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202321911001",
