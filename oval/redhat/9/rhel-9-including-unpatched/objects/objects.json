@@ -5161,19 +5161,19 @@
       "Name": "compat-openssl11"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221705007",
-      "Version": "636",
-      "Name": "ignition"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20221705012",
+      "ID": "oval:com.redhat.cve:obj:20221705009",
       "Version": "636",
       "Name": "butane"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20221705020",
+      "ID": "oval:com.redhat.cve:obj:20221705011",
       "Version": "636",
       "Name": "weldr-client"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20221705018",
+      "Version": "636",
+      "Name": "ignition"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20221708001",
@@ -6511,7 +6511,7 @@
       "Name": "squid-debugsource"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:202241715013",
+      "ID": "oval:com.redhat.cve:obj:202241715001",
       "Version": "636",
       "Name": "oci-seccomp-bpf-hook"
     },
@@ -6548,12 +6548,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202242003001",
       "Version": "636",
-      "Name": "pki-jackson-databind"
+      "Name": "jackson-databind"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202242003002",
       "Version": "636",
-      "Name": "jackson-databind"
+      "Name": "pki-jackson-databind"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202242252003",
@@ -7603,17 +7603,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:202329552001",
       "Version": "636",
-      "Name": "openslp-devel"
+      "Name": "openslp-server"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202329552002",
       "Version": "636",
-      "Name": "openslp-server"
+      "Name": "openslp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202329552003",
       "Version": "636",
-      "Name": "openslp"
+      "Name": "openslp-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232977001",
