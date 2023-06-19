@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Dec 2021] DLA-2847-1 mediawiki - security update",
-    "Line": 1840,
+    "Line": 1843,
     "ID": "DLA-2847-1",
     "Description": "mediawiki - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-44858}",
-      "Line": 1841,
+      "Line": 1844,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-44858"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - mediawiki 1:1.27.7-1+deb9u11",
-      "Line": 1842,
+      "Line": 1845,
       "Type": "package",
       "Release": "stretch",
       "Package": "mediawiki",

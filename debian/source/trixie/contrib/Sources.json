@@ -5535,16 +5535,16 @@
       "openrct2, openrct2-data"
     ],
     "Build-Depends": [
-      "debhelper-compat (= 13), cmake, pkg-config, libssl-dev, libcurl4-openssl-dev, libfontconfig1-dev, libbenchmark-dev, duktape-dev, libzip-dev, libicu-dev, libsdl2-dev, libsdl2-ttf-dev, libspeexdsp-dev, nlohmann-json3-dev (\u003e= 3.6), libgzstream-dev, libflac-dev, libvorbis-dev"
+      "debhelper-compat (= 13), cmake, pkg-config, libssl-dev, libcurl4-openssl-dev, libfontconfig-dev, libbenchmark-dev, duktape-dev, libzip-dev, libicu-dev, libsdl2-dev, libsdl2-ttf-dev, libspeexdsp-dev, nlohmann-json3-dev, libgzstream-dev, libflac-dev, libvorbis-dev"
     ],
     "Checksums-Sha256": [
-      "ab82d8a669e0071bef2e821b768ef13744e67e2b12913691242069b6455ea1f5 2356 openrct2_0.4.3+ds-1.dsc 9e554e2b5c621baa7f171b1c35d6c917b383275dd7df164db632ddcb58a94912 11749552 openrct2_0.4.3+ds.orig.tar.xz 8658de3a58cba9d819ea4457b6708ccf33b819cebb6df44da53c72fcbe79e03e 12184 openrct2_0.4.3+ds-1.debian.tar.xz"
+      "a72b37889a9c74bb2ce15e4781f961b6b4605ea0c802bdbe29b027f4c860c649 2346 openrct2_0.4.5+ds-1.dsc 2614d23e1b9af0f7528f8a60b1be14369c486eba46ffa0882609cc66aa4a9eaa 11993936 openrct2_0.4.5+ds.orig.tar.xz acbb6bdfb7d1d90a9ab3738a4f681f745cc4a0d7cdca45f5410120b80273b7b9 12140 openrct2_0.4.5+ds-1.debian.tar.xz"
     ],
     "Directory": [
       "pool/contrib/o/openrct2"
     ],
     "Files": [
-      "de9380362ea5ac7cc4e8ff4832eed107 2356 openrct2_0.4.3+ds-1.dsc 7bccd75e59aed1b98d99f71321ab61cb 11749552 openrct2_0.4.3+ds.orig.tar.xz c0efe45f2f2ded6eab6cd2e04f0cb160 12184 openrct2_0.4.3+ds-1.debian.tar.xz"
+      "000958b9ff8c98924816e3a0e45df785 2346 openrct2_0.4.5+ds-1.dsc 93a624d4c24ce4153a3c477e2bfd8596 11993936 openrct2_0.4.5+ds.orig.tar.xz dd3b9bccc3504408a6208700adde157d 12140 openrct2_0.4.5+ds-1.debian.tar.xz"
     ],
     "Format": [
       "3.0 (quilt)"
@@ -5568,7 +5568,7 @@
       "contrib/misc"
     ],
     "Standards-Version": [
-      "4.6.1"
+      "4.6.2"
     ],
     "Vcs-Browser": [
       "https://salsa.debian.org/gibmat/openrct2"
@@ -5577,7 +5577,7 @@
       "https://salsa.debian.org/gibmat/openrct2.git"
     ],
     "Version": [
-      "0.4.3+ds-1"
+      "0.4.5+ds-1"
     ]
   },
   {
