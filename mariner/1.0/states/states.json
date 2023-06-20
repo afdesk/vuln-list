@@ -901,6 +901,15 @@
       }
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:ste:25337002",
+      "Version": "0",
+      "Evr": {
+        "Text": "0:1.6.3-1.cm1",
+        "Datatype": "evr_string",
+        "Operation": "less than"
+      }
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:ste:13816002",
       "Version": "0",
       "Evr": {

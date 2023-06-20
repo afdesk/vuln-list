@@ -1202,6 +1202,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package apr is earlier than 1.6.3-1, affected by CVE-2017-12613",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:25337000",
+      "Version": "0",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:25337001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:25337002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package syslinux is installed with version 6.04-9 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13816000",
       "Version": "0",

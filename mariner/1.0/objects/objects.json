@@ -501,6 +501,11 @@
       "Name": "kernel"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:25337001",
+      "Version": "0",
+      "Name": "apr"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:13816001",
       "Version": "0",
       "Name": "syslinux"
