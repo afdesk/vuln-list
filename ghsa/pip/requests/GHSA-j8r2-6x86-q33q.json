@@ -32,6 +32,9 @@
         "Url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/KOYASTZDGQG2BWLSNBPL3TQRL2G7QYNZ/"
       },
       {
+        "Url": "https://lists.debian.org/debian-lts-announce/2023/06/msg00018.html"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-j8r2-6x86-q33q"
       }
     ],
@@ -50,7 +53,7 @@
     "PublishedAt": "2023-05-22T20:36:32Z",
     "Severity": "MODERATE",
     "Summary": "Unintended leak of Proxy-Authorization header in requests",
-    "UpdatedAt": "2023-06-06T17:24:48Z",
+    "UpdatedAt": "2023-06-20T14:21:58Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.1,

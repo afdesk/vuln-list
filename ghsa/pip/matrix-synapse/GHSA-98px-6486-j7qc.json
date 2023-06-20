@@ -26,6 +26,9 @@
         "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/matrix-synapse/PYSEC-2023-85.yaml"
       },
       {
+        "Url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/X6DH5A5YEB5LRIPP32OUW25FCGZFCZU2/"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-98px-6486-j7qc"
       }
     ],
@@ -44,7 +47,7 @@
     "PublishedAt": "2023-06-06T16:41:34Z",
     "Severity": "LOW",
     "Summary": "Synapse has URL deny list bypass via oEmbed and image URLs when generating previews",
-    "UpdatedAt": "2023-06-13T23:57:21Z",
+    "UpdatedAt": "2023-06-20T14:21:28Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 3.5,

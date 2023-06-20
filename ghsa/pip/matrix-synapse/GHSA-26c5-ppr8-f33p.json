@@ -41,6 +41,9 @@
         "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/matrix-synapse/PYSEC-2023-84.yaml"
       },
       {
+        "Url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/X6DH5A5YEB5LRIPP32OUW25FCGZFCZU2/"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-26c5-ppr8-f33p"
       }
     ],
@@ -59,7 +62,7 @@
     "PublishedAt": "2023-06-06T16:40:42Z",
     "Severity": "MODERATE",
     "Summary": "Synapse has improper checks for deactivated users during login",
-    "UpdatedAt": "2023-06-13T23:55:51Z",
+    "UpdatedAt": "2023-06-20T14:21:12Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 5.4,
