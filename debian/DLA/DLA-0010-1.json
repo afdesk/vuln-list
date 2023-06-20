@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Jun 2014] DLA-0010-1 php5 - security update",
-    "Line": 10508,
+    "Line": 10511,
     "ID": "DLA-0010-1",
     "Description": "php5 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-4049}",
-      "Line": 10509,
+      "Line": 10512,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-4049"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - php5 5.3.3-7+squeeze20",
-      "Line": 10510,
+      "Line": 10513,
       "Type": "package",
       "Release": "squeeze",
       "Package": "php5",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Sep 2018] DLA-1496-1 lcms2 - security update",
-    "Line": 5997,
+    "Line": 6000,
     "ID": "DLA-1496-1",
     "Description": "lcms2 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2018-16435}",
-      "Line": 5998,
+      "Line": 6001,
       "Type": "xref",
       "Bugs": [
         "CVE-2018-16435"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - lcms2 2.6-3+deb8u2",
-      "Line": 5999,
+      "Line": 6002,
       "Type": "package",
       "Release": "jessie",
       "Package": "lcms2",
