@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Jun 2020] DLA-2249-1 libexif - security update",
-    "Line": 3674,
+    "Line": 3677,
     "ID": "DLA-2249-1",
     "Description": "libexif - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-0182 CVE-2020-0198}",
-      "Line": 3675,
+      "Line": 3678,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-0182",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - libexif 0.6.21-2+deb8u4",
-      "Line": 3676,
+      "Line": 3679,
       "Type": "package",
       "Release": "jessie",
       "Package": "libexif",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[05 May 2022] DLA-2994-1 firefox-esr - security update",
-    "Line": 1399,
+    "Line": 1402,
     "ID": "DLA-2994-1",
     "Description": "firefox-esr - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-29909 CVE-2022-29911 CVE-2022-29912 CVE-2022-29914 CVE-2022-29916 CVE-2022-29917}",
-      "Line": 1400,
+      "Line": 1403,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-29909",
@@ -21,7 +21,7 @@
     },
     {
       "Original": "[stretch] - firefox-esr 91.9.0esr-1~deb9u1",
-      "Line": 1401,
+      "Line": 1404,
       "Type": "package",
       "Release": "stretch",
       "Package": "firefox-esr",

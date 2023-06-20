@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[25 Nov 2019] DLA-2006-1 libxdmcp - security update",
-    "Line": 4427,
+    "Line": 4430,
     "ID": "DLA-2006-1",
     "Description": "libxdmcp - security update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - libxdmcp 1:1.1.1-1+deb8u1",
-      "Line": 4428,
+      "Line": 4431,
       "Type": "package",
       "Release": "jessie",
       "Package": "libxdmcp",
