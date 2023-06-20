@@ -1,6 +1,6 @@
 {
   "id": "GHSA-26c5-ppr8-f33p",
-  "modified": "2023-06-14T00:02:48.453191Z",
+  "modified": "2023-06-20T14:30:50.023783Z",
   "published": "2023-06-06T16:40:42Z",
   "aliases": [
     "CVE-2023-32682"
@@ -393,6 +393,10 @@
     {
       "type": "WEB",
       "url": "https://github.com/pypa/advisory-database/tree/main/vulns/matrix-synapse/PYSEC-2023-84.yaml"
+    },
+    {
+      "type": "WEB",
+      "url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/X6DH5A5YEB5LRIPP32OUW25FCGZFCZU2/"
     },
     {
       "type": "WEB",
