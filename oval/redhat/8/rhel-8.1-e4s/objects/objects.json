@@ -9144,6 +9144,16 @@
       "ID": "oval:com.redhat.rhsa:obj:20233661314",
       "Version": "637",
       "Name": "texlive-zapfding"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233665001",
+      "Version": "635",
+      "Name": "c-ares"
+    },
+    {
+      "ID": "oval:com.redhat.rhsa:obj:20233665002",
+      "Version": "635",
+      "Name": "c-ares-devel"
     }
   ],
   "RpmverifyfileObjects": [
