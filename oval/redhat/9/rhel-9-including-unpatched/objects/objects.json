@@ -6866,24 +6866,24 @@
       "Name": "thunderbird-flatpak-container"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20230464001",
-      "Version": "636",
-      "Name": "openssl-libs"
-    },
-    {
       "ID": "oval:com.redhat.cve:obj:20230464003",
       "Version": "636",
-      "Name": "openssl"
+      "Name": "openssl-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230464004",
       "Version": "636",
-      "Name": "openssl-perl"
+      "Name": "openssl-libs"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20230464005",
+      "ID": "oval:com.redhat.cve:obj:20230464007",
       "Version": "636",
-      "Name": "openssl-devel"
+      "Name": "openssl"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20230464008",
+      "Version": "636",
+      "Name": "openssl-perl"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230664001",
@@ -6913,12 +6913,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20231667001",
       "Version": "636",
-      "Name": "libssh-devel"
+      "Name": "libssh"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231667002",
       "Version": "636",
-      "Name": "libssh"
+      "Name": "libssh-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231667003",
@@ -6943,22 +6943,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:202320867001",
       "Version": "636",
-      "Name": "open-vm-tools-desktop"
+      "Name": "open-vm-tools-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202320867002",
       "Version": "636",
-      "Name": "open-vm-tools-test"
+      "Name": "open-vm-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202320867003",
       "Version": "636",
-      "Name": "open-vm-tools"
+      "Name": "open-vm-tools-sdmp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202320867004",
       "Version": "636",
-      "Name": "open-vm-tools-sdmp"
+      "Name": "open-vm-tools-desktop"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202321911001",
@@ -7643,12 +7643,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:202331124001",
       "Version": "636",
-      "Name": "c-ares"
+      "Name": "c-ares-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202331124002",
       "Version": "636",
-      "Name": "c-ares-devel"
+      "Name": "c-ares"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202332681001",

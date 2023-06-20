@@ -10151,29 +10151,29 @@
       "Name": "haproxy"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20230464001",
+      "ID": "oval:com.redhat.cve:obj:20230464005",
+      "Version": "636",
+      "Name": "openssl-devel"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:20230464006",
       "Version": "636",
       "Name": "openssl-libs"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20230464004",
+      "ID": "oval:com.redhat.cve:obj:20230464008",
       "Version": "636",
       "Name": "openssl-static"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20230464005",
+      "ID": "oval:com.redhat.cve:obj:20230464009",
       "Version": "636",
       "Name": "openssl"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20230464007",
+      "ID": "oval:com.redhat.cve:obj:20230464010",
       "Version": "636",
       "Name": "openssl-perl"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:20230464008",
-      "Version": "636",
-      "Name": "openssl-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20230664001",
@@ -10198,12 +10198,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20231667001",
       "Version": "636",
-      "Name": "libssh-devel"
+      "Name": "libssh"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231667002",
       "Version": "636",
-      "Name": "libssh"
+      "Name": "libssh-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20231667003",
@@ -10643,12 +10643,12 @@
     {
       "ID": "oval:com.redhat.cve:obj:20232953002",
       "Version": "636",
-      "Name": "openldap"
+      "Name": "openldap-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20232953003",
       "Version": "636",
-      "Name": "openldap-devel"
+      "Name": "openldap"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202330630001",
