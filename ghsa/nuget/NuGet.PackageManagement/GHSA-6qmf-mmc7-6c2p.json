@@ -1,6 +1,6 @@
 {
   "Severity": "HIGH",
-  "UpdatedAt": "2023-06-14T16:44:23Z",
+  "UpdatedAt": "2023-06-19T22:54:47Z",
   "Package": {
     "Ecosystem": "NUGET",
     "Name": "NuGet.PackageManagement"
@@ -38,7 +38,7 @@
     "PublishedAt": "2023-06-14T16:44:21Z",
     "Severity": "HIGH",
     "Summary": "NuGet Client Remote Code Execution Vulnerability",
-    "UpdatedAt": "2023-06-16T17:52:22Z",
+    "UpdatedAt": "2023-06-19T22:54:47Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.1,
@@ -46,6 +46,18 @@
     }
   },
   "Versions": [
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "5.11.5"
+      },
+      "VulnerableVersionRange": "\u003e= 4.6.0, \u003c 5.11.5"
+    },
+    {
+      "FirstPatchedVersion": {
+        "Identifier": "6.0.5"
+      },
+      "VulnerableVersionRange": "\u003e= 6.0.0, \u003c 6.0.5"
+    },
     {
       "FirstPatchedVersion": {
         "Identifier": "6.6.1"
@@ -75,12 +87,6 @@
         "Identifier": "6.2.4"
       },
       "VulnerableVersionRange": "\u003e= 6.2.0, \u003c 6.2.4"
-    },
-    {
-      "FirstPatchedVersion": {
-        "Identifier": "6.0.5"
-      },
-      "VulnerableVersionRange": "\u003e= 4.6.0, \u003c 6.0.5"
     }
   ]
 }

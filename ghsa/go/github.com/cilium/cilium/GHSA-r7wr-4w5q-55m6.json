@@ -1,6 +1,6 @@
 {
   "Severity": "LOW",
-  "UpdatedAt": "2023-06-16T17:47:56Z",
+  "UpdatedAt": "2023-06-19T19:46:04Z",
   "Package": {
     "Ecosystem": "GO",
     "Name": "github.com/cilium/cilium"
@@ -38,7 +38,7 @@
     "PublishedAt": "2023-06-16T17:47:56Z",
     "Severity": "LOW",
     "Summary": "Cilium vulnerable to information leakage via incorrect ReferenceGrant handling",
-    "UpdatedAt": "2023-06-16T17:47:56Z",
+    "UpdatedAt": "2023-06-19T19:46:04Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 3.4,
@@ -50,7 +50,7 @@
       "FirstPatchedVersion": {
         "Identifier": "1.13.4"
       },
-      "VulnerableVersionRange": "\u003c 1.13.4"
+      "VulnerableVersionRange": "\u003e= 1.13.0, \u003c 1.13.4"
     }
   ]
 }

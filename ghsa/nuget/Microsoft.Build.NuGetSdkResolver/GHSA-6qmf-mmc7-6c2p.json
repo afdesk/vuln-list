@@ -38,7 +38,7 @@
     "PublishedAt": "2023-06-14T16:44:21Z",
     "Severity": "HIGH",
     "Summary": "NuGet Client Remote Code Execution Vulnerability",
-    "UpdatedAt": "2023-06-16T17:52:22Z",
+    "UpdatedAt": "2023-06-19T22:54:47Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.1,
