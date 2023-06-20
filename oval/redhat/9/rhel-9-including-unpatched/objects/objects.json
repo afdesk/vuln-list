@@ -6943,22 +6943,22 @@
     {
       "ID": "oval:com.redhat.cve:obj:202320867001",
       "Version": "636",
-      "Name": "open-vm-tools-test"
+      "Name": "open-vm-tools"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202320867002",
       "Version": "636",
-      "Name": "open-vm-tools"
+      "Name": "open-vm-tools-sdmp"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202320867003",
       "Version": "636",
-      "Name": "open-vm-tools-sdmp"
+      "Name": "open-vm-tools-desktop"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202320867004",
       "Version": "636",
-      "Name": "open-vm-tools-desktop"
+      "Name": "open-vm-tools-test"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202321911001",
@@ -7146,19 +7146,19 @@
       "Name": "python3-configobj"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232650001",
+      "ID": "oval:com.redhat.cve:obj:20232650004",
       "Version": "636",
-      "Name": "edk2"
+      "Name": "edk2-tools"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232650007",
+      "ID": "oval:com.redhat.cve:obj:20232650011",
       "Version": "636",
       "Name": "edk2-tools-doc"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:20232650010",
+      "ID": "oval:com.redhat.cve:obj:20232650012",
       "Version": "636",
-      "Name": "edk2-tools"
+      "Name": "edk2"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202326917001",
@@ -7623,17 +7623,17 @@
     {
       "ID": "oval:com.redhat.cve:obj:202330571001",
       "Version": "636",
-      "Name": "bsdtar"
+      "Name": "libarchive-devel"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202330571002",
       "Version": "636",
-      "Name": "libarchive"
+      "Name": "bsdtar"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202330571003",
       "Version": "636",
-      "Name": "libarchive-devel"
+      "Name": "libarchive"
     },
     {
       "ID": "oval:com.redhat.cve:obj:202330630001",

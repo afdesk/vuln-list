@@ -1,69 +1,69 @@
 {
   "RpminfoObjects": [
     {
-      "ID": "oval:com.redhat.cve:obj:12340007001",
-      "Version": "636",
-      "Name": "dotnet-sdk-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:12340007002",
-      "Version": "636",
-      "Name": "dotnet-host"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:12340007003",
-      "Version": "636",
-      "Name": "dotnet7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:12340007004",
-      "Version": "636",
-      "Name": "dotnet"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:12340007005",
-      "Version": "636",
-      "Name": "dotnet-apphost-pack-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:12340007006",
-      "Version": "636",
-      "Name": "dotnet-sdk-7.0-source-built-artifacts"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:12340007007",
-      "Version": "636",
-      "Name": "aspnetcore-runtime-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:12340007008",
-      "Version": "636",
-      "Name": "dotnet-targeting-pack-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:12340007009",
-      "Version": "636",
-      "Name": "dotnet-templates-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:12340007010",
-      "Version": "636",
-      "Name": "dotnet-runtime-7.0"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:12340007011",
-      "Version": "636",
-      "Name": "netstandard-targeting-pack-2.1"
-    },
-    {
-      "ID": "oval:com.redhat.cve:obj:12340007012",
+      "ID": "oval:com.redhat.cve:obj:12341234001",
       "Version": "636",
       "Name": "aspnetcore-targeting-pack-7.0"
     },
     {
-      "ID": "oval:com.redhat.cve:obj:12340007013",
+      "ID": "oval:com.redhat.cve:obj:12341234002",
+      "Version": "636",
+      "Name": "dotnet-targeting-pack-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234003",
       "Version": "636",
       "Name": "dotnet-hostfxr-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234004",
+      "Version": "636",
+      "Name": "netstandard-targeting-pack-2.1"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234005",
+      "Version": "636",
+      "Name": "dotnet"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234006",
+      "Version": "636",
+      "Name": "aspnetcore-runtime-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234007",
+      "Version": "636",
+      "Name": "dotnet-runtime-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234008",
+      "Version": "636",
+      "Name": "dotnet7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234009",
+      "Version": "636",
+      "Name": "dotnet-apphost-pack-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234010",
+      "Version": "636",
+      "Name": "dotnet-sdk-7.0-source-built-artifacts"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234011",
+      "Version": "636",
+      "Name": "dotnet-sdk-7.0"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234012",
+      "Version": "636",
+      "Name": "dotnet-host"
+    },
+    {
+      "ID": "oval:com.redhat.cve:obj:12341234013",
+      "Version": "636",
+      "Name": "dotnet-templates-7.0"
     },
     {
       "ID": "oval:com.redhat.cve:obj:20052541001",
@@ -20598,7 +20598,7 @@
   ],
   "RpmverifyfileObjects": [
     {
-      "ID": "oval:com.redhat.cve:obj:12340007014",
+      "ID": "oval:com.redhat.cve:obj:12341234014",
       "AttrVersion": "636",
       "Behaviors": {
         "Noconfigfiles": "true",
