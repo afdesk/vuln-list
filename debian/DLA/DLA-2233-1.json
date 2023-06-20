@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Jun 2020] DLA-2233-1 python-django - security update",
-    "Line": 3727,
+    "Line": 3730,
     "ID": "DLA-2233-1",
     "Description": "python-django - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-13254 CVE-2020-13596}",
-      "Line": 3728,
+      "Line": 3731,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-13254",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - python-django 1.7.11-1+deb8u9",
-      "Line": 3729,
+      "Line": 3732,
       "Type": "package",
       "Release": "jessie",
       "Package": "python-django",

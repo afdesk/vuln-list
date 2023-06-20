@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Sep 2019] DLA-1909-1 freetype - security update",
-    "Line": 4731,
+    "Line": 4734,
     "ID": "DLA-1909-1",
     "Description": "freetype - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-9381 CVE-2015-9382 CVE-2015-9383}",
-      "Line": 4732,
+      "Line": 4735,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-9381",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[jessie] - freetype 2.5.2-3+deb8u4",
-      "Line": 4733,
+      "Line": 4736,
       "Type": "package",
       "Release": "jessie",
       "Package": "freetype",

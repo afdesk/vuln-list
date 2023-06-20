@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[22 Aug 2021] DLA-2747-1 ircii - security update",
-    "Line": 2160,
+    "Line": 2163,
     "ID": "DLA-2747-1",
     "Description": "ircii - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-29376}",
-      "Line": 2161,
+      "Line": 2164,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-29376"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - ircii 20151120-1+deb9u1",
-      "Line": 2162,
+      "Line": 2165,
       "Type": "package",
       "Release": "stretch",
       "Package": "ircii",

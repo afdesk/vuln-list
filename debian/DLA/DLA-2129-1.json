@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Feb 2020] DLA-2129-1 firebird2.5 - security update",
-    "Line": 4051,
+    "Line": 4054,
     "ID": "DLA-2129-1",
     "Description": "firebird2.5 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-11509}",
-      "Line": 4052,
+      "Line": 4055,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-11509"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - firebird2.5 2.5.3.26778.ds4-5+deb8u2",
-      "Line": 4053,
+      "Line": 4056,
       "Type": "package",
       "Release": "jessie",
       "Package": "firebird2.5",
