@@ -14,6 +14,18 @@
     },
     {
       "Check": "at least one",
+      "Comment": "Package qt5-qtbase is earlier than 5.12.11-8, affected by CVE-2023-32762",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:26944000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:26944001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:26944002"
+      }
+    },
+    {
+      "Check": "at least one",
       "Comment": "Package c-ares is earlier than 1.19.1-1, affected by CVE-2023-31130",
       "ID": "oval:com.microsoft.cbl-mariner:tst:26914000",
       "Version": "1",
@@ -34,6 +46,18 @@
       },
       "State": {
         "StateRef": "oval:com.microsoft.cbl-mariner:ste:26913002"
+      }
+    },
+    {
+      "Check": "at least one",
+      "Comment": "Package qt5-qtbase is earlier than 5.12.11-8, affected by CVE-2023-32763",
+      "ID": "oval:com.microsoft.cbl-mariner:tst:26877000",
+      "Version": "1",
+      "Object": {
+        "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:26877001"
+      },
+      "State": {
+        "StateRef": "oval:com.microsoft.cbl-mariner:ste:26877002"
       }
     },
     {
@@ -1754,7 +1778,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.24.12-1 or earlier",
+      "Comment": "Package k3s is installed with version 1.24.6-5 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13819000",
       "Version": "0",
       "Object": {
@@ -1814,7 +1838,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kube-vip-cloud-provider is installed with version 0.0.2-8 or earlier",
+      "Comment": "Package kube-vip-cloud-provider is installed with version 0.0.2-9 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13782000",
       "Version": "0",
       "Object": {
@@ -1826,7 +1850,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package keda is installed with version 2.4.0-10 or earlier",
+      "Comment": "Package keda is installed with version 2.4.0-11 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13781000",
       "Version": "0",
       "Object": {
@@ -2498,7 +2522,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package terraform is installed with version 1.3.2-7 or earlier",
+      "Comment": "Package terraform is installed with version 1.3.2-8 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13606000",
       "Version": "0",
       "Object": {
@@ -2582,7 +2606,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package packer is installed with version 1.8.1-10 or earlier",
+      "Comment": "Package packer is installed with version 1.8.1-11 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13586000",
       "Version": "0",
       "Object": {
@@ -2618,7 +2642,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.24.12-1 or earlier",
+      "Comment": "Package k3s is installed with version 1.24.6-5 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13572000",
       "Version": "0",
       "Object": {
@@ -2630,7 +2654,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.24.12-1 or earlier",
+      "Comment": "Package k3s is installed with version 1.24.6-5 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13571000",
       "Version": "0",
       "Object": {
@@ -2642,7 +2666,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.24.12-1 or earlier",
+      "Comment": "Package k3s is installed with version 1.24.6-5 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13570000",
       "Version": "0",
       "Object": {
@@ -4274,7 +4298,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package kata-containers is installed with version 3.1.0-1 or earlier",
+      "Comment": "Package kata-containers is installed with version 3.1.0-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:12932000",
       "Version": "0",
       "Object": {
@@ -4778,7 +4802,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package podman is installed with version 4.1.1-10 or earlier",
+      "Comment": "Package podman is installed with version 4.1.1-11 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11587000",
       "Version": "0",
       "Object": {
@@ -6974,7 +6998,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package buildah is installed with version 1.18.0-12 or earlier",
+      "Comment": "Package buildah is installed with version 1.18.0-13 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10960000",
       "Version": "0",
       "Object": {
@@ -10346,7 +10370,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package qemu is installed with version 6.2.0-15 or earlier",
+      "Comment": "Package qemu is installed with version 6.2.0-16 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:9744000",
       "Version": "0",
       "Object": {
@@ -11558,7 +11582,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package buildah is installed with version 1.18.0-12 or earlier",
+      "Comment": "Package buildah is installed with version 1.18.0-13 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:9318000",
       "Version": "0",
       "Object": {

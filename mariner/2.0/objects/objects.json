@@ -6,6 +6,11 @@
       "Name": "kata-containers-cc"
     },
     {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26944001",
+      "Version": "1",
+      "Name": "qt5-qtbase"
+    },
+    {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26914001",
       "Version": "1",
       "Name": "c-ares"
@@ -14,6 +19,11 @@
       "ID": "oval:com.microsoft.cbl-mariner:obj:26913001",
       "Version": "1",
       "Name": "c-ares"
+    },
+    {
+      "ID": "oval:com.microsoft.cbl-mariner:obj:26877001",
+      "Version": "1",
+      "Name": "qt5-qtbase"
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:obj:26869001",
