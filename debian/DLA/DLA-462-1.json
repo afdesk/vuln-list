@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 May 2016] DLA-462-1 websvn - security update",
-    "Line": 9144,
+    "Line": 9153,
     "ID": "DLA-462-1",
     "Description": "websvn - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-1236}",
-      "Line": 9145,
+      "Line": 9154,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-1236"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - websvn 2.3.3-1.1+deb7u3",
-      "Line": 9146,
+      "Line": 9155,
       "Type": "package",
       "Release": "wheezy",
       "Package": "websvn",

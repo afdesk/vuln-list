@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Jul 2021] DLA-2699-1 ipmitool - security update",
-    "Line": 2306,
+    "Line": 2315,
     "ID": "DLA-2699-1",
     "Description": "ipmitool - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-5208}",
-      "Line": 2307,
+      "Line": 2316,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-5208"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - ipmitool 1.8.18-3+deb9u1",
-      "Line": 2308,
+      "Line": 2317,
       "Type": "package",
       "Release": "stretch",
       "Package": "ipmitool",

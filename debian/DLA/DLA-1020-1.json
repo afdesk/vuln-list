@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Jul 2017] DLA-1020-1 jetty - security update",
-    "Line": 7447,
+    "Line": 7456,
     "ID": "DLA-1020-1",
     "Description": "jetty - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-9735}",
-      "Line": 7448,
+      "Line": 7457,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-9735"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - jetty 6.1.26-1+deb7u1",
-      "Line": 7449,
+      "Line": 7458,
       "Type": "package",
       "Release": "wheezy",
       "Package": "jetty",

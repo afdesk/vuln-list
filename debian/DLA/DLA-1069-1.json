@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[27 Aug 2017] DLA-1069-1 tenshi - security update",
-    "Line": 7294,
+    "Line": 7303,
     "ID": "DLA-1069-1",
     "Description": "tenshi - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-11746}",
-      "Line": 7295,
+      "Line": 7304,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-11746"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - tenshi 0.13-2+deb7u1",
-      "Line": 7296,
+      "Line": 7305,
       "Type": "package",
       "Release": "wheezy",
       "Package": "tenshi",
