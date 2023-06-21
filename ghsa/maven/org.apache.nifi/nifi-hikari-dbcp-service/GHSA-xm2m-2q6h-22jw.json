@@ -50,11 +50,11 @@
     "PublishedAt": "2023-06-12T18:30:18Z",
     "Severity": "HIGH",
     "Summary": "Apache NiFi vulnerable to Code Injection",
-    "UpdatedAt": "2023-06-13T00:10:42Z",
+    "UpdatedAt": "2023-06-21T13:48:41Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 8.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [
