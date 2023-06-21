@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Jan 2016] DSA-3441-1 perl - security update",
-    "Line": 6665,
+    "Line": 6669,
     "ID": "DSA-3441-1",
     "Description": "perl - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-8607}",
-      "Line": 6666,
+      "Line": 6670,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-8607"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - perl 5.20.2-3+deb8u2",
-      "Line": 6667,
+      "Line": 6671,
       "Type": "package",
       "Release": "jessie",
       "Package": "perl",

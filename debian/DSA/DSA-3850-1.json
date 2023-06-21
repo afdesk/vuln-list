@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 May 2017] DSA-3850-1 rtmpdump - security update",
-    "Line": 5321,
+    "Line": 5325,
     "ID": "DSA-3850-1",
     "Description": "rtmpdump - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2015-8270 CVE-2015-8271 CVE-2015-8272}",
-      "Line": 5322,
+      "Line": 5326,
       "Type": "xref",
       "Bugs": [
         "CVE-2015-8270",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[jessie] - rtmpdump 2.4+20150115.gita107cef-1+deb8u1",
-      "Line": 5323,
+      "Line": 5327,
       "Type": "package",
       "Release": "jessie",
       "Package": "rtmpdump",

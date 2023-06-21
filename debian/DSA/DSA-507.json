@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[19 May 2004] DSA-507 cadaver - buffer overflow",
-    "Line": 17120,
+    "Line": 17124,
     "ID": "DSA-507",
     "Description": "cadaver - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0398}",
-      "Line": 17121,
+      "Line": 17125,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0398"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - cadaver 0.18.0-1woody3",
-      "Line": 17122,
+      "Line": 17126,
       "Type": "package",
       "Release": "woody",
       "Package": "cadaver",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[06 Sep 2012] DSA-2539-1 zabbix - SQL injection",
-    "Line": 9723,
+    "Line": 9727,
     "ID": "DSA-2539-1",
     "Description": "zabbix - SQL injection"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-3435}",
-      "Line": 9724,
+      "Line": 9728,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-3435"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - zabbix 1:1.8.2-1squeeze4",
-      "Line": 9725,
+      "Line": 9729,
       "Type": "package",
       "Release": "squeeze",
       "Package": "zabbix",

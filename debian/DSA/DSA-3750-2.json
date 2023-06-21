@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Jan 2017] DSA-3750-2 libphp-phpmailer - regression update",
-    "Line": 5636,
+    "Line": 5640,
     "ID": "DSA-3750-2",
     "Description": "libphp-phpmailer - regression update"
   },
   "Annotations": [
     {
       "Original": "[jessie] - libphp-phpmailer 5.2.9+dfsg-2+deb8u3",
-      "Line": 5637,
+      "Line": 5641,
       "Type": "package",
       "Release": "jessie",
       "Package": "libphp-phpmailer",

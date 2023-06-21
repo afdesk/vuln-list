@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 Feb 2022] DSA-5086-1 thunderbird - security update",
-    "Line": 1116,
+    "Line": 1120,
     "ID": "DSA-5086-1",
     "Description": "thunderbird - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-0566}",
-      "Line": 1117,
+      "Line": 1121,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-0566"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - thunderbird 1:91.6.1-1~deb10u1",
-      "Line": 1118,
+      "Line": 1122,
       "Type": "package",
       "Release": "buster",
       "Package": "thunderbird",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[bullseye] - thunderbird 1:91.6.1-1~deb11u1",
-      "Line": 1119,
+      "Line": 1123,
       "Type": "package",
       "Release": "bullseye",
       "Package": "thunderbird",

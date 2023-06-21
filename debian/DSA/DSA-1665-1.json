@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Nov 2008] DSA-1665-1 libcdaudio - heap overflow",
-    "Line": 12778,
+    "Line": 12782,
     "ID": "DSA-1665-1",
     "Description": "libcdaudio - heap overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-5030}",
-      "Line": 12779,
+      "Line": 12783,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-5030"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[etch] - libcdaudio 0.99.12p2-2+etch1",
-      "Line": 12780,
+      "Line": 12784,
       "Type": "package",
       "Release": "etch",
       "Package": "libcdaudio",

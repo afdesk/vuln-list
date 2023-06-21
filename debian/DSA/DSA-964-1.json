@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[03 Feb 2006] DSA-964-1 gnocatan - buffer overflow",
-    "Line": 15197,
+    "Line": 15201,
     "ID": "DSA-964-1",
     "Description": "gnocatan - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{ CVE-2006-0467 }",
-      "Line": 15198,
+      "Line": 15202,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-0467"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - gnocatan 0.6.1-5woody3",
-      "Line": 15199,
+      "Line": 15203,
       "Type": "package",
       "Release": "woody",
       "Package": "gnocatan",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[sarge] - gnocatan 0.8.1.59-1sarge1",
-      "Line": 15200,
+      "Line": 15204,
       "Type": "package",
       "Release": "sarge",
       "Package": "gnocatan",
@@ -34,13 +34,13 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA",
-      "Line": 15201,
+      "Line": 15205,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA"
     },
     {
       "Original": "NOTE: Fixed in sid at time of DSA (package name change to pioneers)",
-      "Line": 15202,
+      "Line": 15206,
       "Type": "NOTE",
       "Description": "Fixed in sid at time of DSA (package name change to pioneers)"
     }

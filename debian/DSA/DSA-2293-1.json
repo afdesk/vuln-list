@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[12 Aug 2011] DSA-2293-1 libxfont - buffer overflow",
-    "Line": 10557,
+    "Line": 10561,
     "ID": "DSA-2293-1",
     "Description": "libxfont - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2011-2895}",
-      "Line": 10558,
+      "Line": 10562,
       "Type": "xref",
       "Bugs": [
         "CVE-2011-2895"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[lenny] - libxfont 1:1.3.3-2",
-      "Line": 10559,
+      "Line": 10563,
       "Type": "package",
       "Release": "lenny",
       "Package": "libxfont",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[squeeze] - libxfont 1:1.4.1-3",
-      "Line": 10560,
+      "Line": 10564,
       "Type": "package",
       "Release": "squeeze",
       "Package": "libxfont",

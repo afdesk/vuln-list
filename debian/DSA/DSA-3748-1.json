@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[26 Dec 2016] DSA-3748-1 libcrypto++ - security update",
-    "Line": 5647,
+    "Line": 5651,
     "ID": "DSA-3748-1",
     "Description": "libcrypto++ - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-9939}",
-      "Line": 5648,
+      "Line": 5652,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-9939"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - libcrypto++ 5.6.1-6+deb8u3",
-      "Line": 5649,
+      "Line": 5653,
       "Type": "package",
       "Release": "jessie",
       "Package": "libcrypto++",
