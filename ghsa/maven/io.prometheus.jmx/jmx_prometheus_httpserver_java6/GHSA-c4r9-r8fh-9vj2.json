@@ -1,9 +1,9 @@
 {
   "Severity": "MODERATE",
-  "UpdatedAt": "2022-09-15T03:27:44Z",
+  "UpdatedAt": "2023-06-21T05:01:15Z",
   "Package": {
     "Ecosystem": "MAVEN",
-    "Name": "org.yaml:snakeyaml"
+    "Name": "io.prometheus.jmx:jmx_prometheus_httpserver_java6"
   },
   "Advisory": {
     "DatabaseId": 190968,
@@ -57,9 +57,9 @@
   "Versions": [
     {
       "FirstPatchedVersion": {
-        "Identifier": "1.31"
+        "Identifier": ""
       },
-      "VulnerableVersionRange": "\u003c 1.31"
+      "VulnerableVersionRange": "\u003c= 0.18.0"
     }
   ]
 }
