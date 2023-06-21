@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Jul 2005] DSA-742-1 cvs - buffer overflow",
-    "Line": 16250,
+    "Line": 16254,
     "ID": "DSA-742-1",
     "Description": "cvs - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-0753}",
-      "Line": 16251,
+      "Line": 16255,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-0753"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - cvs 1.11.1p1debian-12",
-      "Line": 16252,
+      "Line": 16256,
       "Type": "package",
       "Release": "woody",
       "Package": "cvs",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "NOTE: fixed in testing at time of DSA",
-      "Line": 16253,
+      "Line": 16257,
       "Type": "NOTE",
       "Description": "fixed in testing at time of DSA"
     }

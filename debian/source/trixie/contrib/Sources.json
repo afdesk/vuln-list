@@ -9137,13 +9137,13 @@
       "abigail-tools (\u003e= 1.8), debhelper-compat (= 12), dh-python, dh-sequence-dkms, libaio-dev, libblkid-dev, libcurl4-openssl-dev, libelf-dev, libpam0g-dev, libssl-dev | libssl1.0-dev, libtool, libudev-dev, lsb-release, po-debconf, python3-all-dev, python3-cffi, python3-setuptools, python3-sphinx, uuid-dev, zlib1g-dev"
     ],
     "Checksums-Sha256": [
-      "6411d6755d3fe60e7868df1239a9c23b5146e3ff7bd73f4fb5bf8b51b4611693 3213 zfs-linux_2.1.11-1.dsc a54fe4e854d0a207584f1799a80e165eae66bc30dc8e8c96a1f99ed9d4d8ceb2 35100716 zfs-linux_2.1.11.orig.tar.gz 52c795e05437b2acc36f123e0e926b1b5da397b3a535bc6c9e750fc45881a66e 110044 zfs-linux_2.1.11-1.debian.tar.xz"
+      "b4548affc892878c9485b1087dc393f3638c75b130d90e52201c7775eb7a4b5e 3583 zfs-linux_2.1.12-1.dsc 64daa26aed3e12c931f6f4413d7527c4ebdb8da35416b356152b5f9fdd4c6e6d 35155013 zfs-linux_2.1.12.orig.tar.gz 5bb7482548c66c5d0fbd564bf2e0ce7d0d8201cbef525d5c8dea8c5979c30a6c 107620 zfs-linux_2.1.12-1.debian.tar.xz"
     ],
     "Directory": [
       "pool/contrib/z/zfs-linux"
     ],
     "Files": [
-      "d7678b76469fe52d941cd9a88d9b1ccc 3213 zfs-linux_2.1.11-1.dsc 2a7b9d2a487a02d373404c48719488ed 35100716 zfs-linux_2.1.11.orig.tar.gz 9a37fac33954ba453028e7e12dc8d6b1 110044 zfs-linux_2.1.11-1.debian.tar.xz"
+      "3d2ddaed9b85dd0b5842b01b51d16d21 3583 zfs-linux_2.1.12-1.dsc 64273731d8b9611c41c7fd8060aed6b1 35155013 zfs-linux_2.1.12.orig.tar.gz cdb46828dc76e78ac47a1b8a26c06f94 107620 zfs-linux_2.1.12-1.debian.tar.xz"
     ],
     "Format": [
       "3.0 (quilt)"
@@ -9185,7 +9185,7 @@
       "https://salsa.debian.org/zfsonlinux-team/zfs.git"
     ],
     "Version": [
-      "2.1.11-1"
+      "2.1.12-1"
     ]
   },
   {

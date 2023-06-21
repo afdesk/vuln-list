@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[10 Jan 2003] DSA-226 xpdf-i - integer overflow",
-    "Line": 18027,
+    "Line": 18031,
     "ID": "DSA-226",
     "Description": "xpdf-i - integer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-1384}",
-      "Line": 18028,
+      "Line": 18032,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-1384"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - xpdf \u003cnot-affected\u003e (xpdf-i is only a dummy package)",
-      "Line": 18029,
+      "Line": 18033,
       "Type": "package",
       "Release": "woody",
       "Package": "xpdf",

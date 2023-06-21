@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Mar 2005] DSA-693-1 luxman - buffer overflow",
-    "Line": 16468,
+    "Line": 16472,
     "ID": "DSA-693-1",
     "Description": "luxman - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-0385}",
-      "Line": 16469,
+      "Line": 16473,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-0385"
@@ -16,19 +16,19 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA",
-      "Line": 16470,
+      "Line": 16474,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA"
     },
     {
       "Original": "NOTE: not in unstable at time of DSA though DSA claimed it was",
-      "Line": 16471,
+      "Line": 16475,
       "Type": "NOTE",
       "Description": "not in unstable at time of DSA though DSA claimed it was"
     },
     {
       "Original": "[woody] - luxman 0.41-17.2",
-      "Line": 16472,
+      "Line": 16476,
       "Type": "package",
       "Release": "woody",
       "Package": "luxman",

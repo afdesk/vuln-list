@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[15 Sep 2017] DSA-3975-1 emacs25 - security update",
-    "Line": 4885,
+    "Line": 4889,
     "ID": "DSA-3975-1",
     "Description": "emacs25 - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-14482}",
-      "Line": 4886,
+      "Line": 4890,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-14482"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - emacs25 25.1+1-4+deb9u1",
-      "Line": 4887,
+      "Line": 4891,
       "Type": "package",
       "Release": "stretch",
       "Package": "emacs25",

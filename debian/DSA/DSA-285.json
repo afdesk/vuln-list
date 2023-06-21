@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[14 Apr 2003] DSA-285 lprng - insecure temporary file",
-    "Line": 17847,
+    "Line": 17851,
     "ID": "DSA-285",
     "Description": "lprng - insecure temporary file"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0136}",
-      "Line": 17848,
+      "Line": 17852,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0136"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - lprng 3.8.10-1.2",
-      "Line": 17849,
+      "Line": 17853,
       "Type": "package",
       "Release": "woody",
       "Package": "lprng",

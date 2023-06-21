@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Feb 2004] DSA-431 perl - information leak",
-    "Line": 17393,
+    "Line": 17397,
     "ID": "DSA-431",
     "Description": "perl - information leak"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0618}",
-      "Line": 17394,
+      "Line": 17398,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0618"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - perl 5.6.1-8.6",
-      "Line": 17395,
+      "Line": 17399,
       "Type": "package",
       "Release": "woody",
       "Package": "perl",

@@ -60,6 +60,65 @@
   },
   {
     "Architecture": [
+      "any"
+    ],
+    "Autobuild": [
+      "yes"
+    ],
+    "Binary": [
+      "7zip-rar"
+    ],
+    "Build-Depends": [
+      "debhelper-compat (= 13)"
+    ],
+    "Checksums-Sha256": [
+      "2b06b7f52f29dc8a7a98cd1864d7181517881bb31b7a33e41bf1cb82f755cb84 1898 7zip-rar_23.01-1.dsc c284e78aeecd046e5f9c292cb92b43174002d02aa480dfd2cb281b217e5df5fa 1396300 7zip-rar_23.01.orig.tar.xz 365963e07f30de08d2ae532b3e82a97bbabf72cba6c2176212796ed9e2994905 6236 7zip-rar_23.01-1.debian.tar.xz"
+    ],
+    "Directory": [
+      "pool/non-free/7/7zip-rar"
+    ],
+    "Files": [
+      "3195995ca705af6de8fc66d2dd868928 1898 7zip-rar_23.01-1.dsc a7ec8b8bf0250025ccfda5143b5e12a6 1396300 7zip-rar_23.01.orig.tar.xz 4297b7662d0ab3b2efa40e0ab0e6a77a 6236 7zip-rar_23.01-1.debian.tar.xz"
+    ],
+    "Format": [
+      "3.0 (quilt)"
+    ],
+    "Homepage": [
+      "https://www.7-zip.org/"
+    ],
+    "Maintainer": [
+      "YOKOTA Hiroshi \u003cyokota.hgml@gmail.com\u003e"
+    ],
+    "Package": [
+      "7zip-rar"
+    ],
+    "Package-List": [
+      "7zip-rar deb non-free/utils optional arch=any"
+    ],
+    "Priority": [
+      "optional"
+    ],
+    "Section": [
+      "non-free/misc"
+    ],
+    "Standards-Version": [
+      "4.6.2"
+    ],
+    "Testsuite": [
+      "autopkgtest"
+    ],
+    "Vcs-Browser": [
+      "https://salsa.debian.org/debian/7zip-rar"
+    ],
+    "Vcs-Git": [
+      "https://salsa.debian.org/debian/7zip-rar.git"
+    ],
+    "Version": [
+      "23.01-1"
+    ]
+  },
+  {
+    "Architecture": [
       "all"
     ],
     "Binary": [
@@ -2310,6 +2369,68 @@
     ],
     "Version": [
       "0.2.12-3"
+    ]
+  },
+  {
+    "Architecture": [
+      "any"
+    ],
+    "Autobuild": [
+      "yes"
+    ],
+    "Binary": [
+      "firebuild, libfirebuild0"
+    ],
+    "Build-Depends": [
+      "bats, bc, clang, cmake (\u003e= 3.13), debhelper-compat (= 12), docbook-xsl, fakeroot \u003c!nocheck\u003e, gcc (\u003e= 4:10) | gcc-10, g++ (\u003e= 4:10) | g++-10, graphviz, libconfig++-dev, libjemalloc-dev, libtsl-hopscotch-map-dev, libxxhash-dev (\u003e= 0.8), moreutils, po-debconf, python3-jinja2, xsltproc"
+    ],
+    "Checksums-Sha256": [
+      "94daf1879795b2deba28c6bc413bc6e8ca8ed7315ff2b47313a80431a8a41cb6 2259 firebuild_0.8.0-1.dsc 18908f10cff7ba1702b1df8f5229ad951805d7ee5268ca7b3c8348c4cdbe6f80 364361 firebuild_0.8.0.orig.tar.gz 93a65c5ebe027b477341c37992167788e71f06fa73d5712f19ef48a8c0992c58 8676 firebuild_0.8.0-1.debian.tar.xz"
+    ],
+    "Directory": [
+      "pool/non-free/f/firebuild"
+    ],
+    "Files": [
+      "3d0d717b224ceb3d57a1de086940530e 2259 firebuild_0.8.0-1.dsc 73711996c34877a29026273fba53a216 364361 firebuild_0.8.0.orig.tar.gz f8f3dcdbbea013df5780d84f55377433 8676 firebuild_0.8.0-1.debian.tar.xz"
+    ],
+    "Format": [
+      "3.0 (quilt)"
+    ],
+    "Homepage": [
+      "https://firebuild.com"
+    ],
+    "Maintainer": [
+      "Balint Reczey \u003cbalint@balintreczey.hu\u003e"
+    ],
+    "Package": [
+      "firebuild"
+    ],
+    "Package-List": [
+      "firebuild deb non-free/devel optional arch=any libfirebuild0 deb non-free/devel optional arch=any"
+    ],
+    "Priority": [
+      "optional"
+    ],
+    "Section": [
+      "non-free/misc"
+    ],
+    "Standards-Version": [
+      "4.6.2"
+    ],
+    "Testsuite": [
+      "autopkgtest"
+    ],
+    "Testsuite-Triggers": [
+      "bash, bc, debconf, time"
+    ],
+    "Vcs-Browser": [
+      "https://salsa.debian.org/debian/firebuild"
+    ],
+    "Vcs-Git": [
+      "https://salsa.debian.org/debian/firebuild.git -b debian/master"
+    ],
+    "Version": [
+      "0.8.0-1"
     ]
   },
   {

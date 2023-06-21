@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Jun 2012] DSA-2497-1 quagga - denial of service",
-    "Line": 9856,
+    "Line": 9860,
     "ID": "DSA-2497-1",
     "Description": "quagga - denial of service"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-1820}",
-      "Line": 9857,
+      "Line": 9861,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-1820"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - quagga 0.99.20.1-0+squeeze3",
-      "Line": 9858,
+      "Line": 9862,
       "Type": "package",
       "Release": "squeeze",
       "Package": "quagga",

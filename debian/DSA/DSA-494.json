@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Apr 2004] DSA-494 ident2 - buffer overflow",
-    "Line": 17168,
+    "Line": 17172,
     "ID": "DSA-494",
     "Description": "ident2 - buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0408}",
-      "Line": 17169,
+      "Line": 17173,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0408"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - ident2 1.03-3woody1",
-      "Line": 17170,
+      "Line": 17174,
       "Type": "package",
       "Release": "woody",
       "Package": "ident2",

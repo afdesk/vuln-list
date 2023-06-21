@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Jun 2016] DSA-3606-1 libpdfbox-java - security update",
-    "Line": 6089,
+    "Line": 6093,
     "ID": "DSA-3606-1",
     "Description": "libpdfbox-java - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-2175}",
-      "Line": 6090,
+      "Line": 6094,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-2175"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - libpdfbox-java 1:1.8.7+dfsg-1+deb8u1",
-      "Line": 6091,
+      "Line": 6095,
       "Type": "package",
       "Release": "jessie",
       "Package": "libpdfbox-java",
