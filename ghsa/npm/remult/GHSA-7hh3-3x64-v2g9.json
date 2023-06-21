@@ -38,7 +38,7 @@
     "PublishedAt": "2023-06-20T18:50:15Z",
     "Severity": "MODERATE",
     "Summary": "When setting EntityOptions.apiPrefilter to a function, the filter is not applied to API requests for a resource by Id",
-    "UpdatedAt": "2023-06-20T18:50:16Z",
+    "UpdatedAt": "2023-06-21T11:12:28Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 0,

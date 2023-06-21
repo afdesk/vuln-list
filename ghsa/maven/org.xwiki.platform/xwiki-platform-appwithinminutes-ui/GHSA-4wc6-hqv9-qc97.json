@@ -38,7 +38,7 @@
     "PublishedAt": "2023-06-20T16:47:13Z",
     "Severity": "CRITICAL",
     "Summary": "XWiki Platform vulnerable to stored cross-site scripting in ClassEditSheet page via name parameters",
-    "UpdatedAt": "2023-06-20T16:47:14Z",
+    "UpdatedAt": "2023-06-21T10:19:56Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9,
