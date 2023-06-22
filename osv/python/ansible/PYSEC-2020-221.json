@@ -1,6 +1,6 @@
 {
   "id": "PYSEC-2020-221",
-  "modified": "2023-06-05T01:12:45.549573Z",
+  "modified": "2023-06-22T16:29:43.777510Z",
   "published": "2020-10-05T13:15:00Z",
   "withdrawn": "2023-05-30T03:49:00Z",
   "aliases": [
@@ -352,7 +352,9 @@
         "8.0.0a2",
         "8.0.0a3",
         "8.0.0b1",
-        "8.0.0rc1"
+        "8.0.0rc1",
+        "7.7.0",
+        "8.1.0"
       ],
       "database_specific": {
         "source": "https://github.com/pypa/advisory-database/blob/main/vulns/ansible/PYSEC-2020-221.yaml"
