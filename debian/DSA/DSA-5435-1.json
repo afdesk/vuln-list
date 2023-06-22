@@ -26,13 +26,13 @@
       "Version": "8.1.7+ds-1~deb11u1"
     },
     {
-      "Original": "[bookworm] - trafficserver 9.2.0+ds-1~deb12u1",
+      "Original": "[bookworm] - trafficserver 9.2.0+ds-2+deb12u1",
       "Line": 12,
       "Type": "package",
       "Release": "bookworm",
       "Package": "trafficserver",
       "Kind": "fixed",
-      "Version": "9.2.0+ds-1~deb12u1"
+      "Version": "9.2.0+ds-2+deb12u1"
     }
   ]
 }

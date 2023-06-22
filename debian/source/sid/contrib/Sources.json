@@ -9350,13 +9350,13 @@
       "debhelper-compat (= 12), ca-certificates, po-debconf"
     ],
     "Checksums-Sha256": [
-      "881ca7c37d5240c3e3387390a6d98f76352b0d168b15a1311ba88056116d4559 2116 virtualbox-ext-pack_7.0.8-1.dsc 13c50811527911fa4fdada54aecfb58eb8fe6243e62114b38d70ca2d23b2c6f1 192 virtualbox-ext-pack_7.0.8.orig.tar.xz ad519335759663c6840c0bca2f0168db259623029a5cd75be762bea7f97439a6 15048 virtualbox-ext-pack_7.0.8-1.debian.tar.xz"
+      "0f6a82c2e2a8c1e3b24492d16a1467e755b69b6a5403a05762e75401f2033978 2116 virtualbox-ext-pack_7.0.8-2.dsc 13c50811527911fa4fdada54aecfb58eb8fe6243e62114b38d70ca2d23b2c6f1 192 virtualbox-ext-pack_7.0.8.orig.tar.xz 55806ff8701671ceffd4086cf3978e8b16f9120a6cf97e871ec9c6fb5afc8264 15104 virtualbox-ext-pack_7.0.8-2.debian.tar.xz"
     ],
     "Directory": [
       "pool/contrib/v/virtualbox-ext-pack"
     ],
     "Files": [
-      "421139dd87ff58452a5e15185aabfec7 2116 virtualbox-ext-pack_7.0.8-1.dsc 5b86b90d5244cabc346e6ace4622adde 192 virtualbox-ext-pack_7.0.8.orig.tar.xz 30db1b1846482e51c8a1a7e00822801b 15048 virtualbox-ext-pack_7.0.8-1.debian.tar.xz"
+      "bf2c08deed4abb147a0ff49d44433a36 2116 virtualbox-ext-pack_7.0.8-2.dsc 5b86b90d5244cabc346e6ace4622adde 192 virtualbox-ext-pack_7.0.8.orig.tar.xz 887b78ef5eecc1032f85f5d93acd508f 15104 virtualbox-ext-pack_7.0.8-2.debian.tar.xz"
     ],
     "Format": [
       "3.0 (quilt)"
@@ -9392,7 +9392,7 @@
       "https://salsa.debian.org/pkg-virtualbox-team/virtualbox-ext-pack.git"
     ],
     "Version": [
-      "7.0.8-1"
+      "7.0.8-2"
     ]
   },
   {
