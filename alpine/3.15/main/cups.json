@@ -17,6 +17,9 @@
     ],
     "2.3.3-r7": [
       "CVE-2023-32324"
+    ],
+    "2.3.3-r8": [
+      "CVE-2023-34241"
     ]
   },
   "apkurl": "{{urlprefix}}/{{distroversion}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
