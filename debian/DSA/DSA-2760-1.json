@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[18 Sep 2013] DSA-2760-1 chrony - several",
-    "Line": 9000,
+    "Line": 9012,
     "ID": "DSA-2760-1",
     "Description": "chrony - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2012-4502 CVE-2012-4503}",
-      "Line": 9001,
+      "Line": 9013,
       "Type": "xref",
       "Bugs": [
         "CVE-2012-4502",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[squeeze] - chrony 1.24-3+squeeze1",
-      "Line": 9002,
+      "Line": 9014,
       "Type": "package",
       "Release": "squeeze",
       "Package": "chrony",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[wheezy] - chrony 1.24-3.1+deb7u2",
-      "Line": 9003,
+      "Line": 9015,
       "Type": "package",
       "Release": "wheezy",
       "Package": "chrony",

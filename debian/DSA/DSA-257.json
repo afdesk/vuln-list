@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Mar 2003] DSA-257 sendmail - remote exploit",
-    "Line": 17937,
+    "Line": 17949,
     "ID": "DSA-257",
     "Description": "sendmail - remote exploit"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-1337}",
-      "Line": 17938,
+      "Line": 17950,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-1337"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - sendmail 8.12.3-5",
-      "Line": 17939,
+      "Line": 17951,
       "Type": "package",
       "Release": "woody",
       "Package": "sendmail",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[woody] - sendmail-wide 8.12.3+3.5Wbeta-5.2",
-      "Line": 17940,
+      "Line": 17952,
       "Type": "package",
       "Release": "woody",
       "Package": "sendmail-wide",

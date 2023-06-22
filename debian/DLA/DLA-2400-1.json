@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[07 Oct 2020] DLA-2400-1 activemq - security update",
-    "Line": 3227,
+    "Line": 3239,
     "ID": "DLA-2400-1",
     "Description": "activemq - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2020-13920}",
-      "Line": 3228,
+      "Line": 3240,
       "Type": "xref",
       "Bugs": [
         "CVE-2020-13920"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - activemq 5.14.3-3+deb9u1",
-      "Line": 3229,
+      "Line": 3241,
       "Type": "package",
       "Release": "stretch",
       "Package": "activemq",

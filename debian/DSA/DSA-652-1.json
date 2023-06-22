@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[21 Jan 2005] DSA-652-1 unarj",
-    "Line": 16644,
+    "Line": 16656,
     "ID": "DSA-652-1",
     "Description": "unarj"
   },
   "Annotations": [
     {
       "Original": "{CVE-2004-0947 CVE-2004-1027}",
-      "Line": 16645,
+      "Line": 16657,
       "Type": "xref",
       "Bugs": [
         "CVE-2004-0947",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[woody] - unarj 2.43-3woody1",
-      "Line": 16646,
+      "Line": 16658,
       "Type": "package",
       "Release": "woody",
       "Package": "unarj",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "NOTE: package was in non-free, different code base",
-      "Line": 16647,
+      "Line": 16659,
       "Type": "NOTE",
       "Description": "package was in non-free, different code base"
     }

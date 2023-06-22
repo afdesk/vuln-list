@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Jul 2003] DSA-348 traceroute-nanog - integer overflow, buffer overflow",
-    "Line": 17656,
+    "Line": 17668,
     "ID": "DSA-348",
     "Description": "traceroute-nanog - integer overflow, buffer overflow"
   },
   "Annotations": [
     {
       "Original": "{CVE-2003-0453}",
-      "Line": 17657,
+      "Line": 17669,
       "Type": "xref",
       "Bugs": [
         "CVE-2003-0453"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - traceroute-nanog 6.1.1-1.3",
-      "Line": 17658,
+      "Line": 17670,
       "Type": "package",
       "Release": "woody",
       "Package": "traceroute-nanog",

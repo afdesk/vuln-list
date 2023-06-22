@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Feb 2014] DSA-2860-1 parcimonie - information disclosure",
-    "Line": 8646,
+    "Line": 8658,
     "ID": "DSA-2860-1",
     "Description": "parcimonie - information disclosure"
   },
   "Annotations": [
     {
       "Original": "{CVE-2014-1921}",
-      "Line": 8647,
+      "Line": 8659,
       "Type": "xref",
       "Bugs": [
         "CVE-2014-1921"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[wheezy] - parcimonie 0.7.1-1+deb7u1",
-      "Line": 8648,
+      "Line": 8660,
       "Type": "package",
       "Release": "wheezy",
       "Package": "parcimonie",
