@@ -1,5 +1,5 @@
 {
-  "Identifier": "OSDDB-95668",
+  "Identifier": "OSVDB-95668",
   "PackageSlug": "gem/builder",
   "Title": "Private Method Exposure",
   "Description": "This package contains a flaw in the handling of tag names. The issue is triggered when the program reads tag names from XML data and then calls a method with that name. With a specially crafted file, a context-dependent attacker can call private methods and manipulate data.",
