@@ -23,6 +23,9 @@
         "Url": "https://github.com/n8n-io/n8n/releases/tag/n8n%400.216.1"
       },
       {
+        "Url": "https://security.netapp.com/advisory/ntap-20230622-0007/"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-97cp-mr4m-9mcf"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2023-05-10T15:30:22Z",
     "Severity": "HIGH",
     "Summary": "n8n Privilege Escalation vulnerability",
-    "UpdatedAt": "2023-05-17T21:33:23Z",
+    "UpdatedAt": "2023-06-22T17:25:33Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.8,

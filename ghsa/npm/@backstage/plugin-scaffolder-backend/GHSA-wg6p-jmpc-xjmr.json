@@ -20,6 +20,9 @@
         "Url": "https://github.com/backstage/backstage/releases/tag/v1.15.0"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2023-35926"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-wg6p-jmpc-xjmr"
       }
     ],
@@ -38,7 +41,7 @@
     "PublishedAt": "2023-06-21T22:00:30Z",
     "Severity": "HIGH",
     "Summary": "Backstage Scaffolder plugin has insecure sandbox",
-    "UpdatedAt": "2023-06-21T22:00:31Z",
+    "UpdatedAt": "2023-06-22T17:31:39Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8,
