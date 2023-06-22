@@ -1778,7 +1778,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.24.6-5 or earlier",
+      "Comment": "Package k3s is installed with version 1.25.8-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13819000",
       "Version": "0",
       "Object": {
@@ -1826,7 +1826,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package rook is installed with version 1.6.2-10 or earlier",
+      "Comment": "Package rook is installed with version 1.6.2-11 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13783000",
       "Version": "0",
       "Object": {
@@ -2078,7 +2078,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package msft-golang is installed with version 1.19.8-1 or earlier",
+      "Comment": "Package msft-golang is installed with version 1.19.10-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13739000",
       "Version": "0",
       "Object": {
@@ -2102,7 +2102,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package msft-golang is installed with version 1.19.8-1 or earlier",
+      "Comment": "Package msft-golang is installed with version 1.19.10-1 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13737000",
       "Version": "0",
       "Object": {
@@ -2642,7 +2642,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.24.6-5 or earlier",
+      "Comment": "Package k3s is installed with version 1.25.8-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13572000",
       "Version": "0",
       "Object": {
@@ -2654,7 +2654,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.24.6-5 or earlier",
+      "Comment": "Package k3s is installed with version 1.25.8-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13571000",
       "Version": "0",
       "Object": {
@@ -2666,7 +2666,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.24.6-5 or earlier",
+      "Comment": "Package k3s is installed with version 1.25.8-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13570000",
       "Version": "0",
       "Object": {
@@ -3062,9 +3062,9 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package cert-manager is earlier than 1.11.2-1, affected by CVE-2023-25165",
+      "Comment": "Package cert-manager is earlier than 1.7.3-8, affected by CVE-2023-25165",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13300000",
-      "Version": "1",
+      "Version": "2",
       "Object": {
         "ObjectRef": "oval:com.microsoft.cbl-mariner:obj:13300001"
       },

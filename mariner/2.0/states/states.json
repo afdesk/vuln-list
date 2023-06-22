@@ -1336,7 +1336,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13819002",
       "Version": "0",
       "Evr": {
-        "Text": "0:1.24.6-5.cm2",
+        "Text": "0:1.25.8-2.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -1372,7 +1372,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13783002",
       "Version": "0",
       "Evr": {
-        "Text": "0:1.6.2-10.cm2",
+        "Text": "0:1.6.2-11.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -1561,7 +1561,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13739002",
       "Version": "0",
       "Evr": {
-        "Text": "0:1.19.8-1.cm2",
+        "Text": "0:1.19.10-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -1579,7 +1579,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13737002",
       "Version": "0",
       "Evr": {
-        "Text": "0:1.19.8-1.cm2",
+        "Text": "0:1.19.10-1.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -1984,7 +1984,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13572002",
       "Version": "0",
       "Evr": {
-        "Text": "0:1.24.6-5.cm2",
+        "Text": "0:1.25.8-2.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -1993,7 +1993,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13571002",
       "Version": "0",
       "Evr": {
-        "Text": "0:1.24.6-5.cm2",
+        "Text": "0:1.25.8-2.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -2002,7 +2002,7 @@
       "ID": "oval:com.microsoft.cbl-mariner:ste:13570002",
       "Version": "0",
       "Evr": {
-        "Text": "0:1.24.6-5.cm2",
+        "Text": "0:1.25.8-2.cm2",
         "Datatype": "evr_string",
         "Operation": "less than or equal"
       }
@@ -2297,9 +2297,9 @@
     },
     {
       "ID": "oval:com.microsoft.cbl-mariner:ste:13300002",
-      "Version": "1",
+      "Version": "2",
       "Evr": {
-        "Text": "0:1.11.2-1.cm2",
+        "Text": "0:1.7.3-8.cm2",
         "Datatype": "evr_string",
         "Operation": "less than"
       }
