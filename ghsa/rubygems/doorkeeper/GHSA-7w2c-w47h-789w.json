@@ -50,7 +50,7 @@
     "PublishedAt": "2023-06-12T19:50:34Z",
     "Severity": "MODERATE",
     "Summary": "Doorkeeper Improper Authentication vulnerability",
-    "UpdatedAt": "2023-06-16T17:55:18Z",
+    "UpdatedAt": "2023-06-22T07:32:58Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.2,
