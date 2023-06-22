@@ -29,10 +29,10 @@
         "Url": "https://www.rfc-editor.org/rfc/rfc8252#section-8.6"
       },
       {
-        "Url": "https://github.com/advisories/GHSA-7w2c-w47h-789w"
+        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/doorkeeper/CVE-2023-34246.yml"
       },
       {
-        "Url": "https://github.com/rubysec/ruby-advisory-db/blob/master/gems/doorkeeper/CVE-2023-34246.yml"
+        "Url": "https://github.com/advisories/GHSA-7w2c-w47h-789w"
       }
     ],
     "Identifiers": [

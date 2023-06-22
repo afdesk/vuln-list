@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-06-14T20:16:52Z",
   "Package": {
     "Ecosystem": "MAVEN",
@@ -45,13 +45,13 @@
     "Description": "Denial of service via out of memory (OOM) owing to no sanity limit on normal form fields in multipart forms. When a Multipart request has non-file normal form fields, Struts used to bring them into memory as Strings without checking their sizes. This could lead to an OOM if developer has set struts.multipart.maxSize to a value equal or greater than the available memory.\n\nUpgrade to Struts 2.5.31 or 6.1.2.1 or greater\n\n\n",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-14T09:30:42Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "Apache Struts vulnerable to memory exhaustion",
-    "UpdatedAt": "2023-06-14T20:16:52Z",
+    "UpdatedAt": "2023-06-21T21:47:38Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 4.3,
-      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L"
+      "Score": 7.5,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
     }
   },
   "Versions": [
