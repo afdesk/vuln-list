@@ -17,6 +17,9 @@
         "Url": "https://github.com/netty/netty/commit/535da17e45201ae4278c0479e6162bb4127d4c32"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2023-34462"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-6mjq-h674-j845"
       }
     ],
@@ -35,11 +38,11 @@
     "PublishedAt": "2023-06-20T16:33:22Z",
     "Severity": "MODERATE",
     "Summary": "netty-handler SniHandler 16MB allocation",
-    "UpdatedAt": "2023-06-20T16:33:23Z",
+    "UpdatedAt": "2023-06-23T13:56:07Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 6.5,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H"
     }
   },
   "Versions": [
