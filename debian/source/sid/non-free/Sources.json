@@ -13,13 +13,13 @@
       "debhelper-compat (= 13)"
     ],
     "Checksums-Sha256": [
-      "ec6b71bef2d9e93a1a0c15262e8c34d2474cdd5a9e9e9816065ed60f0b5163ff 1715 7zip-rar_22.01-1.dsc bfa163ff8e288b2f07fc0e97cd10e65b68f7df363884f223a54b846519e53483 1308632 7zip-rar_22.01.orig.tar.xz fa1d4ac1bdbedc12bb215cb681f2115f9b44d7ab16ed3ffdf2c80800af118fdf 6336 7zip-rar_22.01-1.debian.tar.xz"
+      "5977fc591baf51abe1dc9cca9405d0aad8fd517a3d7d6f92a01100268970ab8b 1898 7zip-rar_23.01-2.dsc c284e78aeecd046e5f9c292cb92b43174002d02aa480dfd2cb281b217e5df5fa 1396300 7zip-rar_23.01.orig.tar.xz fd02c3a7f868c407f2aafa40302137bc0c1a8a06876cd31ed85805c9706d44dd 6296 7zip-rar_23.01-2.debian.tar.xz"
     ],
     "Directory": [
       "pool/non-free/7/7zip-rar"
     ],
     "Files": [
-      "740fc1c3f0bff66fefb255ae042ff282 1715 7zip-rar_22.01-1.dsc 43d69cf5951dc14b5cae5ce782fd93a6 1308632 7zip-rar_22.01.orig.tar.xz e8e4514b6d91187fc21759b977a0ce8d 6336 7zip-rar_22.01-1.debian.tar.xz"
+      "08291bf30377c5c53baa60d1a4257a57 1898 7zip-rar_23.01-2.dsc a7ec8b8bf0250025ccfda5143b5e12a6 1396300 7zip-rar_23.01.orig.tar.xz 92276d35ec5a29335c2c715fc726ac8b 6296 7zip-rar_23.01-2.debian.tar.xz"
     ],
     "Format": [
       "3.0 (quilt)"
@@ -55,66 +55,7 @@
       "https://salsa.debian.org/debian/7zip-rar.git"
     ],
     "Version": [
-      "22.01-1"
-    ]
-  },
-  {
-    "Architecture": [
-      "any"
-    ],
-    "Autobuild": [
-      "yes"
-    ],
-    "Binary": [
-      "7zip-rar"
-    ],
-    "Build-Depends": [
-      "debhelper-compat (= 13)"
-    ],
-    "Checksums-Sha256": [
-      "2b06b7f52f29dc8a7a98cd1864d7181517881bb31b7a33e41bf1cb82f755cb84 1898 7zip-rar_23.01-1.dsc c284e78aeecd046e5f9c292cb92b43174002d02aa480dfd2cb281b217e5df5fa 1396300 7zip-rar_23.01.orig.tar.xz 365963e07f30de08d2ae532b3e82a97bbabf72cba6c2176212796ed9e2994905 6236 7zip-rar_23.01-1.debian.tar.xz"
-    ],
-    "Directory": [
-      "pool/non-free/7/7zip-rar"
-    ],
-    "Files": [
-      "3195995ca705af6de8fc66d2dd868928 1898 7zip-rar_23.01-1.dsc a7ec8b8bf0250025ccfda5143b5e12a6 1396300 7zip-rar_23.01.orig.tar.xz 4297b7662d0ab3b2efa40e0ab0e6a77a 6236 7zip-rar_23.01-1.debian.tar.xz"
-    ],
-    "Format": [
-      "3.0 (quilt)"
-    ],
-    "Homepage": [
-      "https://www.7-zip.org/"
-    ],
-    "Maintainer": [
-      "YOKOTA Hiroshi \u003cyokota.hgml@gmail.com\u003e"
-    ],
-    "Package": [
-      "7zip-rar"
-    ],
-    "Package-List": [
-      "7zip-rar deb non-free/utils optional arch=any"
-    ],
-    "Priority": [
-      "optional"
-    ],
-    "Section": [
-      "non-free/misc"
-    ],
-    "Standards-Version": [
-      "4.6.2"
-    ],
-    "Testsuite": [
-      "autopkgtest"
-    ],
-    "Vcs-Browser": [
-      "https://salsa.debian.org/debian/7zip-rar"
-    ],
-    "Vcs-Git": [
-      "https://salsa.debian.org/debian/7zip-rar.git"
-    ],
-    "Version": [
-      "23.01-1"
+      "23.01-2"
     ]
   },
   {

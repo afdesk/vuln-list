@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[20 Dec 2002] DSA-214 kdenetwork - buffer overflows",
-    "Line": 18079,
+    "Line": 18082,
     "ID": "DSA-214",
     "Description": "kdenetwork - buffer overflows"
   },
   "Annotations": [
     {
       "Original": "{CVE-2002-1306}",
-      "Line": 18080,
+      "Line": 18083,
       "Type": "xref",
       "Bugs": [
         "CVE-2002-1306"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[woody] - kdenetwork 2.2.2-14.5",
-      "Line": 18081,
+      "Line": 18084,
       "Type": "package",
       "Release": "woody",
       "Package": "kdenetwork",

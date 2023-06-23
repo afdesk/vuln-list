@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[04 Oct 2022] DSA-5247-1 barbican - security update",
-    "Line": 588,
+    "Line": 591,
     "ID": "DSA-5247-1",
     "Description": "barbican - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-3100}",
-      "Line": 589,
+      "Line": 592,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-3100"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[bullseye] - barbican 1:11.0.0-3+deb11u1",
-      "Line": 590,
+      "Line": 593,
       "Type": "package",
       "Release": "bullseye",
       "Package": "barbican",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Aug 2005] DSA-791-1 maildrop - missing privilege release",
-    "Line": 16050,
+    "Line": 16053,
     "ID": "DSA-791-1",
     "Description": "maildrop - missing privilege release"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-2655}",
-      "Line": 16051,
+      "Line": 16054,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-2655"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - maildrop 1.5.3-1.1sarge1",
-      "Line": 16052,
+      "Line": 16055,
       "Type": "package",
       "Release": "sarge",
       "Package": "maildrop",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[woody] - maildrop \u003cnot-affected\u003e (not affected according to the DSA)",
-      "Line": 16053,
+      "Line": 16056,
       "Type": "package",
       "Release": "woody",
       "Package": "maildrop",
@@ -34,13 +34,13 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA (glibc transition)",
-      "Line": 16054,
+      "Line": 16057,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA (glibc transition)"
     },
     {
       "Original": "NOTE: but fixed in secure-testing repo",
-      "Line": 16055,
+      "Line": 16058,
       "Type": "NOTE",
       "Description": "but fixed in secure-testing repo"
     }

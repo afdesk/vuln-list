@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Jun 2011] DSA-2258-1 kolab-cyrus-imapd - implementation error",
-    "Line": 10711,
+    "Line": 10714,
     "ID": "DSA-2258-1",
     "Description": "kolab-cyrus-imapd - implementation error"
   },
   "Annotations": [
     {
       "Original": "{CVE-2011-1926}",
-      "Line": 10712,
+      "Line": 10715,
       "Type": "xref",
       "Bugs": [
         "CVE-2011-1926"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - kolab-cyrus-imapd 2.2.13-9.1",
-      "Line": 10713,
+      "Line": 10716,
       "Type": "package",
       "Release": "squeeze",
       "Package": "kolab-cyrus-imapd",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[lenny] - kolab-cyrus-imapd 2.2.13-5+lenny3",
-      "Line": 10714,
+      "Line": 10717,
       "Type": "package",
       "Release": "lenny",
       "Package": "kolab-cyrus-imapd",

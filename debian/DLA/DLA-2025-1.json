@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[08 Dec 2019] DLA-2025-1 openslp-dfsg - security update",
-    "Line": 4395,
+    "Line": 4398,
     "ID": "DLA-2025-1",
     "Description": "openslp-dfsg - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2017-17833 CVE-2019-5544}",
-      "Line": 4396,
+      "Line": 4399,
       "Type": "xref",
       "Bugs": [
         "CVE-2017-17833",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[jessie] - openslp-dfsg 1.2.1-10+deb8u2",
-      "Line": 4397,
+      "Line": 4400,
       "Type": "package",
       "Release": "jessie",
       "Package": "openslp-dfsg",

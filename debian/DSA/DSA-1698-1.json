@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[09 Jan 2009] DSA-1698-1 gforge - SQL injection",
-    "Line": 12696,
+    "Line": 12699,
     "ID": "DSA-1698-1",
     "Description": "gforge - SQL injection"
   },
   "Annotations": [
     {
       "Original": "{CVE-2008-2381 CVE-2008-6189 CVE-2008-6188 CVE-2008-6187}",
-      "Line": 12697,
+      "Line": 12700,
       "Type": "xref",
       "Bugs": [
         "CVE-2008-2381",
@@ -19,7 +19,7 @@
     },
     {
       "Original": "[etch] - gforge 4.5.14-22etch10",
-      "Line": 12698,
+      "Line": 12701,
       "Type": "package",
       "Release": "etch",
       "Package": "gforge",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Oct 2019] DLA-1977-1 libvncserver - security update",
-    "Line": 4542,
+    "Line": 4545,
     "ID": "DLA-1977-1",
     "Description": "libvncserver - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-15681}",
-      "Line": 4543,
+      "Line": 4546,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-15681"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - libvncserver 0.9.9+dfsg2-6.1+deb8u6",
-      "Line": 4544,
+      "Line": 4547,
       "Type": "package",
       "Release": "jessie",
       "Package": "libvncserver",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[23 Oct 2019] DLA-1969-1 file - security update",
-    "Line": 4566,
+    "Line": 4569,
     "ID": "DLA-1969-1",
     "Description": "file - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2019-18218}",
-      "Line": 4567,
+      "Line": 4570,
       "Type": "xref",
       "Bugs": [
         "CVE-2019-18218"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[jessie] - file 1:5.22+15-2+deb8u6",
-      "Line": 4568,
+      "Line": 4571,
       "Type": "package",
       "Release": "jessie",
       "Package": "file",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[30 Jan 2012] DSA-2398-1 curl - several",
-    "Line": 10194,
+    "Line": 10197,
     "ID": "DSA-2398-1",
     "Description": "curl - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2011-3389 CVE-2012-0036 }",
-      "Line": 10195,
+      "Line": 10198,
       "Type": "xref",
       "Bugs": [
         "CVE-2011-3389",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[lenny] - curl 7.18.2-8lenny6",
-      "Line": 10196,
+      "Line": 10199,
       "Type": "package",
       "Release": "lenny",
       "Package": "curl",
@@ -26,7 +26,7 @@
     },
     {
       "Original": "[squeeze] - curl 7.21.0-2.1+squeeze1",
-      "Line": 10197,
+      "Line": 10200,
       "Type": "package",
       "Release": "squeeze",
       "Package": "curl",

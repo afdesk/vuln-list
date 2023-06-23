@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[11 Jan 2022] DSA-5040-1 lighttpd - security update",
-    "Line": 1305,
+    "Line": 1308,
     "ID": "DSA-5040-1",
     "Description": "lighttpd - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2022-22707}",
-      "Line": 1306,
+      "Line": 1309,
       "Type": "xref",
       "Bugs": [
         "CVE-2022-22707"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[buster] - lighttpd 1.4.53-4+deb10u2",
-      "Line": 1307,
+      "Line": 1310,
       "Type": "package",
       "Release": "buster",
       "Package": "lighttpd",
@@ -25,7 +25,7 @@
     },
     {
       "Original": "[bullseye] - lighttpd 1.4.59-1+deb11u1",
-      "Line": 1308,
+      "Line": 1311,
       "Type": "package",
       "Release": "bullseye",
       "Package": "lighttpd",

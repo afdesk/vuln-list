@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[29 Aug 2005] DSA-789-1 php4 - several",
-    "Line": 16060,
+    "Line": 16063,
     "ID": "DSA-789-1",
     "Description": "php4 - several"
   },
   "Annotations": [
     {
       "Original": "{CVE-2005-1751 CVE-2005-1921 CVE-2005-2498}",
-      "Line": 16061,
+      "Line": 16064,
       "Type": "xref",
       "Bugs": [
         "CVE-2005-1751",
@@ -18,7 +18,7 @@
     },
     {
       "Original": "[woody] - php4 4:4.1.2-7.woody5 (high)",
-      "Line": 16062,
+      "Line": 16065,
       "Type": "package",
       "Release": "woody",
       "Package": "php4",
@@ -28,7 +28,7 @@
     },
     {
       "Original": "[sarge] - php4 4:4.3.10-16 (high)",
-      "Line": 16063,
+      "Line": 16066,
       "Type": "package",
       "Release": "sarge",
       "Package": "php4",
@@ -38,7 +38,7 @@
     },
     {
       "Original": "NOTE: not fixed in testing at time of DSA (not uploaded yet)",
-      "Line": 16064,
+      "Line": 16067,
       "Type": "NOTE",
       "Description": "not fixed in testing at time of DSA (not uploaded yet)"
     }

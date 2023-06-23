@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Jul 2014] DLA-0013-1 tiff - security update",
-    "Line": 10531,
+    "Line": 10534,
     "ID": "DLA-0013-1",
     "Description": "tiff - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2013-4243}",
-      "Line": 10532,
+      "Line": 10535,
       "Type": "xref",
       "Bugs": [
         "CVE-2013-4243"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[squeeze] - tiff 3.9.4-5+squeeze11",
-      "Line": 10533,
+      "Line": 10536,
       "Type": "package",
       "Release": "squeeze",
       "Package": "tiff",

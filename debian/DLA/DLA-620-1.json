@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[13 Sep 2016] DLA-620-1 libphp-adodb - security update",
-    "Line": 8692,
+    "Line": 8695,
     "ID": "DLA-620-1",
     "Description": "libphp-adodb - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2016-4855 CVE-2016-7405}",
-      "Line": 8693,
+      "Line": 8696,
       "Type": "xref",
       "Bugs": [
         "CVE-2016-4855",
@@ -17,7 +17,7 @@
     },
     {
       "Original": "[wheezy] - libphp-adodb 5.15-1+deb7u1",
-      "Line": 8694,
+      "Line": 8697,
       "Type": "package",
       "Release": "wheezy",
       "Package": "libphp-adodb",
