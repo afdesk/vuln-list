@@ -2325,16 +2325,16 @@
       "bash-completion, dbus-daemon, debhelper-compat (= 13), dh-apparmor, dh-sequence-cruft, dh-sequence-python3, imagemagick, inkscape (\u003e= 1.0~), meson (\u003e= 0.56.0), pyflakes3, python3:any, python3-debian, python3-yaml:any, xmlstarlet, zip"
     ],
     "Checksums-Sha256": [
-      "6f8fe1c1d4e987eeefceb85bc8ebf4873305a5d7e237aa5f70b4984b943a789b 2985 game-data-packager_73.dsc 922ed4b6998e6b71358ed89f18f70d480827861d66239c26e18384c4bf2ef1a1 7185092 game-data-packager_73.tar.xz"
+      "08d7bc6a47717ec7e61144eccc2246af22d14eca8f52a625338ecb2904eb0bef 2985 game-data-packager_74.dsc fd2ac589cd526295594359e7c21ccbc6338ebbda96833cb9117d84636ff8caa2 7241328 game-data-packager_74.tar.xz"
     ],
     "Dgit": [
-      "dfd8bfa818f31669e6c4311f1e581ffa549ab7bd debian archive/debian/73 https://git.dgit.debian.org/game-data-packager"
+      "23c0a73b16a042a6a2ce0f673f24b14619f22630 debian archive/debian/74 https://git.dgit.debian.org/game-data-packager"
     ],
     "Directory": [
       "pool/contrib/g/game-data-packager"
     ],
     "Files": [
-      "725e7bb7daf7f25cd85e8d75a1cdff78 2985 game-data-packager_73.dsc dfa98edd34bb9cc6f19a60e348a022e9 7185092 game-data-packager_73.tar.xz"
+      "83d3ad9d37e1191bf2895bd61cbb0e88 2985 game-data-packager_74.dsc e81c09caac2ce43a309e5d989053cee8 7241328 game-data-packager_74.tar.xz"
     ],
     "Format": [
       "3.0 (native)"
@@ -2376,7 +2376,7 @@
       "https://salsa.debian.org/games-team/game-data-packager.git"
     ],
     "Version": [
-      "73"
+      "74"
     ]
   },
   {
@@ -5994,62 +5994,6 @@
     ],
     "Version": [
       "4.6.0-1"
-    ]
-  },
-  {
-    "Architecture": [
-      "any"
-    ],
-    "Binary": [
-      "openjazz"
-    ],
-    "Build-Depends": [
-      "debhelper-compat (= 12), libmodplug-dev, libsdl1.2-dev, pkg-config, zlib1g-dev"
-    ],
-    "Checksums-Sha256": [
-      "a42d9e616a116a8e05f3db89f681a87bb0603ad6e436c1ffb6296d41f3aad652 2013 openjazz_20190106-3.dsc 27da3ab32cb6b806502a213c435e1b3b6ecebb9f099592f71caf6574135b1662 219717 openjazz_20190106.orig.tar.gz f20820f84ab844040c5db5742627d52d827c48defbfa9f42a6b4076fe2a1dce8 14244 openjazz_20190106-3.debian.tar.xz"
-    ],
-    "Directory": [
-      "pool/contrib/o/openjazz"
-    ],
-    "Files": [
-      "653598a1e65695c43a322d69623f2d8d 2013 openjazz_20190106-3.dsc 726ec141d24e1a9bc2e68d731d3d9160 219717 openjazz_20190106.orig.tar.gz 9ed90a0f1d96b3a7f00de2ea128f32d9 14244 openjazz_20190106-3.debian.tar.xz"
-    ],
-    "Format": [
-      "3.0 (quilt)"
-    ],
-    "Homepage": [
-      "http://www.alister.eu/jazz/oj/"
-    ],
-    "Maintainer": [
-      "Debian Games Team \u003cpkg-games-devel@lists.alioth.debian.org\u003e"
-    ],
-    "Package": [
-      "openjazz"
-    ],
-    "Package-List": [
-      "openjazz deb contrib/games optional arch=any"
-    ],
-    "Priority": [
-      "extra"
-    ],
-    "Section": [
-      "contrib/misc"
-    ],
-    "Standards-Version": [
-      "4.4.1"
-    ],
-    "Uploaders": [
-      "Fabian Greffrath \u003cfabian@debian.org\u003e"
-    ],
-    "Vcs-Browser": [
-      "https://salsa.debian.org/games-team/openjazz"
-    ],
-    "Vcs-Git": [
-      "https://salsa.debian.org/games-team/openjazz.git"
-    ],
-    "Version": [
-      "20190106-3"
     ]
   },
   {
