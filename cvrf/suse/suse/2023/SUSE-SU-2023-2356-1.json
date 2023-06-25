@@ -31,13 +31,63 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "SUSE-2023-2356,SUSE-SLE-Micro-5.3-2023-2356,SUSE-SLE-Micro-5.4-2023-2356,SUSE-SLE-Module-Basesystem-15-SP4-2023-2356,SUSE-SLE-Module-Server-Applications-15-SP4-2023-2356,openSUSE-Leap-Micro-5.3-2023-2356,openSUSE-SLE-15.4-2023-2356",
+      "Text": "Image SLES15-SP4-SAP-BYOS-2023-2356,Image SLES15-SP4-SAP-BYOS-GCE-2023-2356,Image SLES15-SP4-SAP-Hardened-2023-2356,Image SLES15-SP4-SAP-Hardened-Azure-2023-2356,Image SLES15-SP4-SAP-Hardened-GCE-2023-2356,SUSE-2023-2356,SUSE-SLE-Micro-5.3-2023-2356,SUSE-SLE-Micro-5.4-2023-2356,SUSE-SLE-Module-Basesystem-15-SP4-2023-2356,SUSE-SLE-Module-Server-Applications-15-SP4-2023-2356,openSUSE-Leap-Micro-5.3-2023-2356,openSUSE-SLE-15.4-2023-2356",
       "Title": "Patchnames",
       "Type": "Details"
     }
   ],
   "ProductTree": {
     "Relationships": [
+      {
+        "ProductReference": "libvirt-client-8.0.0-150400.7.6.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libvirt-libs-8.0.0-150400.7.6.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libvirt-client-8.0.0-150400.7.6.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libvirt-libs-8.0.0-150400.7.6.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libvirt-client-8.0.0-150400.7.6.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libvirt-libs-8.0.0-150400.7.6.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libvirt-client-8.0.0-150400.7.6.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libvirt-libs-8.0.0-150400.7.6.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libvirt-client-8.0.0-150400.7.6.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libvirt-libs-8.0.0-150400.7.6.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-GCE",
+        "RelationType": "Default Component Of"
+      },
       {
         "ProductReference": "libvirt-client-8.0.0-150400.7.6.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Micro 5.3",
@@ -702,6 +752,16 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES15-SP4-SAP-BYOS-GCE:libvirt-client-8.0.0-150400.7.6.1",
+            "Image SLES15-SP4-SAP-BYOS-GCE:libvirt-libs-8.0.0-150400.7.6.1",
+            "Image SLES15-SP4-SAP-BYOS:libvirt-client-8.0.0-150400.7.6.1",
+            "Image SLES15-SP4-SAP-BYOS:libvirt-libs-8.0.0-150400.7.6.1",
+            "Image SLES15-SP4-SAP-Hardened-Azure:libvirt-client-8.0.0-150400.7.6.1",
+            "Image SLES15-SP4-SAP-Hardened-Azure:libvirt-libs-8.0.0-150400.7.6.1",
+            "Image SLES15-SP4-SAP-Hardened-GCE:libvirt-client-8.0.0-150400.7.6.1",
+            "Image SLES15-SP4-SAP-Hardened-GCE:libvirt-libs-8.0.0-150400.7.6.1",
+            "Image SLES15-SP4-SAP-Hardened:libvirt-client-8.0.0-150400.7.6.1",
+            "Image SLES15-SP4-SAP-Hardened:libvirt-libs-8.0.0-150400.7.6.1",
             "SUSE Linux Enterprise Micro 5.3:libvirt-client-8.0.0-150400.7.6.1",
             "SUSE Linux Enterprise Micro 5.3:libvirt-daemon-8.0.0-150400.7.6.1",
             "SUSE Linux Enterprise Micro 5.3:libvirt-daemon-driver-interface-8.0.0-150400.7.6.1",

@@ -31,13 +31,43 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "SUSE-2023-2538,SUSE-SLE-HA-12-SP5-2023-2538,SUSE-SLE-Live-Patching-12-SP5-2023-2538,SUSE-SLE-SDK-12-SP5-2023-2538,SUSE-SLE-SERVER-12-SP5-2023-2538,SUSE-SLE-WE-12-SP5-2023-2538",
+      "Text": "Image SLES12-SP5-Azure-BYOS-2023-2538,Image SLES12-SP5-Azure-SAP-BYOS-2023-2538,SUSE-2023-2538,SUSE-SLE-HA-12-SP5-2023-2538,SUSE-SLE-Live-Patching-12-SP5-2023-2538,SUSE-SLE-SDK-12-SP5-2023-2538,SUSE-SLE-SERVER-12-SP5-2023-2538,SUSE-SLE-WE-12-SP5-2023-2538",
       "Title": "Patchnames",
       "Type": "Details"
     }
   ],
   "ProductTree": {
     "Relationships": [
+      {
+        "ProductReference": "kernel-default-4.12.14-122.162.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cluster-md-kmp-default-4.12.14-122.162.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "dlm-kmp-default-4.12.14-122.162.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "gfs2-kmp-default-4.12.14-122.162.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "kernel-default-4.12.14-122.162.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "ocfs2-kmp-default-4.12.14-122.162.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
       {
         "ProductReference": "cluster-md-kmp-default-4.12.14-122.162.1",
         "RelatesToProductReference": "SUSE Linux Enterprise High Availability Extension 12 SP5",
@@ -416,6 +446,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cluster-md-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:dlm-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:gfs2-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:ocfs2-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:cluster-md-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:dlm-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:gfs2-kmp-default-4.12.14-122.162.1",
@@ -470,6 +506,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cluster-md-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:dlm-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:gfs2-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:ocfs2-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:cluster-md-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:dlm-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:gfs2-kmp-default-4.12.14-122.162.1",
@@ -524,6 +566,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cluster-md-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:dlm-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:gfs2-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:ocfs2-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:cluster-md-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:dlm-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:gfs2-kmp-default-4.12.14-122.162.1",
@@ -578,6 +626,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cluster-md-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:dlm-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:gfs2-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:ocfs2-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:cluster-md-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:dlm-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:gfs2-kmp-default-4.12.14-122.162.1",
@@ -632,6 +686,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cluster-md-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:dlm-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:gfs2-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:ocfs2-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:cluster-md-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:dlm-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:gfs2-kmp-default-4.12.14-122.162.1",
@@ -690,6 +750,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cluster-md-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:dlm-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:gfs2-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:ocfs2-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:cluster-md-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:dlm-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:gfs2-kmp-default-4.12.14-122.162.1",
@@ -744,6 +810,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cluster-md-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:dlm-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:gfs2-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:ocfs2-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:cluster-md-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:dlm-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:gfs2-kmp-default-4.12.14-122.162.1",
@@ -802,6 +874,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cluster-md-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:dlm-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:gfs2-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:ocfs2-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:cluster-md-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:dlm-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:gfs2-kmp-default-4.12.14-122.162.1",
@@ -856,6 +934,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cluster-md-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:dlm-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:gfs2-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:ocfs2-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:cluster-md-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:dlm-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:gfs2-kmp-default-4.12.14-122.162.1",
@@ -893,7 +977,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -910,6 +994,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cluster-md-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:dlm-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:gfs2-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:ocfs2-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:cluster-md-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:dlm-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:gfs2-kmp-default-4.12.14-122.162.1",
@@ -964,6 +1054,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cluster-md-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:dlm-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:gfs2-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:ocfs2-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:cluster-md-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:dlm-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:gfs2-kmp-default-4.12.14-122.162.1",
@@ -1022,6 +1118,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cluster-md-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:dlm-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:gfs2-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:ocfs2-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:cluster-md-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:dlm-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:gfs2-kmp-default-4.12.14-122.162.1",
@@ -1076,6 +1178,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cluster-md-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:dlm-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:gfs2-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:ocfs2-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:cluster-md-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:dlm-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:gfs2-kmp-default-4.12.14-122.162.1",
@@ -1134,6 +1242,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cluster-md-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:dlm-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:gfs2-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:ocfs2-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:cluster-md-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:dlm-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:gfs2-kmp-default-4.12.14-122.162.1",
@@ -1188,6 +1302,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cluster-md-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:dlm-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:gfs2-kmp-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:kernel-default-4.12.14-122.162.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:ocfs2-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:cluster-md-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:dlm-kmp-default-4.12.14-122.162.1",
             "SUSE Linux Enterprise High Availability Extension 12 SP5:gfs2-kmp-default-4.12.14-122.162.1",

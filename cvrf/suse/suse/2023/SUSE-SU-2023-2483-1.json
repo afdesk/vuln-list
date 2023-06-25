@@ -31,13 +31,43 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "SUSE-2023-2483,SUSE-SLE-SDK-12-SP5-2023-2483,SUSE-SLE-SERVER-12-SP5-2023-2483",
+      "Text": "Container suse/sles12sp4:latest-2023-2483,Container suse/sles12sp5:latest-2023-2483,Image SLES12-SP5-Azure-BYOS-2023-2483,Image SLES12-SP5-Azure-SAP-BYOS-2023-2483,SUSE-2023-2483,SUSE-SLE-SDK-12-SP5-2023-2483,SUSE-SLE-SERVER-12-SP5-2023-2483",
       "Title": "Patchnames",
       "Type": "Details"
     }
   ],
   "ProductTree": {
     "Relationships": [
+      {
+        "ProductReference": "libldap-2_4-2-2.4.41-22.19.1",
+        "RelatesToProductReference": "Container suse/sles12sp4:latest",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libldap-2_4-2-2.4.41-22.19.1",
+        "RelatesToProductReference": "Container suse/sles12sp5:latest",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libldap-2_4-2-2.4.41-22.19.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-client-2.4.41-22.19.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libldap-2_4-2-2.4.41-22.19.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "openldap2-client-2.4.41-22.19.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
       {
         "ProductReference": "libldap-2_4-2-2.4.41-22.19.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
@@ -171,6 +201,12 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Container suse/sles12sp4:latest:libldap-2_4-2-2.4.41-22.19.1",
+            "Container suse/sles12sp5:latest:libldap-2_4-2-2.4.41-22.19.1",
+            "Image SLES12-SP5-Azure-BYOS:libldap-2_4-2-2.4.41-22.19.1",
+            "Image SLES12-SP5-Azure-BYOS:openldap2-client-2.4.41-22.19.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:libldap-2_4-2-2.4.41-22.19.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:openldap2-client-2.4.41-22.19.1",
             "SUSE Linux Enterprise Server 12 SP5:libldap-2_4-2-2.4.41-22.19.1",
             "SUSE Linux Enterprise Server 12 SP5:libldap-2_4-2-32bit-2.4.41-22.19.1",
             "SUSE Linux Enterprise Server 12 SP5:openldap2-2.4.41-22.19.1",

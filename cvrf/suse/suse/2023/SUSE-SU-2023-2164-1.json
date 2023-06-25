@@ -31,13 +31,33 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "SUSE-2023-2164,SUSE-SLE-Module-Public-Cloud-12-2023-2164",
+      "Text": "Image SLES12-SP5-Azure-BYOS-2023-2164,Image SLES12-SP5-Azure-SAP-BYOS-2023-2164,SUSE-2023-2164,SUSE-SLE-Module-Public-Cloud-12-2023-2164",
       "Title": "Patchnames",
       "Type": "Details"
     }
   ],
   "ProductTree": {
     "Relationships": [
+      {
+        "ProductReference": "cloud-init-20.2-37.57.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cloud-init-config-suse-20.2-37.57.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cloud-init-20.2-37.57.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "cloud-init-config-suse-20.2-37.57.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
       {
         "ProductReference": "cloud-init-20.2-37.57.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Module for Public Cloud 12",
@@ -116,6 +136,10 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:cloud-init-20.2-37.57.1",
+            "Image SLES12-SP5-Azure-BYOS:cloud-init-config-suse-20.2-37.57.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cloud-init-20.2-37.57.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cloud-init-config-suse-20.2-37.57.1",
             "SUSE Linux Enterprise Module for Public Cloud 12:cloud-init-20.2-37.57.1",
             "SUSE Linux Enterprise Module for Public Cloud 12:cloud-init-config-suse-20.2-37.57.1"
           ]
@@ -146,6 +170,10 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:cloud-init-20.2-37.57.1",
+            "Image SLES12-SP5-Azure-BYOS:cloud-init-config-suse-20.2-37.57.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cloud-init-20.2-37.57.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:cloud-init-config-suse-20.2-37.57.1",
             "SUSE Linux Enterprise Module for Public Cloud 12:cloud-init-20.2-37.57.1",
             "SUSE Linux Enterprise Module for Public Cloud 12:cloud-init-config-suse-20.2-37.57.1"
           ]

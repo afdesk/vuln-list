@@ -31,13 +31,33 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "SUSE-2023-2473,SUSE-SLE-SDK-12-SP5-2023-2473,SUSE-SLE-SERVER-12-SP5-2023-2473",
+      "Text": "Image SLES12-SP5-Azure-BYOS-2023-2473,Image SLES12-SP5-Azure-SAP-BYOS-2023-2473,SUSE-2023-2473,SUSE-SLE-SDK-12-SP5-2023-2473,SUSE-SLE-SERVER-12-SP5-2023-2473",
       "Title": "Patchnames",
       "Type": "Details"
     }
   ],
   "ProductTree": {
     "Relationships": [
+      {
+        "ProductReference": "libpython3_6m1_0-3.6.15-46.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python36-base-3.6.15-46.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libpython3_6m1_0-3.6.15-46.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python36-base-3.6.15-46.1",
+        "RelatesToProductReference": "Image SLES12-SP5-Azure-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
       {
         "ProductReference": "libpython3_6m1_0-3.6.15-46.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Server 12 SP5",
@@ -139,6 +159,10 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES12-SP5-Azure-BYOS:libpython3_6m1_0-3.6.15-46.1",
+            "Image SLES12-SP5-Azure-BYOS:python36-base-3.6.15-46.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:libpython3_6m1_0-3.6.15-46.1",
+            "Image SLES12-SP5-Azure-SAP-BYOS:python36-base-3.6.15-46.1",
             "SUSE Linux Enterprise Server 12 SP5:libpython3_6m1_0-3.6.15-46.1",
             "SUSE Linux Enterprise Server 12 SP5:libpython3_6m1_0-32bit-3.6.15-46.1",
             "SUSE Linux Enterprise Server 12 SP5:python36-3.6.15-46.1",

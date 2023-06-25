@@ -31,13 +31,93 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "SUSE-2023-2467,SUSE-SLE-Module-Basesystem-15-SP4-2023-2467,SUSE-SLE-Module-Basesystem-15-SP5-2023-2467,SUSE-SLE-Module-Packagehub-Subpackages-15-SP4-2023-2467,SUSE-SLE-Module-Packagehub-Subpackages-15-SP5-2023-2467,SUSE-SLE-Product-RT-15-SP3-2023-2467,openSUSE-SLE-15.4-2023-2467,openSUSE-SLE-15.5-2023-2467",
+      "Text": "Image SLES15-SP4-SAP-BYOS-2023-2467,Image SLES15-SP4-SAP-BYOS-GCE-2023-2467,Image SLES15-SP4-SAP-Hardened-2023-2467,Image SLES15-SP4-SAP-Hardened-Azure-2023-2467,Image SLES15-SP4-SAP-Hardened-GCE-2023-2467,Image SLES15-SP5-SAP-Azure-2023-2467,Image SLES15-SP5-SAP-BYOS-Azure-2023-2467,Image SLES15-SP5-SAP-BYOS-EC2-2023-2467,Image SLES15-SP5-SAP-BYOS-GCE-2023-2467,Image SLES15-SP5-SAP-EC2-2023-2467,Image SLES15-SP5-SAP-GCE-2023-2467,Image SLES15-SP5-SAP-Hardened-Azure-2023-2467,Image SLES15-SP5-SAP-Hardened-BYOS-Azure-2023-2467,Image SLES15-SP5-SAP-Hardened-BYOS-EC2-2023-2467,Image SLES15-SP5-SAP-Hardened-BYOS-GCE-2023-2467,Image SLES15-SP5-SAP-Hardened-GCE-2023-2467,SUSE-2023-2467,SUSE-SLE-Module-Basesystem-15-SP4-2023-2467,SUSE-SLE-Module-Basesystem-15-SP5-2023-2467,SUSE-SLE-Module-Packagehub-Subpackages-15-SP4-2023-2467,SUSE-SLE-Module-Packagehub-Subpackages-15-SP5-2023-2467,SUSE-SLE-Product-RT-15-SP3-2023-2467,openSUSE-SLE-15.4-2023-2467,openSUSE-SLE-15.5-2023-2467",
       "Title": "Patchnames",
       "Type": "Details"
     }
   ],
   "ProductTree": {
     "Relationships": [
+      {
+        "ProductReference": "libwebp7-1.0.3-150200.3.5.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-BYOS",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwebp7-1.0.3-150200.3.5.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwebp7-1.0.3-150200.3.5.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwebp7-1.0.3-150200.3.5.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwebp7-1.0.3-150200.3.5.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Hardened-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwebp7-1.0.3-150200.3.5.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAP-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwebp7-1.0.3-150200.3.5.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAP-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwebp7-1.0.3-150200.3.5.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAP-BYOS-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwebp7-1.0.3-150200.3.5.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAP-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwebp7-1.0.3-150200.3.5.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAP-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwebp7-1.0.3-150200.3.5.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAP-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwebp7-1.0.3-150200.3.5.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAP-Hardened-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwebp7-1.0.3-150200.3.5.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAP-Hardened-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwebp7-1.0.3-150200.3.5.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAP-Hardened-BYOS-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwebp7-1.0.3-150200.3.5.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAP-Hardened-BYOS-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "libwebp7-1.0.3-150200.3.5.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAP-Hardened-GCE",
+        "RelationType": "Default Component Of"
+      },
       {
         "ProductReference": "libwebp-devel-1.0.3-150200.3.5.1",
         "RelatesToProductReference": "SUSE Linux Enterprise Module for Basesystem 15 SP4",
@@ -255,7 +335,7 @@
   "Vulnerabilities": [
     {
       "CVE": "CVE-2023-1999",
-      "Description": "** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.",
+      "Description": "There exists a use after free/double free in libwebp. An attacker can use the ApplyFiltersAndEncode() function and loop through to free best.bw and assign best = trial pointer. The second loop will then return 0 because of an Out of memory error in VP8 encoder, the pointer is still assigned to trial and the AddressSanitizer will attempt a double free. \n",
       "Threats": [
         {
           "Type": "Impact",
@@ -272,6 +352,22 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES15-SP4-SAP-BYOS-GCE:libwebp7-1.0.3-150200.3.5.1",
+            "Image SLES15-SP4-SAP-BYOS:libwebp7-1.0.3-150200.3.5.1",
+            "Image SLES15-SP4-SAP-Hardened-Azure:libwebp7-1.0.3-150200.3.5.1",
+            "Image SLES15-SP4-SAP-Hardened-GCE:libwebp7-1.0.3-150200.3.5.1",
+            "Image SLES15-SP4-SAP-Hardened:libwebp7-1.0.3-150200.3.5.1",
+            "Image SLES15-SP5-SAP-Azure:libwebp7-1.0.3-150200.3.5.1",
+            "Image SLES15-SP5-SAP-BYOS-Azure:libwebp7-1.0.3-150200.3.5.1",
+            "Image SLES15-SP5-SAP-BYOS-EC2:libwebp7-1.0.3-150200.3.5.1",
+            "Image SLES15-SP5-SAP-BYOS-GCE:libwebp7-1.0.3-150200.3.5.1",
+            "Image SLES15-SP5-SAP-EC2:libwebp7-1.0.3-150200.3.5.1",
+            "Image SLES15-SP5-SAP-GCE:libwebp7-1.0.3-150200.3.5.1",
+            "Image SLES15-SP5-SAP-Hardened-Azure:libwebp7-1.0.3-150200.3.5.1",
+            "Image SLES15-SP5-SAP-Hardened-BYOS-Azure:libwebp7-1.0.3-150200.3.5.1",
+            "Image SLES15-SP5-SAP-Hardened-BYOS-EC2:libwebp7-1.0.3-150200.3.5.1",
+            "Image SLES15-SP5-SAP-Hardened-BYOS-GCE:libwebp7-1.0.3-150200.3.5.1",
+            "Image SLES15-SP5-SAP-Hardened-GCE:libwebp7-1.0.3-150200.3.5.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP4:libwebp-devel-1.0.3-150200.3.5.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP4:libwebp7-1.0.3-150200.3.5.1",
             "SUSE Linux Enterprise Module for Basesystem 15 SP4:libwebpdecoder3-1.0.3-150200.3.5.1",

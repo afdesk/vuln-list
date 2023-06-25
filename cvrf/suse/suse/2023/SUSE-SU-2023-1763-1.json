@@ -31,7 +31,7 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "Container ses/7.1/cephcsi/cephcsi:latest-2023-1763,Container ses/7.1/rook/ceph:latest-2023-1763,Image SLES15-SP2-SAP-Azure-LI-BYOS-Production-2023-1763,Image SLES15-SP2-SAP-Azure-VLI-BYOS-Production-2023-1763,Image SLES15-SP3-Micro-5-1-BYOS-Azure-2023-1763,Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM-2023-1763,Image SLES15-SP3-Micro-5-1-BYOS-GCE-2023-1763,Image SLES15-SP3-Micro-5-2-BYOS-Azure-2023-1763,Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM-2023-1763,Image SLES15-SP3-Micro-5-2-BYOS-GCE-2023-1763,Image SLES15-SP3-SAP-Azure-LI-BYOS-Production-2023-1763,Image SLES15-SP3-SAP-Azure-VLI-BYOS-Production-2023-1763,SUSE-2023-1763,SUSE-SLE-Product-RT-15-SP3-2023-1763,SUSE-SUSE-MicroOS-5.1-2023-1763,SUSE-SUSE-MicroOS-5.2-2023-1763",
+      "Text": "Container ses/7.1/cephcsi/cephcsi:latest-2023-1763,Container ses/7.1/rook/ceph:latest-2023-1763,Image SLES15-SP2-SAP-Azure-LI-BYOS-Production-2023-1763,Image SLES15-SP2-SAP-Azure-VLI-BYOS-Production-2023-1763,Image SLES15-SP3-CHOST-BYOS-Aliyun-2023-1763,Image SLES15-SP3-CHOST-BYOS-Azure-2023-1763,Image SLES15-SP3-CHOST-BYOS-EC2-2023-1763,Image SLES15-SP3-CHOST-BYOS-SAP-CCloud-2023-1763,Image SLES15-SP3-Manager-4-2-Proxy-BYOS-Azure-2023-1763,Image SLES15-SP3-Manager-4-2-Proxy-BYOS-EC2-HVM-2023-1763,Image SLES15-SP3-Manager-4-2-Proxy-BYOS-GCE-2023-1763,Image SLES15-SP3-Micro-5-1-BYOS-Azure-2023-1763,Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM-2023-1763,Image SLES15-SP3-Micro-5-1-BYOS-GCE-2023-1763,Image SLES15-SP3-Micro-5-2-BYOS-Azure-2023-1763,Image SLES15-SP3-Micro-5-2-BYOS-EC2-HVM-2023-1763,Image SLES15-SP3-Micro-5-2-BYOS-GCE-2023-1763,Image SLES15-SP3-SAP-Azure-LI-BYOS-Production-2023-1763,Image SLES15-SP3-SAP-Azure-VLI-BYOS-Production-2023-1763,SUSE-2023-1763,SUSE-SLE-Product-RT-15-SP3-2023-1763,SUSE-SUSE-MicroOS-5.1-2023-1763,SUSE-SUSE-MicroOS-5.2-2023-1763",
       "Title": "Patchnames",
       "Type": "Details"
     }
@@ -56,6 +56,41 @@
       {
         "ProductReference": "python3-cryptography-3.3.2-150200.19.1",
         "RelatesToProductReference": "Image SLES15-SP2-SAP-Azure-VLI-BYOS-Production",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-cryptography-3.3.2-150200.19.1",
+        "RelatesToProductReference": "Image SLES15-SP3-CHOST-BYOS-Aliyun",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-cryptography-3.3.2-150200.19.1",
+        "RelatesToProductReference": "Image SLES15-SP3-CHOST-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-cryptography-3.3.2-150200.19.1",
+        "RelatesToProductReference": "Image SLES15-SP3-CHOST-BYOS-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-cryptography-3.3.2-150200.19.1",
+        "RelatesToProductReference": "Image SLES15-SP3-CHOST-BYOS-SAP-CCloud",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-cryptography-3.3.2-150200.19.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Manager-4-2-Proxy-BYOS-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-cryptography-3.3.2-150200.19.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Manager-4-2-Proxy-BYOS-EC2-HVM",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "python3-cryptography-3.3.2-150200.19.1",
+        "RelatesToProductReference": "Image SLES15-SP3-Manager-4-2-Proxy-BYOS-GCE",
         "RelationType": "Default Component Of"
       },
       {
@@ -165,6 +200,13 @@
             "Container ses/7.1/rook/ceph:latest:python3-cryptography-3.3.2-150200.19.1",
             "Image SLES15-SP2-SAP-Azure-LI-BYOS-Production:python3-cryptography-3.3.2-150200.19.1",
             "Image SLES15-SP2-SAP-Azure-VLI-BYOS-Production:python3-cryptography-3.3.2-150200.19.1",
+            "Image SLES15-SP3-CHOST-BYOS-Aliyun:python3-cryptography-3.3.2-150200.19.1",
+            "Image SLES15-SP3-CHOST-BYOS-Azure:python3-cryptography-3.3.2-150200.19.1",
+            "Image SLES15-SP3-CHOST-BYOS-EC2:python3-cryptography-3.3.2-150200.19.1",
+            "Image SLES15-SP3-CHOST-BYOS-SAP-CCloud:python3-cryptography-3.3.2-150200.19.1",
+            "Image SLES15-SP3-Manager-4-2-Proxy-BYOS-Azure:python3-cryptography-3.3.2-150200.19.1",
+            "Image SLES15-SP3-Manager-4-2-Proxy-BYOS-EC2-HVM:python3-cryptography-3.3.2-150200.19.1",
+            "Image SLES15-SP3-Manager-4-2-Proxy-BYOS-GCE:python3-cryptography-3.3.2-150200.19.1",
             "Image SLES15-SP3-Micro-5-1-BYOS-Azure:python3-cryptography-3.3.2-150200.19.1",
             "Image SLES15-SP3-Micro-5-1-BYOS-EC2-HVM:python3-cryptography-3.3.2-150200.19.1",
             "Image SLES15-SP3-Micro-5-1-BYOS-GCE:python3-cryptography-3.3.2-150200.19.1",

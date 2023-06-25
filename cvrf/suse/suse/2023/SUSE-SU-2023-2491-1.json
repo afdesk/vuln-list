@@ -31,13 +31,148 @@
       "Type": "Legal Disclaimer"
     },
     {
-      "Text": "SUSE-2023-2491,SUSE-SLE-Module-Legacy-15-SP4-2023-2491,SUSE-SLE-Module-Legacy-15-SP5-2023-2491,SUSE-SLE-Product-HPC-15-SP3-ESPOS-2023-2491,SUSE-SLE-Product-HPC-15-SP3-LTSS-2023-2491,SUSE-SLE-Product-SLES-15-SP1-LTSS-2023-2491,SUSE-SLE-Product-SLES-15-SP2-LTSS-2023-2491,SUSE-SLE-Product-SLES-15-SP3-LTSS-2023-2491,SUSE-SLE-Product-SLES_SAP-15-SP1-2023-2491,SUSE-SLE-Product-SLES_SAP-15-SP2-2023-2491,SUSE-SLE-Product-SLES_SAP-15-SP3-2023-2491,SUSE-Storage-7-2023-2491,SUSE-Storage-7.1-2023-2491,openSUSE-SLE-15.4-2023-2491,openSUSE-SLE-15.5-2023-2491",
+      "Text": "Image SLES15-SP4-SAP-2023-2491,Image SLES15-SP4-SAP-Azure-2023-2491,Image SLES15-SP4-SAP-GCE-2023-2491,Image SLES15-SP4-SAPCAL-2023-2491,Image SLES15-SP4-SAPCAL-Azure-2023-2491,Image SLES15-SP4-SAPCAL-GCE-2023-2491,Image SLES15-SP5-SAPCAL-Azure-2023-2491,Image SLES15-SP5-SAPCAL-EC2-2023-2491,Image SLES15-SP5-SAPCAL-GCE-2023-2491,SUSE-2023-2491,SUSE-SLE-Module-Legacy-15-SP4-2023-2491,SUSE-SLE-Module-Legacy-15-SP5-2023-2491,SUSE-SLE-Product-HPC-15-SP3-ESPOS-2023-2491,SUSE-SLE-Product-HPC-15-SP3-LTSS-2023-2491,SUSE-SLE-Product-SLES-15-SP1-LTSS-2023-2491,SUSE-SLE-Product-SLES-15-SP2-LTSS-2023-2491,SUSE-SLE-Product-SLES-15-SP3-LTSS-2023-2491,SUSE-SLE-Product-SLES_SAP-15-SP1-2023-2491,SUSE-SLE-Product-SLES_SAP-15-SP2-2023-2491,SUSE-SLE-Product-SLES_SAP-15-SP3-2023-2491,SUSE-Storage-7-2023-2491,SUSE-Storage-7.1-2023-2491,openSUSE-SLE-15.4-2023-2491,openSUSE-SLE-15.5-2023-2491",
       "Title": "Patchnames",
       "Type": "Details"
     }
   ],
   "ProductTree": {
     "Relationships": [
+      {
+        "ProductReference": "java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAP-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP4-SAPCAL-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAPCAL-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAPCAL-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAPCAL-Azure",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAPCAL-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAPCAL-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAPCAL-EC2",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAPCAL-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAPCAL-GCE",
+        "RelationType": "Default Component Of"
+      },
+      {
+        "ProductReference": "java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+        "RelatesToProductReference": "Image SLES15-SP5-SAPCAL-GCE",
+        "RelationType": "Default Component Of"
+      },
       {
         "ProductReference": "java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
         "RelatesToProductReference": "SUSE Enterprise Storage 7",
@@ -474,6 +609,33 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-alsa-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
@@ -549,7 +711,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "low"
         }
       ],
       "References": [
@@ -566,6 +728,33 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-alsa-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
@@ -641,7 +830,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "low"
         }
       ],
       "References": [
@@ -658,6 +847,33 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-alsa-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
@@ -733,7 +949,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -750,6 +966,33 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-alsa-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
@@ -825,7 +1068,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -842,6 +1085,33 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-alsa-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
@@ -917,7 +1187,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -934,6 +1204,33 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-alsa-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
@@ -1009,7 +1306,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "low"
         }
       ],
       "References": [
@@ -1026,6 +1323,33 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-alsa-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
@@ -1101,7 +1425,7 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Severity": "moderate"
         }
       ],
       "References": [
@@ -1118,6 +1442,33 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-alsa-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
@@ -1210,6 +1561,33 @@
         {
           "Type": "Fixed",
           "ProductID": [
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAP:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP4-SAPCAL:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-Azure:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-EC2:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
+            "Image SLES15-SP5-SAPCAL-GCE:java-1_8_0-ibm-plugin-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-alsa-1.8.0_sr8.5-150000.3.74.1",
             "SUSE Enterprise Storage 7.1:java-1_8_0-ibm-devel-1.8.0_sr8.5-150000.3.74.1",
