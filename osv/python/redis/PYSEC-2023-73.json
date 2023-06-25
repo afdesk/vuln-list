@@ -1,6 +1,6 @@
 {
   "id": "PYSEC-2023-73",
-  "modified": "2023-06-05T01:13:00.053052Z",
+  "modified": "2023-06-25T13:19:14.951244Z",
   "published": "2023-05-18T20:15:00Z",
   "withdrawn": "2023-06-06T10:37:00Z",
   "aliases": [
@@ -136,7 +136,8 @@
         "5.0.0b1",
         "5.0.0b2",
         "5.0.0b3",
-        "5.0.0b4"
+        "5.0.0b4",
+        "4.6.0"
       ],
       "database_specific": {
         "source": "https://github.com/pypa/advisory-database/blob/main/vulns/redis/PYSEC-2023-73.yaml"
