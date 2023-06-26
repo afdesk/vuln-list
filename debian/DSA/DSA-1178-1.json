@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[16 Sep 2006] DSA-1178-1 freetype",
-    "Line": 14474,
+    "Line": 14478,
     "ID": "DSA-1178-1",
     "Description": "freetype"
   },
   "Annotations": [
     {
       "Original": "{CVE-2006-3467}",
-      "Line": 14475,
+      "Line": 14479,
       "Type": "xref",
       "Bugs": [
         "CVE-2006-3467"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[sarge] - freetype 2.1.7-6",
-      "Line": 14476,
+      "Line": 14480,
       "Type": "package",
       "Release": "sarge",
       "Package": "freetype",

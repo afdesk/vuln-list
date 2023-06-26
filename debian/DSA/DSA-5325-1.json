@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[24 Jan 2023] DSA-5325-1 spip - security update",
-    "Line": 354,
+    "Line": 358,
     "ID": "DSA-5325-1",
     "Description": "spip - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2023-24258}",
-      "Line": 355,
+      "Line": 359,
       "Type": "xref",
       "Bugs": [
         "CVE-2023-24258"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[bullseye] - spip 3.2.11-3+deb11u6",
-      "Line": 356,
+      "Line": 360,
       "Type": "package",
       "Release": "bullseye",
       "Package": "spip",

@@ -1,14 +1,14 @@
 {
   "Header": {
     "Original": "[01 Feb 2021] DLA-2540-1 python-django - security update",
-    "Line": 2813,
+    "Line": 2816,
     "ID": "DLA-2540-1",
     "Description": "python-django - security update"
   },
   "Annotations": [
     {
       "Original": "{CVE-2021-3281}",
-      "Line": 2814,
+      "Line": 2817,
       "Type": "xref",
       "Bugs": [
         "CVE-2021-3281"
@@ -16,7 +16,7 @@
     },
     {
       "Original": "[stretch] - python-django 1:1.10.7-2+deb9u10",
-      "Line": 2815,
+      "Line": 2818,
       "Type": "package",
       "Release": "stretch",
       "Package": "python-django",
