@@ -1,7 +1,10 @@
 {
   "id": "GO-2023-1861",
-  "modified": "2023-06-22T16:36:04Z",
+  "modified": "2023-06-26T16:56:57Z",
   "published": "2023-06-22T16:36:04Z",
+  "aliases": [
+    "GHSA-w44m-8mv2-v78h"
+  ],
   "summary": "Cosmos \"Barberry\" vulnerability in github.com/cosmos/cosmos-sdk",
   "details": "The cosmos-sdk module is affected by the vulnerability codenamed \"Barberry\".",
   "affected": [
