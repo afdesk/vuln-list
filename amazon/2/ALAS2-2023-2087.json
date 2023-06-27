@@ -5,7 +5,7 @@
     "date": "2023-06-07 23:52"
   },
   "updated": {
-    "date": "2023-06-07 23:52"
+    "date": "2023-06-12 23:09"
   },
   "severity": "medium",
   "description": "Package updates are available for Amazon Linux 2 that fix the following vulnerabilities:\nCVE-2021-25290:\n\tAn issue was discovered in Pillow before 8.1.1. In TiffDecode.c, there is a negative-offset memcpy with an invalid size.\n",

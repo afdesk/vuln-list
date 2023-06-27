@@ -5,7 +5,7 @@
     "date": "2023-06-07 23:52"
   },
   "updated": {
-    "date": "2023-06-07 23:52"
+    "date": "2023-06-12 23:09"
   },
   "severity": "important",
   "description": "Package updates are available for Amazon Linux 2 that fix the following vulnerabilities:\nCVE-2022-45693:\n\tJettison before v1.5.2 was discovered to contain a stack overflow via the map parameter. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted string.\n\nCVE-2022-45685:\n\tA stack overflow in Jettison before v1.5.2 allows attackers to cause a Denial of Service (DoS) via crafted JSON data.\n",
