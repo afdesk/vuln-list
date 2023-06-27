@@ -5,7 +5,7 @@
     "date": "2023-06-07 23:52"
   },
   "updated": {
-    "date": "2023-06-07 23:52"
+    "date": "2023-06-15 17:01"
   },
   "severity": "medium",
   "description": "Package updates are available for Amazon Linux AMI that fix the following vulnerabilities:\nCVE-2015-8386:\n\tPCRE before 8.38 mishandles the interaction of lookbehind assertions and mutually recursive subpatterns, which allows remote attackers to cause a denial of service (buffer overflow) or possibly have unspecified other impact via a crafted regular expression, as demonstrated by a JavaScript RegExp object encountered by Konqueror.\n",
