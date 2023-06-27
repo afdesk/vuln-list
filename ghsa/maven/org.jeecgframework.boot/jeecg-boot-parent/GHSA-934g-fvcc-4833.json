@@ -1,6 +1,6 @@
 {
-  "Severity": "HIGH",
-  "UpdatedAt": "2023-06-16T20:27:35Z",
+  "Severity": "CRITICAL",
+  "UpdatedAt": "2023-06-27T18:38:12Z",
   "Package": {
     "Ecosystem": "MAVEN",
     "Name": "org.jeecgframework.boot:jeecg-boot-parent"
@@ -33,13 +33,13 @@
     "Description": "jeecg-boot 3.5.0 and 3.5.1 have a SQL injection vulnerability the `id` parameter of the `/jeecg-boot/jmreport/show` interface.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-16T18:30:33Z",
-    "Severity": "HIGH",
+    "Severity": "CRITICAL",
     "Summary": "jeecg-boot SQL injection vulnerability",
-    "UpdatedAt": "2023-06-16T20:27:36Z",
+    "UpdatedAt": "2023-06-27T18:38:12Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 9.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [
@@ -47,7 +47,7 @@
       "FirstPatchedVersion": {
         "Identifier": ""
       },
-      "VulnerableVersionRange": "\u003c= 3.5.1"
+      "VulnerableVersionRange": "\u003e= 3.5.0, \u003c= 3.5.1"
     }
   ]
 }

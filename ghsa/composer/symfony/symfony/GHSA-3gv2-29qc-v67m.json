@@ -50,7 +50,7 @@
     "PublishedAt": "2023-02-01T18:48:06Z",
     "Severity": "MODERATE",
     "Summary": "Symfony vulnerable to Session Fixation of CSRF tokens",
-    "UpdatedAt": "2023-02-15T17:39:13Z",
+    "UpdatedAt": "2023-06-27T18:35:56Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.3,
