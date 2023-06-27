@@ -45,6 +45,10 @@
       "url": "https://github.com/tauri-apps/tauri/security/advisories/GHSA-wmff-grcw-jcfm"
     },
     {
+      "type": "ADVISORY",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-34460"
+    },
+    {
       "type": "WEB",
       "url": "https://github.com/tauri-apps/tauri/pull/6969#discussion_r1232018347"
     },
