@@ -1778,7 +1778,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.25.8-2 or earlier",
+      "Comment": "Package k3s is installed with version 1.24.12-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13819000",
       "Version": "0",
       "Object": {
@@ -2642,7 +2642,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.25.8-2 or earlier",
+      "Comment": "Package k3s is installed with version 1.24.12-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13572000",
       "Version": "0",
       "Object": {
@@ -2654,7 +2654,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.25.8-2 or earlier",
+      "Comment": "Package k3s is installed with version 1.24.12-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13571000",
       "Version": "0",
       "Object": {
@@ -2666,7 +2666,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package k3s is installed with version 1.25.8-2 or earlier",
+      "Comment": "Package k3s is installed with version 1.24.12-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13570000",
       "Version": "0",
       "Object": {
