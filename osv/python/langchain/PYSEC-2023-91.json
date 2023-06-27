@@ -1,6 +1,6 @@
 {
   "id": "PYSEC-2023-91",
-  "modified": "2023-06-26T16:49:55.167044Z",
+  "modified": "2023-06-27T16:51:05.438018Z",
   "published": "2023-06-14T15:15:00Z",
   "aliases": [
     "CVE-2023-34540"
@@ -241,7 +241,8 @@
         "0.0.213",
         "0.0.214",
         "0.0.215",
-        "0.0.216"
+        "0.0.216",
+        "0.0.217"
       ],
       "database_specific": {
         "source": "https://github.com/pypa/advisory-database/blob/main/vulns/langchain/PYSEC-2023-91.yaml"
