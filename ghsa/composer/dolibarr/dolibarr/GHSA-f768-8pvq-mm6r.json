@@ -38,7 +38,7 @@
     "PublishedAt": "2022-02-01T22:01:47Z",
     "Severity": "MODERATE",
     "Summary": "Business Logic Errors in dolibarr/dolibarr",
-    "UpdatedAt": "2023-02-03T05:05:16Z",
+    "UpdatedAt": "2023-06-27T19:53:26Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 4.3,

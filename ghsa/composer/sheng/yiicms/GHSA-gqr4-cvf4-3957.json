@@ -38,11 +38,11 @@
     "PublishedAt": "2023-06-20T15:31:08Z",
     "Severity": "MODERATE",
     "Summary": "YiiCMS Cross Site Scripting vulnerability",
-    "UpdatedAt": "2023-06-21T22:09:55Z",
+    "UpdatedAt": "2023-06-27T21:59:26Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 5.4,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [

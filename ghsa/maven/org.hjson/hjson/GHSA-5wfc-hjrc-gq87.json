@@ -1,5 +1,5 @@
 {
-  "Severity": "LOW",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-06-14T20:38:50Z",
   "Package": {
     "Ecosystem": "MAVEN",
@@ -33,13 +33,13 @@
     "Description": "An issue was discovered hjson through 3.0.0 allows attackers to cause a denial of service or other unspecified impacts via crafted objects that deeply nested structures.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-14T15:30:38Z",
-    "Severity": "LOW",
+    "Severity": "HIGH",
     "Summary": "hjson stack exhaustion vulnerability",
-    "UpdatedAt": "2023-06-14T21:15:55Z",
+    "UpdatedAt": "2023-06-27T20:20:39Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 7.5,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
     }
   },
   "Versions": [

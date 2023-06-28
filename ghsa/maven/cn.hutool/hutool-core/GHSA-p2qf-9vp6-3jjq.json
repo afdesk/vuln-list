@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-06-16T19:39:30Z",
   "Package": {
     "Ecosystem": "MAVEN",
@@ -39,13 +39,13 @@
     "Description": "A vulnerability, which was classified as problematic, has been found in Dromara HuTool up to 5.8.19. Affected by this issue is the function readBySax of the file XmlUtil.java of the component XML Parsing Module. The manipulation leads to xml external entity reference.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-15T15:30:15Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "HuTool XML parsing module has blind XXE vulnerability",
-    "UpdatedAt": "2023-06-16T19:39:30Z",
+    "UpdatedAt": "2023-06-27T23:07:45Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 5.5,
-      "VectorString": "CVSS:3.0/AV:A/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L"
+      "Score": 7.5,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N"
     }
   },
   "Versions": [

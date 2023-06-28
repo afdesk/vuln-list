@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2022-03-11T20:32:38Z",
   "Package": {
     "Ecosystem": "GO",
@@ -36,9 +36,9 @@
     "Description": "Gitea 1.16.3 and prior is vulnerable to improper authorization. A patch is available and is anticipated to be part of the 1.16.4 release.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2022-03-11T00:02:35Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "Improper Authorization in Gitea",
-    "UpdatedAt": "2023-01-27T05:00:39Z",
+    "UpdatedAt": "2023-06-27T21:33:33Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 7.1,

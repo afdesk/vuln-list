@@ -41,7 +41,7 @@
     "PublishedAt": "2022-01-21T23:58:07Z",
     "Severity": "MODERATE",
     "Summary": "Incorrect Default Permissions and Improper Access Control in snipe-it",
-    "UpdatedAt": "2023-02-03T05:04:28Z",
+    "UpdatedAt": "2023-06-27T19:52:56Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.3,

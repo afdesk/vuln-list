@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-06-21T18:36:54Z",
   "Package": {
     "Ecosystem": "COMPOSER",
@@ -33,13 +33,13 @@
     "Description": "Cross Site Request Forgery vulnerability in Gila GilaCMS v.1.11.4 allows a remote attacker to execute arbitrary code via the `cm/update_rows/user` parameter.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-20T15:31:08Z",
-    "Severity": "MODERATE",
+    "Severity": "HIGH",
     "Summary": "GilaCMS Cross Site Request Forgery vulnerability",
-    "UpdatedAt": "2023-06-21T18:36:55Z",
+    "UpdatedAt": "2023-06-27T21:58:46Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 8.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [

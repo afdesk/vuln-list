@@ -38,7 +38,7 @@
     "PublishedAt": "2022-03-12T00:00:34Z",
     "Severity": "HIGH",
     "Summary": "Improper Authorization in Gogs",
-    "UpdatedAt": "2023-01-27T05:00:40Z",
+    "UpdatedAt": "2023-06-27T21:33:43Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 8.2,

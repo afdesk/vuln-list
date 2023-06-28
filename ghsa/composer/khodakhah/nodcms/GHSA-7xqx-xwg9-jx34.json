@@ -35,11 +35,11 @@
     "PublishedAt": "2023-06-20T15:31:08Z",
     "Severity": "MODERATE",
     "Summary": "NodCMS Cross Site Scripting vulnerability",
-    "UpdatedAt": "2023-06-21T22:10:01Z",
+    "UpdatedAt": "2023-06-27T22:31:33Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 4.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:H/UI:R/S:C/C:L/I:L/A:N"
     }
   },
   "Versions": [

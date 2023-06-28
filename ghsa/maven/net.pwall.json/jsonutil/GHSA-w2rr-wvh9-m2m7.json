@@ -1,5 +1,5 @@
 {
-  "Severity": "LOW",
+  "Severity": "CRITICAL",
   "UpdatedAt": "2023-06-14T21:20:51Z",
   "Package": {
     "Ecosystem": "MAVEN",
@@ -33,13 +33,13 @@
     "Description": "An issue was discovered JSONUtil through 5.0 that allows attackers to cause a denial of service or other unspecified impacts via crafted objects that deeply nested structures.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-14T15:30:38Z",
-    "Severity": "LOW",
+    "Severity": "CRITICAL",
     "Summary": "JSONUtil vulnerable to stack exhaustion",
-    "UpdatedAt": "2023-06-14T21:20:51Z",
+    "UpdatedAt": "2023-06-27T21:01:16Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 9.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [

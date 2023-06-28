@@ -23,6 +23,9 @@
         "Url": "https://jira.xwiki.org/browse/XWIKI-20612"
       },
       {
+        "Url": "https://nvd.nist.gov/vuln/detail/CVE-2023-35159"
+      },
+      {
         "Url": "https://github.com/advisories/GHSA-x234-mg7q-m8g8"
       }
     ],
@@ -41,7 +44,7 @@
     "PublishedAt": "2023-06-22T19:59:47Z",
     "Severity": "CRITICAL",
     "Summary": "XWiki Platform vulnerable to reflected cross-site scripting via xredirect parameter in deletespace template",
-    "UpdatedAt": "2023-06-22T19:59:48Z",
+    "UpdatedAt": "2023-06-27T18:38:33Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 9.6,

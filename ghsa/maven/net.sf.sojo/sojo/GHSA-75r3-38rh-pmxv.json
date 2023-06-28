@@ -1,5 +1,5 @@
 {
-  "Severity": "LOW",
+  "Severity": "HIGH",
   "UpdatedAt": "2023-06-14T21:10:34Z",
   "Package": {
     "Ecosystem": "MAVEN",
@@ -33,13 +33,13 @@
     "Description": "An issue was discovered sojo through 1.1.1 allows attackers to cause a denial of service or other unspecified impacts via crafted objects that deeply nested structures.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-14T15:30:38Z",
-    "Severity": "LOW",
+    "Severity": "HIGH",
     "Summary": "sojo vulnerable to stack exhaustion",
-    "UpdatedAt": "2023-06-23T05:01:33Z",
+    "UpdatedAt": "2023-06-27T21:00:36Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 7.5,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
     }
   },
   "Versions": [

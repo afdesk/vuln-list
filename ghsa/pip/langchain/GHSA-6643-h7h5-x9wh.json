@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "CRITICAL",
   "UpdatedAt": "2023-06-21T22:09:21Z",
   "Package": {
     "Ecosystem": "PIP",
@@ -15,6 +15,9 @@
       },
       {
         "Url": "https://github.com/hwchase17/langchain/issues/4849"
+      },
+      {
+        "Url": "https://github.com/pypa/advisory-database/tree/main/vulns/langchain/PYSEC-2023-92.yaml"
       },
       {
         "Url": "https://github.com/advisories/GHSA-6643-h7h5-x9wh"
@@ -33,13 +36,13 @@
     "Description": "Langchain 0.0.171 is vulnerable to Arbitrary code execution in `load_prompt`.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-20T15:31:09Z",
-    "Severity": "MODERATE",
+    "Severity": "CRITICAL",
     "Summary": "Langchain vulnerable to arbitrary code execution",
-    "UpdatedAt": "2023-06-21T22:09:21Z",
+    "UpdatedAt": "2023-06-27T22:31:39Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 9.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [

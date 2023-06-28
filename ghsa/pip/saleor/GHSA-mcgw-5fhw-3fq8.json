@@ -38,7 +38,7 @@
     "PublishedAt": "2022-03-12T00:00:34Z",
     "Severity": "MODERATE",
     "Summary": "Incorrect Authorization in saleor",
-    "UpdatedAt": "2023-01-27T05:00:40Z",
+    "UpdatedAt": "2023-06-27T20:26:45Z",
     "WithdrawnAt": "",
     "CVSS": {
       "Score": 6.5,
