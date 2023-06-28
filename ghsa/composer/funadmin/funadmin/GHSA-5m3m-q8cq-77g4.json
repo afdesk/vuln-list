@@ -1,5 +1,5 @@
 {
-  "Severity": "MODERATE",
+  "Severity": "CRITICAL",
   "UpdatedAt": "2023-06-22T20:01:32Z",
   "Package": {
     "Ecosystem": "COMPOSER",
@@ -33,13 +33,13 @@
     "Description": "funadmin v3.3.2 and v3.3.3 are vulnerable to insecure file upload via the plugins install.",
     "Origin": "UNSPECIFIED",
     "PublishedAt": "2023-06-22T15:30:24Z",
-    "Severity": "MODERATE",
+    "Severity": "CRITICAL",
     "Summary": "fuadmin vulnerable to insecure file upload",
-    "UpdatedAt": "2023-06-22T20:01:32Z",
+    "UpdatedAt": "2023-06-28T16:32:06Z",
     "WithdrawnAt": "",
     "CVSS": {
-      "Score": 0,
-      "VectorString": ""
+      "Score": 9.8,
+      "VectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"
     }
   },
   "Versions": [
