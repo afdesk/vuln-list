@@ -1490,7 +1490,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13720000",
       "Version": "0",
       "Object": {
@@ -1502,7 +1502,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13719000",
       "Version": "0",
       "Object": {
@@ -1514,7 +1514,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:13718000",
       "Version": "0",
       "Object": {
@@ -4886,7 +4886,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11156000",
       "Version": "0",
       "Object": {
@@ -4898,7 +4898,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11155000",
       "Version": "0",
       "Object": {
@@ -4910,7 +4910,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:11154000",
       "Version": "0",
       "Object": {
@@ -5666,7 +5666,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:10873000",
       "Version": "0",
       "Object": {
@@ -20522,7 +20522,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:3677000",
       "Version": "0",
       "Object": {
@@ -20534,7 +20534,7 @@
     },
     {
       "Check": "at least one",
-      "Comment": "Package golang is installed with version 1.18.8-2 or earlier",
+      "Comment": "Package golang is installed with version 1.17.13-2 or earlier",
       "ID": "oval:com.microsoft.cbl-mariner:tst:3676000",
       "Version": "0",
       "Object": {
