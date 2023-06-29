@@ -2325,71 +2325,6 @@
       "bash-completion, dbus-daemon, debhelper-compat (= 13), dh-apparmor, dh-sequence-cruft, dh-sequence-python3, imagemagick, inkscape (\u003e= 1.0~), meson (\u003e= 0.56.0), pyflakes3, python3:any, python3-debian, python3-yaml:any, xmlstarlet, zip"
     ],
     "Checksums-Sha256": [
-      "08d7bc6a47717ec7e61144eccc2246af22d14eca8f52a625338ecb2904eb0bef 2985 game-data-packager_74.dsc fd2ac589cd526295594359e7c21ccbc6338ebbda96833cb9117d84636ff8caa2 7241328 game-data-packager_74.tar.xz"
-    ],
-    "Dgit": [
-      "23c0a73b16a042a6a2ce0f673f24b14619f22630 debian archive/debian/74 https://git.dgit.debian.org/game-data-packager"
-    ],
-    "Directory": [
-      "pool/contrib/g/game-data-packager"
-    ],
-    "Files": [
-      "83d3ad9d37e1191bf2895bd61cbb0e88 2985 game-data-packager_74.dsc e81c09caac2ce43a309e5d989053cee8 7241328 game-data-packager_74.tar.xz"
-    ],
-    "Format": [
-      "3.0 (native)"
-    ],
-    "Homepage": [
-      "https://wiki.debian.org/Games/GameDataPackager"
-    ],
-    "Maintainer": [
-      "Debian Games Team \u003cpkg-games-devel@lists.alioth.debian.org\u003e"
-    ],
-    "Package": [
-      "game-data-packager"
-    ],
-    "Package-List": [
-      "etqw deb contrib/games optional arch=i386 etqw-server deb contrib/games optional arch=i386 game-data-packager deb contrib/games optional arch=all game-data-packager-runtime deb contrib/games optional arch=all quake deb contrib/games optional arch=all quake-server deb contrib/games optional arch=all quake2 deb contrib/games optional arch=all quake2-server deb contrib/games optional arch=all quake3 deb contrib/games optional arch=all quake3-server deb contrib/games optional arch=all quake4 deb contrib/games optional arch=i386 quake4-server deb contrib/games optional arch=i386"
-    ],
-    "Priority": [
-      "source"
-    ],
-    "Section": [
-      "contrib/games"
-    ],
-    "Standards-Version": [
-      "4.6.2"
-    ],
-    "Testsuite": [
-      "autopkgtest"
-    ],
-    "Testsuite-Triggers": [
-      "@builddeps@, pkexec, policykit-1, python3-gi, sudo, zip"
-    ],
-    "Uploaders": [
-      "Alexandre Detiste \u003calexandre.detiste@gmail.com\u003e, David Banks \u003camoebae@gmail.com\u003e, Jack Coulter \u003cjscinoz@gmail.com\u003e, Jonathan Dowland \u003cjmtd@debian.org\u003e, Simon McVittie \u003csmcv@debian.org\u003e,"
-    ],
-    "Vcs-Browser": [
-      "https://salsa.debian.org/games-team/game-data-packager"
-    ],
-    "Vcs-Git": [
-      "https://salsa.debian.org/games-team/game-data-packager.git"
-    ],
-    "Version": [
-      "74"
-    ]
-  },
-  {
-    "Architecture": [
-      "all i386"
-    ],
-    "Binary": [
-      "game-data-packager, etqw, etqw-server, game-data-packager-runtime, quake, quake-server, quake2, quake2-server, quake3, quake3-server, quake4, quake4-server"
-    ],
-    "Build-Depends": [
-      "bash-completion, dbus-daemon, debhelper-compat (= 13), dh-apparmor, dh-sequence-cruft, dh-sequence-python3, imagemagick, inkscape (\u003e= 1.0~), meson (\u003e= 0.56.0), pyflakes3, python3:any, python3-debian, python3-yaml:any, xmlstarlet, zip"
-    ],
-    "Checksums-Sha256": [
       "aa02f065f7bd7c74aff42c3525a341378596a1c46fb7b21d50e1513eea177b0b 2985 game-data-packager_75.dsc 3cae191472a2d1c6a5db2a46fba0565b0aaa484cc4f903da4607a2e0dd1da183 7235140 game-data-packager_75.tar.xz"
     ],
     "Dgit": [
@@ -7867,22 +7802,22 @@
       "ruby-spamcheck"
     ],
     "Build-Depends": [
-      "debhelper-compat (= 13), gem2deb (\u003e= 1), ruby-grpc (\u003e= 1.0~), ruby-grpc-tools"
+      "debhelper-compat (= 13), gem2deb (\u003e= 2.1~), ruby-grpc (\u003e= 1.0~), ruby-grpc-tools"
     ],
     "Checksums-Sha256": [
-      "60b59d6c2a97d7db824ce13be4aae2d8e16a948db68d9cafa85e8f7dd96acbf8 2293 ruby-spamcheck_1.0.0+git20220819.662e6bf-2.dsc d18b299b582eba478c1c07d3b0e175e9c71544a95edd97975392c4a06304c477 180572 ruby-spamcheck_1.0.0+git20220819.662e6bf.orig.tar.xz 6349f1186fc9dd329c06c487b1ea0f461d24f30da1196c1548471d5c8739c896 2880 ruby-spamcheck_1.0.0+git20220819.662e6bf-2.debian.tar.xz"
+      "caba9b8c52bbf0961d539e7895c6f5c51113894f8b523154e690a2eb22a61cff 2137 ruby-spamcheck_1.4.1-2.dsc 84e42c78aae8511f2f2e60926138ed19204e574efca0180fa369c1eab185a1c9 250267 ruby-spamcheck_1.4.1.orig.tar.gz eaac5123e65a4f24f8f6bcd8fc281c84d5788e6a72e2d8188fe5723e70466d18 2968 ruby-spamcheck_1.4.1-2.debian.tar.xz"
     ],
     "Directory": [
       "pool/contrib/r/ruby-spamcheck"
     ],
     "Files": [
-      "2d47384cb68c98f4e9c04fddde5f1517 2293 ruby-spamcheck_1.0.0+git20220819.662e6bf-2.dsc 55eba58345b348ab26cfcd0575d86a3b 180572 ruby-spamcheck_1.0.0+git20220819.662e6bf.orig.tar.xz 86f32173ec46fe953327308fd0558fd2 2880 ruby-spamcheck_1.0.0+git20220819.662e6bf-2.debian.tar.xz"
+      "4a3e6617b1f0796505b8b1b2d8f9d045 2137 ruby-spamcheck_1.4.1-2.dsc fb9331e951b98a0c560ebf7acff690a6 250267 ruby-spamcheck_1.4.1.orig.tar.gz f72dbbaa38a5e5501d10fe53654ef0b7 2968 ruby-spamcheck_1.4.1-2.debian.tar.xz"
     ],
     "Format": [
       "3.0 (quilt)"
     ],
     "Homepage": [
-      "https://gitlab.com/gitlab-org/gl-security/engineering-and-research/automation-team/spam/spamcheck"
+      "https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/spam/spamcheck"
     ],
     "Maintainer": [
       "Debian Ruby Team \u003cpkg-ruby-extras-maintainers@lists.alioth.debian.org\u003e"
@@ -7895,9 +7830,6 @@
     ],
     "Priority": [
       "extra"
-    ],
-    "Ruby-Versions": [
-      "all"
     ],
     "Section": [
       "contrib/misc"
@@ -7918,7 +7850,7 @@
       "https://salsa.debian.org/ruby-team/ruby-spamcheck.git"
     ],
     "Version": [
-      "1.0.0+git20220819.662e6bf-2"
+      "1.4.1-2"
     ]
   },
   {
