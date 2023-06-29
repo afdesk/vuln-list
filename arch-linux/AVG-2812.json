@@ -1,8 +1,8 @@
 {
   "name": "AVG-2812",
   "packages": [
-    "poppler",
     "poppler-glib",
+    "poppler",
     "poppler-qt6",
     "poppler-qt5"
   ],
