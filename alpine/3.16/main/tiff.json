@@ -105,6 +105,9 @@
       "CVE-2022-2520",
       "CVE-2022-2521",
       "CVE-2022-34526"
+    ],
+    "4.4.0-r4": [
+      "CVE-2023-3316"
     ]
   },
   "apkurl": "{{urlprefix}}/{{distroversion}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
