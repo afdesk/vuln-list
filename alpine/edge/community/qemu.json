@@ -98,6 +98,9 @@
     ],
     "8.0.0-r6": [
       "CVE-2023-0330"
+    ],
+    "8.0.2-r1": [
+      "CVE-2023-2861"
     ]
   },
   "apkurl": "{{urlprefix}}/{{distroversion}}/{{reponame}}/{{arch}}/{{pkg.name}}-{{pkg.ver}}.apk",
